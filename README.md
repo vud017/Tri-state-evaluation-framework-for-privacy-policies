@@ -27,7 +27,7 @@ my_master_scripts/
 │   ├── human_comparison_out/             # Model vs. human comparison outputs
 │   └── output_csv/                       # CSV exports of results
 │
-├── .env                                  # API key — not committed
+├── .env                                  # API key - not committed
 ├── .gitignore
 └── README.md
 ```
@@ -106,8 +106,8 @@ python scripts/multi_step_policies_9.py
 
 Results are saved to `results/{RUN_ID}/{model_name}/`. Each policy produces two files:
 
-- `{policy_name}.json` — the structured annotation output
-- `{policy_name}_meta.json` — reproducibility metadata including model name, temperature, timestamp, and SHA-256 hashes of the policy text and prompt components
+- `{policy_name}.json` - the structured annotation output
+- `{policy_name}_meta.json` - reproducibility metadata including model name, temperature, timestamp, and SHA-256 hashes of the policy text and prompt components
 
 If a policy fails to process, an error file is written and the pipeline continues with the remaining policies.
 
