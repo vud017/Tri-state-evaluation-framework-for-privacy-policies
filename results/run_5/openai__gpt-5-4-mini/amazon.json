@@ -1,0 +1,180 @@
+{
+  "organization_name": "Amazon.com",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "Amazon services",
+    "Amazon stores",
+    "Amazon website",
+    "physical locations",
+    "devices",
+    "applications",
+    "Alexa",
+    "Echo devices",
+    "Alexa app",
+    "Amazon Music",
+    "Prime Photos",
+    "Amazon Drive",
+    "Prime Video",
+    "Seller Central",
+    "Kindle Direct Publishing",
+    "Developer Services Portal"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy discusses voice recordings, images, videos, and other information, but it does not describe concrete limits showing that biometric data is only collected when necessary. It also does not specifically identify biometric data collection at all."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy section does not mention collecting health data at all, so it provides no concrete limits or necessity justification for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "This section does not describe any health data processing. On the provided text, there is no stated collection, storage, sharing, or retention risk specific to health data."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy section does not explicitly describe collecting physiological data or set concrete limits on any such collection. It contains no data-specific necessity explanation for physiological data."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.\"",
+        "purpose": "The policy says this technology is used to gather information about activity in the store and the products and services the customer interacts with.",
+        "legal_basis": "consenting to the practices described in this Privacy Notice"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection in physical stores using cameras, computer vision, sensors, and other technology. It does not set concrete limits on what physical data is collected or explain why each type is necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy indicates that Amazon physical stores may use cameras, computer vision, sensors, and other technology to gather information about in-store activity. This creates a risk of broad physical-data collection in retail environments, but the section does not describe storage, sharing, or deletion for this category."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.\"",
+        "purpose": "The policy says this information is collected to provide and continually improve Amazon products and services, including analyzing interactions with products, content, and services.",
+        "legal_basis": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of information about use, interaction, content downloads, streams, playback details, clickstream data, page interaction information, and purchase and content use history. It does not set concrete limits showing that only necessary behavioral data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "\"Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.\"",
+        "purpose": "The policy indicates the behavioral information is stored after collection to support Amazon Services and related processing."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "\"You can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.\"",
+        "inactivity": "true",
+        "policy_snippet_inactivity": "\"If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat.\""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include ... analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments...\"",
+        "purpose": "Behavioral information can be disclosed to third-party service providers so they can perform functions on Amazon's behalf, including analyzing data and providing marketing assistance.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy describes extensive collection of behavioral information about browsing, usage, interactions, clickstream activity, purchases, and content use. It also allows sharing with third-party service providers and includes retention of certain interaction data for service improvement and personalization, which increases profiling and exposure risks."
+    }
+  }
+}

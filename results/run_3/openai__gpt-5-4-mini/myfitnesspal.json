@@ -1,0 +1,170 @@
+{
+  "organization_name": "MyFitnessPal, Inc.",
+  "policy_date": "March 18, 2025",
+  "products_covered": [
+    "Site",
+    "Mobile App",
+    "Services",
+    "MyFitnessPal Privacy Request Center",
+    "Privacy Center tab under the \"More\" menu",
+    "Cookie Preferences"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting biometric data at all, so it provides no category-specific limits or justification for necessity."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data may include sensitive personal information when the information indicates or allows someone to infer a health condition.",
+        "purpose": "The policy says this information is collected as part of Food and Activity Diary Data and is used to support the Services and related features.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy lists several kinds of health-related information that may be collected, but it does not give concrete limits showing that only necessary health data is collected. It also does not explain why each health-data element is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "The policy states that personal information is retained for as long as needed to fulfill the policy’s purposes and legal or reporting requirements.",
+        "legal_basis": ""
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If we become aware that an individual under 18 may have provided us with personal information, we will investigate and if applicable, take steps to remove the data and delete that individual’s account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We disclose personal information to the categories of recipients described below:\n\n    Our Service Providers. We may disclose your personal information to third parties that provide business, professional, or technical support services to us and/or perform functions on our behalf to provide the Services.",
+        "purpose": "The policy says personal information is disclosed to service providers and other recipients to provide the Services and perform supporting functions.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy states that health-related information may be included in Food and Activity Diary Data and may be collected with permission from connected health devices and health repositories. It also says personal information may be shared with third parties and transferred to the United States and other countries or regions."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data. Certain features of our Services allow you to voluntarily share information about your dietary habits and activities you engage in. This includes your:\n\n        Dietary habits;\n\n        Food, drink, and medications you consume (including as submitted via voice logging) and purchase (via our grocery integrations);\n\n        Calorie count;\n\n        Dietary restrictions;\n\n        Fitness level, activity, and goals (e.g. weekly goals or habits like eat more protein);\n\n        Lifestyle information (e.g., sleeping data);\n\n        Body measurements (e.g., height, weight, and BMI);\n\n        Information related to any physiological conditions;",
+        "purpose": "The information is collected to support the Services and to let users track dietary habits, activity, goals, and related condition information.",
+        "legal_basis": "",
+        "data_minimization": {
+          "adequate": "false",
+          "reasoning": "The policy lists a broad set of physiological-related data that may be shared through Food and Activity Diary Data, including sleeping data, body measurements, and information related to physiological conditions. It does not give concrete limits explaining why each item is necessary or narrowly bounded."
+        },
+        "stored": {
+          "detected": "true",
+          "policy_snippet": "How We Retain Your Information\n\nWe will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+          "purpose": "The personal information is kept for as long as needed to fulfill the policy purposes and legal or reporting requirements.",
+          "retention_policy": {
+            "deletion": "false",
+            "policy_snippet_deletion": "",
+            "inactivity": "false",
+            "policy_snippet_inactivity": ""
+          },
+          "shared": {
+            "detected": "true",
+            "policy_snippet": "We may disclose your personal information to third parties that provide business, professional, or technical support services to us and/or perform functions on our behalf to provide the Services. The services provided by these parties may include IT and website hosting, payment processing, market research, customer support (including our Support Center chatbot virtual agent), data storage, data analytics, auditing, and consulting and legal services.",
+            "purpose": "The information is shared with service providers that help provide the Services and related support functions.",
+            "legal_basis": "",
+            "third_country_sharing": "true"
+          },
+          "overall_privacy_risk_description": "The policy says physiological-related information can be included in Food and Activity Diary Data, which may also reveal a health condition. It also states this personal information may be retained as long as necessary and disclosed to third parties such as service providers, with international transfers possible."
+        }
+      }
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes your name, email address, general location information (country/zip code), profile image or photo (if you choose to provide one), username and password, date of birth, and sex.",
+        "purpose": "The policy says this information is collected as part of account and profile information for use with the Services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes collecting multiple physical-data items, including profile image or photo and general location information, but it does not provide concrete limits explaining why each physical-data type is necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to other MyFitnessPal users in the context of specific features that are social in nature as part of the Services. For example, we will display any personal information that you post or make available using the Services’ public-facing or interactive features, community forums, or discussion blogs.",
+        "purpose": "The policy says the information is disclosed in social features and public-facing interactive areas of the Services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy allows physical data such as profile photos and location information to be collected and disclosed through public-facing or social features. It also says personal information may be transferred to the United States and other countries or regions, which can increase exposure to different legal regimes."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This may include details about your browser, operating system, or device (such as your cookie identifiers, internet protocol (IP) address, ​​mobile advertising identifier, and other unique identifiers), internet service provider, mobile carrier, general location information (including inferred location based off of your IP address), actions that you take while using the Services, information about how you interact with the Services, including the frequency and duration of your activities, information about the links you click, and other information about how you use the Services.",
+        "purpose": "The policy says this information is collected to support use of the Services, including cookie-based purposes, targeted advertising, analytics, and improving the Services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of actions, interactions, frequency, duration, and links clicked, but does not provide concrete limits or justify why each behavioral data element is necessary. It therefore lacks meaningful data minimization detail."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Our Marketing and Advertising Partners. We may disclose your personal information, including device and browser information and activity and usage information, to our marketing and advertising partners, including social media platforms, third-party advertising networks, and other parties that assist us in serving, measuring the performance of, and optimizing our advertising campaigns.",
+        "purpose": "The policy says the information is disclosed to marketing and advertising partners to serve, measure, and optimize advertising campaigns.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The policy shows collection of detailed usage, interaction, and device-related behavioral information, including clicks, activity duration, and cross-device tracking. It also states that this information may be disclosed to marketing and advertising partners, which increases profiling and advertising-related privacy risk."
+    }
+  }
+}

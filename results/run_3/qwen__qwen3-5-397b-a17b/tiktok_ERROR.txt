@@ -1,0 +1,2 @@
+Error while assessing tiktok.txt:
+AttributeError("'NoneType' object has no attribute 'strip'")

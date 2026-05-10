@@ -1,0 +1,180 @@
+{
+  "organization_name": "Amazon.com and its affiliates (collectively \"Amazon\")",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon Services",
+    "Amazon stores",
+    "Amazon website",
+    "Amazon physical locations",
+    "Amazon devices",
+    "Amazon applications",
+    "Alexa",
+    "Echo Devices",
+    "Amazon Music",
+    "Prime Photos",
+    "Amazon Drive",
+    "Prime Video",
+    "Kindle Direct Publishing",
+    "Seller Central",
+    "App Store",
+    "Alexa skills",
+    "co-branded credit cards"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "The policy does not explicitly state the collection of biometric data."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection of biometric data."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please read our Additional State-Specific Privacy Disclosures and Consumer Health Data Privacy Disclosure for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws.",
+        "purpose": "The policy directs users to a separate disclosure for information on consumer health data processing, implying potential collection without explicit details in this text.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not explicitly mention health data collection or provide specific limits/justifications for health data, only referencing a separate disclosure."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy references a separate Consumer Health Data Privacy Disclosure, implying processing without providing specific details on collection, storage, or sharing in this text, creating transparency risks."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention the collection of physiological data, so no specific minimization limits or justifications for this category are described."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly state the collection of physiological data. Consequently, specific privacy risks for this category cannot be determined from the provided text, though a separate Consumer Health Data Privacy Disclosure is referenced."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "images and videos collected or stored in connection with Amazon Services;",
+        "purpose": "To provide and continually improve products and services, including voice, image and camera services.",
+        "legal_basis": "Consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical data such as location, images, and voice for general purposes like improving services without specifying concrete limits on the scope or necessity of the data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We receive and store any information you provide in relation to Amazon Services.",
+        "purpose": "To provide and continually improve products and services."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share customers' personal information only as described below and with subsidiaries Amazon.com, Inc. controls",
+        "purpose": "Fulfilling orders, delivering packages, providing marketing assistance, and other service functions.",
+        "legal_basis": "Consent",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Amazon collects extensive physical data including location, images, and voice recordings, which is stored and shared with third parties for service improvement and advertising. While deletion options exist for some data like voice recordings, the broad scope of collection and sharing presents privacy risks."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "To provide and continually improve our products and services, including recommendations, personalization, and advertising.",
+        "legal_basis": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states purposes for collection but does not explicitly claim to limit collection to only what is necessary, using broad terms like 'continually improve' without concrete limits on the scope of behavioral data gathered."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "To provide and continually improve our products and services."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.",
+        "inactivity": "ambiguous",
+        "policy_snippet_inactivity": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat."
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include ... analyzing data, providing marketing assistance... These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes.",
+        "purpose": "To perform functions on our behalf such as analyzing data and providing marketing assistance.",
+        "legal_basis": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Extensive automatic collection of browsing and interaction data occurs for personalization and advertising. Data is shared with third-party service providers for analysis and marketing, and international transfers occur under the EU-US Data Privacy Framework."
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "organization_name": "Amazon.com and its affiliates",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "Amazon services",
+    "Amazon stores",
+    "Amazon website",
+    "Amazon physical locations",
+    "Amazon devices",
+    "Amazon applications",
+    "Alexa Voice service",
+    "Echo devices",
+    "App Store",
+    "Prime Video",
+    "Prime Photos",
+    "Amazon Drive",
+    "Amazon Music",
+    "Kindle Direct Publishing",
+    "Author Central",
+    "Seller Central",
+    "Developer Services Program"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work. Similarly, if you delete the voice recordings Alexa used to create your voice ID",
+        "purpose": "Voice IDs are created from voice recordings to enable voice identification functionality within Alexa services, constituting biometric data processing for unique identification of individuals.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not describe concrete limits on what biometric data (voice IDs) is collected or provide clear justification for why each element is necessary. It broadly describes voice recording collection for service improvement, personalization, and machine learning training without specifying meaningful constraints on the scope of biometric data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "your text transcripts of those recordings and any typed requests will be retained for 30 days after your last interaction with Alexa in a given chat, after they will automatically be deleted. We retain those text transcripts and typed requests to allow you to review the requests you make to Alexa, and to improve your Alexa experience and our services.",
+        "purpose": "Voice recordings and derived biometric data (voice IDs) are stored to enable personalization, service improvement, and to allow users to review their interactions with Alexa."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings. If you choose not to save any voice recordings, we will automatically delete your voice recordings after we process your requests and automatically delete all existing voice recordings associated with your account",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "This training relies in part on supervised machine learning, an industry-standard practice where humans review an extremely small sample of your Alexa interactions to help Alexa understand how to interpret your requests correctly and provide appropriate responses.",
+        "purpose": "Human reviewers may access voice recordings as part of supervised machine learning processes, which could involve sharing biometric voice data with individuals or teams performing these reviews.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Amazon collects and stores biometric voice ID data derived from voice recordings, with retention periods that can extend up to 18 months unless users actively choose deletion settings. Even after deletion requests, the policy notes that systems trained on user data may continue to be retained and used, and that de-identified copies may not be deleted, posing a residual risk for biometric data. Human reviewers may access voice recordings for machine learning purposes, raising additional concerns about the scope of biometric data exposure."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data collection, so no data minimization measures specific to health data are described."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collection of physiological data, so no data minimization assessment can be made for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.",
+        "purpose": "Amazon collects physical data (images, videos, location, activity in stores) to gather information about customer activity in physical store locations, and also collects location data and images/videos through Amazon Services.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical data including location, images, videos, and in-store activity via cameras and sensors, without specifying concrete limits on what is collected or clear justifications for why each specific type of physical data is necessary. The language is general and does not meaningfully constrain the scope of collection."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information.",
+        "purpose": "Physical data such as images, videos, and location information is stored as part of Amazon's customer personal information, maintained with security safeguards."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, you may go to Data Privacy Queries.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders for products or services, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance... These third-party service providers have access to personal information needed to perform their functions.",
+        "purpose": "Physical data (including location, images, videos) may be shared with third-party service providers who perform functions on Amazon's behalf such as data analysis, marketing assistance, and other services.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Amazon collects extensive physical data including location information, images, videos, and in-store activity through cameras and sensors, with broad and vaguely defined purposes. The data is shared with third-party service providers without clear limits, and deletion rights are conditional on applicable law rather than guaranteed, creating significant privacy risks for users regarding how their physical presence and movements are tracked and used."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services... purchase and content use history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our websites, including date and time; products and content you viewed or searched for",
+        "purpose": "Amazon collects behavioral data such as browsing history, purchase history, content interaction, and clickstream data to provide, improve, and personalize Amazon Services, including recommendations and interest-based advertising.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad and extensive collection of behavioral data including full URL clickstreams, purchase and content use history, interaction logs, page response times, scrolling and click data, and content downloads without providing meaningful limits or specific justifications for why each type is necessary. The scope of collection appears expansive rather than minimal."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "Behavioral data is stored to enable Amazon to provide, improve, and personalize its services, including recommendations, advertising, and service performance analysis."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings... When you update information, we usually keep a copy of the prior version for our records.",
+        "inactivity": "true",
+        "policy_snippet_inactivity": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat."
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes... We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness.",
+        "purpose": "Behavioral data is shared with third-party service providers to fulfill operational functions and with advertising companies to serve relevant ads and measure their effectiveness.",
+        "legal_basis": "legitimate interest",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "Amazon collects extensive behavioral data including browsing history, purchase history, clickstream data, content interaction, and Alexa interaction logs, with broad sharing to third-party service providers and ad companies. While some deletion controls exist for Alexa interactions, other behavioral data lacks clear deletion timelines. De-identified data and data used to train machine learning models may be retained even after deletion requests, posing a significant residual privacy risk."
+    }
+  }
+}

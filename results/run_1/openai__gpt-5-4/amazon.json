@@ -1,0 +1,174 @@
+{
+  "organization_name": "Amazon.com and its affiliates (collectively \"Amazon\")",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "services",
+    "stores",
+    "website and physical locations",
+    "devices",
+    "applications that reference this Privacy Notice",
+    "Alexa and Echo devices",
+    "Alexa-enabled devices",
+    "Amazon Services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "purpose": "The snippet mentions \"voice IDs,\" which are biometric identifiers based on voice. However, it only appears in the context of deletion and functionality, not a clear statement that Amazon collects biometric data.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not provide concrete limits or necessity explanations specific to biometric data. It mentions \"voice IDs\" and related processing, but does not clearly describe minimization measures for biometric data collection."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "purpose": "The reference to deletion of \"voice IDs associated with your account\" suggests such data may be kept, but the policy does not explicitly describe storage or retention of biometric data in clear terms."
+      },
+      "retention_policy": {
+        "deletion": {
+          "detected": "true",
+          "policy_snippet_deletion": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work."
+        },
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy references \"voice IDs associated with your account\" and states they can be deleted, but it does not clearly explain whether biometric data is collected, how long it is retained, or whether it is shared. This lack of specificity creates uncertainty around the handling of biometric identifiers."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.",
+        "purpose": "This explicitly states Amazon uses voice input, images, and videos when users use voice, image, and camera services. The stated purposes are to respond to requests, provide the requested service, and improve services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical data such as voice input, images, videos, photographs, location information, and in-store images or videos, but it does not provide concrete limits showing that only the minimum necessary physical data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We receive and store any information you provide in relation to Amazon Services.",
+        "purpose": "This explicitly states that information provided by users is stored. The policy examples include physical data such as photographs, voice recordings, images, and videos."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "you can order products from third parties through our stores, download applications from third-party application providers from our App Store, and enable third-party skills through our Alexa services. We also offer services or sell product lines jointly with third-party businesses, such as co-branded credit cards. You can tell when a third party is involved in your transactions, and we share customers' personal information related to those transactions with that third party.",
+        "purpose": "The policy states that customers' personal information related to third-party transactions is shared with those third parties. However, it does not clearly specify which physical data types are included, so sharing of physical data is only ambiguous.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy states that Amazon collects physical data including voice input, images, videos, photographs, location information, and in-store images or videos for service delivery and improvement. It also indicates broad storage of provided information and ambiguous sharing of personal information in third-party transactions, while deletion details are only clearly provided for certain Alexa voice data."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "This explicitly states collection of information about how users interact with products, content, and services, which is behavioral data. The policy says Amazon collects it to provide and continually improve its products and services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of usage, interaction, browsing, content use, recommendations, and store activity data, but it does not provide concrete limits showing that only the minimum behavioral data necessary is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "This explicitly says the usage and interaction information is stored after collection."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.",
+        "inactivity": "true",
+        "policy_snippet_inactivity": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat."
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness.",
+        "purpose": "This explicitly states sharing with ad companies. The surrounding text explains the purpose is to serve more useful and relevant ads and measure ad effectiveness.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy describes extensive collection and storage of behavioral data such as interactions, browsing activity, usage metrics, clickstream data, and shopping activity. It also states that some of this information is shared with third parties such as ad companies and service providers, which increases profiling and disclosure risks."
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services",
+    "the Platform"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We also collect service-related, diagnostic, performance information, including crash reports and performance logs.",
+        "purpose": "The policy explicitly says it collects keystroke patterns or rhythms as part of Technical Information. Keystroke patterns or rhythms are behavioral/biometric-adjacent data, but the policy does not state they are used for identification.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not give concrete limits specific to biometric data or explain why any biometric-type data is necessary. It states broad collection of technical information, including keystroke patterns or rhythms, without a clear necessity justification."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy indicates collection of keystroke patterns or rhythms within technical information, which can raise sensitivity concerns because such data may reveal how a person types. However, the policy section provided does not state biometric data is used for identification, shared, or retained in a biometric-specific way."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"You can also port your TikTok data through TikTok’s Data Portability API.\"",
+        "purpose": "The policy states that users can port TikTok data through the Data Portability API, which indicates the policy contemplates user information being processed in a portable form. However, the section does not explicitly identify health data as a collected category.",
+        "legal_basis": "contractual necessity or consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not provide concrete limits specific to health data collection because it does not expressly address health data as a category. It describes broad collection of user information and does not state meaningful necessity limits for health data."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly identify health data as a collected or shared category, so the health-data-specific risk is not clearly stated. The main uncertainty is that broad categories of user information are processed, but the text does not make clear whether any health information is included."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting physiological data at all, so it provides no concrete limits or necessity rationale for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"We automatically collect information about your approximate location (e.g. country, state, or city) based on your Technical Information (such as SIM card and IP address). Also, where you enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device.\"",
+        "purpose": "The policy says location information is automatically collected and can also be collected from the device when location services are enabled.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical/location information, including approximate and precise location information, but does not set concrete limits on what physical data is collected or explain why each type is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "\"We store the information described in the “What Information We Collect” section in servers located in the United States, Malaysia and Singapore.\"",
+        "purpose": "The policy says the collected information is stored on servers in these locations."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "\"You can delete or ask us to delete your information.\"",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"Your information, including your Account Information, User Content, and Usage Information may be visible to other users and the public.\"",
+        "purpose": "The policy says this information may be visible to other users and the public, which means it can be shared or exposed to them.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data here mainly consists of location information, which the policy says can be collected approximately or precisely. It may also be visible to other users and the public depending on privacy settings, and the policy states it is stored on servers in the United States, Malaysia, and Singapore."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "The information is collected to understand engagement with the Platform and to support uses such as reviewing, improving, and developing the Platform, advertising, and analytics.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of engagement information, including interactions with content and ads, duration and frequency of use, engagement with other users, and search history. It does not give concrete limits showing that only necessary behavioral data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Platform, and enhancing its safety, security and stability), and for the exercise or defence of legal claims.",
+        "purpose": "The policy states behavioral information is retained to provide the Platform and for other stated purposes, including improvement, safety, security, and legal claims.",
+        "legal_basis": ""
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If you violate our Guidelines or Terms, we may remove Information You Provide including your Account Information and/or User Content from public view immediately but keep your information as is necessary to process the violation.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners whose platform or services are integrated with the Platform, or with whom we have a commercial relationship.",
+        "purpose": "The information is shared to give users a seamless experience, allow content sharing on other platforms, allow sellers to view and manage orders, and enable third parties to better authenticate users.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy discloses collection of detailed behavioral information such as interaction patterns, usage duration and frequency, and search history. It also says this information may be shared with third party platforms and partners and transferred outside the EEA, UK, or Switzerland, which increases privacy exposure."
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "images and other information from your device’s camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+        "purpose": "To provide the services, generate content, and personalize the user experience.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical data, including precise location, motion sensor data, and camera/photo content, for wide-ranging purposes like advertising and AI training, without defining concrete, meaningful limits on this collection."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "we store location information for different lengths of time based on how precise it is and which Services you use.",
+        "purpose": "To maintain features like Memories, Snap Map, and Spotlight, retaining location data as long as the associated Snap is stored."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "we may share your information with your friends on Snapchat or other Snapchatters. For example, the content you post to Stories, or your status as a premium subscriber, can be viewed by your Friends",
+        "purpose": "To allow users to communicate and share content with friends or the public on the platform.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The extensive collection of physical data, including precise GPS location, motion sensor data, and audio/video recordings, poses significant privacy risks. This sensitive data is used broadly for personalization, targeted advertising, and training machine learning models, and may be transferred internationally."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters)",
+        "purpose": "To better understand how the community uses the Services to make improvements, personalize the user experience, and provide relevant ads.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad and extensive collection of usage and interaction data for personalization, analytics, and advertising without setting concrete limits on the scope or volume of behavioral data gathered."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "purpose": "To provide the Services, fulfill user expectations, and comply with legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information, such as device and usage information, with industry partners working to prevent fraud.",
+        "purpose": "To prevent fraud.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy allows for extensive collection of behavioral data, including detailed app usage and interactions, which is used for profiling, personalization, and targeted advertising. The lack of specific retention limits and guaranteed deletion times for this data creates risks of long-term tracking and profiling."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "organization_name": "Amazon",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "Amazon services",
+    "Amazon stores",
+    "Amazon website",
+    "Amazon physical locations",
+    "Amazon devices",
+    "Amazon applications",
+    "Alexa",
+    "Echo Devices",
+    "Amazon Music",
+    "Prime Photos",
+    "Amazon Drive",
+    "Prime Video",
+    "Kindle Direct Publishing",
+    "App Store",
+    "Seller Central",
+    "Author Portal",
+    "Author Central",
+    "Developer Services Program"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "voice recordings Alexa used to create your voice ID",
+        "purpose": "To enable voice ID functionality and respond to requests.",
+        "legal_basis": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states information is collected to provide and improve services but lacks specific limits or justification for biometric-related data like Voice ID."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "voice IDs associated with your account",
+        "purpose": "To maintain voice ID functionality for the user's account."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy implies the collection of biometric data through 'Voice ID' features without explicitly labeling it as biometric, creating transparency risks. Deletion is available but often relies on user configuration rather than automatic default policies."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please read our Additional State-Specific Privacy Disclosures and Consumer Health Data Privacy Disclosure for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws.",
+        "purpose": "The policy indicates that health data processing is covered in a separate disclosure, implying potential collection without detailing it in this text.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify what health data is collected or provide justification for its necessity, relying instead on a separate disclosure."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy references a separate Consumer Health Data Privacy Disclosure, implying health data processing, but does not explicitly detail collection, storage, or sharing practices in this text, creating ambiguity about the scope and safeguards."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not explicitly mention collecting physiological data, so it does not provide specific limits or justifications for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Examples of information we collect or receive... your location information; ... personal description and photograph in Your Profile; images and videos collected or stored in connection with Amazon Services",
+        "purpose": "to provide and continually improve our products and services",
+        "legal_basis": "By using Amazon Services, you are consenting to the practices described in this Privacy Notice."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states data is collected to 'provide and continually improve our products and services' which is a broad justification without concrete limits on the volume or specific necessity of physical data like location or images."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We receive and store any information you provide in relation to Amazon Services.",
+        "purpose": "in relation to Amazon Services"
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share customers' personal information only as described below and with subsidiaries Amazon.com, Inc. controls... Transactions involving Third Parties: ... we share customers' personal information related to those transactions with that third party.",
+        "purpose": "Transactions involving Third Parties and Third-Party Service Providers",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Amazon explicitly collects physical data such as location, photographs, and videos, and stores this information. This data is shared with third-party service providers and subsidiaries, and cross-border transfer mechanisms (EU-US Framework) are in place, creating risks of broad exposure and international transfer without explicit user consent for each instance."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "to provide and continually improve our products and services",
+        "legal_basis": "Consent"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states a generic purpose for collection but does not describe concrete limits on the scope of behavioral data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services",
+        "purpose": "to provide and continually improve our products and services"
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf.",
+        "purpose": "to perform functions on our behalf",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Extensive behavioral data including interactions and browsing history is collected and stored. Data is shared with third-party service providers and transferred internationally under the EU-US Data Privacy Framework."
+    }
+  }
+}

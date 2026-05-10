@@ -1,0 +1,170 @@
+{
+  "organization_name": "Amazon",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "services",
+    "stores",
+    "website",
+    "physical locations",
+    "devices",
+    "applications"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "If you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work. Similarly, if you delete the voice recordings Alexa used to create your voice ID (by, for example, choosing to have your Alexa voice recordings deleted automatically after 3 or 18 months), voice ID may not work.",
+        "purpose": "To create a voice ID for user identification and personalization of Alexa services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy mentions the collection of voice IDs for identification but does not provide specific limits on the scope of biometric data collected or a detailed justification for why this specific biometric processing is necessary beyond general service improvement."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "If you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "purpose": "To maintain the voice ID for user identification and service personalization."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The primary risk involves the processing of unique voice identifiers for identification purposes. While users can delete voice recordings, the policy indicates that the deletion of underlying voice recordings results in the deletion of the voice ID, creating a dependency between biometric data and interaction history."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please read our Additional State-Specific Privacy Disclosures and Consumer Health Data Privacy Disclosure for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws.",
+        "purpose": "The policy references a separate 'Consumer Health Data Privacy Disclosure' for information regarding the processing of health data, implying its potential collection or processing without explicitly detailing it in this document.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy mentions that it collects information to provide and improve services, but it does not provide specific limits or justifications for health data, instead deferring to a separate disclosure document."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please read our Additional State-Specific Privacy Disclosures and Consumer Health Data Privacy Disclosure for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws.",
+        "purpose": "The policy refers to a separate disclosure for the processing of personal data, which may include storage, but does not explicitly confirm the storage of health data within this text."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly detail the collection, storage, or sharing of health data, instead directing users to a separate 'Consumer Health Data Privacy Disclosure,' which creates uncertainty regarding how such sensitive information is handled."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "You can also configure supported Echo devices to detect specific sounds, such as the sound of smoke alarms, carbon monoxide alarms, and glass breaking.",
+        "purpose": "To provide safety and security features such as emergency alerts.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that devices are configured to detect specific sounds for safety, but it does not provide concrete limits on the duration or scope of this monitoring beyond the user's configuration."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "When you request deletion, we begin the process of securely deleting your data from Amazon’s cloud storage systems.",
+        "purpose": "The policy implies storage in the cloud for processing and potential deletion, but does not explicitly state the duration or nature of storage for sound detection data specifically."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete certain data associated with your account. For instance, you can delete your voice recordings, text transcripts of those recordings, and typed requests to Alexa, as well as information Alexa receives from third-party smart home devices, using settings available in the Alexa app or at https://www.amazon.com/alexaprivacysettings.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We share customers' personal information related to those transactions with that third party.",
+        "purpose": "To facilitate transactions or services involving third parties.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The collection of environmental sound data via Echo devices poses a risk of continuous monitoring within the home. While users can configure these features, the policy lacks specific retention periods for this data, and sharing practices with third parties remain broad."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.",
+        "purpose": "To gather information about customer activity in physical stores, including product and service interactions.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states they collect information to provide and improve services, but does not provide specific limits or justifications for the scope of physical data collection beyond general operational purposes."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information.",
+        "purpose": "To maintain safeguards in connection with the collection and disclosure of customer personal information."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Amazon, our users, or others.",
+        "purpose": "To comply with the law, enforce agreements, or protect the rights, property, or safety of Amazon and others.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The collection of physical data via cameras and sensors in stores creates a risk of continuous monitoring of customer movements and behaviors. The policy lacks specific retention periods for this data, and sharing practices are broadly defined under safety and legal compliance, which may lead to data being shared with third parties or across borders without granular user control."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "To provide, troubleshoot, and improve Amazon Services, and to personalize the user experience.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states they collect information to improve services but does not provide specific limits on the scope of behavioral data collected, using broad language regarding the types of interactions tracked."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services",
+        "purpose": "To provide, troubleshoot, and improve Amazon Services, and to personalize the user experience."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "When you update information, we usually keep a copy of the prior version for our records.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. ... While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf",
+        "purpose": "To serve relevant ads and measure advertising effectiveness.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Amazon collects extensive behavioral data regarding user interactions with products and services. While they claim not to share specific shopping actions with ad companies, they share advertising identifiers and value estimates, creating a risk of profiling and tracking across services."
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "organization_name": "MyFitnessPal, Inc.",
+  "policy_date": "March 18, 2025",
+  "products_covered": [
+    "MyFitnessPal Site",
+    "MyFitnessPal Mobile App",
+    "MyFitnessPal Services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data collection, so there are no data minimization measures described for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection, storage, or sharing of biometric data as defined (e.g., facial recognition templates, fingerprint templates, voiceprints used for identification). While the policy mentions progress photos and voice logging, these are not described as being processed through specific technical processing to uniquely identify individuals, so they do not meet the biometric data definition. No specific privacy risks related to biometric data can be identified from this policy."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data may include sensitive personal information when the information indicates or allows someone to infer a health condition.",
+        "purpose": "The policy explicitly acknowledges that health-related data is collected as part of Food and Activity Diary Data, which includes dietary habits, medications consumed, fitness level, body measurements, information related to physiological conditions, and lifestyle information such as sleeping data. This data is collected to provide the Services, personalize content, and support users' health and fitness goals.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that Food and Activity Diary Data is 'voluntarily' shared by users, which suggests some user control. However, the range of health-related data collected is very broad (dietary habits, medications, physiological conditions, body measurements, lifestyle information, progress photos, notes) and the policy does not provide concrete limits or justifications for why each specific type of health data is necessary. The policy also collects health data from connected devices and third-party health repositories like HealthKit and Google Health Connect, further broadening the scope."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "The policy describes a general retention approach for all personal information, which would include health data. Storage is implied by the retention policy but no specific storage practices for health data are detailed."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information; the potential risk of harm from unauthorized use or disclosure of the personal information; the purposes for which we use the personal information; whether we can achieve the purposes through other means; and the applicable legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information, including device and browser information and activity and usage information, to our marketing and advertising partners, including social media platforms, third-party advertising networks, and other parties that assist us in serving, measuring the performance of, and optimizing our advertising campaigns.",
+        "purpose": "Personal information, which may include health data, is shared with business partners, service providers, marketing and advertising partners, analytics providers, research partners, and other third parties for purposes including providing services, marketing, advertising, analytics, and research. However, the policy notes that data from HealthKit, Google Health Connect, and Samsung Health is not shared for marketing and advertising.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects a broad range of health-related data including dietary habits, medications, physiological conditions, body measurements, and data from connected health devices. The policy explicitly acknowledges this data may constitute sensitive personal information. Health data may be shared with marketing and advertising partners (except data sourced from HealthKit, Google Health Connect, and Samsung Health), and is transferred internationally to the United States and other countries. The retention policy lacks specific deletion timelines for health data, and no automatic inactivity-based deletion is mentioned, creating risks of prolonged retention of sensitive health information."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Information related to any physiological conditions; ... Body measurements (e.g., height, weight, and BMI); ... Lifestyle information (e.g., sleeping data); ... Certain connected devices, such as heart rate monitors, Continuous Glucose Monitoring devices, activity trackers, exercise equipment, scales, and/or wearables, that integrate with the Services, may allow us to collect Food and Activity Diary Data with your permission.",
+        "purpose": "MyFitnessPal collects physiological data such as sleeping data, body measurements, heart rate from connected monitors, continuous glucose monitoring data, and information related to physiological conditions as part of its Food and Activity Diary Data to support users' health and fitness goals.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy describes a broad range of physiological data that can be collected (sleeping data, heart rate, glucose monitoring, body measurements, physiological conditions, etc.) and notes some data is collected 'with your permission' or 'voluntarily.' However, there are no concrete limits on what physiological data is necessary, and the scope of collection is very wide. The policy lacks specific justification for why each type of physiological data is required."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "The policy implies storage of all personal information, including physiological data, for as long as necessary to fulfill the stated purposes, but does not explicitly mention storage of physiological data specifically."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information; the potential risk of harm from unauthorized use or disclosure of the personal information; the purposes for which we use the personal information; whether we can achieve the purposes through other means; and the applicable legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to third parties that provide business, professional, or technical support services to us and/or perform functions on our behalf to provide the Services. ... We may disclose your personal information, including device and browser information and activity and usage information, to our marketing and advertising partners",
+        "purpose": "Personal information, which includes physiological data as part of Food and Activity Diary Data, may be disclosed to service providers, business partners, marketing and advertising partners, analytics providers, and research partners for purposes including providing services, advertising, analytics, and research. However, data from HealthKit, Google Health Connect, and Samsung Health is explicitly not shared for marketing and advertising.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects extensive physiological data including heart rate, glucose monitoring, sleep data, body measurements, and physiological conditions. This sensitive data may be shared with marketing and advertising partners (except data from HealthKit/Google Health Connect/Samsung Health), and is transferred internationally to the United States and other countries. The retention policy lacks specific timelines for deletion, and there is no automatic inactivity-based deletion mechanism described, creating risks of prolonged retention of sensitive physiological information."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Body measurements (e.g., height, weight, and BMI); Progress photos you may choose to provide;",
+        "purpose": "Collected as part of Food and Activity Diary Data to support users' health and fitness goals, track progress, and personalize the service.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that body measurements and progress photos are voluntarily shared, suggesting some user control. However, the policy uses broad language like 'we may collect' and lists extensive categories of data without clearly justifying why each specific type of physical data is necessary. The phrase 'Other information you might choose to submit' further broadens the scope without clear limits."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "Personal information, which includes physical data such as body measurements and photos, is retained to fulfill the purposes outlined in the policy including providing services and satisfying legal requirements."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Right to Deletion. The right to request that we delete your personal information (subject to certain exceptions prescribed by applicable law).",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to other MyFitnessPal users in the context of specific features that are social in nature as part of the Services. For example, we will display any personal information that you post or make available using the Services' public-facing or interactive features, community forums, or discussion blogs.",
+        "purpose": "Physical data may be shared with other users through social features, with service providers for technical support and data storage, with marketing and advertising partners, analytics providers, research partners, and business partners as described in the policy.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data such as body measurements (height, weight, BMI) and progress photos are collected and may be shared with a broad range of third parties including marketing and advertising partners, analytics providers, and research partners. The policy explicitly states that personal information may be transferred to the United States and other countries with different data protection laws. Retention periods are vaguely defined as 'as long as necessary,' and deletion is only available upon user request subject to exceptions, with no automatic inactivity-based deletion mentioned."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "MyFitnessPal may collect Usage and Device Data. This may include details about your browser, operating system, or device (such as your cookie identifiers, internet protocol (IP) address, ​​mobile advertising identifier, and other unique identifiers), internet service provider, mobile carrier, general location information (including inferred location based off of your IP address), actions that you take while using the Services, information about how you interact with the Services, including the frequency and duration of your activities, information about the links you click, and other information about how you use the Services.",
+        "purpose": "MyFitnessPal collects behavioral data such as actions taken while using the Services, interaction frequency and duration, links clicked, and other usage information to enhance user experience, analyze usage, serve targeted advertising, and improve Services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad and extensive collection of behavioral data including all actions taken, frequency and duration of activities, links clicked, and 'other information about how you use the Services.' There are no concrete limits or justifications for why each specific type of behavioral data is necessary. The use of 'may collect' and open-ended categories like 'other information' suggests unlimited collection scope."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "The policy states personal information is retained as long as necessary to fulfill the purposes outlined in the policy, which implies behavioral data is stored, but no specific storage details for behavioral data are provided."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information; the potential risk of harm from unauthorized use or disclosure of the personal information; the purposes for which we use the personal information; whether we can achieve the purposes through other means; and the applicable legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information, including device and browser information and activity and usage information, to our marketing and advertising partners, including social media platforms, third-party advertising networks, and other parties that assist us in serving, measuring the performance of, and optimizing our advertising campaigns.",
+        "purpose": "Behavioral data (activity and usage information) is shared with marketing and advertising partners, analytics providers, and other third parties for targeted advertising, analytics, measuring ad performance, and optimizing advertising campaigns.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects extensive behavioral data including all user actions, interaction frequency and duration, and link clicks, with no clear limits on scope. This data is shared with marketing and advertising partners and analytics providers, and may be transferred internationally to the United States and other countries. The retention period is vaguely defined as 'as long as necessary,' and certain uses of cookies for targeted advertising may constitute 'sales' or 'sharing' under applicable privacy laws, posing significant privacy risks to users."
+    }
+  }
+}

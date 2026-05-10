@@ -1,0 +1,165 @@
+{
+  "organization_name": "MyFitnessPal, Inc.",
+  "policy_date": "March 18, 2025",
+  "products_covered": [
+    "Site",
+    "Mobile App"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits or justifications for collecting biometric data, as it does not explicitly mention biometric data collection at all."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data may include sensitive personal information when the information indicates or allows someone to infer a health condition.",
+        "purpose": "To provide Services, show relevant ads, and improve Service quality.",
+        "legal_basis": "Legitimate interest"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits on health data collection, only general statements about collecting 'information related to physiological conditions' without justification for necessity."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "To fulfill purposes outlined in the Policy and satisfy legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with service providers, business partners, and other third parties to provide you with our Services. We also share your information with marketing and advertising partners to show you relevant content and advertising.",
+        "purpose": "To provide Services, show relevant ads, and improve Service quality.",
+        "legal_basis": "Legitimate interest",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Health data is collected, stored, and shared with third parties, including international transfers, increasing the risk of unauthorized access or misuse of sensitive health information."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data may include sensitive personal information when the information indicates or allows someone to infer a health condition. ... Information related to any physiological conditions;",
+        "purpose": "To provide Services, support health goals, and analyze user activity.",
+        "legal_basis": "Legitimate interest and contract performance."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy mentions collecting 'information related to physiological conditions' and 'sleeping data' but lacks specific limits on what data is collected for physiological purposes."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "To fulfill service purposes and legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "If we de-identify information, we will maintain and use the information in de-identified form and not attempt to re-identify the information except as required or permitted by law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with service providers, business partners, and other third parties to provide you with our Services. ... We also share your information with marketing and advertising partners to show you relevant content and advertising.",
+        "purpose": "To provide Services, enable marketing, and operate third-party partnerships.",
+        "legal_basis": "Legitimate interest and contract performance.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physiological data is collected and stored with indefinite retention unless legally required to delete, shared with third parties and international entities, and lacks explicit safeguards against misuse or unauthorized access."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Body measurements (e.g., height, weight, and BMI);",
+        "purpose": "to provide our Services",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits on the collection of physical data, merely listing examples of data collected without indicating that only necessary data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "to fulfill the purposes outlined in this Policy"
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We may disclose your personal information to our service providers, business partners, and other third parties to provide you with our Services.",
+        "purpose": "to provide our Services",
+        "legal_basis": "legitimate interest",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The collection of physical data such as height and weight raises privacy risks if not properly secured, especially given potential sharing with third parties and international transfers."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Usage and Device Data. This may include details about your browser, operating system, or device... actions that you take while using the Services, information about how you interact with the Services, including the frequency and duration of your activities...",
+        "purpose": "To provide and improve Services, analyze usage, and enable cross-device tracking.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits on data collection or justify why specific behavioral data is necessary beyond general statements about providing Services."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "To fulfill the purposes outlined in the Policy and comply with legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to our marketing and advertising partners, including social media platforms, third-party advertising networks, and other parties that assist us in serving, measuring the performance of, and optimizing our advertising campaigns.",
+        "purpose": "To provide targeted advertising and marketing content.",
+        "legal_basis": "Legitimate interest and contract performance.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data collected through usage patterns and interactions may enable targeted advertising and profiling, posing risks of unauthorized tracking and data misuse, particularly due to cross-border data transfers."
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "2026-02-11 00:00:00",
+  "products_covered": [
+    "Services: TikTok apps",
+    "websites",
+    "software",
+    "and related services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We may collect biometric identifiers and biometric information as defined under US laws, such as faceprints and voiceprints, from your user content. Where required by law, we will seek any required permissions from you prior to any such collection. Click here to learn more.",
+        "purpose": "The link behind click here is broken, and it is not clear whether GDPR requirements are respected as article 9 by default prohibits the collection of such information. The collection of such data from user content makes it questionable whether this is based on informed consent and how GDPR complaince is fulfilled. The categories explicity mentioned that could faciliatet identification are: keystroke patterns or rhythms, aceprints and voiceprints.",
+        "legal_basis": "False"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "As biometric data is specifically mentioned as a type of data that is automatically collected, this raises major concern as this should not be enabled by default, and users should specifically opt-in if they want to allow this."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.",
+        "purpose": "It is unclear where and how biometric identifiers are stored. It is also unclear what is the purpose of this data, why data that facilitates user identification is necessary."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information. For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+        "purpose": "The three main categories of information collected are: Information You Provide, Automatically Collected Information, and Information From Other Sources. These are shared in various scenarios for example for marketing and advertising all of them are shared. Similarly Sellers and their service providers can also receive all of these.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "Privacy risks are extremely high, there are several major red flags such as automatic collection of biometric identifiers. There is a lack of justification why this is necessary and what legal basis is provided under EU law. Even more concerning, there is no specific safeguard specified under the \"Children and Teens\" section stating that individuals under 18 are at least excempt from this automatic collection."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "The type of information that state privacy laws, such as the CCPA, have identified as sensitive personal information include the following: racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information. We may collect information from and about you, including information that you provide, automatically collected information, and information from other sources. Information about your physical and mental health conditions that you or others choose to provide in the content that you create or upload through the Services. For example, you or others may provide such information if you compose, send, or receive messages through the Services’ messaging functionalities, create or post non-public user content discussing a recent illness, or search for information about an illness or condition through the Services’ search function. Other information that may be used to infer or derive consumer health data.",
+        "purpose": "Data collection related to health data is also detailed in a spearata tab: https://www.tiktok.com/legal/page/global/us-consumer-health-data/en. Health data collection seems extremely invasiave and extensive, while the justification and purpose of collection remains extremely shallow: \"We may use consumer health data to operate the Services, including to improve, support and administer the Services, and fulfill and enforce our Terms of Service. We may also use your consumer health data otherwise with your consent or in accordance with applicable law.\"",
+        "legal_basis": "False"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "What is described here it the opposite of data minimisation."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.",
+        "purpose": "It is not clear why this extensive collection is necessary, and article 9 of the GDPR is not mentioned or discussed."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information. For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information. You may submit a request to know, access, correct, or delete the information we have collected about you at https://www.tiktok.com/legal/report/privacy. You may also submit a request to appeal any decision we have made about your request through this same method.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. We may share Information We Collect with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy. We may share Information We Collect in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy. We may share Information We Collect to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose Information We Collect to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public. We may share certain of your information with qualifying researchers to facilitate independent research. We may share your information for other purposes pursuant to your consent or at your direction. For example, we may facilitate the sending of marketing communications to you by sellers, such as by sharing your email address. Subject to applicable laws, we may share personal information, which may include each of the categories of consumer health data as described above, as reasonably necessary to provide you the Services in the following manner: Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+        "purpose": "The three main categories of information collected are: Information You Provide, Automatically Collected Information, and Information From Other Sources. These are shared in various scenarios for example for marketing and advertising all of them are shared. Similarly Sellers and their service providers can also receive all of these.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "This policy describes an extremely privacy invasive data collection and processing phenomenon: from content uploaded, or shared in private messages in the chat health data is automatically harvested. This includes recent illness, or search for information about an illness or condition, mental and physical health. All this data is also shared for various ambigous reasons including with service providers and affiliates. The privacy risks for both individuals and groups are immense.  The health policy describes the collection of \"Location information, including approximate or precise location information, that could identify your attempt to seek healthcare services or supplies.\" This means that health conditions of individuals and groups of people can be monitored regionally. This policy describes a severly violation of peronal privacy and directly opposes the data minimisation principle."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "The type of information that state privacy laws, such as the CCPA, have identified as sensitive personal information include the following: racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information. We may collect information from and about you, including information that you provide, automatically collected information, and information from other sources. Information about your physical and mental health conditions that you or others choose to provide in the content that you create or upload through the Services. For example, you or others may provide such information if you compose, send, or receive messages through the Services’ messaging functionalities, create or post non-public user content discussing a recent illness, or search for information about an illness or condition through the Services’ search function. Other information that may be used to infer or derive consumer health data.",
+        "purpose": "As a consequence of the extensive and invasive health data collection, physiological data will also be collected. This includes health data categories such as mental health, sexual life or sexual orientation, status as transgender or nonbinary. This type of data collection is explicitly prohibited under article 9.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "What is described here it the opposite of data minimisation."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.",
+        "purpose": "Described under \"How We Use Your Information\". The stored data is further processed to extract additiona information for example: \"To infer additional information about you, such as your age, gender, and interests.\""
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information. For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. We may share Information We Collect with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy. We may share Information We Collect in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy. We may share Information We Collect to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose Information We Collect to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public. We may share certain of your information with qualifying researchers to facilitate independent research. We may share your information for other purposes pursuant to your consent or at your direction. For example, we may facilitate the sending of marketing communications to you by sellers, such as by sharing your email address. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+        "purpose": "The three main categories of information collected are: Information You Provide, Automatically Collected Information, and Information From Other Sources. These are shared in various scenarios for example for marketing and advertising all of them are shared. Similarly Sellers and their service providers can also receive all of these. It is not clear which collected physiological data types are shared.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "Extremely high privacy risks. Data categories are collected that are specifically phohibited under article 9 including health, mental health, sexual orientation and status as transgender or nonbinary. Is is not clear why this is necessary for providing the services and sounds highly privacy invasive."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Account information, such as date of birth, username, password, email, phone number, and profile image. User content, including comments, photographs, livestreams, audio recordings, videos, and text that you choose to create, import, upload, or publish through our apps and websites. The type of information that state privacy laws, such as the CCPA, have identified as sensitive personal information include the following: racial or ethnic origin, national origin, religious beliefs, mental or physical health diagnosis, sexual life or sexual orientation, status as transgender or nonbinary, citizenship or immigration status, or financial information. To infer additional information about you, such as your age, gender, and interests. We may collect information from and about you, including information that you provide, automatically collected information, and information from other sources. Information about your physical and mental health conditions that you or others choose to provide in the content that you create or upload through the Services. For example, you or others may provide such information if you compose, send, or receive messages through the Services’ messaging functionalities, create or post non-public user content discussing a recent illness, or search for information about an illness or condition through the Services’ search function. Other information that may be used to infer or derive consumer health data.",
+        "purpose": "As a consequence of the extensive and invasive health data collection, physical data will also be collected.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "Data collection seems extremely invasive, clipboard content is not a data category that is manifeslty shared by the data subject. Extracting information from such images could reveal all kinds of sensitive imformation including physical data."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information. For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information. Users of the Services who are California residents and are under 18 years of age may request and obtain removal of user content they posted by contacting us at: https://www.tiktok.com/legal/report/privacy. All requests must provide a description of the user content they want removed and information reasonably sufficient to permit us to locate that user content. We do not accept California removal requests via postal mail, telephone, or facsimile. We may not be able to respond if you do not provide adequate information. Please note that your request may not ensure complete or comprehensive removal of the material. For example, user content that you have posted may be republished or reposted by another user.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. We may share Information We Collect with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy. We may share Information We Collect in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy. We may share Information We Collect to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose Information We Collect to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public. We may share certain of your information with qualifying researchers to facilitate independent research. We may share your information for other purposes pursuant to your consent or at your direction. For example, we may facilitate the sending of marketing communications to you by sellers, such as by sharing your email address. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+        "purpose": "The three main categories of information collected are: Information You Provide, Automatically Collected Information, and Information From Other Sources. These are shared in various scenarios for example for marketing and advertising all of them are shared. Similarly Sellers and their service providers can also receive all of these. It is unclear what physical data is shared.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "There is not data minimisation and data collection practices look extremely invasive, including scraping data from user messages clipboard, and external soruces."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Usage information, including information regarding your use of the Services, such as information about how you interact with content and ads, the duration and frequency of your use of the Services, and your engagement with other users. We also collect certain information about your interactions with websites when you use our in-app browser. Technical information from your device, network, and application, including your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms. Cookies and other similar technologies (e.g., web beacons, flash cookies, pixels, SDKs, etc.) that we and our service providers and business partners use to provide certain features and functionalities, including to measure and analyze how you use the Services, including which pages you view most often and how you interact with content. We may also collect or receive information about you from professional organizations, businesses, government authorities, and others, including publicly-available sources.",
+        "purpose": "This extremely invasive data collecttion practice that facilitates the extraction of information from messages, user content, and from external srouces, also includes the extraction of keystroke patterns or rhythms. This modality can facilitate identification and is therefore highly sensitive.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "What is described here it the opposite of data minimisation."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.",
+        "purpose": "The legal basis for extracting keystroke patterns or rhythms and why they need to be stored is not clear."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information. For example, when we process your information such as your account registration information to provide you with the Services, we keep this information for as long as you have an account, subject to your updates of such information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information We Collect with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. We may share Information We Collect with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy. We may share Information We Collect in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy. We may share Information We Collect to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose Information We Collect to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public. We may share certain of your information with qualifying researchers to facilitate independent research. We may share your information for other purposes pursuant to your consent or at your direction. For example, we may facilitate the sending of marketing communications to you by sellers, such as by sharing your email address. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.",
+        "purpose": "The three main categories of information collected are: Information You Provide, Automatically Collected Information, and Information From Other Sources. These are shared in various scenarios for example for marketing and advertising all of them are shared. Similarly Sellers and their service providers can also receive all of these.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "There is not data minimisation and data collection practices look extremely invasive, including scraping data from user messages clipboard, and external soruces. There is no justification why keystroke patterns or rhythms are collected. The behavioural data that could be accumulated at large should trigger a privacy red alert."
+    }
+  }
+}

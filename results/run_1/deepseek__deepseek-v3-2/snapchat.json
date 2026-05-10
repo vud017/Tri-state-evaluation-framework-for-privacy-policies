@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat app",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data at all, so no minimization principles specific to this category are discussed."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data, so no minimization principles are stated for this category."
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention physiological data at all, so no data minimization principles specific to this category are discussed."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it).",
+        "purpose": "To better understand how the community uses the Services to make improvements, and to provide personalized experiences including content and advertisements.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states a general belief that personalized experience should not come at the expense of privacy and that they do not want to use more personal information than necessary. However, it describes broad collection of behavioral data for multiple purposes without providing concrete, meaningful limits on what specific data is collected or a clear justification for why each type is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "purpose": "To operate and provide the Services, to do things users expect, and to comply with legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services.",
+        "purpose": "To facilitate payments, measure and optimize ad performance, and protect the services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data is collected broadly for personalization and advertising, stored for as long as needed for service provision, and shared with service providers and potentially transferred internationally. While some data (like Snaps and Chats) has a default deletion rule, overall retention is based on business needs and legal requirements, which may extend storage."
+    }
+  }
+}

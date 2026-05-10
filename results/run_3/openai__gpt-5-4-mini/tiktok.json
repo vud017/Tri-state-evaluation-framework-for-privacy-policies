@@ -1,0 +1,171 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services",
+    "the Platform",
+    "TikTok Shop",
+    "TikTok Ad Network"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"We may use your information where it is necessary to protect your or someone else's life, physical integrity, or safety. This could include scanning Messages and associated metadata where permitted by law. Click here to learn more.\"",
+        "purpose": "The policy states that information may be used to protect life, physical integrity, or safety, including scanning Messages and associated metadata where permitted by law.",
+        "legal_basis": "protection of vital interests"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not set concrete limits specifically for health data collection. It mentions scanning Messages and associated metadata for safety purposes, but it does not clearly justify why any health-related data is necessary or narrowly limited."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"We may access, preserve, and share the information described in \"What Information We Collect\" with law enforcement agencies, public authorities, researchers, copyright holders, or other third parties if we have good faith belief that it is necessary to:\"",
+        "purpose": "The policy says information may be shared with law enforcement agencies, public authorities, researchers, copyright holders, or other third parties when necessary for listed purposes.",
+        "legal_basis": "good faith belief that it is necessary",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The main risk is that information may be scanned and then accessed, preserved, and shared with authorities or other third parties for safety-related purposes. The policy does not provide health-data-specific storage or deletion limits in this section."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We also collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add the location information to your User Content.",
+        "purpose": "Location information is collected when added to User Content.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy limits collection to location information only when a user chooses to add it to User Content. However, it also broadly collects location information in several other sections without giving concrete necessity limits specific to this category."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We store the information described in the “What Information We Collect” section in servers located in the United States, Malaysia and Singapore.",
+        "purpose": "The policy states that collected information is stored on servers in specified locations.",
+        "legal_basis": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information in other limited scenarios as follows:\n\nUsers and the Public. Based on your privacy settings, your information, including your Account Information, User Content, and Usage Information may be visible to other users and the public.",
+        "purpose": "The policy says physical data in User Content and related information may be visible to other users and the public based on privacy settings.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data can be collected through location information and stored on servers outside the user’s country. The policy also says this information may be visible to other users and the public based on privacy settings, creating exposure risk."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "The policy says this information is collected to understand engagement with the Platform and is used for uses such as providing, improving, and personalising services and advertising.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad behavioral collection, including interactions with content and ads, duration and frequency of use, engagement with other users, search history, and interactions with websites in the in-app browser. It does not set concrete limits showing that only necessary behavioral data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "The policy says information, which includes behavioral information under what it collects and uses, is retained to provide the Platform and for other stated purposes."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "If you violate our Guidelines or Terms, we may remove Information You Provide including your Account Information and/or User Content from public view immediately but keep your information as is necessary to process the violation.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners whose platform or services are integrated with the Platform, or with whom we have a commercial relationship.",
+        "purpose": "The policy says this sharing is done to give a seamless experience, allow content to be shared on other platforms, allow sellers to view and manage orders, and enable third party platforms and partners to better authenticate users.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral information is collected broadly, including usage patterns, interactions, and search history. The policy also says this information may be shared with third party platforms and partners and stored in servers located in the United States, Malaysia and Singapore, which creates sharing and cross-border transfer risks."
+    }
+  }
+}

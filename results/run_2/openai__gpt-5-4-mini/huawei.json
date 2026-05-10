@@ -1,0 +1,166 @@
+{
+  "organization_name": "Huawei Technologies Co. Ltd",
+  "policy_date": "May 2024",
+  "products_covered": [
+    "websites",
+    "products",
+    "services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data collection at all, so there are no concrete limits or necessity justifications for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting health data or set any health-specific limits on collection. It describes broad collection of personal data generally, but there is no meaningful, health-data-specific necessity or minimization explanation."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not specifically identify health data collection, storage, sharing, or retention. Any risk for this category is therefore not explicitly described in the text."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting physiological data at all, so it provides no concrete limits or justification tailored to this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not set meaningful limits specific to physical data. It broadly says Huawei collects personal data depending on how you interact with Huawei, but it does not explain that physical data is limited to what is necessary or why any physical data would be needed."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We may also obtain data by recording how you interact with our websites, products, or services.",
+        "purpose": "The policy says Huawei records how users interact with its websites, products, or services, and later uses this information for purposes such as improving services, customized user experience and content, troubleshooting, and related analytics.",
+        "legal_basis": "Processing based on the legitimate interests of Huawei or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes."
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of interaction data and use for multiple purposes, but it does not set concrete limits on what behavioral data is collected or explain why each type is necessary. The language is broad rather than narrowly tailored."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Synchronizing, sharing, and storing the data you upload or download and the data needed for the uploading and downloading.",
+        "purpose": "The policy states that Huawei shares this data as part of synchronizing data you upload or download and the data needed for those actions.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy allows Huawei to record how users interact with its websites, products, or services and uses that information for broad business and service-improvement purposes. It also mentions sharing and storing data tied to upload/download activity, but it does not provide specific limits or retention rules for this behavioral data."
+    }
+  }
+}

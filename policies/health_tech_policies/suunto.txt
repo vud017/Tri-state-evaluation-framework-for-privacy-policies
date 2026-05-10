@@ -1,0 +1,524 @@
+SUUNTO CUSTOMER PRIVACY POLICY
+
+Effective date: October 10th, 2024
+
+ 
+
+Thank you for using Suunto devices and services! This Privacy Policy covers all Suunto applications, sites, and related services, which link to this Privacy Policy (collectively the Services). This Privacy Policy applies to persons who use Suunto devices and services as private individuals (not as professionals, for example as members of Suunto Pro Club). This Privacy Policy describes:
+
+·       what personal data We collect about you (“customer” or “user” or “data subject”, “you”),
+
+·       how We use and share your personal data and the legal grounds for doing so, and
+
+·       the rights you have on your personal data.
+
+ 
+
+As a minimum, We provide the same level of data protection and privacy controls as in the General Data Protection Regulation of the European Union (“GDPR”) to all our customers worldwide. Particular rights and obligations may apply if you reside in certain locations. 
+
+
+Learn more about your local rights and how to exercise them.
+
+
+We may update this Privacy Policy by posting a new version at www.suunto.com and in the Services. If We make any material changes, We will let you know by posting a notice in the Services prior to the change becoming effective. Your continued use of the Services after the effective date will be subject to the new Privacy Policy.
+
+ 
+1                              SUUNTO JOINT CONTROLLERS
+
+The Services are provided to you by Suunto Oy and its following affiliates i.e. other companies belonging to the same group of companies owned by Dongguan Liesheng Electronic Co., Ltd (herein referred as ”We”). 
+
+Name
+	
+
+Contact details
+
+Dongguan Liesheng Electronic Co., Ltd
+	
+
+4/F, building A, Nanxin Industrial Park, No.86, Hongtu Road, Nancheng District, Dongguan City, Guangdong Province, China
+
+Suunto Oy
+	
+
+Tammiston kauppatie 7 A, 01510 Vantaa, Finland, privacy@suunto.com
+
+Liesheng HK Limited
+	
+
+19H Maxgrand Plaza no 3 San Po Kong Kowloon HONG KONG
+
+Suunto Sports Technology Co., Ltd
+	
+
+5A070, Unit1, Office Building B2, Gaobei 16, No.16, Gaoxin North 6th Road, Songpingshan Community, Xili Street, Nanshan District, Shenzhen, Guangdong Province, China
+
+Suunto Sports Technology(Dongguan) Co., Ltd
+	
+
+Room 108, No.5 Longxi Road, Nancheng Street, Dongguan City, Guangdong Province, China
+
+ 
+
+We jointly determine the purposes and means of collection of the personal data specified in this Privacy Policy and sharing of the data between the joint controllers. We as the joint controllers have determined and agreed our respective responsibilities for compliance with the GDPR in the joint processing as follows:
+
+Responsibilty
+	
+
+Dongguan Liesheng Electronic Co., Ltd
+	
+
+Suunto Oy
+	
+
+Liesheng HK Limited
+	
+
+Suunto Sports Tech Co. Ltd
+
+2                              CONTACT INFORMATION OF SUUNTO IN DATA PROTECTION MATTERS
+
+Suunto Oy is your single point of contact, when you want to access your personal data or otherwise use your data protection rights, make requests and questions about processing of your personal data by any of the controllers. At this point of contact, you can also contact Suunto Oy´s data protection officer: 
+
+Name of the controller
+	
+
+Suunto Oy
+
+Address
+	
+
+Tammiston kauppatie 7 A, 01510 Vantaa, Finland
+
+Email
+	
+
+privacy@suunto.com
+
+
+Users may also exercise their data protection rights by contacting any of the joint controllers directly.
+3      THE PERSONAL DATA WE COLLECT AND THE DATA SOURCES
+
+The categories of personal data and examples or related data types We collect, and the sources of data are explained below. The detailed data types We collect of you depend on the product, Service, site, or application you use.
+
+Data Category
+
+Data Sources
+	
+
+Data types
+
+Account data Collected from you or from Facebook, Apple, or Google if you register with their credentials
+	
+
+·       Basic Data such as name, email, phone numbers, account creation date, birthdate, country code, time zone, language preference; username, password, user rights; name and contact information of the guardian of a child (if consent of the guardian is required by the applicable laws); data of the customer contract, orders, confirmations, suspensions, and termination.
+
+·       Presentation data such as nickname, profile photo, or picture
+
+·       Third party service account information such as your account name and unique token to connect to the Services with which you have decided to share activities
+
+·       Consents and objections to personal data processing
+
+Customer relationship data (CRM Data) 
+
+Collected from you and Suunto´s resellers and partners
+	
+
+·       Customer communication with you: such as customer feedback, customer satisfaction survey data, complaints; chat logs and support tickets and customer service call recordings, other messages, and other content you send when you communicate with Us
+
+·       Purchase data from Suunto´s Online Store reseller Global-e NL B.V: name, email address, phone number, items purchased, shipping address, payment and delivery data (except for payment data such as credit card number details), data of your Value Pack discounts and other contractual benefits
+
+·       Customer profiles and segments generated based on statistical analysis of data specified in this Privacy Policy of you and other customers. Health Data or other data belonging to special categories of personal data (i.e., sensitive data) is not used to generate profiles and segments.
+
+Device Data Collected from your device
+	
+
+·       Technical information of the devices you use or have connected to the Services, e.g., a sport watch, dive computer or any other connected products including without limitation device and device capabilities, the device operating system, the other applications on Your device, cookie information, IP address, device network provider, device type, time zone, network status, browser type, browser identifier, unique device identification number (such as identifiers for analytics or advertising), network provider user ID (a number uniquely allocated to You by Your network provider), Media Access Control (MAC) address, mobile advertising identifier
+
+Usage Data
+
+Collected from your device using cookies, advertising identifiers, etc.
+	
+
+·       Browsing and usage data of Internet and mobile Services
+
+·       Your social activities in the Services such as comments and likes you make, photos and videos you upload to the Services, users you follow and who follow you
+
+Please see how We collect Usage Data with cookies: https://www.suunto.com/en-gb/legal-pages/cookies/ 
+
+Sport and Exercise Data Collected from your device and the environment
+	
+
+·       Sport Data which is specific data for sport such as activity type, ski runs, dive time, max depth, bottom temperature, dive mode, gas type, start pressure,
+
+·       Exercise data such as activity type, date, time, description, duration, distance, speed, pace, cadence, calorie consumption, altitude, temperature, weather conditions, barometric data, pedalling power, swimming strokes, feeling
+
+Health Data Collected from you and your device
+
+ 
+	
+
+·       Personal physiological metrics such as height, weight, gender, heart rate, recovery time, PTE (personal training effect), EPOC (excess post-exercise oxygen consumption), sleep, fitness level (VO2max, maximal oxygen consumption)
+
+Location dataCollected from Your device
+	
+
+·       Mobile-connected GPS tracking data such as recorded track during activity, planned routes, location of photos or videos, approximate location of indoor activities,
+
+·       Our mobile applications collect location data to enable mobile-connected GPS tracking with certain devices, even when mobile applications are closed or not in use. For example, Suunto app collects location data to enable mobile-connected GPS tracking with Suunto 3, even when the app is closed or not in use
+
+Event Participation Data
+
+Collected from You
+	
+
+·       Contact data and other data as required upon registration to events
+
+Marketing Data
+
+Collected from you or your device
+	
+
+·       Marketing activities aimed at you,
+
+·       Data of your subscription and use of newsletters,
+
+·       Consents, prohibitions, restrictions, and authorisations given by the data subject for direct marketing including profiling,
+
+·       Your interests,
+
+·       Information about the advertisements displayed and clicks on the ads; the page from which the user has accessed Our website, collected by Us using cookies, advertising identifiers, and similar technology
+
+Please see how We collect data with cookies: https://www.suunto.com/en-gb/legal-pages/cookies/
+
+ 
+4      PURPOSES AND LEGAL BASIS FOR PROCESSING 
+
+We process the collected personal data for the following purposes and on the following legal basis: 
+
+ 
+
+Purpose of processing
+	
+
+Data processed
+	
+
+Legal basis for processing
+
+·       To identify you as a user and make sure that you are old enough to use the Service,
+
+·       To create and manage your accounts, contracts, and orders,
+
+·       To process delivery of your product purchase and any requests by you to return or replace a product
+	
+
+·       Account Data, 
+
+·       Purchase Data
+
+·       CRM Data
+	
+
+·       Performance of the contract
+
+·       To measure, analyse, and report to you your activities, performance and fitness levels 
+	
+
+·       Sport Data
+
+·       Health Data
+
+·       Exercise Data
+
+·       Location Data
+
+·       Device Data
+	
+
+·       Your consent for processing Health Data, Device Data, and Location Data
+
+·       Our legitimate interest based on the customer relationship
+
+·       To provide you with other digital Services, for example sharing and making your data visible as you request in the Service settings, facilitate social activities with other users, showing you content etc.
+
+·       To personalize the content and functionality of the digital Services
+
+·       To supply warranty, repair and other product maintenance Services
+
+·       To supply software updates
+
+·       To manage and develop the customer relationship, customer communications by letter, telephone, email, SMS or other electronic means, e.g., sending incident alerts, customer satisfaction and other customer surveys 
+	
+
+·       Account Data
+
+·       CRM Data
+
+·       Device Data
+
+·       Usage Data
+	
+
+·       Our legitimate interest based on the customer relationship,
+
+·       Your consent for processing Device Data, and Location Data, and for the use of cookies
+
+·       To provide customer support and help in case you have problems with the Service
+	
+
+·       All the data categories necessary to solve your request
+	
+
+·       Our legitimate interest based on the customer relationship,
+
+·       Your consent for processing Health Data, Device Data, and Location Data
+
+·      To implement appropriate technical and organisational measures to ensure security of personal data and communication
+	
+
+·       Account Data
+
+·       Device Data
+
+·       Usage Data
+
+·       Location Data
+
+·       CRM Data
+	
+
+·       Legal obligations under data protection legislation
+
+·      To prevent and investigate fraud, other criminal offences, and misuse of the Service
+	
+
+·       Account Data
+
+·       Device Data
+
+·       Usage Data
+
+·       Location Data
+
+·       CRM Data
+	
+
+·       Our legitimate interest
+
+·       To develop and improve Our products and Services
+	
+
+·       Device Data
+
+·       Usage Data
+
+·       CRM Data
+
+·       Sport and Exercise Data
+	
+
+·       Our legitimate interest based on the customer relationship
+
+·       To target and send direct marketing for example advertisements, newsletters, market and opinion surveys by letter and telephone, or by e-mail, SMS, or by other electronic means in the case of products and services similar to those purchased by the Customer
+	
+
+·       Marketing Data
+
+·       CRM Data
+	
+
+·       Our legitimate interest based on the customer relationship,
+
+·       Your consent for use of cookies
+
+·       To target and send electronic direct marketing in other cases than above
+	
+
+·       Marketing Data
+
+·       CRM Data
+	
+
+·       Your consent
+
+·       To target and show you on-line and in-app advertisement like push notifications by Us, or third parties when you use the Service
+	
+
+·       Marketing Data
+
+·       CRM Data Device Data
+
+·       Usage Data
+
+·       Location data
+	
+
+·       Our legitimate interest based on the customer relationship,
+
+·       Your consent for processing Device Data, and Location Data, and for the use of cookies
+
+·       To arrange promotions, sweepstakes, competitions, and other events and deliver awards
+	
+
+·       Event Participation Data
+	
+
+·       Our legitimate interest based on the customer relationship
+
+·      To comply with legal obligations in accounting and tax legislation
+	
+
+·       Basic Data
+
+·       Purchase Data
+	
+
+·       Our legal obligation
+
+ 
+
+We do not make any decisions based solely on automated processing which produces legal effects concerning you or similarly significantly affects you (Article 22 of the General Data Protection Regulation). 
+5      WHAT DATA ABOUT ME IS VISIBLE TO OTHER USERS
+
+Social features are a core component of our Service. Other users may, for example, see your profile data, activities (exercises) and read the messages and other content you have posted. By default, all your data is private, except your public profile, which allows your friends to find you. You can freely decide what information you add to your profile page.
+
+A public profile is visible in the whole Sports Tracker Community when searched by name or email. This means that when you add data to your public profile in one of the applications in the Sports Tracker Community, your public profile is also visible in the other applications. Your profile page displays the following data publicly:
+
+•   Name
+
+•   Username
+
+•   Description
+
+•   Profile picture and background photo
+
+•   People you follow and people who follow you
+
+•   Total distance, split by sports
+
+•   Total activities (exercises)
+
+•   List of your activities (exercises) that are set to Public
+
+Visibility of an activity (exercise or workout) means the sharing setting of each tracked or logged activity. For simplicity and clarity, the default visibility for your activities (exercises) is Private. There are three visibility options you can choose from:
+
+•   Public: Anyone can view and comment on your activity (exercise). Any user that browses public workouts can find and view the activity (exercise).
+
+•   Followers: Only followers can view and comment on your activity (exercise). Users that do not follow you cannot find or open the activity (exercise).
+
+•   Private: Your activities are visible only to you.
+
+ 
+
+In order to create certain anonymous data such as heatmaps of tracks frequently used by users there may be certain features which allow you to enable the collection of certain location data during your activities (exercises) as specified in the applicable visibility options.
+
+Moreover, there may also be certain features which allow you to enable automatic collection of certain location data from your device to the app when your device becomes connected to the app.
+
+In addition to the above, you can also choose to share your activity in an external service, like Facebook. In this case a special link to your activity is created, and anyone following that link can access the activity (exercise).
+
+Leaderboard view displays weekly total information of you and the persons you follow. Likewise, people you have accepted to follow you can see your information:
+
+•   Name
+
+•   Total duration of all activities
+
+•   Other information identified in the Leaderboard within the app
+
+Please note that different apps and versions may have different visibility configurations.
+6      ADVERTISING AND SOCIAL MEDIA PARTNERS
+
+If you decide to use your Facebook account and credentials for your log in to the Services, We will receive data such as your name, email address, birth date, gender and profile photo and friends list (to inform you which of your friends have already joined or later join the Services) from Facebook. If you wish not to provide Us with such information, you will need to amend the privacy settings on your Facebook account, so please review the applicable privacy statements and instructions from Facebook for further information.
+
+Our website uses social media functions (i.e. social plug-ins), for example Facebook, Instagram, and YouTube buttons that take you to community pages held by the Us. When you use these social plugins, social media services share user data with Us in accordance with their privacy policies and user consents, e.g. comments and links on Suunto websites shared by the user in the media, as well as information contained in the user's public profile. 
+
+Social plugins are the responsibility of the social media partner. They are responsible for compliance with data protection legislation and for implementing data security and the rights of the users of their services. We encourage you to check their privacy policies to learn more about their data processing practices.
+
+We process personal data obtained through Our social media sites on the basis of legitimate interest only for Our own purposes, such as informing about new products, services or offers, conducting competitions and sweepstakes, receiving feedback, purchasing advertising from a social media service, measuring the availability of pages or advertisements, or customer service on community pages. We do not process data outside social media, and the data they share will not be combined with Our other data without the user's consent. 
+
+Our mobile applications include features from Our partners, such as social media interaction tools, functionalities through application programming interfaces (APIs) or software development kits (SDKs) and in-app advertising. A list of these partners is available at suunto.com. These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices. These partners may access data regarding your activities and your device (such as your IP address, mobile identifiers, page(s) visited, location, time of day). 
+
+We may also combine and share data We have collected about you with these third-party advertising partners. These advertising partners may use this data (and similar data collected from other services) for purposes of delivering targeted advertisements to you when you visit third-party services within their networks. These partners may operate under their own privacy policies. This practice is commonly referred to as “interest-based advertising” or “online behavioural advertising.”  If you prefer not to share your personal data with third-party advertising partners, you may follow the instructions in Section “9 YOUR ACCESS, RECTIFICATION AND OTHER RIGHTS” below.
+7      VALUE PACK AND OTHER SUUNTO PARTNERS
+
+We have partnered up with the leading product and service providers in the sports and wellbeing industry as well as a few other selected companies to ensure your training & outdoor experience is enhanced to the max. The partners offer a range of features and functionalities all the way from training planning & analysis to tracking your performance and reliving your activities – and sharing your adventures to the communities you belong.
+
+If you connect your account with Our Value Pack partners or other partners, your personal Exercise, Location and other data will be shared and synchronized with the partner as explained upon connection. Sharing and synchronization is based on your consent. A list of these partners is available at https://www.suunto.com/en-gb/partners/partners/. These partners operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices before you connect to their services.
+8      OTHER DATA SHARING AND TRANSFERS
+
+Personal data regarding individuals who reside in a country or region other than mainland China that is controlled or jointly controlled by Suunto Oy, is stored on servers in EEA.
+
+For individuals in mainland China, your personal data is collected and controlled by Suunto Sports Technology Co., Ltd and stored on servers in mainland China.
+
+We may share your personal data with Our affiliates who are joint controllers as explained in Section 1 above. 
+
+We may also share your personal data with other companies when it is necessary for the purposes specified in this privacy policy, for example to transportation companies for the delivery, and to payment service providers for the processing the payment of the agreed products or Services.
+
+In addition, your personal data may be disclosed to other parties when it is necessary to fulfil Our rights and legal obligations, in connection with legal proceedings, at the request of authorities or as part of business arrangements. Otherwise, personal data will not be disclosed to other parties without your consent.
+
+We will transmit your personal data to following external subcontractors when it is necessary for them to perform services on Our behalf:
+
+•   Providers of data analyzation tools and services, for example for analysing your interests and finding possible problems with the Service and connected devices,
+
+•   Providers of marketing communications tools and services for communicating with you in the service, for example, to provide you information about new features,
+
+•   Providers of customer survey tools and services to request your feedback about our products and Services,
+
+•   Customer service providers to provide you help and support in case you have problems with our products and Services,
+
+•   Providers of marketing tools and services who assist Us with marketing and advertising our products and Services,
+
+•   ICT service providers
+
+ 
+
+Each subcontractor processes personal data only to the extent necessary for the performance of the subcontractor's tasks. Subcontractors are bound by written agreements with Us on the processing of personal data, including conditions concerning confidentiality and data security.
+
+When We transfer personal data to recipients outside of EU and EEA, to countries where the level of data protection has not been accepted by European Commission (adequacy decision), We shall use following safeguards to ensure adequate level of data protection:
+
+·       Transfers to USA to recipients certified in the EU-US Data Privacy Framework and/or to other recipients by concluding written agreements using standard contractual clauses approved by the European Commission 4 June 2021 (“the SCC”) or by other lawful procedure specified in Chapter V of the GDPR. The SCC can be found at: https://commission.europa.eu/publications/standard-contractual-clauses-international-transfers_en
+
+·       Transfers to China and other countries by concluding written agreements with the recipients using the SCC and applicable supplementary measures or by other lawful procedure specified in Chapter V of the GDPR. 
+9      DATA SECURITY AND RETENTION
+
+Only those persons who need the personal data to perform their work can access the data. The personnel and subcontractors processing the data are bound by confidentiality obligations. 
+
+Manual material is stored in locked premises protected by physical access control and CCTV surveillance. Electronically stored data is protected by firewalls and anti-virus malware software, access rights management and control, logging, and secured data connections, encryption of databases and servers as well as data backups. 
+
+Your data will be stored as long as you have an account in the Services and for a period of one year thereafter. After that your data can be kept until all the contractual or statutory rights and obligations between the parties have been fulfilled, expired or terminated. The retention and liability periods defined in the applicable accounting or other laws or regulations may require Us to store the data for a longer period.
+
+ 
+
+Health data and other data processed based on your consent, can be processed for as long as the consent is valid. For example, data collected with cookies will be deleted in accordance with the retention periods indicated in connection with cookie consents.
+
+Unless you have objected to our marketing or withdrawn your relevant consent or cancelled your newsletter subscription, marketing data can be kept permanently.
+
+Backups of the data are kept according to normal storage and deletion schedules. 
+
+Anonymised data from which a person is not personally identifiable may be stored permanently. 
+
+We assess the need for the retention of personal data on a regular basis and take reasonable measures to ensure that no incompatible, outdated, or incorrect personal data is retained.
+10    YOUR ACCESS, RECTIFICATION AND OTHER RIGHTS
+
+You have a right to access to and get a copy of data processed by Us when it relates to you, and to request the rectification or erasure of incorrect, outdated, unnecessary, or unlawful data. 
+
+You have a right to withdraw the consent you have previously given to the processing of your personal data. The withdrawal of consent does not affect the lawfulness of processing that took place before the withdrawal. 
+
+You can also unsubscribe from the newsletter and opt out of receiving promotional communications, such as marketing emails, opinion polls and market research including related profiling from Us by following the instructions in such communications or by changing your in-app settings. The updated settings may not be effective immediately. Note that you may still continue to receive non-promotional customer communications from Us, such as communications regarding the Services or updates to our Terms of Service or this Privacy Policy. 
+
+You can withdraw your consent for the use of cookies at Our website www.suunto.com by clicking Cookie Settings.
+
+You may at any time opt-out from receiving push notifications through Our mobile applications by changing the settings on your mobile device. 
+
+You may grant Our mobile applications access to specific features on your Android device, including call logs (to enable phone call notifications on your Suunto device), contact list (to display caller information on your Suunto device), camera (to operate your Android device's camera through Our mobile applications) and music and audio (to manage playback through your Suunto device). These permissions are optional and can be modified or revoked at any time through your device’s settings.
+
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and turning off “Allow Apps to Request to Track” or selecting "Limit Ad Tracking" (Apple iOS) or "Opt-out of Interest Based Ads" (Android). You can also opt out from personalized in-app offers through the options provided in the mobile applications settings (where applicable).
+
+If you have provided personal data to Us and the processing is based on consent or a contract, you have a right to receive this data in a structured, commonly used, and machine-readable format and the right to transmit the data to another controller in accordance with current legislation.
+
+When the processing of personal data is based on legitimate interest (e.g., processing related to the management of a customer relationship), you have a right to object to the processing of your data on grounds relating to your particular situation. In connection with the request, you need to specify the particular situation on which the objection is based. 
+
+If you disagree on the accuracy of your data or the lawfulness of the processing, and in other situations defined by law, you can have the processing of your personal data be restricted, such as the total or partial suspension of the processing of your data until the disagreement has been clarified and resolved. 
+
+You can use the rights explained above by sending requests in writing or by e-mail to Suunto Oy (contact details are presented in Section 2 above or by presenting them to Our customer service. If necessary, We may ask you to specify your request in writing and to prove your identity.
+
+You have also a right to lodge a complaint about the processing of personal data with the Data Protection Ombudsman.

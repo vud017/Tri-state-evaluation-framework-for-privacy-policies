@@ -1,0 +1,166 @@
+{
+  "organization_name": "Huawei Technologies Co. Ltd and its affiliates",
+  "policy_date": "May 2024",
+  "products_covered": [
+    "websites",
+    "products",
+    "services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data, so it does not provide any specific limits or justification for its collection."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data, so no specific data minimization measures or justifications are described for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention physiological data, so no data minimization practices are described for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "The personal data we collect includes name, gender, enterprise name, job position, postal and email addresses, phone number, login information (account and password), photos, and certificate information, etc.",
+        "purpose": "For creating accounts, fulfilling transactions, providing services, and other purposes listed in the policy.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy lists photos as collected but does not provide specific justifications or concrete limits for why this physical data is necessary, relying on general purposes and statements about data necessity."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law.",
+        "purpose": "To fulfill business purposes, provide services, maintain records, and for other stated purposes."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "After you deregister your account, we will stop providing you with products and services through your account and delete your relevant personal data, provided that deletion is not otherwise stipulated by special legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Huawei shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by Huawei.",
+        "purpose": "To arrange services such as shipment or provide partner services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data like photos is collected and may be shared internationally, with retention based on business needs and deletion upon account deregistration, but without clear minimization principles for this specific data type."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "{1}{x^2 - 3x + 2}\n\\]\n定义域：分母不为零  \n\\[\nx^2 - 3x + 2 = (x-1)(x-2) \\neq 0\n\\]\n所以 \\( x \\neq 1, x \\neq 2 \\)，即  \n\\[\nD_f = (-\\infty, 1) \\cup (1, 2) \\cup (2, +\\infty)\n\\]\n\n--- \n\n## 2. 求 \\( f(f(x)) \\) 的定义域  \n设 \\( g(x) = f(f(x)) \\)，则  \n\\[\ng(x) = f(f(x)) = \\frac{1}{[f(x)]^2 - 3 f(x) + 2}\n\\]\n其中 \\( f(x) \\) 本身要定义，所以 \\( x \\in D_f \\)。\n\n另外，\\( f(x) \\) 作为 \\( f \\) 的输入，必须满足 \\( f(x) \\neq 1 \\) 且 \\( f(x) \\neq 2 \\)，否则分母为零。\n\n---\n\n### 2.1 解 \\( f(x) = 1 \\)  \n\\[\n\\frac{1}{x^2 - 3x + 2} = 1\n\\]\n\\[\nx^2 - 3x + 2 = 1\n\\]\n\\[\nx^2 - 3x + 1 = 0\n\\]\n\\[\nx = \\frac{3 \\pm \\sqrt{9 - 4}}{2} = \\frac{3 \\pm \\sqrt{5}}{2}\n\\]\n这两个值都在 \\( D_f \\) 中（因为 \\( \\frac{3 \\pm \\sqrt{5}}{2} \\) 不等于 1 或 2，检查：\\( \\frac{3 + \\sqrt{5}}{2} \\approx 2.618 \\neq 2 \\)，另一个约 0.382 ≠ 1），所以它们会使 \\( f(x) = 1 \\)，导致 \\( f(f(x)) \\) 分母为零，必须排除。\n\n---\n\n### 2.2 解 \\( f(x) = 2 \\)  \n\\[\n\\frac{1}{x^2 - 3x + 2} = 2\n\\]\n\\[\nx^2 - 3x + 2 = \\frac12\n\\]\n\\[\nx^2 - 3x + \\frac32 = 0\n\\]\n\\[\n2x^2 - 6x + 3 = 0\n\\]\n\\[\nx = \\frac{6 \\pm \\sqrt{36 - 24}}{4} = \\frac{6 \\pm \\sqrt{12}}{4} = \\frac{6 \\pm 2\\sqrt{3}}{4} = \\frac{3 \\pm \\sqrt{3}}{2}\n\\]\n检查：\\( \\frac{3 + \\sqrt{3}}{2} \\approx 2.366 \\neq 2 \\)，\\( \\frac{3 - \\sqrt{3}}{2} \\approx 0.634 \\neq 1 \\)，都在 \\( D_f \\) 中，必须排除。\n\n---\n\n## 3. 汇总  \n\\( f(f(x)) \\) 的定义域为：  \n\\[\nD_f \\ \\text{去掉} \\ x = \\frac{3 \\pm \\sqrt{5}}{2}, \\ x = \\frac{3 \\pm \\sqrt{3}}{2}\n\\]\n即  \n\\[\n(-\\infty, 1) \\cup (1, 2) \\cup (2, +\\infty)\n\\]\n去掉这四个点。\n\n---\n\n## 4. 写成区间形式  \n四个数的大小顺序：  \n\\[\n\\frac{3 - \\sqrt{5}}{2} \\approx 0.382, \\quad \\frac{3 - \\sqrt{3}}{2} \\approx 0.634, \\quad \\frac{3 + \\sqrt{3}}{2} \\approx 2.366, \\quad \\frac{3 + \\sqrt{5}}{2} \\approx 2.618\n\\]\n并且 \\( 1 \\) 和 \\( 2 \\) 已经不在定义域中。\n\n所以区间划分（在实数轴上考虑，但要挖掉 1 和 2）：  \n\n- \\( (-\\infty, \\frac{3 - \\sqrt{5}}{2}) \\)  \n- \\( (\\frac{3 - \\sqrt{5}}{2}, \\frac{3 - \\sqrt{3}}{2}) \\)  \n- \\( (\\frac{3 - \\sqrt{3}}{2}, 1) \\)  \n- \\( (1, 2) \\) 再分：  \n  在 (1, 2) 中，两个要挖的点 \\( \\frac{3 + \\sqrt{3}}{2} \\) 和 \\( \\frac{3 + \\sqrt{5}}{2} \\) 都大于 2，所以不在 (1, 2) 内，因此 (1, 2) 全保留。  \n- \\( (2, \\frac{3 + \\sqrt{3}}{2}) \\)  \n- \\( (\\frac{3 + \\sqrt{3}}{2}, \\frac{3 + \\sqrt{5}}{2}) \\)  \n- \\( (\\frac{3 + \\sqrt{5}}{2}, +\\infty) \\)  \n\n---\n\n**最终答案**（区间表示）：  \n\\[\n\\boxed{(-\\infty, \\frac{3-\\sqrt{5}}{2}) \\cup (\\frac{3-\\sqrt{5}}{2}, \\frac{3-\\sqrt{3}}{2}) \\cup (\\frac{3-\\sqrt{3}}{2}, 1) \\cup (1, 2) \\cup (2, \\frac{3+\\sqrt{3}}{2}) \\cup (\\frac{3+\\sqrt{3}}{2}, \\frac{3+\\sqrt{5}}{2}) \\cup (\\frac{3+\\sqrt{5}}{2}, +\\infty)}\n"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "organization_name": "TikTok Technology Limited and TikTok Information Technologies UK Limited",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This information includes your device model, operating system, keystroke patterns or rhythms, IP address, system language and device settings.",
+        "purpose": "To identify activity across devices for a seamless log-in experience and for security purposes.",
+        "legal_basis": "Contractual Necessity; Legitimate Interests"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy claims collection is necessary for contract performance and security but lacks specific justification for why biometric data like keystroke patterns is minimal or strictly required."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform and for other purposes set out in the policy."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "To enable service providers to provide their services.",
+        "legal_basis": "Contractual Necessity; Legitimate Interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Biometric data such as keystroke patterns is collected automatically and shared with third-party service providers, including international transfers to servers in the United States, Malaysia, and Singapore. Retention and deletion policies are vague, relying on necessity rather than fixed timelines, and there is no explicit opt-in for this specific data category."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting health data, therefore it does not provide specific limits or justifications for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly state the collection or processing of health data, so no specific risks or safeguards regarding this category are described in the text."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention physiological data, so it does not describe specific limits or justifications for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection of physiological data. This lack of disclosure prevents users from knowing if such data is processed."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings... We automatically collect information about your approximate location (e.g. country, state, or city) based on your Technical Information (such as SIM card and IP address). Also, where you enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device.",
+        "purpose": "To enable content creation, sharing, personalization of features, and location-based services.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent for device permissions."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states data is used where necessary for legal bases but lacks concrete technical limits on collection scope beyond generic necessity claims."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your Account Information, User Content, and Messages.",
+        "purpose": "To provide the Platform and maintain user accounts."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "To enable service providers to support platform functions and facilitate content sharing.",
+        "legal_basis": "Contractual necessity and legitimate interests.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Extensive physical data including videos, photos, and precise location is collected and shared with third parties, with storage and transfers occurring outside the user's region."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "To operate, provide, develop, and improve the Platform, personalise features and content, and provide advertising services.",
+        "legal_basis": "Contractual Necessity, Legitimate Interests, and Consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data including off-platform activities and inferred interests without specifying concrete limits on the scope or volume of data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform and for the other purposes set out in the Privacy Policy."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners whose platform or services are integrated with the Platform, or with whom we have a commercial relationship.",
+        "purpose": "To give you a seamless experience, allow your content to be shared on other platforms, and enable third party platforms and partners to better authenticate users.",
+        "legal_basis": "Legitimate Interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "TikTok collects extensive behavioral data including on-platform interactions and off-platform activities, which is shared with third parties and transferred internationally. Retention is based on vague necessity criteria without specific deletion timelines."
+    }
+  }
+}

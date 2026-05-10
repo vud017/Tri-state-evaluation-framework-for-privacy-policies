@@ -1,0 +1,167 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your User Content, for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your User Content.",
+        "purpose": "To perform content moderation, provide special effects (such as video filters and avatars), and generate captions.",
+        "legal_basis": "Legitimate interests"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that it collects characteristics such as the location of a face or body parts for specific purposes like moderation and filters, but it does not provide concrete limits on the scope of this data or explain why this specific level of biometric-related processing is the minimum necessary to achieve those goals."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the platform, comply with legal obligations, and for legitimate business interests such as safety and security."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "To support, provide, and develop the platform, including content moderation and technical support.",
+        "legal_basis": "Contractual necessity, Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The collection of facial and body part location data poses a risk of automated identification or profiling. While the policy claims this is for moderation and filters, the broad retention policy and sharing with third-party service providers and global corporate entities increase the risk of unauthorized access or misuse of sensitive biometric-related features."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention the collection of physiological data, therefore no assessment of adequacy regarding this category can be made."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings... In addition, we collect location information (such as tourist attractions, shops, or other points of interest) if you choose to add the location information to your User Content... Also, where you enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device.",
+        "purpose": "To provide the Platform, enable content creation and sharing, and provide location-based features.",
+        "legal_basis": "Contractual necessity, legitimate interests, consent"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states it collects various forms of physical data such as photographs, videos, and precise location, but does not provide specific limits on the scope of this collection beyond broad purposes like 'providing the platform' or 'personalisation'."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform, comply with legal obligations, and for legitimate business interests."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services... We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners",
+        "purpose": "To provide, support, and develop the Platform, facilitate content sharing, and enable third-party integrations.",
+        "legal_basis": "Contractual necessity, legitimate interests, consent",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The collection of high-fidelity physical data, including precise geolocation and visual content (photos/videos), combined with broad sharing practices with third-party partners and international data transfers, creates significant privacy risks regarding user tracking, profiling, and potential exposure of sensitive physical movements."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history. We also collect information about your interactions with websites when you use our in-app browser.",
+        "purpose": "To operate, provide, develop, and improve the Platform, personalise features and content, and provide advertising services.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that information is retained 'for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy', but does not provide specific limits or concrete criteria for what constitutes 'necessary' for each data point."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform, comply with contractual and legal obligations, pursue legitimate business interests, and for the exercise or defence of legal claims."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "To provide, support, and develop the Platform, including cloud hosting, content delivery, customer support, content moderation, marketing, analytics, and payment services.",
+        "legal_basis": "Contractual necessity and legitimate interests.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Extensive collection of interaction and usage patterns allows for detailed profiling of user habits and interests. This data is shared with a wide range of third parties, including advertisers and corporate affiliates, and is transferred internationally, increasing the risk of unauthorized access or secondary use."
+    }
+  }
+}

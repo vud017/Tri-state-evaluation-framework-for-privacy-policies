@@ -1,0 +1,237 @@
+Privacy Policy
+
+Last updated: September 23rd 2024
+
+1. Introduction
+
+This privacy statement has been prepared by Dr.Dropin AS ("Dr.Dropin" or "we" or “us”) to provide you with information on how, why, and on what legal basis we process your personal data. Additionally, the privacy statement describes the rights you have as a data subject under the EU General Data Protection Regulation 2016/679 ("GDPR") and Norwegian data protection laws (collectively referred to as "Data Protection Legislation").
+
+Dr.Dropin is the data controller for the processing of personal data described in this statement. The data controller is responsible for safeguarding your rights under Data Protection Legislation, including your right to receive information about how your personal data is processed.
+
+2. Contact information
+
+If you have questions or want more information about what personal data we process about you, or if you wish to exercise one of your rights, you can contact us using the contact details below.
+
+Dr.Dropin AS
+
+Phone Number: 24077701
+
+Email: personvernombud@drdropin.no
+
+Address: Sørkedalsveien 8, 0369 Oslo
+
+Postal Address:
+
+Dr.Dropin AS
+
+Postboks 5247 Majorstuen
+
+0303 Oslo
+
+Dr.Dropin has its own Data Protection Officer. Contact personvernombud@drdropin.no if you have questions about how we process your personal data and wish to get in touch with them.
+
+Please refrain from sending sensitive personal information (such as health data) via email.
+
+3. Personal data
+
+As a private healthcare provider, Dr.Dropin must also comply with the following healthcare legislation relating to the processing of personal data: the Norwegian Act relating to specialist health services (Norwegian: Spesialisthelsetjenesteloven), the Norwegian Act relating to healthcare personnel (Norwegian: Helsepersonelloven), the Norwegian Act relating to patient records (including associated administrative regulations) (Norwegian: Pasientjournalloven, inkl. Pasientjournalforskriften), the Norwegian Act relating to patient and user rights (Norwegian: Pasient- og brukerrettighetsloven), the Norwegian Act relating to health archives (Norwegian: Helsearkivloven) etc. All laws and regulations are available at www.lovdata.no.
+
+The term "processing" of personal data means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+
+4. Who's personal data we process
+
+This privacy statement covers our processing of personal data about the following categories of individuals:
+
+    Patients (people using our healthcare services)
+    Users of the Dr.Dropin App
+    Visitors to our website
+    Recipients of our newsletter
+    Corporate contacts registered in our CRM system
+    Employees of our corporate customers registered in our Corporate Portal
+
+
+5. Our processing of personal data
+
+5.1 Healthcare and registration of patient records
+
+Our main purpose for processing your personal data is to provide safe healthcare and offer our medical services. The personal data we collect about you are those we deem necessary to provide you with proper healthcare. The data we process is either provided by you, received from other healthcare institutions where you have received treatment, from medical tests we perform, etc.
+
+When you are diagnosed, receive healthcare, or medical treatment at Dr.Dropin, we are obligated to register all necessary information to provide care in our patient record systems. The type of information to be registered is specified by law. The patient health records may, for example, include contact information, next of kin, medical history, previous treatments, medications, diagnoses, etc.
+
+The legal basis for processing your personal data in connection with healthcare services and registration in the health records is that the processing is necessary to fulfill a legal obligation (GDPR Article 6(1)c), as well as necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.2 Digital prescription services
+
+At Dr.Dropin, you can order a prescription without needing to visit the doctor's office in person. If you use this service, Dr.Dropin will collect personal data about you. Contact information (name and phone number) is necessary for us to contact you for medical reasons and to confirm your order. We use Vipps and your national identification number to verify your identity. Additionally, you must provide the health information necessary for the healthcare personnel at Dr.Dropin to assess your request. This health information will be recorded in our electronic health records (“EHR”) systems (as described above in section 5.1).
+
+The legal basis for processing your personal data in connection with the digital prescription service is that it is necessary for the fulfillment of a healthcare service agreement (GDPR Article 6(1)b), and it is also necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.3 Booking
+
+On our website and in the Dr.Dropin App, you can book an appointment with us. When booking through our website, you must provide your name, phone number, and date of birth, along with a short message for the healthcare provider. This information will be stored in our booking system. You can also book appointments in the Dr.Dropin App. Logging into the app is done via BankID. Healthcare personnel at Dr.Dropin will not have access to your personal data in the app until you initiate a booking. In such cases, the healthcare personnel handling your appointment will have access to your name, date of birth, and any other information you provided during the booking process.
+
+The legal basis for processing your personal data in connection with booking is that it is necessary for fulfilling a healthcare service agreement (GDPR Article 6(1)b), and it is also necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.4 Video consultation
+
+Dr.Dropin offers video consultations for patients who prefer this option or are unable to attend physical consultations. This service is available in the Dr.Dropin App.
+
+Logging into the app is done via BankID. Apart from this, we document the consultation in the same way as a physical consultation, and this information is stored in our EHR systems. All video sessions are live, and we do not store recordings of the consultation.
+
+The healthcare provider you speak to must identify themselves through a separate login system before they can access the video call with you. Only the treating doctor, psychologist, or similar professional will have access to the information you provide during the consultation.
+
+The legal basis for processing personal data in connection with video consultations is that it is necessary to fulfill a legal obligation (GDPR Article 6(1)c), and it is necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.5 Dr.Dropin App
+
+If you have created a user account in the Dr.Dropin App, we may also process data about how you use the app, including which pages you visit most frequently, which services you select, and whether you experience any technical issues. The data used for this purpose is anonymized. The purpose of this processing is to improve our services, including the functionality and design of the app. The legal basis for processing is your consent (GDPR Article 6(1)a), and you can withdraw this consent at any time by sending an email to personvernombud@drdropin.no.
+
+5.6 Contact form
+
+On our website, you can get in touch with us via a contact form. When you submit the form, we process your personal data such as your name, email address, phone number, and any other information included in your message.
+
+The message is transferred in an encrypted state from the web solution to Dr.Dropin. Your information will only be accessible to selected employees at Dr.Dropin.
+
+The legal basis for processing personal data in connection with the contact form is that it is necessary to respond to your inquiry and provide healthcare services (GDPR Article 6(1)c and GDPR Article 9(2)h).
+
+5.7 Payment
+
+We process payment information following your visit to us and for the use of some of our digital services. Information about the amount you owe for the consultation is transferred to Verifone (the provider of payment terminals), to Dintero (the provider of digital payments) or to Vipps depending on what method of payment you choose.
+
+The legal basis for processing payment information is that it is necessary to fulfill the agreement with you (GDPR Article 6(1)b).
+
+5.8 Marketing
+
+At Dr.Dropin, we want to keep our customers informed about developments in our growing business, such as new clinic openings or the launch of new services or offers. This information is communicated via our newsletter. If you receive our newsletter, we process personal data such as your name and the email address you’ve added to your profile in the Dr.Dropin App. The legal basis for processing is your consent (GDPR Article 6(1)a), and you can withdraw this consent at any time by unsubscribing from the newsletter. You can do this by clicking the unsubscribe link in the email you received or by removing your email address from your profile in the app.
+
+We also aim to be accessible to our customers and potential customers on social media, including Facebook and Instagram. The purpose of these pages is to make our services, contact information, and opening hours available to our customers/patients and potential patients. We process personal data about you if you leave a comment on our pages, like our pages, or send us a message. If your question involves sharing sensitive personal information (e.g., about your health), you should contact us by phone or via our website so that we can assist you.
+
+5.9 Fotofinder
+
+At Dr.Dropin, you can use a service known as Fotofinder. Fotofinder is a technological tool that helps our dermatologists and other healthcare professionals detect dangerous moles and track skin changes over time by analyzing images of your skin surface taken during repeated consultations.
+
+If you use this service, we collect personal data about you, including images of your body. The software and images from the Fotofinder machine are stored on a centralized server managed by Netsolution. Relevant healthcare professionals log into the server platform to access the Fotofinder solution and associated data. The centralized storage of Fotofinder data enables patients to take follow-up images on any Fotofinder machine, and healthcare professionals can access the data remotely to perform analyses.
+
+The data is stored for as long as it is deemed necessary for the provision of healthcare. If you have not used the service within 10 years after the last Fotofinder consultation, the personal data, including images, will be deleted from our systems.
+
+The data processed is limited to what is necessary to utilize the Fotofinder tool and provide safe and effective healthcare. The initial consultation will always be conducted by a dermatologist, who will inform you about the recommended time interval between subsequent consultations.
+
+The legal basis for processing your personal data in connection with the Fotofinder service is that it is necessary to fulfill a healthcare service agreement (GDPR Article 6(1)b), as well as necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.10 Image consultation
+
+At Dr.Dropin, you can use the image consultation service to receive medical advice from our doctors by filling out a form and submitting images of your skin surface. This service involves the processing of your personal data. These are registered in the account created when you use the service. This includes your name, personal identification number, gender, and phone number, which you provide directly when registering on our website or indirectly if you are referred by one of our partners. We also receive your contract/policy number from our insurance partners.
+
+When you request advice via the image consultation service, you will be asked to share information about yourself and your health condition, so the doctors can provide you with the best possible care. This is typically done through a text description and two images of the affected skin area. The information may include, but is not limited to, details about any illness, your medical history, or your physiological or medical condition.
+
+Doctors reviewing your documentation will store this information in Dr.Dropin's systems. In cases where further follow-up or treatment is necessary, the information will also be stored in an approved EHR system. The information will only be available to you, the doctor providing the evaluation, and any other doctors involved in your care.
+
+The legal basis for processing your personal data in connection with Image Consultations is that it is necessary to fulfill a healthcare service agreement (GDPR Article 6(1)b) and necessary for providing healthcare services (GDPR Article 9(2)h).
+
+5.11 Dictation and associated technological structuring of information
+
+At Dr. Dropin, some healthcare professionals use dictation and associated technological structuring of spoken information during consultations. The conversation is recorded through the healthcare professional’s computer microphone and processed as described below. This solution helps streamline/automate parts of the work that our healthcare professionals would otherwise perform manually, such as documentation. The solution collects and processes information exchanged between the healthcare professional and the patient. This is done to ensure that the healthcare services you receive are efficient and of high quality.
+
+We implement a range of security measures and guidelines to ensure that personal data and health information are processed securely.
+
+Real-Time Transcription
+The audio from the consultation is transcribed in real-time using a GDPR-compliant speech-to-text API. For real-time processing, small segments of the audio are handled temporarily in short-term memory, and no data is stored. Therefore, at no point is a complete audio recording of the consultation made. Only individual segments are processed and then immediately discarded. Data in transit is encrypted for protection.
+
+Anonymization of Transcription
+The solution uses a de-identification algorithm to systematically remove all personally identifiable information from the transcriptions. The anonymized transcription is then used to generate an anonymized note. The transcription is discarded immediately, leaving only the anonymized note.
+
+Time-Limited Access to Notes
+Healthcare professionals have access to their anonymized notes through two-factor authenticated interfaces to review previous consultations. The healthcare professional can permanently delete notes at any time. After 24 hours, the notes are automatically and permanently deleted.
+
+No Use of Data for Other Purposes
+Neither the solution nor third parties use the data to train models or for any other purposes. Anonymized notes are only available for healthcare professionals to review previous consultations as needed.
+
+Full User Control
+All information processed is only accessible to healthcare professionals via two-factor authenticated interfaces and is not visible to our data processors.
+
+5.12 Sales to Corporate Customers Who Have Submitted a Contact Form
+
+On our corporate website (www.bedrift.drdropin.no), you can contact us through contact forms. When you submit the form, we process your personal data such as your name, email address, phone number, and any other information included in your message.
+
+The message is transferred in an encrypted state from the web solution to Dr.Dropin. Your information will only be available to employees with access to our CRM system.
+
+The legal basis for processing this personal data is your consent (GDPR Article 6(1)a and GDPR Article 9(2)a). You may withdraw your consent at any time by contacting us.
+
+5.13 Direct Sales to Corporate Customers
+
+We contact potential corporate customers through direct telephone sales or email sequencing. This involves processing personal data such as names, email addresses, and phone numbers.
+
+We only use publicly available information for our contact lists. All lists used are under our control and reviewed according to internal criteria before they are used. Our lists are only accessible to employees with access to our CRM system.
+
+5.14 Follow-up of Corporate Customers
+
+At Dr.Dropin, we want to follow up with our corporate customers by providing information, updates, and news from the Norwegian Labour Inspection Authority and Dr.Dropin. To appropriately follow up with our customers, we process personal data, such as the names, email addresses, and phone numbers of contact persons from companies with whom we have been in contact. This information is stored in our CRM system.
+
+To follow up with corporate customers and their employees, personal data is also stored in our Corporate Portal and corporate EHR-system. This information includes names, phone numbers, email addresses, and personal identification numbers.
+
+For employees who are treated as patients, refer to section 5.1.
+
+6. Disclosure of personal data to third parties
+
+6.1 Healthcare providers and other healthcare personnel
+
+We may occasionally be contacted by other healthcare providers or other healthcare personnel who also provide healthcare services to you, and who request to receive your patient information.
+
+Healthcare professionals may share confidential information with cooperating healthcare personnel, provided that such healthcare personnel are subject to the same confidentiality obligations as our own personnel. We only share your personal data to the extent necessary for the provisioning of adequate healthcare services and in compliance with the applicable requirements set forth in the Norwegian Act relating to healthcare personnel. As a patient, you have the right to object to the disclosure. Dr.Dropin will only share the personal data if the disclosure has been requested by cooperating healthcare personnel, and not without having received such an inquiry.
+
+6.2 Public authorities
+
+If required by law or upon suspicion that a criminal offence has been committed in relation to the use of our services, we may be obliged to disclose your personal data to public authorities.
+
+We are furthermore required to disclose your personal data to certain public health registries, such as the Norwegian Vaccine Registry (Norwegian: Vaksineregisterert) or the Norwegian Cancer Registry (Norwegian: Kreftregisteret).
+
+6.3 Data processors
+
+Dr.Dropin primarily uses data processors that process personal data within the EU/EEA, meaning these processors are subject to the same regulations regarding personal data processing. In rare cases, data processors located outside the EU/EEA are used. In these cases, Dr.Dropin ensures that these data processors provide adequate protection for personal data processing in accordance with GDPR Article 45 or that the transfer is subject to adequate safeguards under GDPR Article 46 (for example, by using the EU Commission's standard contractual clauses).
+
+7. Data retention
+In principle, we do not store personal data longer than necessary to fulfil the purposes for which it was collected or otherwise processed. With regard to personal data stored in inpatient records, i.e. the information we process to provide healthcare services, separate requirements apply.
+
+Information registered in inpatient records will generally be retained until it is no longer assumed that the information is necessary for the provisioning of healthcare services. Additionally, Dr.Dropin may be required to submit patient records to the Norwegian Health Archives in accordance with the Norwegian Administrative Regulation relating to health archives.
+
+Otherwise, we will delete or anonymize personal data in accordance with the following deletion routines:
+
+    Personal data that are stored in our booking system is anonymised by the supplier of the booking system seven days after the consultation.
+    Payment information is stored for a minimum of five years in accordance with the regulations set forth in the Norwegian Accounting Act. We will only store payment information for a longer period if the information has been anonymised.
+    Personal data that are used for sending newsletters is deleted if you withdraw your consent or if you delete your profile in the Dr.Dropin App.
+
+8. How we protect your personal data
+
+As the data controller for your personal data, we have the overarching responsibility for ensuring that your personal data is processed and stored securely. This involves implementing technical and organizational measures that ensure satisfactory information security. We have, for instance, implemented access control mechanisms, meaning only individuals with a legitimate need have access to your personal data. Additionally, all communication with servers is encrypted over HTTPS, and all of our databases use encryption "at rest."
+
+All our employees who handle health data about you are bound by a duty of confidentiality. The same applies to others who process personal data on our behalf.
+
+9. Your data protection rights
+
+If we process your personal data, you have a number of rights under Data Protection Legislation that you can exercise in relation to us.
+
+You have the right to access the personal data we process about you, including the right to receive a copy of this data. If you believe the information we have registered about you is incorrect, you have the right to request that it be corrected. You also have the right to request that your data be deleted from our systems, which we are required to comply with unless further storage is strictly necessary or legally required.
+
+Please note that certain limitations exist with respect to the rights provided by the data protection legislation, and the rights available to you will depend on the particular circumstances of the processing. You can find more information on this topic on Norwegian Data Protection Authority's website.
+
+For the sake of good order, we wish to call your attention to the fact that with regard to personal data included in your patient records, your right to request deletion or correction of your personal data is limited by regulations set forth in sections 42,43 and 44 of the Norwegian Act relating to health care personnel. Furthermore, please note that most of our processing activities are based on legal obligations to provide healthcare services. The right to data portability does not apply to personal data processed on the basis of a legal obligation. As described above, the right to data portability only applies when our processing of your personal data is based on consent or based on the performance of a contract
+
+If you wish to exercise any of your rights with us, please contact us as indicated in section 2. Please do not provide sensitive personal data when contacting us. We may need to ask you to verify your identity, as we may need to ensure that you are who you claim to be.
+
+10. Cookies
+
+Dr.Dropin uses cookies to analyze visitor behavior for the development and improvement of the website and our products, for technical purposes to ensure the website functions properly, and for marketing purposes, such as measuring the effectiveness of our online marketing or for targeting advertisements.
+
+You can read more about the cookies we use, the data processed, who processes the data, and the purpose of the processing in our cookie consent.
+
+11. Norwegian Data Protection Authority and complaints
+
+You may contact us at any time if you have any questions or complaints regarding our processing of your personal data. You may also file a complaint to the Norwegian Data Protection Authority, or a data protection authority in the EU/EEA Member State of your habitual residence, place of work, or the place of the alleged data protection infringement. The Norwegian Data Protection Authority is responsible for supervising Norwegian organizations' processing of personal data.
+
+You can obtain the contact details of the Norwegian Data Protection Authority on the following website: www.datatilsynet.no. You will also find more information on your rights and the data protection legislation on this website.
+
+If we reject a claim for correction or deletion of personal data included in your patient record, you may complain to the County Governor (Norwegian: Statsforvalteren). You can find more information on how to complain on the following website: www.statsforvalteren.no/nb/portal/
+
+12. Changes
+
+From time to time, we may revise this privacy statement, for instance, as a result of changes in our processing of personal data or changes in Data Protection Legislation. When the privacy statement is changed, an updated version will be published on our website. This privacy statement is valid from the date specified at the beginning.

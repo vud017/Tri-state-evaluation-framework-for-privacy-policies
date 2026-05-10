@@ -1,0 +1,2 @@
+Error while assessing huawei.txt:
+AttributeError("'NoneType' object has no attribute 'strip'")

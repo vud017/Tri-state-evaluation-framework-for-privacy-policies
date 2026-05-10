@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-03-29T10:19:55.504930+00:00",
+  "model": "qwen/qwen3.5-397b-a17b",
+  "temperature": 0,
+  "policy_sha256": "d42e1e3e66568becf2ab240d2ffed901f27054cec2344a2ffd2e24beebb59e2f",
+  "system_prompt_sha256": "eeb4bc1bbb9690a7aaf0ce250be5d3cbdd55b2b85e9ce08d92331410581718dd",
+  "section_prompt_template_sha256": "451fa10b0eb611b5b47fe8ba078cba43206fcbf6cd82de78f76ec8ce242ac8e9",
+  "openrouter_url": "https://openrouter.ai/api/v1/chat/completions",
+  "policy_path": "policies_main_experiment\\snapchat.txt"
+}

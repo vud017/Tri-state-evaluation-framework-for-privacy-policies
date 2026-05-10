@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "On iOS we use Apple's TrueDepth camera to improve the quality of Lenses. Note, however, that this information is used in real time — we don't store this information on our servers or share it with third parties.",
+        "purpose": "The policy mentions use of Apple's TrueDepth camera, which involves facial geometry data that could constitute biometric data. However, the policy explicitly states this is used in real time and not stored or shared, making the collection transient and ambiguous as to whether it constitutes biometric data collection in a meaningful sense.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that TrueDepth camera data is used only in real time and not stored on servers or shared with third parties, which suggests some minimization. However, the policy does not provide detailed limits on what biometric-like data is processed or concrete justifications beyond the real-time use statement."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy references use of Apple's TrueDepth camera for Lenses, which processes facial geometry data in real time. While the policy explicitly states this data is not stored on servers or shared with third parties, the real-time processing of face-related data still raises potential biometric privacy concerns, particularly regarding transparency about the exact nature and scope of the facial data processed."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The privacy policy does not mention the collection, storage, or sharing of health data. No specific health-related data practices are described."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "device information may also include information about your device phonebook (contacts and related information), images and other information from your device's camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video)",
+        "purpose": "The policy mentions collecting information from device sensors that measure motion and from microphones, and collecting audio/video content. While not explicitly labeled as physiological data, sensor data (e.g., motion sensors, microphone data) could potentially capture physiological signals, but this is not clearly stated.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states 'we don't want to use more of your personal information than necessary to develop our features and models,' but does not provide concrete limits or specifics on what physiological-type sensor data is collected or why each type is necessary. The language is generic."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law",
+        "purpose": "The policy describes general retention practices that would apply to any collected data, including sensor and device data, but does not specifically address storage of physiological data."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We share your information with our service providers, who process that information on our behalf.",
+        "purpose": "The policy describes sharing information broadly with service providers, business partners, and affiliates. Since device sensor data may be collected, it could potentially be shared under these general sharing provisions, but no specific mention of sharing physiological data is made.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy mentions collecting data from device sensors (motion, microphone) and audio/video content, which could encompass physiological signals, but never explicitly identifies physiological data as a category. Retention and deletion policies are vague, with no specific timelines or automatic deletion guarantees. Data may be transferred internationally, and sharing with service providers and partners is broadly described without specific limits on physiological data."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "images and other information from your device's camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+        "purpose": "Snap collects photographs, videos, voice recordings, and precise location data through device permissions to enable camera, photo, video, and microphone functionality, as well as location-based features like Snap Map.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states 'we don't want to use more of your personal information than necessary to develop our features and models' but does not provide concrete limits on what physical data (photos, videos, voice recordings, location) is collected or specific justifications for each type. The collection scope is broad, covering camera, photos, microphone, and precise GPS location."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we'll retain that location as long as we store the Snap.",
+        "purpose": "Physical data such as location information and content (photos, videos) are stored to maintain features like Memories, Snap Map, and Spotlight, and retained as long as the associated content is stored or as needed to provide Services."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they've been opened by all recipients or have expired, unless you've changed your default settings or decide to save something, in which case we will honor your choices.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services.",
+        "purpose": "Physical data may be shared with service providers for processing on Snap's behalf, with business and integrated partners to provide Services, with anti-fraud partners, and with legal/safety/security partners as necessary. Content like Spotlight, Snap Map, or Public Profile submissions may also be shared publicly.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Snap collects extensive physical data including photos, videos, voice recordings, and precise GPS location. This data is shared with multiple categories of third parties and transferred internationally. While default deletion of Snaps within 24 hours mitigates some risk, saved content (Memories, Snap Map, Spotlight) is retained indefinitely, and the policy lacks concrete data minimization limits for physical data categories."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata)",
+        "purpose": "Snap collects behavioral data including usage patterns, interaction history, content engagement, and preferences to operate services, personalize the user experience, show relevant content and ads, perform analytics, and improve features and algorithms.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states 'we don't want to use more of your personal information than necessary to develop our features and models,' but this is a generic claim. The actual scope of behavioral data collected is very broad — encompassing usage information, content interactions, engagement patterns, AI interactions, browsing activity, and more — without clear limits on what is strictly necessary for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "purpose": "Behavioral data is stored to operate and provide services, personalize experiences, show relevant ads, perform analytics, conduct research, and comply with legal obligations."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services.",
+        "purpose": "Behavioral data is shared with service providers for ad measurement and optimization, with business and integrated partners to provide services, with anti-fraud partners to prevent fraud, and with affiliates to carry out services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Snap collects extensive behavioral data including usage patterns, content interactions, AI conversations, and engagement metrics across its services. This data is used broadly for personalization, advertising, analytics, and algorithm development, and is shared with multiple categories of third parties. The retention policy is vague, with no specific deletion timelines for behavioral data and an explicit disclaimer that deletion cannot be guaranteed by a specific time. Data is transferred internationally, adding cross-border transfer risks."
+    }
+  }
+}

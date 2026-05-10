@@ -1,0 +1,11 @@
+model,true,false,ambiguous,total,true_pct,false_pct,ambiguous_pct
+anthropic__claude-opus-4-6,266,464,320,1050,25.33,44.19,30.48
+anthropic__claude-sonnet-4-6,218,623,209,1050,20.76,59.33,19.90
+deepseek__deepseek-r1,241,723,86,1050,22.95,68.86,8.19
+deepseek__deepseek-v3-2,259,667,124,1050,24.67,63.52,11.81
+google__gemini-3-1-flash-lite-preview,380,460,210,1050,36.19,43.81,20.00
+google__gemini-3-1-pro-preview,315,595,140,1050,30.00,56.67,13.33
+openai__gpt-5-4,221,626,198,1045,21.15,59.90,18.95
+openai__gpt-5-4-mini,245,751,33,1029,23.81,72.98,3.21
+qwen__qwen3-5-397b-a17b,250,555,175,980,25.51,56.63,17.86
+qwen__qwen3-8b,216,729,105,1050,20.57,69.43,10.00

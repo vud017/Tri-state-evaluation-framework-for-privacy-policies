@@ -1,0 +1,570 @@
+
+Last Updated October 3, 2025
+
+Outside Interactive, Inc., and its affiliates and subsidiaries (referred to as “Outside,” “we,” “us,” or “our”) respects your privacy. This Privacy Policy governs the websites (each a “Site”) and mobile applications (each an “App”) that display or link to this Privacy Policy. This Privacy Policy describes the types of personal information Outside collects from and about you, how Outside may use and disclose such information, and your choices and legal rights with respect to such information.
+
+We collect, use, disclose, and otherwise process your personal information only in accordance with applicable data protection and privacy laws and this Privacy Policy. By using the services owned and operated by Outside that are governed by this Privacy Policy (together, with the Sites and the Apps, the “Services”), you agree to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you do not agree, please do not access or use the Services. For purposes of this Privacy Policy, “personal information” – also called “personal data” in the laws of some jurisdictions – refers to information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to you. Data that has been deidentified or that otherwise cannot reasonably be related back to a specific person is not considered personal information.
+
+You can jump to particular topics by using the content tabs located on the right hand side of the policy. Please note, we may provide different or additional privacy notices in connection with certain activities, programs, and offerings. Additionally, we may provide additional “just-in-time” notices or notices at collection that may supplement or clarify our privacy practices or provide you with additional choices regarding your personal information.
+
+For more information about how users with disabilities can access this Privacy Policy in an alternative format, please email privacy@outsideinc.com or call 855-688-0567.
+CALIFORNIA PRIVACY NOTICE
+
+California residents, please see our CALIFORNIA PRIVACY NOTICE.
+COLORADO, CONNECTICUT, DELAWARE, IOWA, NEBRASKA, NEW HAMPSHIRE, NEW JERSEY, OREGON, TEXAS, UTAH, VIRGINIA, MONTANA, MINNESOTA & TENNESSEE PRIVACY NOTICE
+
+Residents of Colorado, Connecticut, Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah or Virginia, please see our COLORADO, CONNECTICUT, DELAWARE, IOWA, NEBRASKA, NEW HAMPSHIRE, NEW JERSEY, OREGON, TEXAS, UTAH, VIRGINIA, MONTANA, MINNESOTA & TENNESSEE PRIVACY NOTICE.
+CONSUMER HEALTH DATA PRIVACY NOTICE
+
+Residents of Washington and Nevada, please see our CONSUMER HEALTH DATA PRIVACY NOTICE.
+NEVADA PRIVACY NOTICE
+
+Residents of Nevada, please see our NEVADA PRIVACY NOTICE.
+EUROPEAN PRIVACY NOTICE
+
+If you are in the UK, EU, or Switzerland, please see our EUROPEAN PRIVACY NOTICE.
+1. PERSONAL INFORMATION WE COLLECT
+
+Depending on your use of the Services and how we otherwise interact with you, we may collect or obtain personal information from and about you in several ways, including (A) directly from you; (B) automatically when you interact with the Digital Services (as defined below); and (C) from third parties.
+
+Personal Information You Provide
+
+Outside collects personal information from you when you choose to share it with us. This may include when you use the Services; register or create an online account with or through the Services; purchase products or services; request information from us; sign up for subscriptions, newsletters, or our email list; use the Sites or Apps; enter into sweepstakes or other promotions administered by us (or on our behalf); fill out a survey administered by us (or on our behalf); request customer support; sync your contacts or otherwise communicate with or contact us.
+
+The personal information we collect may include your biographical information (i.e., name, physical address, email address, telephone or mobile number, date of birth, and gender), registration information (i.e., username), activity and fitness preferences, photo, household size and other economic information, sizing information for apparel-related services, education level, preferences or settings related to particular product lines and travel booking (e.g. favorite destination and accommodation types, booking preferences, annual event stays, etc.), and additional information collected in connection with event participation and travel booking (e.g.., emergency contact information, team information, financial information if needed for disbursements, etc.).
+
+You can choose to transfer information about your contacts to Outside by syncing such contact information from certain specified third-party accounts. If you choose to share your contacts, we will access and store your contacts' information as directed by you to identify potential connections also using our Services and help you connect with them.
+
+Personal Information You Share Publicly or With Others When You Use the Services
+
+You may choose to upload or add photos, videos, comments, reviews, or other content when you use our interactive Sites and Apps. You may also participate in online communities, including on our Sites and Apps and on social media. Any information you may disclose in a public manner on our Sites or Apps or in blogs, on message boards, activity feeds, in chat rooms, or other public forums (including third-party websites, applications, or services) is publicly available. Please exercise caution when disclosing personal information in these public areas.
+
+Certain Services may also offer you the ability to message one-on-one or as a small group. Outside may store this information to continue to make it available to communications participants or as reasonably necessary to achieve a legitimate business or commercial purpose, such as providing you with or billing you for the Services, maintaining and operating the Services, and as necessary to protect Outside’s legal interests.
+
+Personal Information You Provide When You Make a Purchase
+
+If you purchase a paid subscription or other product or service from us, our third-party payment processors collect your payment card number and related financial information (such as CVV, expiration date, and billing address) or information about other payment methods. Except as specifically stated herein, Outside does not collect or retain your full payment card information. Outside may, however, process your billing address, the expiration date on your card, and the last four digits of your card number.      
+
+When you make a reservation via our Outside Travel service, our affiliate, Sterling Valley Systems, Inc. (d/b/a Inntopia) processes your payment card information. For more information about how Inntopia uses and protects payment card information, please visit their privacy policy.  
+
+Personal Information from Linked Accounts
+
+You may choose to provide us access to information directly from your device (which may be a computer, tablet, smartphone or other device you use to access our Sites and/or Apps). This may include your location information, your fitness data, and/or your physical movements. It can also include user-generated content you may provide us with, such as videos and photos, or other data you provide us such as physiological data and/or data related to your lifestyle (including activity logged, distance covered, hardware used and/or other similar data related to your activity).
+
+Personal Information Provided by a Friend or Other Contact
+
+If someone sends you a communication from the Services, such as a gift subscription, travel booking information, etc., Outside may use the information provided (e.g., your name, contact information, etc.) to facilitate communication with you or fulfill the order.
+
+Photographs You Provide
+
+As noted above, you may provide us with photos of yourself. Additionally, Outside may capture your likeness in photographs or other recordings on behalf of an event or race organizer using our race photography platform, FinisherPix. FinisherPix compiles galleries of photos from an event or race by analyzing facial geometry, which under certain laws, is considered biometric information. If Outside intends to derive your biometric information from photos or other images solely in association with the categorization of such photos in association with FinisherPix, we require the event or race organizer to obtain your consent. In the event Outside collects biometric information for or on behalf of FinisherPix, it does so solely for the purpose of making the FinishPix platform available to the applicable event or race organizer, and Outside will not use any such biometric information for any unrelated purpose. Outside will permanently destroy any biometric information that it holds within one (1) year after it was collected.
+
+Personal Information Automatically Collected
+
+Whenever you visit or interact with the Sites and Apps and electronic or digital communications (the “Digital Services”), we, as well as any third-party advertisers and/or service providers, may use cookies, web beacons, pixel tags, or other technologies to automatically or passively collect information about your online activity, your location, and your use of the Digital Services. Specifically, we (and our partners and service providers) may automatically collect the following types of personal information when you interact with the Digital Services:
+
+    Device Information: When you access the Digital Services, information about your device may be collected, including IP address and/or other unique identifiers, browser type, device type, operating system, software version, hardware model, and mobile network information.
+
+    Usage Information: When you interact with the Digital Services, certain information may be collected, including the date and time of your visit, the pages you view immediately before and after you access the Digital Services, the areas or pages that you visit, the amount of time you spend viewing or using the Digital Services, the number of times you return, and other click-stream or site usage data. Additionally, if you receive an email from us, information may be collected about your interactions with the message (e.g., whether you opened, forwarded, or clicked-through to our Services).
+
+    Location Information: Information about your device’s general geographic location may be automatically collected when you access the Digital Services. In addition, in association with our navigation Services (GaiaGPS and Trailforks), we collect and process location information when you sign up for and use such Services. If you have enabled location services for our navigation Services apps, we may collect your precise location information for such apps to provide their core functionality. If you would like to stop the collection of your device’s location information, you may do so at any time by adjusting your mobile device settings.
+
+    Information from Linked Accounts: You may be given the option to link to your social media, third party fitness tracking device, or other third-party accounts through the Digital Services. When you do, we may automatically receive certain information about you based on your registration and privacy settings on those third-party services. This may include, but may not be limited to, your name, username, demographic information, updated address or contact information, location, fitness and activity information, interests, and social media and online activity information.
+
+We also may use third-party analytics and tracking tools to better understand who is using the Digital Services, how people are using them, and how to improve their effectiveness as well as the effectiveness of any related content. We may also use these tools to help us or our third-party partners and providers serve more targeted advertising to you across the Internet. These tools may include cookies, pixel tags, scripts and/or software development kits (SDKs) and similar technologies that automatically collect and store certain personal information about your interaction with the Digital Services. In addition, and as a result of the deprecation of third party cookies on many browsers, we may use newer technologies, including clean rooms, matching services (e.g. Unified ID 2.0, Live Ramp’s Authenticated Traffic Solution, and Comscore’s Unified Digital Measurement (UDM) 2.0). Our third-party partners and providers may also combine information collected from your interaction(s) with the Digital Services with information they collect from other sources. To learn more about your interest-based advertising choices, please see the “Your Choices and Legal Rights” section below.
+
+Please note that we use Google Analytics to better understand how users interact with the Digital Services. For information on Google Analytics’ information handling practices and how you can control the use of information sent to Google, please visit https://policies.google.com/technologies/partner-sites. If you wish to prevent your information from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available athttps://tools.google.com/dlpage/gaoptout.
+
+You may adjust your device or Internet browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features or take full advantage of all our offerings. Please refer to your device’s settings or your Internet browser’s “Help” section for more information on how to delete cookies and/or disable your device or browser from receiving cookies or adjust your tracking preferences.
+
+Personal Information Collected from Other Sources
+
+We may acquire personal information about you from our partners and service providers (including, for example, business partners, analytics vendors, and advertising networks). We use the personal information we collect from other sources to help us maintain the accuracy of the information we collect; personalize your experience with the Services; target our communications so that we can inform you of products, services, or other offers that may be of interest to you; measure the performance of advertisements delivered to you; conduct internal business analysis; and fulfill other business or commercial purposes.
+
+Combination of Personal Information
+
+We may combine the personal information we receive from and about you, including information you provide to us and information we automatically collect through the Digital Services, and information collected offline. We may also combine information collected across the different computers or devices that you may use and from third-party sources. We use, disclose, and protect combined personal information as described in this Privacy Policy.
+
+We also may supplement your personal information with information we gather from other sources which may include online and offline sources. We may collect information that is not personal information (“non-personal information”), including anonymous or aggregate data. Because non-personal information does not personally identify you, we may collect, use, and disclose such information for any purpose permitted by law. In some instances, we may combine non-personal Information with personal information. If we combine any non-personal information with personal information, the combined information will be treated by us as personal information to the extent that it is capable of personally identifying you.
+
+Sensitive Personal Information
+
+We may also collect personal information that is treated as “sensitive” under certain data protection laws. Sensitive information that we collect about you includes: your precise geolocation (within a radius of 1,750 ft, or as otherwise provided under applicable laws); and certain limited health information as further described herein. We collect this information solely for the essential functioning of our fitness and location-tracking-related Services, including GaiaGPS, Trailforks and MapMyFitness.
+2. PERSONAL INFORMATION WE USE
+
+Outside may use the personal information we collect to fulfill our contractual obligations to you and for a variety of legitimate business or commercial purposes, including:
+
+    To provide the Services, including content on our Sites and Apps; subscription-based, membership-based, or other paid Services we offer; and the products we sell via the Services.
+
+    To process your payments and fulfill your orders.
+
+    To fulfill your registration requests for events, experiences, travel booking, or other programs, including events or programs organized by third parties.
+
+    To provide you with personalized information and content that you request, including maps, audio programs and podcasts, films, educational content, and event photography services.
+
+    To publish content, films, and photos that you submit or post.
+
+    To communicate with you, including to respond to your inquiries/requests and request feedback from you. We may also use your personal information to invite you to participate in surveys administered by us (or on our behalf). Additionally, from time to time, we may use your personal information to send you important updates and communications about this Privacy Policy and/or other applicable terms and conditions.
+
+    To create a profile for you and personalize your experience on an activity feed, subject to your settings within your account’s Privacy Controls.
+
+    To protect the security and integrity of the Services and our business, such as by protecting against and preventing fraud, unauthorized transactions, claims and other liabilities and managing risk exposure, including by identifying potential hackers and other unauthorized users.
+
+    To enhance and personalize your online browsing experience.
+
+    To understand the usage and operations of our Services; develop new products or services; and conduct analysis to enhance or improve our content, products, and services.
+
+    To send you newsletters and other marketing and promotional materials from Outside or on behalf of our partners and affiliates. Details on how to exercise your choices with respect to marketing and promotional communications from us can be found in the “Your Choices and Legal Rights” section below.
+
+    To comply with applicable laws and regulations and to respond to lawful requests and communications from law enforcement and other government officials.
+
+    To carry out sales and business transactions in which information held by us is among the assets transferred or is otherwise relevant to the evaluation, negotiation, or completion of the transaction.
+
+    To protect our rights, privacy, safety, property, and/or those of others.
+
+Additionally, we may use your personal information for other purposes disclosed at the time you provide your information or otherwise with your consent.
+
+Subject to your Privacy Controls, your information, including certain aspects of your profile, your name and/or username, your activities, comments and interactions with other users and content and/or your photos and videos may be shared on the Services as part of their functional offering. Please be sure to manage your Privacy Controls carefully.
+
+In addition to the purposes listed above, we may use your personal information to deliver interest-based and targeted third party advertising to you on the Digital Services and across other websites, online services, or platforms. This includes use a Data Management Platform (DMP) to collect and organize data about your interactions with our Services. This data includes information such as your browsing history, logged activities, content consumption and general geographic location. Our DMP helps us to:
+
+    Create Audience Segments: We group users with similar interests and behaviors into audience segments. For example, a user who frequently reads articles about running might be placed in a "runner" segment.
+
+    Enhance Advertising Relevance: We use these audience segments to show you advertisements that are more likely to be of interest to you, both on our site and on other websites.
+
+    Analytics and Content Strategy: The data from our DMP also helps us to understand our readership as a whole, allowing us to make better decisions about what content to create and how to improve our user experience.
+
+You can opt out of our use of your information in this manner. For more information on how to exercise your choices with respect to interest-based advertising and targeted advertising, please see the “Your Choices and Legal Rights” section below.
+
+We may also deliver interest-based and targeted third party advertising to users through identity matching services such as Unified ID 2.0 and LiveRamp’s Authenticated Traffic Solution (“ATS”). We share personal information with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online, in-app, and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. You can read more about LiveRamp’s privacy practice here.
+
+Please note that we may also de-identify or aggregate information (meaning information that relates to a group or category of individuals, from which individual identities have been removed) so that it will no longer be considered “personal information” and use such non-personal information for analytics purposes, to support and train our artificial intelligence and machine learning tools, to enhance and maintain the Services, or other purposes consistent with those described in this Privacy Policy.
+3. PERSONAL INFORMATION DISCLOSURE
+
+We may disclose each of the categories of personal information we collect from and about you with the following categories of recipients:
+
+    Our Affiliates and Subsidiaries: We may disclose your personal information to Outside affiliates and subsidiaries for business, operational, promotional, and marketing purposes.
+
+    Our Service Providers: We disclose your personal information to third parties that provide business, professional, marketing, analytics, or technical support services to us; help us operate our business and the Services; or administer activities on our behalf. We require our service providers to only use your personal information in connection with providing services to Outside. They are not authorized by us to use the information for their own benefit.
+
+    Our Payment Processors: Credit or debit card information is required to process certain transactions, including to purchase a paid subscription or other product or service from us, in which case we share your payment information with our third-party payment providers. If you make a reservation through Outside Travel, Inntopia, an Outside affiliate, processes your payment card information subject to their privacy policy.
+
+    Other Users and the Public: We share your information and profile with other users and the public in accordance with your Privacy Controls.
+
+        When you post or share an activity or other content (e.g. an image or article), it can be viewed by everyone and re-shared (subject to your Privacy Controls).
+
+        When you follow another person, title, or company, you will be visible to that profile and its owner as a follower.
+
+        When you high-five, re-post or comment on another profile’s content, others will be able to see these actions and associate them with your profile.
+
+    Our Analytics and Advertising Partners and Providers: Certain parts of the Digital Services cookies, pixels, or similar technologies. For example, we (or our partners and service providers) may use cookies or other technologies provided by third parties to deliver more relevant advertising and to link information collected across different computers or devices that you may use. Use of these technologies may allow third parties to receive personal information about your use of the Digital Services. Although our business model is not focused on selling information, under certain privacy laws, the disclosure of personal information via these technologies may qualify as the “sale” or “sharing” of personal information, and you may have the right to opt out of such disclosures (as described in the “Your Choices and Legal Rights” section below).
+
+    Competent Governmental and Public Authorities: We will disclose your personal information as necessary to respond to subpoenas, judicial processes, or government requests and investigations, or in connection with an investigation on matters related to public safety. We may disclose your information to protect the security of our Services, servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Terms of Use, any other legal document or contract related to our Services, or the rights of any third party.
+
+    Relevant Third Parties in Connection with a Business Transaction: We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, your personal information may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, your personal information may be considered an asset of ours and may be sold or transferred to third parties.
+
+    Other Parties: We may disclose your personal information when you consent or direct us to share your information, such as when you connect your account to a compatible service that is not provided by us. Additionally, we will disclose your personal information to other parties as we believe necessary or appropriate either to: (i) comply with applicable law; (ii) protect our operations and those of our affiliates and subsidiaries; (iii) investigate and prevent against fraud; (iv) protect our rights, privacy, safety, or property and/or those of others; or (v) allow us to pursue available remedies or limit damages that we may sustain.
+
+    Please note that we may also de-identify or aggregate personal information so that it will no longer be considered “personal information” and disclose such information to third parties for any purpose as permitted by law, including for marketing or analytics purposes. We require any third party we share this information with to maintain and use the information in de-identified or aggregate form, and not to attempt to re-identify the information. 
+
+4. YOUR CHOICES AND LEGAL RIGHTS
+
+We respect your privacy and provide you with information about our processing of your personal information and the ability to exercise control over our use of your information. This section of our policy outlines: (a) your choices about how we use your personal information; (b) your legal rights related to your personal information based on where you reside; and (c) specific disclosures required by law in certain states and other territories.
+
+Your Choices
+
+We provide you with the ability to make certain choices about how we use your personal information, as described below.
+
+    Marketing and Promotional Communications: You can opt out of receiving marketing and promotional communications from us at any time by using the contact information below or following the instructions included in any marketing or promotional communications that you receive from us. Note that even if you opt out of receiving marketing and promotional communications from us, you will still receive non-marketing or transactional messages from us, including messages about your account and responses to your inquiries/requests.
+
+    Browser and Mobile Tracking Opt-outs: For more information on how to opt out from targeted advertising on your specific browser or device, you can visit the DAA Webchoices Browser Check and/or the NAI Opt Out of Interest-Based Advertising. You can download the AppChoices app to opt out in mobile apps.
+
+    Cookies: As noted above, we (and our partners and providers) use cookies on the Sites for various purposes, including for analytics and advertising purposes. To learn more about the cookies in use on our Sites or to adjust your preferences with respect to the cookies deployed on the Sites, use our cookie preference tool found by clicking “Manage Cookie Preferences” in the footer of the Sites.
+
+    Identity Matching Services: To opt out of our identity matching partiers, described in greater detail above, please click the following links: 
+
+        click here to opt out from Live Ramp ATS
+
+        click here to opt out from Unified ID 2.0.
+
+    Mobile Advertising ID Controls: iOS and Android operating systems provide options that allow the user to limit tracking and/or reset their advertising ID. To learn how to limit ad tracking or to reset the advertising identifier on your iOS and Android device, visit the following links: 
+
+        iOS - https://support.apple.com/en-us/HT202074
+
+        Android - https://support.google.com/ads/answer/2662922?hl=en
+
+    Global Privacy Control: Residents of California, Colorado, Connecticut, Texas, Montana, or New Hampshire can use certain preference signals to exercise the right to opt-out of sales and sharing by Outside. If you enable a browser-based opt-out preference signal that complies with applicable privacy laws, such as Global Privacy Control (GPC), in certain territories, upon receipt or detection, we will treat the signal as a valid request to opt out of the sale or sharing of personal information linked to that browser, as required by applicable privacy laws.
+
+    Do Not Track: Some browsers include a "Do Not Track" (DNT) setting that can send a signal indicating you do not wish to be tracked. Unlike the GPC described above, there is not a common understanding of how to interpret the DNT signal; therefore, our websites do not respond to DNT signals. Instead, you should use the other tools to control data collection and use described above.
+
+    Location-Based Services: If you use the Apps, you may control our collection and use of location-based information by adjusting the settings on your mobile device. You can also stop our collection of location information from your device(s) by uninstalling the Apps.
+
+Your Legal Rights
+
+Depending on where you reside, you may have certain rights in relation to your personal information, as described below. For more information about jurisdictions where these options are available, please read the additional instructions immediately following the list of rights below.
+
+    Right of Access:
+
+        You may ask us to confirm whether we are processing your personal information and, if so, details regarding our processing of the personal information.
+
+        You may also request that we provide your personal information, in a portable and, to the extent technically feasible, readily usable format.
+
+    Right to Delete: Subject to certain exceptions, you may request that we delete your personal information. There are some reasons we will not be able to fully address your request, such as if we need to complete a transaction for you, to detect and protect against fraudulent and illegal activity, to exercise our rights, or to comply with a legal obligation.
+
+    Right to Correct: Subject to certain exceptions, you may request that we correct inaccuracies in your personal information. We will take commercially reasonable efforts to make the corrections that you request.
+
+    Right to Opt Out of Certain Types of Information Uses and Disclosures: As described above, we disclose personal information to third parties for analytics and advertising purposes. If you are interested in exercising your right to opt out of the “sale” of your personal information or the processing of your personal information for “targeted advertising” (as these terms are defined in applicable law), you may submit a request at any time by visiting the Consumer Privacy Rights Request page linked here and/or visiting the “Cookie Preferences” tool in the footer of the Sites and toggling the “Performance Cookies” and/or “Targeting Cookies off. As of the latest date of the Privacy Policy, we do NOT engage in profiling decision based on your personal information that produce legal or similarly significant effects concerning you. For residents of California, Colorado, Connecticut, Texas, Montana, or New Hampshire, we will also treat opt-out preference signals as valid opt-out requests.
+
+If you wish to opt out of the processing of your personal information for any of the above purposes, or opt back in, please visit the Consumer Privacy Rights Request linked here. Right to Revoke Consent: We may seek your affirmative consent to process your personal information for certain purposes. Where applicable, you may revoke your consent at any time.
+
+    Right to Limit Certain Processing Activities or to Object to Certain Processing Activities: Where we have not sought your affirmative consent to process your personal information, you may have the right to limit or object to our continued processing of that personal information.
+
+    Additional Health Data Rights. If you are a resident of Washington or Nevada, you have additional rights concerning your consumer health data. Please see the section “Consumer Health Data Privacy Notice” below for more information about your rights under applicable health data privacy laws. 
+
+    If you exercise any of the foregoing rights, we will not discriminate against you. Unless permitted by applicable privacy laws, we will not: 
+
+        Deny you goods or services;
+
+        charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties; 
+
+        provide you a different level or quality of goods or services; or 
+
+        suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+
+To exercise any of the rights described above, residents of certain U.S. state may submit a request through the Consumer Privacy Rights Request linked here. You can also contact us by phone at 1-855-OUT-0567 to submit a request. If you are a resident of the EEA, UK, or Switzerland, please clickhere to submit your request. 
+
+Where required by applicable law, we will make every effort to respond to your request within 45 days from when you contacted us. If you have a complex request, certain privacy laws allow us up to 90 days to respond. We will contact you within 45 days from when you contacted us to inform you of the need for additional time and the reason for such extension. We may place reasonable limits on responding to repeated requests, including charging you a reasonable fee to cover administrative costs, where allowable by law.
+
+In order to protect your privacy, we may require proof of your identity before we can act on your request. When providing us this information, you represent and affirm that all information provided is true and accurate. Where applicable, we will use the requested information for verification purposes only. We may decline certain requests if we cannot verify your identity and confirm the personal information we maintain relates to you.
+
+Depending on where you reside, you may authorize someone to submit a privacy rights request on your behalf (an “authorized agent”) using the submission methods outlined above. An authorized agent will need to demonstrate that you have authorized them to act on your behalf. Depending on the evidence provided, we may also contact you to verify your identity directly with us or request confirmation from you that the agent is authorized to make the request.
+
+If we decide not to take action in response to your request, depending on where you reside, you may have the right to appeal within a reasonable period of time after you have received our decision. Where permitted by applicable law, you may submit an appeal by email at privacy@outsideinc.com, or by phone at 1-855-OUT-0567. If you send an appeal via email, you must put the statement “Privacy Rights Appeal” in the subject field and provide enough information for us to understand the request you made and the rationale for the appeal. If you have this appeal right, we will resolve your appeal within 60 days (45 days for residents of Colorado). If your appeal is denied, we will explain why. If you continue to dispute our decision or would like to lodge a complaint regarding our handling of your personal information, you may contact the regulator in your jurisdiction that handles privacy complaints. If we deny your appeal, we will provide you with a method for contacting your state attorney general’s office to submit a complaint. 
+
+Please also see below for a list of contact information for the relevant regulatory bodies in select European jurisdictions.
+
+    European Union: https://edpb.europa.eu/about-edpb/about-edpb/members_en
+
+    Switzerland: https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html
+
+    United Kingdom: https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/
+
+CALIFORNIA PRIVACY NOTICE
+
+Pursuant to the California Consumer Privacy Act (“CCPA”), we are providing the following additional details regarding the categories of personal information that we collect, use, and disclose. Please see the “Your Legal Rights” section immediately above for the rights available to you in relation to your personal information and how you can exercise them.
+
+Personal Information Collection and Disclosure
+
+The following chart details which categories of personal information we have collected from and about California residents in the past twelve (12) months, the source(s) of each category of information, the categories of third parties to whom we have disclosed each category of information for a business purpose, and the categories of third parties to whom we have “sold” or with whom we have “shared” each category of information (as such terms are defined in the CCPA) (where applicable). Please note that the first column in the chart lists by category the types of information described in the “Personal Information We Collect” section above, as required by the CCPA.
+
+Category of Personal Information
+	
+
+Categories of Sources
+	
+
+Disclosures of Personal Information for a Business Purpose
+	
+
+Sale or Sharing of Personal Information 
+
+Identifiers, including names, physical addresses, email addresses, online identifiers, IP addresses, account names, and other similar identifiers.
+	
+
+Directly from individuals
+
+Through automated means 
+
+Third-party sources
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers 
+
+    Our Analytics Providers
+
+	
+
+We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:
+
+    Our Advertising and Analytics Partners and Providers (including social media platforms) 
+
+
+Personal information categories listed in the California Customer Records statute, including telephone numbers and credit and debit card information. 
+	
+
+Directly from individuals
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers 
+
+	
+
+Protected classification characteristics under California or federal law, including sex/gender expression. 
+	
+
+Directly from individuals
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers 
+
+	
+
+Commercial information, including items purchased, obtained, or considered.  
+	
+
+Directly from individuals
+
+Through automated means 
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers
+
+    Our Analytics Providers 
+
+	
+
+We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:
+
+    Our Advertising and Analytics Partners and Providers (including social media platforms)
+
+Biometric information, including images that are used for the purpose of uniquely identifying individuals. 
+	
+
+Directly from individuals 
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers
+
+	
+
+Internet or other electronic network activity information, including internet browsing history, search history, and interactions with the Digital Services and advertisements.  
+	
+
+Through automated means
+
+Third-party sources
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers
+
+    Our Analytics Providers
+
+	
+
+We have sold or shared this category of information in the past 12 months to or with the following categories of third parties:
+
+    Our Advertising and Analytics Partners and Providers (including social media platforms)
+
+Activity data, such as activity logged, distance covered, hardware used and/or other similar data related to your activity
+	
+
+Directly from individuals 
+
+Through automated means 
+
+Third-party sources
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers
+
+	
+
+Geolocation data, such as IP location and other geolocation data, including precise geolocation data. 
+	
+
+Through automated means
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers 
+
+    Our Analytics Providers 
+
+	
+
+Audio, electronic, visual, thermal, olfactory, or similar information, including photographs and other recordings.  
+	
+
+Directly from individuals 
+
+Third-party sources 
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers
+
+	
+
+Sensitive personal information, including account log-in information in combination with passwords; biometric data; health information; and  precise geolocation information. 
+	
+
+Directly from individuals
+
+Through automated means
+	
+
+We have disclosed this category of information for a business purpose in the past 12 months to the following categories of third parties:
+
+    Our Service Providers 
+
+    Our Analytics Providers
+
+	
+
+Inferences drawn from the information identified above to create a profile and activity feed for you reflecting your preferences, characteristics, and activities. 
+	
+
+Directly from individuals
+	
+
+We disclose this category of information to other consumers through our activity feeds, and third-party service providers and analytics providers.
+	
+
+Purposes for Collecting Personal Information
+
+As described in more detail in the “Personal Information Use” section above, we collect personal information to provide and manage the Services, fulfill our contractual obligations to you, and achieve a variety of legitimate business or commercial purposes.
+
+Disclosures of Personal Information
+
+As detailed in the “Personal Information Disclosure” section above, we disclose personal information to fulfill the purposes described above. We will also disclose certain categories of personal information to competent governmental and public authorities and other third parties as necessary or appropriate, including when we have a legal or contractual obligation to disclose the information.
+
+Sale and Sharing of Personal Information
+
+As detailed in the chart above, we “sell” and “share” (as such terms are defined in the CCPA) certain categories of personal information to and with third parties and have “sold” and “shared” certain categories of personal information in the past twelve (12) months for analytics and advertising purposes. Please refer to the chart above for additional details. Our business model is not focused on selling data; however, in certain cases our marketing partners may receive information when they run digital advertising on our platform that enables them to access certain data about your use of our site. Under CCPA, our use of these services may constitute a “sale” of personal information.
+
+We do not “sell” or “share” the personal information of individuals we know to be under 16 years of age.
+
+Use and Disclosure of Sensitive Personal Information
+
+As detailed in the chart above, we collect certain “sensitive personal information” (as defined in the CCPA). However, we do not use or disclose such information for any purpose outside of the limited permissible purposes set forth in the regulations implementing the CCPA. Such purposes including providing the Services and verifying, maintaining the quality of, and improving the Services.
+
+We retain each category of personal information that we collect for as long as necessary to fulfill the purposes described in this Privacy Policy, including to satisfy legal or reporting requirements.
+
+“Shine the Light”
+
+In addition to the above rights, under California Civil Code Section 1798.83 (“Shine the Light”), California residents may have the right to request in writing from businesses with whom they have an established business relationship: (a) a list of the categories of personal information, as defined under Shine the Light, such as name, email address, and mailing address, and the type of services provided to the customer that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes; and (b) the names and addresses of all such third parties. To request the above information, please contact us by email at privacy@outsideinc.com. If you do not want your personal information shared with any third party who may use such information for direct marketing purposes, then you may opt out of such disclosures by sending an email to us at privacy@outsideinc.com.
+COLORADO, CONNECTICUT, DELAWARE, IOWA, NEBRASKA, NEW HAMPSHIRE, NEW JERSEY, OREGON, TEXAS, UTAH, VIRGINIA, MONTANA, MINNESOTA & TENNESSEE PRIVACY NOTICE
+
+
+Notice of Collection
+
+To learn more about the categories of personal data, including sensitive personal data, we collect about you and how we use it, please see the section “Personal Information We Collect” above. To learn more about how we use that information, please see the section “Personal Information We Use” above. To learn more about the categories of third parties with whom we may share your personal data, please see “Personal Information Disclosure” above.
+
+Your Privacy Rights
+
+You have the right to submit a request to know, delete, correct (except Utah residents), and to opt-out of the sale or processing of your personal data for targeted advertising purposes. If you live in Delaware, you have the right to obtain a list of the of categories of third parties to which we have disclosed personal information. If you live in Oregon, you also have a right to request a list of specific third parties to which Outside has disclosed your personal data. You also have a right to appeal a denial of any of these requests. To learn more about these rights, see “Your Choices and Legal Rights” above.
+CONSUMER HEALTH DATA PRIVACY NOTICE
+
+If you are a Washington or Nevada resident, the following disclosures are provided to you pursuant to the Washington MY Health MY Data Act and Nevada’s SB 370, respectively (collectively, “Consumer Health Data Laws”). For the purpose of this section, the phrase “consumer health data” means personal information that is linked or reasonably linkable to you and that identifies your past, present, or future physical or mental health status. Physical health status      includes individual health conditions or treatment, or bodily functions, vital signs, symptoms, or measurements of health information.
+
+Categories of Consumer Health Data We Collect      
+
+When you use the Services, including to voluntarily provide us access to your devices, as further described in the “Personal Information from Linked Accounts” section above, we may collect information about your physical activity and physical health. This may include fitness data, your physical movements, and/or other data you provide us such as physiological data and/or data related to your lifestyle (including activity logged, distance covered, hardware used and/or other similar data related to your activity).
+
+Using Consumer Health Data
+
+We use your consumer health data to provide you with access to our Services, to allow you to access such data through our platforms, and to otherwise understand how users engage with our Services. We may also use consumer health data to prevent, detect, protect against, investigate, and respond to security incidents and fraudulent or other malicious or illegal conduct and to preserve the integrity and security of our products and services.
+
+Disclosing Consumer Health Data
+
+We disclose your consumer health data only to our service providers as described in the “Personal Information Disclosure” section above.We do not “sell” or otherwise “share” consumer health data, as those terms are defined under Consumer Health Data Laws. 
+
+Consumer Health Data Rights
+
+Under Consumer Health Data Laws, you have the following rights:
+
+    The right to confirm our collection and sharing of consumer health data about you and to access such data, including a list of third parties with whom we have shared consumer health data;
+
+    The right to request that we delete your consumer health data; and
+
+    The right to review and make or request changes to your consumer health data.
+
+To exercise these rights, please email privacy@outsideinc.com with your request. Please note that we may take reasonable steps to verify your identity in connection with the request. If we refuse to act on your request, you may appeal such decision by following the instructions we provide in our response. Under Consumer Health Data Laws, you may also have the right to withdraw consent for certain uses of consumer health data and to obtain a list of third parties and affiliates to whom your consumer health data has been “sold.”  Outside does not engage in such activities. If this changes, we will update this policy and provide you appropriate rights.
+NEVADA PRIVACY NOTICE
+
+If you are a Nevada resident, you have the right to submit a request directing us not to make any sale of your personal information. We do not sell your personal information as defined under Nevada law. However, to request email confirmation that we do not sell your personal information, please e-mail privacy@outsideinc.com with “Nevada Opt-Out of Sale” in the subject line and in the body of your message. We will provide the requested information to you via an email response.
+EUROPEAN PRIVACY NOTICE
+
+IF YOU ARE SITUATED IN THE EUROPEAN ECONOMIC AREA, SWITZERLAND, OR THE UNITED KINGDOM, THIS SECTION APPLIES TO OUR COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AND ADDITIONAL RIGHTS YOU HAVE UNDER APPLICABLE LAW.
+
+Role and Data Controller Contact Details
+
+The General Data Protection Regulation (“GDPR”) and other related laws distinguish between organizations that process personal information for their own purposes (known as “controllers”) and organizations that process personal information on behalf of other organizations (known as “processors”).
+
+We act as a controller with respect to personal information collected from you as you engage with our Services. If you have questions with respect to our processing of your information as a controller, you can contact us by email at the email address set forth in the section entitled “How To Contact Us” below.
+
+Lawful Basis for Processing
+
+The GDPR and related laws require a “lawful basis” for processing personal information. Our lawful bases include the following:
+
+    Consent: We may collect, use, and disclose your personal information on the basis of the consent that you provide us at the point of information collection or disclosure.
+
+    Contractual necessity: We may collect and use certain personal information where it is either necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract. This may include personal information used to provide you with the Services and related transaction information.
+
+    Compliance with a legal obligation: We are subject to various legal requirements in the jurisdictions in which we operate, and we may use, disclose, and retain your personal information if necessary for us to comply with a legal obligation arising under an applicable law to which we are subject.
+
+    Legitimate interests: We may collect and use your personal information to the extent necessary to carry out our legitimate interests (or those of a third party), provided that such interests do not outweigh your interests or fundamental rights and freedoms. For example, we may collect and use your personal information in reliance on a legitimate interest in managing our relationship with you; conducting and managing our business; providing you with customer support; developing and enhancing the Services; detecting and preventing fraud and other harmful activities; and monitoring and maintaining the security of our information, systems, and networks.
+
+Onward Transfer
+
+Outside is a global business and it, or its service providers, may process, transfer, and store personal information on servers located in a number of countries inside of the EEA (e.g., Germany) and UK or outside of the EEA and UK, including in the United States and Canada. Since we are committed to protecting your personal information, we take steps to ensure that there are appropriate safeguards in place when we transfer personal information across international borders. Please be advised that we may be required to disclose your personal information in response to lawful requests by public authorities in the United States, including to meet national security or law enforcement requirements. If the GDPR applies and your data is transferred outside the UK or the EEA to the United States or any other country, we will transfer your personal information subject to appropriate safeguards, such as an adequacy decision by the European Commission on the basis of Article 45 of Regulation (EU) 2016/679 or Standard Contractual Clauses, as provided from time to time by the European Commission. You can receive additional information about where your personal information is transferred and the appropriate safeguards by contacting us. 
+
+Your Data Subject Rights
+
+Your Rights. If you are a data subject under the GDPR or similar jurisdictions, subject to certain conditions, you have the right to:
+
+    Access, rectify, or erase any personal information we process about you;
+
+    Data portability – that is, asking us to transfer your personal information to any third party of your choice;
+
+    Restrict or object to our processing of your personal information; and
+
+    Where applicable, withdraw your consent at any time for any processing of your personal information.
+
+Please see “Your Legal Rights” above for more information on how to exercise these rights.
+
+Complaints
+
+If you have a complaint about our use of your personal information or our response to your request(s) regarding your personal information, you may submit a complaint to the Data Protection Supervisory Authority in your jurisdiction. We would, however, appreciate the opportunity to address your concerns before you approach a data protection regulator and welcome you to first direct an inquiry to us. In addition to our contact details set out above, you can also contact our Designated Individual Overseeing Compliance of this Privacy Policy by following the “How To Contact Us” section below.
+5. THIRD-PARTY SERVICES
+
+The Digital Services may include links to or integrations with third-party websites and/or offer you the ability to interact with social plug-ins from social media platforms. We have no control over the personal information that is collected, stored, or used by third-party websites or social media platforms, and we are not responsible for their information handling or privacy practices. Your use of these third-party services is subject to each provider’s privacy policy, so we encourage you to read these policies carefully.
+
+Trailforks uses YouTube API Services provided by Google. Your use of the YouTube services on Trailforks is subject to YouTube's privacy policy. For details on how YouTube handles data, refer to YouTube's Privacy Policy athttp://www.google.com/policies/privacy.
+6. CHILDREN’S PRIVACY
+
+Protecting children’s privacy is important to us. We do not direct the Services to, nor do we knowingly collect any personal information online from children under the age of 16. Please contact us if you are a parent or guardian of a child under the age of 16 and you believe that we may have collected personal information online from your child. If we learn that a child under the age of 16 has provided personal information online through the Services, we will use reasonable efforts to delete such information.
+7. INFORMATION RETENTION
+
+We will retain your personal information as long as necessary to fulfill the purposes outlined in this Privacy Policy, including to satisfy our legal or reporting requirements, unless a longer retention period is required or allowed under law.
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of personal information; the potential risk of harm from unauthorized use or disclosure of the personal information; the purpose for which we use the personal information; whether we can achieve the purposes through other means; and the applicable legal requirements.
+
+If we de-identify information, we will maintain and use the information in de-identified form and not attempt to re-identify the information except as required or permitted by law.
+8. INFORMATION SECURITY
+
+Personal information is maintained on our servers or those of our vendors, and is accessible by authorized employees, independent contractors, representatives, and agents as necessary for the purposes described in this Privacy Policy. We take reasonable and appropriate physical, administrative, and technical steps to safeguard the personal information we collect from and about our customers and users of the Services. However, no security system is perfect, and we cannot guarantee the absolute security of your personal information. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by following the “How To Contact Us” section below.
+9. REVISIONS TO THIS PRIVACY POLICY
+
+We reserve the right, in our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. The “Effective Date” at the top of this page indicates when this Privacy Policy was last revised. When we make changes, we will revise the date at the top of this page to reflect the date such changes occurred. If we change the Privacy Policy in a material way, we will provide you with appropriate notice before such changes take effect. Unless otherwise stated, your continued use of the Services following the posting of a revised version of this Privacy Policy constitutes your acceptance of the changes.
+10. HOW TO CONTACT US
+
+Outside Interactive, Inc. is the controller and business responsible for processing your personal information as set forth in this Privacy Policy, except as expressly noted herein.
+
+If you have any questions about this Privacy Policy or our information handling and privacy practices, you may contact us at privacy@outsideinc.com or by mail to 5565 Arapahoe Ave, Unit F, Boulder, CO 80303.

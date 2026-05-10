@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-03-27T14:05:39.005322+00:00",
+  "model": "openai/gpt-5.4-mini",
+  "temperature": 0,
+  "policy_sha256": "5d36bbe866baa989084f2ce463e45d6e692dddd7914a28d646519b3cc13a247a",
+  "system_prompt_sha256": "eeb4bc1bbb9690a7aaf0ce250be5d3cbdd55b2b85e9ce08d92331410581718dd",
+  "section_prompt_template_sha256": "451fa10b0eb611b5b47fe8ba078cba43206fcbf6cd82de78f76ec8ce242ac8e9",
+  "openrouter_url": "https://openrouter.ai/api/v1/chat/completions",
+  "policy_path": "policies_main_experiment\\apple_health_app.txt"
+}

@@ -1,0 +1,168 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services",
+    "the Platform"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "User Content. We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings, livestreams, comments, hashtags, feedback, reviews, and the associated metadata",
+        "purpose": "This explicitly states collection of photographs, videos, audio recordings, and livestreams, which are physical data because they capture a person’s external characteristics, appearance, or movements. The policy states this is collected as user content through the Platform.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy lists broad categories of physical data collected, including photographs, videos, audio recordings, livestreams, location information, and detected body-part features. It does not provide concrete limits showing that only the minimum necessary physical data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your Account Information, User Content, and Messages.",
+        "purpose": "This explicitly says User Content is kept for as long as the user has an account. Because photographs, videos, audio recordings, and livestreams are included in User Content, this shows physical data is stored."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Delete your information. You can delete or ask us to delete your information. In-app controls enable you to:\n\n    delete the content posted on your account, such as your User Content and your Account Information.\n    delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "share User Content you publish on the Platform on other social media platforms, we will share your User Content and related information.",
+        "purpose": "This explicitly states that User Content is shared on other social media platforms. Since User Content includes photographs, videos, audio recordings, and livestreams, physical data is shared for content sharing features.",
+        "legal_basis": "Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy states that physical data such as photographs, videos, audio recordings, livestreams, and location-related content is collected, kept, and shared. Risks include broad reuse of user content across sharing, moderation, analytics, and global transfer contexts, including transfers to entities and third parties outside the user’s country of residence."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Usage Information. We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "This explicitly states collection of behavioral data about user interactions, usage patterns, engagement, and search history. The policy says this information is used to operate, personalise, improve, secure, and analyse the Platform.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data, including interaction with content and ads, duration and frequency of use, engagement with other users, search history, and activities on other websites and apps. It does not provide concrete limits showing that only the minimum necessary behavioral data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your Account Information, User Content, and Messages.",
+        "purpose": "This explicitly states that some user information is kept for as long as the user has an account. Behavioral data is part of the information processed to provide the Platform, but the snippet does not specify a narrower behavioral-data-only retention period."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Delete your information. You can delete or ask us to delete your information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Measurement and Data Partners. We share Information You Provide, Technical Information and Usage Information with third party measurement providers who create aggregate reports that help us measure advertising served on the Platform and help our advertisers understand their effectiveness and their audience.",
+        "purpose": "This explicitly states sharing of Usage Information, which is behavioral data, with third party measurement providers for advertising measurement and audience understanding.",
+        "legal_basis": "Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy states that behavioral data such as engagement, search history, and use patterns is collected and shared with measurement providers, and that information may also be received about activities outside the Platform. The policy also states that information is stored globally and shared with third parties outside the user's country of residence, which increases exposure and transfer-related privacy risks."
+    }
+  }
+}

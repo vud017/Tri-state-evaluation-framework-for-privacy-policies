@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "Effective: April 7, 2025",
+  "products_covered": [
+    "Snapchat app",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specifically address biometric data collection limits or explain why any biometric data would be necessary. It contains only broad collection statements and no biometric-specific minimization controls."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specifically mention health data collection or provide concrete limits showing that any health-related data is collected only when necessary. It describes broad collection of account, usage, device, location, and content information, but not a health-data-specific minimization rule."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not identify health data as a collected category, so there is no explicit health-data-specific sharing or retention risk described. However, the policy allows broad collection and use of other information types, and health-related information could potentially appear incidentally within general content or communications."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting physiological data at all, so it provides no concrete limits or necessity justification for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This also includes device information (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), location information (IP address), information collected by cookies and similar technologies, depending on your settings, (cookies, pixels (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and log information (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+        "purpose": "The policy says this information is collected to operate, deliver, maintain, personalize, and analyze the Services, and to support ads and safety/security functions.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of device, location, and sensor information, plus cookies, logs, and related data. It does not set concrete limits on physical data collection or explain why each physical-data element is strictly necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "If we need the information to operate or provide our Services. For example, we store your basic account details — like your name, phone number, and email address — to maintain your account.",
+        "purpose": "The policy states information is stored to operate or provide the Services and to maintain accounts."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law. For example, if you store something in Memories, we will keep it as long as you need it, but when you Chat with a friend, our systems are designed to delete Chats you send within 24 hours after your friend reads it (unless you’ve changed your default settings or decide to save it).",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services.",
+        "purpose": "The policy says the information is shared with service providers to facilitate payments, measure and optimize ads, and protect the services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy allows broad collection of physical data-related information, including device sensors, camera, microphone, and precise location. It also says such information may be shared with service providers and transferred to the United States or other countries outside where the user lives."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters)",
+        "purpose": "The policy says this information helps Snapchat better understand how the community uses its Services so it can make improvements, and it is also used for personalization, advertising, analytics, research, and safety.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy says Snapchat does not want to use more personal information than necessary to develop features and models, but it does not give concrete limits on behavioral data collection. It also describes broad collection of usage, content, and log information."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "purpose": "The policy states behavioral information is kept to provide services, satisfy user choices, and comply with legal requirements."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "our systems are designed to delete Chats you send within 24 hours after your friend reads it (unless you’ve changed your default settings or decide to save it).",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations.",
+        "purpose": "The policy says sharing can occur to cooperate with law enforcement, escalate safety issues, and comply with legal obligations.",
+        "legal_basis": "legal obligations",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral information is collected broadly through usage, content, and log data, including how users interact with the service, what they view, and how often they interact with others. The policy also describes use of this data for personalization, advertising, analytics, and model training, and it may be shared for legal and safety reasons or transferred outside the user’s country."
+    }
+  }
+}

@@ -1,0 +1,319 @@
+Privacy Policy
+
+Last Updated: June 18, 2025
+
+This Privacy Policy (“Privacy Policy” or “Policy”) explains how Zwift, Inc. ( “Zwift,” or “we,” or “us,” or “our”) collects personal information based on your interactions with us online, including on our websites and applications to provide our virtual cycling and running experiences and other workout games, including, the Zwift App, the Zwift Companion App and Zwift Power, hardware, and other services (the “Services”). This Policy applies to our collection and use of personal information in connection with the Services offered in the United States and describes rights you may have with respect to your personal information we collect about you. By using our Services and otherwise interacting with us, you agree to the terms of our Terms of Service, including this Policy.
+
+This Policy does not cover the personal information we collect about employees and independent contractors, or job applicants.
+
+Our Washington consumer health data policy can be found here.
+
+Our privacy policy that applies in the UK and EU can be found here.
+
+Notice at Collection: Personal Information We Collect
+
+We collect the following categories of personal information:
+
+•Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log in information and password; IP address
+
+•Protected class information: age; gender (self-identified)
+
+•Customer record information: height, weight, and health information such as heart rate, total output and calories burned during your workout; participation or registration in cycling events; race results and cycling performance information (e.g., rankings, ride-related information); information relating to in-app chats and other communications with Zwift users
+
+•Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+•Financial information: method of payment and payment-related information
+
+•Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+
+•Professional information: job title; information about your employer
+
+•Audio and visual information: recordings of customer service calls for quality assurance purposes; profile pictures; avatars; information about screen shots you take
+
+•Inferences drawn from personal information we collect
+
+•Sensitive personal information: account log in information and password; health-related information such as your height, weight, heart rate
+
+•Location information: in order to allow Bluetooth pairing if you choose to connect Zwift to your smart fitness device via Bluetooth, geolocation information
+
+We have collected the same categories of personal information in the 12 months prior to the date of this Privacy Policy.
+Notice at Collection: Purposes for Collection of Personal Information
+
+We collect your personal information for the following purposes:
+Categories of Consumers’ Personal Information 	Purposes for Collection
+
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address;
+
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+Financial information: method of payment and payment-related information
+
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+
+Audio and visual information: recordings of customer service calls for quality assurance purposes; profile pictures; avatars; information about screen shots you take
+	To provide our Services to you, to fulfill customer orders and requests, to contact you from time to time, to provide you with information about our business, for customer support, and to respond to your inquiries
+
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address
+
+Protected class information: age; sex/gender
+
+Customer record information: height, weight, and health information such as heart rate, core body temperature, total output and calories burned during your workout; participation or registration in cycling events; race results and cycling performance information (e.g., rankings, ride-related information); information relating to in-app chats and other communications with Zwift users
+
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+
+Sensitive personal information: account log in information and password; health information, including information sent by connected third-party devices, such as your height, weight, heart rate, respiratory metrics, and information related to your workouts
+	To customize your experience; Performance verification information
+
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address
+
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+Financial information: method of payment and payment-related information
+
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+
+Inferences drawn from personal information collected
+	To deliver advertisements and marketing promotions and offers about products we think may be of interest to you; to facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards; and to audit and analyze the placement and effectiveness of our advertisements and other marketing efforts
+
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address
+
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+Financial information: method of payment and payment-related information
+
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+
+Audio and visual information: recordings of customer service calls for quality assurance purposes; profile pictures; avatars; information about screen shots you take
+	To monitor or improve our Services and for internal business analysis
+
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address
+
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information
+
+Financial information: method of payment and payment-related information
+
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services
+	To prevent fraud, activities that violate our Terms of Service or other contracts, or that are illegal; and to protect our rights and the rights and safety of our users or others
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address 	For those who interact with us in a commercial capacity, to engage in business transactions with the entity you represent and market to or engage in diligence with the entities you represent
+
+Notice at Collection: Categories of Personal Information We Sell or Share and Related Information
+
+When we engage in digital advertising, we may sell the following categories of personal information (according to the broad definition of “sell” under select state privacy laws) and share them for purposes of cross-context behavioral advertising: personal identifiers (IP address) and internet or other electronic activity information.
+
+These categories of personal information are sold to or shared for cross-context behavioral advertising to advertising networks and other companies that facilitate digital advertising. We engage in such sales and sharing to facilitate digital advertising that is able to reach people that are most likely to be interested in the Services we provide. We do so by allowing third parties to place cookies or other tracking technologies on our website that may collect information about your online activities over time and across different websites or applications. For more information about the use of cookies and other tracking technologies, see the section “Our Use of Cookies and Analytics” below.
+
+We do not sell or share for cross-context behavioral advertising any of the other categories of personal information we collect.
+
+Notice at Collection: Retention Periods
+
+We generally retain the categories of personal information we collect for the length of time necessary to provide our Services and to comply with legal obligations or to protect our legal rights.
+
+We retain information about your use of the Services until you delete your account with us. Personal information included in in-app chats is deleted after 90 days.
+
+Sources From Which We Collect Personal Information
+
+We collect personal information directly from you, from devices and hardware you use to access or choose to link to our Services, from other users who may include you on their team, and representatives of entities with which we do business or may do business, and from tracking technologies such as cookies, web beacons, and pixels. We may also collect information about you from social media sites you use to log into your account or from other fitness services that you authorize to share your information with us.
+
+Use or Disclosure of Sensitive Personal Information
+
+We do not use or disclose sensitive personal information to create profiles about individuals or for any purposes other than providing our Services.
+
+No Profiling to Facilitate Decisions with Legal or Other Significant Effects
+
+We do not engage in the automated processing of personal information to create profiles about individuals that are used in furtherance of decisions with legal or other similarly significant effects, such as the provision or denial of financial or lending services, housing, insurance, or access to essential goods or services.
+
+Categories of Third Parties With Whom We Share Personal Information
+
+We share personal information with the following categories of entities that do not operate as our processors and are not our affiliates: advertising networks and other companies that facilitate digital advertising for us and other parties.
+
+Disclosure of Personal Information For Business Purposes in the Past 12 Months
+
+The following chart describes the categories of personal information we disclosed for a business purpose in the 12 months prior to the date of this Policy:
+Categories of Consumers’ Personal Information 	Categories of Entities to Which We Disclosed Personal Information for Business Purposes
+Personal identifiers: name; date of birth; email address; your home or billing address; telephone numbers; customer number; account log-in information and password; IP address 	Service providers that process payments; verify customer information; manage customer information and provide customer service (including through our call center); fulfill orders; facilitate email communications; facilitate contests, sweepstakes, and promotions; provide security services and cloud-based data storage; host our website and assist with other IT-related functions; advertise and market our Services; provide analytics information; and provide legal and accounting services. Certain personal identifiers are also shared with other Zwift users and any third-party fitness apps connected to your Zwift account
+Protected class information: age; sex/gender 	Service providers that manage customer information, advertise and market our products; provide analytics information, including performance verification services. Age and sex/gender information may be shared with other Zwift users and any third-party fitness apps connected to your Zwift account
+Customer record information: height, weight, and health information such as heart rate, total output and calories burned during your workout; participation or registration in cycling events; race results and cycling performance information (e.g., rankings, ride-related information); information relating to in-app chats and other communications with Zwift users 	Service providers that process payments; verify customer information; manage customer information and provide customer service (including through our call center); fulfill orders; facilitate email communications; provide security services and cloud-based data storage; host our website and assist with other IT-related functions; advertise and market our Services; provide analytics information, including performance verification services; review chat data to ensure compliance with Terms of Service; and provide legal and accounting services. Certain personal identifiers are also shared with other Zwift users and any third-party fitness apps connected to your Zwift account
+Commercial information: information regarding the Services with which you engage, including rides or runs taken, participation in Zwift Academy and other events; in-app shopping histories including products ordered or considered; and payment information 	Service providers that process payments; verify customer information; manage customer information and provide customer service (including through our call center); fulfill orders; facilitate email communications; provide security services and cloud-based data storage; host our website and assist with other IT-related functions; advertise and market our Services; provide analytics information, including performance verification services; and provide legal and accounting services. Certain personal identifiers are also shared with other Zwift users and any third-party fitness apps connected to your Zwift account
+Financial information: method of payment and payment-related information 	Payment processors
+Internet or other electronic activity information: information about your computer or mobile application and browsers you use to access our Services; mobile network information; app version you use; your browsing and search history on our Services; log information about your use of the Services; and information regarding your interaction with our Services 	Service providers that provide security services and cloud-based data storage; host our website and assist with other IT-related functions; advertise and market our products; and provide analytics information, including performance verification services
+Audio and visual information: recordings of customer service calls for quality assurance purposes; profile pictures; avatars; information about screen shots you take 	Service providers that manage customer information and provide customer service (including through our call center)
+Inferences drawn from personal information collected  	Service providers that advertise and market our Services; provide analytics information, including performance verification services
+Sensitive personal information: account log in information and password; health information such as your height, weight, heart rate, and information related to your workouts 	Service providers that verify customer information; manage customer information and provide customer service (including through our call center); fulfill orders; facilitate email communications; provide security services and cloud-based data storage; host our website and assist with other IT-related functions; advertise and market our Services; provide analytics information, including performance verification services; review chat data to ensure compliance with Terms of Service; and provide legal and accounting services. Certain personal identifiers are also shared with other Zwift users and any third-party fitness apps connected to your Zwift account
+
+Business Purposes for Such Disclosures
+
+We disclosed the aforementioned categories of personal information to the categories of third parties identified above for the following purposes: to manage customer, supplier and vendor accounts and relationships; process payments; verify customers’ identities; fulfill orders and transactions; engage in advertising and marketing; provide you with our Services, including performance verification services, and facilitate any information sharing directed by you; operate our IT systems and secure our systems; prevent fraud and other illegal activities; and to obtain professional advice about legal and accounting matters.
+
+Additional Information About How We May Disclose Personal Information and Purposes for Disclosures
+
+We may also disclose your personal information as required or permitted by law to comply with a subpoena or similar legal process or government request, or when we believe in good faith that disclosure is legally required or otherwise necessary to protect our rights and property or the rights, property or safety of others, including to law enforcement agencies, and judicial and regulatory authorities. We may also disclose your personal information to third parties to help detect and protect against fraud or data security vulnerabilities. And we may disclose or transfer your personal information to a third party in the event of an actual or potential sale, merger, reorganization of our entity or other restructuring.
+
+Our Use of Cookies and Analytics
+
+We may use cookies, pixel tags, web beacons and other similar tracking technologies (“tracking technologies”) to automatically collect information through our Services. Tracking technologies are small data files placed on your computer, tablet, mobile phone, or other devices that record certain pieces of information when you visit our website. We may use these tracking technologies to help identify irregular behavior, prevent fraudulent activity and improve security, as well as making it possible for you to save your preferences and help us understand how you interact with our website.
+
+We also allow third parties to use tracking technologies on our websites and applications for analytics and advertising purposes. They assist in helping display advertisements, tailor advertisements to your interests and to assist in determining if you require assistance or are having problems navigating on our website. Some of these third parties use the tracking technologies to collect information about how you interact with other websites and advertisements across the Internet in order to provide advertising that is tailored to your interests and which may appear on our website or on other website or platforms.
+
+You may set your browser to notify you when you receive a cookie. Many web browsers also allow you to block cookies. You can disable cookies from your computer system by following the instructions on your browser or at www.allaboutcookies.org.
+
+We use Google Analytics to evaluate the use of our website. Google Analytics uses cookies and other identifiers to collect information, such as how often users visit a Site, what pages they visit when they do so, and what other websites they visited prior to visiting our Site. For information about Google’s privacy practices, please refer to the Google Privacy Policy: https://policies.google.com/privacy?hl=en-US#infocollect.
+
+Personal Information of Minors
+
+While children can use our Services, we do not direct our Services to children under age 16 and are not registering new accounts for users who are under the age of 16. If your child who is under the age of 16 has an existing account please review our direct notice to parents. Our separate Zwift Children’s Privacy Policy explains the limited ways in which we will use and share your child’s data, as well as the rights you have with respect to that data. If you believe a child under 16 has submitted personal information to us without their parent’s consent, please contact us at privacy@zwift.com and we will use our best efforts to promptly remove such information from our files.
+
+We do not knowingly sell or share for purposes of behavioral advertising the personal information of minors, including minors under 16 years of age.
+
+Do Not Track and Other Universal Opt Out Signals
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals.
+
+We observe the Global Privacy Control (“GPC”) signal with respect to all IP addresses in the US. If you use a browser or a plug-in that recognizes the Global Privacy Control universal opt-out preference signal (“GPC”), we will recognize the signal as applied to the browser and device from which the signal is sent. Browsers and extensions that currently recognize the signal can be found here: https://globalprivacycontrol.org/#download. We recognize the GPC signal in a “frictionless” manner, which means we do not collect additional information from you in order to associate the GPC signal with your account.
+
+How We Keep Your Personal Information Secure
+
+We implement and maintain reasonable security appropriate to the nature of the personal information that we collect, use, retain, transfer or otherwise process. However, there is no perfect security, and reasonable security is a process that involves risk management rather than risk elimination. While we are committed to maintaining a reasonable information security program, no such program can be perfect; in other words, all risk cannot reasonably be eliminated. Data security incidents and breaches can occur due to factors that cannot reasonably be prevented. Accordingly, it cannot be assumed that the occurrence of any given incident or breach results from our failure to implement and maintain reasonable security.
+
+Third Party Websites, Applications and Social Media Platforms
+
+The Services may offer social sharing features, links to third-party websites or applications, and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media or visit the websites of other businesses. Your use of social sharing features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. While we may include opportunities to use or connect to these third-party features or third-party websites and applications, we do not control these sites and are not responsible for their data use practices or their use of your information. Please review those entities’ privacy policies for information about how they collect, use and share your personal information.
+
+Changes to This Policy
+
+We will review and update this Policy from time to time. If changes are made, we will update the Privacy Policy and reflect the date of such modification in the date above. If the changes are material, you will be notified via email or a notice on our website.
+
+Accessibility
+
+We are committed to ensuring that our communications are accessible to people with disabilities. To make accessibility-related requests or report barriers, please contact us at info@zwift.com.
+
+Contact Us
+
+If there are any questions regarding this Privacy Policy or to request a copy of this Privacy Policy in another format you may contact us at privacy@zwift.com.
+
+You can also contact us here:
+
+•111 West Ocean Blvd. Suite 1800, Long Beach, CA 90802 USA
+
+US State Data Privacy Rights
+
+Laws in certain US states give residents of those states specific rights with respect to the personal information collected about them. See below for more information.
+
+CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, the California Consumer Privacy Act (“CCPA”) and other laws provide you with the following rights with respect to your personal information:
+
+Your Right To Know About Personal Information We Collect
+
+You can ask us for the following information from us with respect to the personal information we have collected about you since January 1, 2022:
+
+•Specific pieces of personal information we have collected about you;
+
+•Categories of personal information we have collected about you;
+
+•Categories of sources from which such personal information was collected;
+
+•Categories of personal information that the business sold or disclosed for a business purpose about the consumer;
+
+•Categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+
+•The business or commercial purpose for collecting or selling your personal information.
+
+Your Right To Request Deletion of Personal Information We Have Collected From You
+
+Upon your request and subject to exceptions in the law, we will delete the personal information we have collected from you.
+
+Your Right to Request to Correct Personal Information We Hold About You
+
+You have the right to request that we correct personal information we hold that you believe is not accurate. We will take steps to determine the accuracy of the personal information that is the subject of your request to correct, and in doing so will consider the totality of the circumstances relating to the personal information you have identified as being incorrect. We may ask that you provide documentation regarding your request to correct in order to assist us in evaluating the request.
+
+Your Right to Ask Us Not to Sell or Share Personal Information We Have Collected About You
+
+With respect to those categories of personal information that we sell to third parties or share with third parties for the purpose of cross-context behavioral advertising, you have the right to opt out of such sales and sharing.
+
+California Shine the Light
+
+California Civil Code Section 1798.83, also known as the “Shine the Light” law, permits California residents to annually request, free of charge, information about the personal information (if any) disclosed to third parties for direct marketing purposes in the preceding calendar year. To make a request, please contact us at privacy@zwift.com.
+
+Our Commitment to Honoring Your Rights
+
+If you exercise any of the rights explained in this Privacy Policy, we will continue to treat you fairly. If you exercise your rights under this Privacy Policy, you will not be denied or charged different prices or rates for goods or services, or provided a different level or quality of goods or services than others.
+
+Exercising Your Rights and How We Will Respond
+
+To exercise your rights to know, delete or correct your personal information, or to ask a question, contact us at privacy@zwift.com. For such requests, we will first acknowledge receipt of your request within 10 business days of receipt of your request. We will then provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request in certain jurisdictions or under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+
+You can direct us not to sell your personal information or share it for purposes of cross-context behavioral advertising here.
+
+If you use a browser or a plug-in that recognizes the Global Privacy Control universal opt-out preference signal (“GPC”), we will recognize the signal as applied to the browser and device from which the signal is sent. Browsers and extensions that currently recognize the signal can be found here: https://globalprivacycontrol.org/#download. We recognize the GPC signal in a “frictionless” manner, which means we do not collect additional information from you in order to associate the GPC signal with your account.
+
+We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
+Verification of Identity – Requests to Know, Delete or Correct
+
+We will ask you for two pieces of personal information and attempt to match those to information that we maintain about you.
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+Authorized Agents
+
+You may designate an agent to submit requests on your behalf. The agent can be a natural person or a business entity.
+
+If you would like to designate an agent to act on your behalf, you and the agent will need to comply with our verification process:
+
+•Requests to Know, Delete or Correct Personal Information: If the agent submits a request, the agent will need to provide us with your signed permission indicating the agent has been authorized to submit the request on your behalf. We will also require that you verify your identity directly with us or confirm with us that you provided the agent with permission to submit the request.
+
+•Requests to Opt Out of Sale or Sharing: If the agent submits a request to opt out of the sale of your personal information or the sharing of your personal information for purposes of cross-context behavioral marketing, the agent will need to provide us with your signed permission indicating the agent has been authorized to submit the opt-out request on your behalf.
+
+Please note that this subsection does not apply when an agent is authorized to act on your behalf pursuant to a valid power of attorney. Any such requests will be processed in accordance with California law pertaining to powers of attorney.
+
+OTHER STATE PRIVACY RIGHTS
+
+The laws of Colorado, Connecticut, Montana (effective October 1, 2024), Oregon (effective July 1, 2024), Texas (effective July 1, 2024), Utah, and Virginia grant residents of each state the following rights with respect to their personal information we collect:
+
+•Right to Know: The right to confirm whether or not we are processing their personal information and to access such data.
+
+•Right to a Copy: The right to a portable copy of the personal information we have collected from them, subject to certain exceptions.
+
+•Right to Delete: The right to request deletion of their personal information that we have collected about them and to have such information deleted, subject to certain exceptions.
+
+•Right to Correct: The right to ask that we correct inaccuracies in their personal information, taking into account the nature of personal data and purposes of processing such information. This is not a right that is available for residents of all states, including residents of Utah or Iowa.
+
+•Right to Opt Out of the Sale of Personal Information: To the extent we sell their personal information (consistent with the definition of sale in each law), the right to ask us to stop doing so.
+
+•Right to Opt Out of Targeted Advertising: The right to ask us to stop processing their personal information for targeted advertising.
+
+Oregon’s state data privacy law grants the following additional right to Oregon residents:
+
+•Right to Know Third Parties: The right to a list of third party entities to which we have disclosed personal information.
+
+Please note that for purpose of this section of this Policy, we consider “personal information” to have the same meaning as “personal data” as defined under the respective state laws.
+
+Exercising Your Rights and How We Will Respond
+
+If you are a resident of any of the states whose laws we are subject to and that law is currently in effect, you can direct us not to sell or process your personal information for purposes of targeted advertising here.
+
+To exercise other rights, contact us at privacy@zwift.com to exercise your rights under your state’s law, if currently in effect. We will respond to such requests within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.
+
+Our Commitment to Honoring Your Rights
+
+If you exercise any of the rights explained in this Privacy Policy, we will continue to treat you fairly. If you exercise your rights under this Privacy Policy, you will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services than others.
+
+Verification of Identity – Requests to Know, Obtain a Copy, Delete, Correct
+
+Depending upon the nature of the request, we will ask you for at least two pieces of personal information and attempt to match those to information that we maintain about you.
+
+If we are unable to verify your identity with the degree of certainty required, we will not be able to respond to the request. We will notify you to explain the basis of the denial.
+
+When We Do Not Act on a Request – Appeal Process
+
+In some cases, we may not act on your requests (e.g., if we cannot do so under other laws that apply). When this is the case, we will explain our reasons for not providing you with the information or taking the action (e.g., correcting data) you requested.
+
+Additionally, you have the right to appeal our decision by contacting us at same method used to submit requests within 30 days after your receipt of our decision. Please provide us with information we might need (e.g., reference number) to identify your request. We will respond to your appeal within 60 days of our receipt of the request.
+
+Authorized Agents
+
+You may designate an agent to submit an opt-out request on your behalf. If you would like to designate an agent to act on your behalf, we will use reasonable methods to validate their authority to submit a request on your behalf.
+
+Authorized agents can submit a request to opt out of sale or targeted advertising by contacting us at privacy@zwift.com or clicking here.

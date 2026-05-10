@@ -1,0 +1,132 @@
+Your privacy is our priority. The privacy protection of all Zepp Health products and services is centered around user needs and designed following applicable laws and regulations, such as GDPR, CCPA. We respect the privacy rights of all individuals and we are committed to handling your personal information responsibly and following the applicable law. Please take a moment to familiarize yourself with our privacy policy and let us know if you have any questions.
+
+Effective Date: August 9, 2024
+About This Privacy Policy
+
+At Zepp Health Corporation and its affiliates (hereinafter referred to as "Zepp Health", "we", "us" or "our"), we take the protection of personal information very seriously. The privacy protection of all Zepp Health products and services is centered around user needs and designed following applicable laws and regulations, such as GDPR, CCPA.
+Privacy Policy Application
+
+This Privacy Policy applies to the personal information collected and processed by Zepp Health's websites, such as www.zepp.com, www.amazfit.com, clarity.zepp.com, aura.zepp.com, https://docs.zepp.com/ or any other website that we operate which includes a link to this Privacy Policy (collectively, the “Sites”). This policy does not apply to any of the personal information that Zepp products or services process (e.g. Amazfit smartwatches, Zepp Life App, Zepp App etc.). Each Zepp product or service is subject to its own separate privacy policy and we encourage you to read each policy in detail. For the privacy policies of our Apps and smartwatches, please refer to: Zepp App and Zepp Life App.
+
+By visiting and using the Sites, or any of the services mentioned above, you agree to our collection, use, and disclosure of your information as outlined in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time. If any material changes occur, we will notify you by updating the Privacy Policy on the Sites and changing the Effective Date.
+
+Please review the Privacy Policy periodically to stay informed of any updates. Your continued use of the Sites and our services following any changes will be considered your acceptance of those changes.
+What Type of Information Do We Collect?
+
+The categories of personal information we collect depend on how you interact with our Sites.
+
+Information You Actively Provide: When you use our Sites, purchase products, register for an online account or reward program, sign up for marketing communications, participate in sweepstakes or surveys, submit information or posts on the Sites, contact customer service, interact with us on social media, apply for a job opening or engage with our services or Sites in any other way, we may collect various types of information from you. This information may include, but is not limited to, your name, email address, billing address, user ID, shipping address, phone number, payment card information, order details, products of interest, job applications information and any other type of communications with us.
+
+Information Collection Automatically
+
+Automatic Data Collection. We may collect certain information automatically when you use the Services. This information may include your Internet protocol (IP) address, user settings, cookie identifiers, mobile advertising and other unique identifiers, details about your browser, operating system, or device, location information (including inferred location based on your IP address), Internet service provider, mobile carrier, pages that you visit before, during and after using the services, information about the links you click, information about how you interact with our websites, including the frequency and duration of your activities, and other information about how you use our services.
+
+Cookies, Pixel Tags/Web Beacons, and Analytics Information. We, as well as third parties that provide content, advertising, or other functionality on our websites, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through our websites. Technologies are essentially small data files placed on your device that allow us and our partners to record certain pieces of information whenever you visit or interact with our services.
+
+Cookies. Cookies are small text files placed in device browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the services may not work properly.
+
+Pixel Tags/Web Beacons. A pixel tag (also known as a web beacon) is a piece of code embedded in the website that collects information about engagement on the services. The use of a pixel tag allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. We may also include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+
+Analytics. We may use Google Analytics and other service providers to collect and process analytical information on our services. For more information about how Google uses data, please visit www.google.com/policies/privacy/partners/. You can opt out of Google Analytics collection and processing of data generated by your use of our website by going to http://tools.google.com/dlpage/gaoptout.
+
+Information From Other SourcesWe may obtain information about you from other sources, including from third party services and organizations, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily.
+How Do We Use Your Information?
+
+We use your personal information for a variety of business purposes, including:
+
+To Provide Complete Services: We use your information to respond to your requests, allow you to register for accounts, events, process and deliver purchases, handle returns, and offer you products, services, and features through the Sites. Additionally, we may use your information to address your customer feedback and provide technical support.
+
+For Marketing and Advertising Purposes: We use your information to send you marketing communications, updates on special offers, campaigns, products, and services we think you may be interested in. We also use your information to provide targeted advertising tailored to your interests in our products or services. The content of these communications may be customized based on our understanding of your preferences.
+
+To Improve Our Products and Services: We use your information to enhance the Sites and our products and services. This includes performing research or requesting you to complete surveys to understand your preferences regarding our products and customer experience. We may also combine information we collect from you with information we obtain from third parties to further customize and improve your experience with us.
+
+For the Performance of Contracts: We use your information to fulfill our obligations and exercise or enforce our rights under our Terms of Use or any other agreement.
+
+Protection of Legal Interests: We use your information to comply with and enforce applicable legal requirements and protect our legal interests, such as in the event of the establishment, exercise, or defense of any legal claims.
+
+Security: We use your information to protect our company and our customers, as well as to safeguard the Sites. This may include using your information for fraud protection or credit risk reduction purposes.
+
+To Communicate with You: We use your information to communicate with you about your account or respond to your queries when you contact customer service. We may also reach out to you about your feedback, this Privacy Policy, or our Terms of Use.
+
+For Administrative Purposes: We may use your personal information for administrative purposes, such as: ensuring internal quality control and safety, authenticating and verifying individual identities and carrying out audits.
+
+Use De-Identified and Aggregated Information. We may use personal information and other data about you to create de-identified and/or aggregated information, such as de-identified demographic information, de-identified location information, information about the device from which you access our Services, or other analyses we create. De-identified and/or aggregated information is not personal information, and we may use and disclose such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes.
+
+Other Uses: We may use your information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent or as permitted by law.
+Disclosing Your Information to Third Parties
+
+We do not sell any personal information to third parties.
+
+We may sometimes share your personal information with third parties (as described below) in order to provide or improve our products or services, including offering products or services based on your requirements. Further information about data sharing is set out below.
+
+Service Providers. We may share any personal information we collect about you with our third-party service providers. The categories of service providers to whom we entrust personal information include service providers for: (i) the provision of the services; (ii) the provision of information, products, and other services you have requested; (iii)marketing and advertising; (iv) payment and transaction processing; (v) customer service activities; and (vi) the provision of IT and related services. For example, we use Mailchimp to help us manage our email marketing campaigns. Mailchimp’s Privacy Policy can be found here.
+
+Business Partners. We may provide personal information to business partners to provide you with a product or service you have requested. We may also provide personal information to business partners with whom we jointly offer products or services.
+
+Affiliates. We may share personal information with our affiliated entities.
+
+Advertising Partners. Through our Services, we may allow third-party advertising partners to set Technologies and other tracking tools to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s)visited, location, time of day). These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit third-party services within their networks. This practice is commonly referred to as“interest-based advertising” or “personalized advertising.” If you prefer not to share your personal information with third-party advertising partners, you may follow the instructions below.
+
+APIs and Software Development Kits. We may use third-party APIs and software development kits (“SDKs”) as part of the functionality of our services. APIs and SDKs may allow third parties, including advertising partners, to collect your personal information in order to provide content that is more relevant to you. For more information about our use of APIs and SDKs, please contact us as set forth below.
+
+Disclosures to Protect Us or Others. We may access, preserve, and disclose any information we store in association with you to external parties if we, in good faith, believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal processes, such as a court order or subpoena; (ii) protect your, our, or others rights, property, or safety; (iii) enforce our policies or contracts; (iv) collect amounts owed to us; or (v) assist with an investigation and prosecution of suspected or actual illegal activity.
+
+Disclosure in the Event of Merger, Sale, or Other Asset Transfer. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be transferred as part of such a transaction, as permitted by law and/or contract.
+Storage and International Data Transfers
+
+We are a globally operating company with many partners and service providers worldwide. Your personal information will be stored in secure servers of our third party service providers. To the extent that we may need to transfer personal information outside of your jurisdiction, whether to our affiliated companies or third party service providers, we shall do so by the applicable laws. In particular, we will ensure that all transfers will be by requirements under your applicable local data protection laws by putting in place appropriate safeguards. You will have the right to be informed of the appropriate safeguards taken by us for this transfer of your personal information.
+
+All personal information collected via or by us may be transferred, processed, stored anywhere in the world. These overseas jurisdictions may or may not have in place data protection laws which are substantially similar to that in your home jurisdiction. You have understood that the risks under applicable data protection laws are different and we may transfer to and store your personal information at overseas facilities. However, this does not change any of our commitments to safeguard your personal information in accordance with this Privacy Policy. Your personal information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to us, you consent to the storage of your personal information in these locations.
+Your Choices
+
+General. You may be able to opt out of certain uses of your personal information.
+
+Email Communications. If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or services you have requested. We may also send you certain non-promotional communications regarding us and our services, and you will not be able to opt out of those communications (e.g., communications regarding the services or updates to our Terms of Service or this Privacy Notice).
+
+“Do Not Track”. Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+
+Cookies and Interest-Based Advertising. You may stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt out of personalized advertisements on some mobile applications by following the instructions for Android and iOS.
+
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these websites and learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, http://www.youronlinechoices.eu/,https://youradchoices.ca/choices/,and www.aboutads.info/choices/.
+
+Please note you must separately opt out in each browser and on each device.
+Your Privacy Rights
+
+In accordance with applicable law, you may have the right to: (i) request confirmation of whether we are processing your personal information; (ii) obtain access to or a copy of your personal information; (iii) receive an electronic copy of personal information that you have provided to us, or ask us to send that information to another company (the “right of data portability”); (iv) object to or restrict our uses of your personal information; (v) seek correction or amendment of inaccurate, untrue, incomplete, or improperly processed personal information; (vi) withdraw your consent; and (vii) request erasure of personal information held about you by us, subject to certain exceptions prescribed by law; (Ⅷ) not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
+
+If you would like to exercise any of these rights, please contact us as set forth below or contact our DPO at dpo@zepp.com. We will process such requests by applicable laws. To protect your privacy, we will take steps to verify your identity before fulfilling your request.
+Data Retention
+
+We store the personal information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our services, resolve disputes, establish legal defenses, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. We will cease to retain personal information, or remove the means by which the personal information can be associated with particular individuals, as soon as it is reasonable to assume that the purpose for which that personal information was collected is no longer being served by retention of the personal information. If further processing is for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes according to the applicable laws, the data can be further retained by us even if the further processing is incompatible with original purposes in certain jurisdictions.
+Security of Your Information
+
+We are committed to ensuring that your personal information is secure, and we will take all practicable steps to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure, and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+
+In order to prevent unauthorized access, disclosure or other similar risks, we have put in place reasonable administrative, technical and physical controls and procedures to safeguard and secure the information we collect from your using of our services and our Sites. We will use all reasonable efforts to safeguard your personal information. For example, we use Secure Sockets Layer ("SSL") to encrypt your data when your data is transferred to us.
+
+All your personal information is stored on secure servers. We make sure that our employees and Third Party Service Providers who access the information to help provide you with our services are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet such obligations.
+
+By using our services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our services and Sites. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our Sites or by sending an email to you.
+Third Party Websites/Applications
+
+Our services and Sites may contain links to other websites/applications and other websites/applications may reference or link to our services or Sites. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Providing personal information to third party websites or applications is at your own risk.
+Children's Information
+
+Our services and Sites are not directed to children under 16 (or other age as required by local law), and we do not knowingly collect personal information from children. If you learn that your child has provided us with personal information without your consent, you may contact us as set forth below. If we learn that we have collected a child’s personal information in violation of applicable law, we will promptly take steps to delete such information and terminate the child’s account.
+
+Supervisory Authority
+
+You have the right to lodge acomplaint with a supervisory authority if you believe our processing of your personal information violates the applicable law.
+Contact Us
+
+If you have any questions about our privacy practices or this Privacy Policy, or if you wish to submit a request to exercise your rights as detailed in this Privacy Policy, please contact us at:
+
+Zepp Health
+
+1551 McCarthy Blvd., Suite 107, Milpitas, CA 95035
+
+Email: privacy@zepp.com
+
+You can also visit https://www.zepp.com/privacy-support to get support or information about our privacy practice.
+
+Our information security and privacy protection management system has received certifications issued by the leading authoritative international organization.

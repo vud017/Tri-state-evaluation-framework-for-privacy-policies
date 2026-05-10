@@ -1,0 +1,198 @@
+Privacy and Cookie Policy, English, Vend
+
+Vend as controller of your personal data
+
+Making smart choices easy is at the core of Vend Marketplaces’ business. We have a range of different sites, products and services, and use data across these to deliver this core purpose under the controllership and responsibility of Vend Marketplaces AS. Handling personal data in a secure way, so that we can receive and maintain our users’ trust in us and our services, is of paramount importance for us. 
+
+We value our users’ privacy highly. We also know that using personal data is key to delivering the products and services our customers expect. We strive to be completely transparent about our processing of personal data, and commit to always seek the right balance between privacy and commercial interests. If you have any questions, do not hesitate to contact our privacy team.
+
+This document gives you a high-level overview of what we collect, why we collect it, who it may be shared with and how to access your rights over your personal data. To read a more detailed description of how personal data is processed in each Vend country and services, please consult the country-specific privacy and cookie policies. We refer to these throughout this document.
+
+    For Norway
+
+    For Sweden
+
+    For Finland
+
+    For Denmark
+
+Learn more about available privacy settings also through our country-specific privacy policies.
+
+If you have questions or queries about Vend’s processing of your personal data, you can reach the Vend privacy team via this contact form. We promise to respond to all queries within 30 days.
+
+You can also address any concerns or complaints at any time to the national data protection authorities: Datatilsynet in Norway,  Integritetsskyddsmyndigheten in Sweden, Tietosuojavaltuutettu in Finland, and Datatilsynet in Denmark.
+
+The purposes Vend uses your personal data for
+
+Within the services that we offer, Vend primarily uses your personal data for the following purposes:
+
+    We provide online marketplaces that facilitate consumer-to-consumer and business-to-consumer transactions, marketing and communication. We also let professionals post job advertisements and job seekers apply for relevant jobs.
+
+    We provide price and product comparison services, where users may review products and online stores, and access the different online stores via links. 
+
+    We provide distribution, delivery and connected services for delivery of products such as, but not limited to, newspapers, packages, magazines, bread and juice. We deliver products from our own brands to the home address or a local pick up point of our users. 
+
+    Through the Vend account, we offer secure access to our services. Here you can also manage your privacy choices, verify your contact details and establish a trusted identity for interactions with other users of our services. Note that some services, such as Qasa, use the Vend account only for login.
+
+    We provide customer service to users via telephone, email, the social media pages of our brands and chat.
+
+    We manage payments, invoicing and additional activities and documentation we are required to do under book-keeping regulations.
+
+    We improve our services based on analyses of user behavioural data, surveys and user research.
+
+    We keep our sites and services secure, using data to protect our users and ourselves from fraudulent activities, violations of our policies and abusive behaviour.
+
+    We show targeted advertising to users and measure its effectiveness.
+
+    We deliver personalised content to users, for example, a selection of personalised listings on the front page of marketplaces, and newsletters that we send to users of our services.
+
+    We show our users marketing messages for services from within Vend via email, in-product sales offers and other channels, such as social media platforms,  including retargeting on third-party sites. 
+
+    We provide our business with data insights and analytics that gives details about how the Vend ecosystem of services are being used, so that the people who are working with our services can get inspired, gain knowledge and provide our users with better products and services and even find use cases so new products and services can be created.
+
+    We process data about professional partners and their employees within our business-to-business sales and services.
+
+
+The categories of personal data processed by Vend
+
+The categories of personal data Vend generally collects:
+
+    Basic profile data (like name, address, email address, date of birth, gender and other profile data necessary for providing specific services such as social security number).
+
+    Account data (like account activity, privacy settings, support queries, account security data (e.g. passwords). 
+
+    Information we receive from third parties (like tips, requests, notices and other feedback we receive from other users or third parties related to marketplaces services).
+
+    Payment, order and financial information (like purchase history and details, payments due and received, payment methods).
+
+    User-generated content (like feedback through user surveys and user rating/reviews. Classified ads and messages between sellers and buyers on a marketplace.).
+
+    Behavioural and technical data (like device identifiers, cookie identifiers, network address identifiers (IP address), user browsing and reading history and actions (clicks and user inputs), and email opening and reading data.).
+
+    Location data (like GPS data and IP address as associated to location data).
+
+    Inferred data about our users (like predicted interests and user preferences, likely locations, likely demographics).
+
+    Advertising effectiveness data (like ad views, frequency and duration of views, and user interactions with the advertisement).
+
+    B2B Client Details (for our corporate customers and our contact points within their businesses, we collected business role, related contract details, contact details). Read more about B2B data processing here. 
+
+Depending on the Vend services you use, different types of data may be processed. To read a more detailed description of data types, consult the country-specific privacy and cookie policy. 
+
+
+How your personal data is shared with other parties
+
+
+When Vend processes personal data, personal data is sometimes shared with other parties. These other parties are either
+
+    Data processors, which mean companies operating under a binding legal agreement with Vend. They can only process data for the specific purposes that Vend allows them to and only use other third parties in that processing as allowed by Vend. Examples would include Amazon Web Services, Zuora, Braze, and similar companies. 
+
+Or
+
+    Data controllers, which mean companies who use the data independently and have full responsibility towards the user for the company's use of the user’s personal data for the specific purposes data is shared for. They also have full responsibility for any third parties that may be involved in the processing of the user’s personal data. Vend would share that data only when it’s necessary to deliver a product or service to you (for example, giving your address to a distribution service so they can make a home delivery or enable professional sellers on our marketplaces to deliver goods that our users have purchased, etc). On those of our sites that show advertising, a selected list of companies and vendors are also allowed to buy ad inventory (space where advertising is allowed) from us. In some cases, this means that the companies and/or vendors act as separate data controllers for the data that is being processed. 
+
+Additionally, we may share personal data upon request or at our own initiative with public authorities or other third parties when we consider that we are legally required to do so. This also applies in specific cases where Vend has a legitimate interest due to situations in which our products and services have been used for fraud or other criminal activity. In these cases, we may disclose classified ads or message history. From time to time we may also assist and share relevant information that we are in possession of with the users of our marketplaces when they ask us to assist in disputes relating to i.e. fake or fraudulent ads, and we consider that information may help solve the dispute. Some of our online marketplaces may be required to report the value of transactions done on our service to tax authorities and verify the identity of such users (sellers).
+
+We also support scientific research and experimental development projects with data and insights from our services, however, in such cases we only provide the relevant institution with anonymised data sets. 
+
+Transfers of Data outside of the EU/EEA
+
+Where Vend is the data controller and uses data processors that are located outside of the EU/EEA, we do this only in cases where
+
+    the transfer location and recipient is judged to be adequate under rules established under the GDPR, or
+
+    the transfer takes place under the standard contractual clauses as defined by the EU Commission to regulate such transfers under the GDPR and necessary supplementary safeguards have been implemented.
+
+
+Data Retention
+
+Vend operates with the general rule that we only keep user personal data for as long as we have to in order to fully execute the purpose for which it was collected. We also store data based on legal requirements like book-keeping and accounting requirements. Specific retention periods may vary depending on the country.
+
+Our use of cookies, pixel cookies and similar technologies
+
+When you visit vend.com, we or our partners may use cookies, pixel cookies and other similar technologies to store information for analytics and statistical product development and reporting purposes, providing functionalities and marketing. The use of cookies, pixel cookies and similar technologies are regulated in the e-Privacy Directive (2002/58/EC) and its national implementation in the markets we operate in, namely Norway, Sweden, Finland and Denmark. 
+
+This cookie information applies exclusively to the use of cookies and similar tracking technologies on vend.com (including its subdomains). It does not cover:
+
+    Cookies set or read by other Vend services you may visit after leaving vend.com. 
+
+    Cookies set or read by third-party sites you visit after leaving vend.com (e.g. partner sites or social media platforms).
+
+    Data collected by third-party vendors, analytics providers or advertising networks when you interact with their services outside of vend.com.
+
+For more information on the use of cookies in the Vend services, please refer to the country-specific privacy and cookie policies.
+
+What are cookies, pixel cookies and similar technologies?
+
+Like most internet-based service providers, we use technologies that are essentially small data files placed on your computer, tablet or mobile phone (a "Device") that allow us to store certain information each time you visit or interact with our website. 
+
+The specific names and types of cookies, pixel cookies and other similar technologies that we use may change from time to time. For more information about cookies and similar technologies in general, see allaboutcookies.org.
+
+To help you better understand our cookie policy and our use of such technologies, we have created this brief overview of terminologies and definitions:
+
+Cookies: small text files (typically made of letters and numbers) which are placed in the memory of your browser or device when you visit a website or view a message. Cookies enable a website to recognise a specific device or browser. There are several types of cookies:
+
+    Temporary cookies expire when you stop using the browser and allow us to remember your actions during the period you use your browser.
+
+    Persistent cookies are stored on your device and allow us to remember your preferences or actions across multiple websites.
+
+    First-party cookies are set by the website you visit (Vend.com).
+
+    “Third-party cookies” are set by a third-party website that is separate from the website you are visiting (our partners).
+
+Cookies can be disabled or removed using tools available on most browsers. The different browsers offer different options to disable the possibility of storing cookies.
+
+Pixel cookies: small graphic images (also known as “pixel tags” or “clear GIFs”) that may be included on vend.com. Pixel cookies can be used for a number of purposes, including to measure the effectiveness of our website, to monitor how many visitors are on our website and how they navigate our website.
+
+Similar technologies for storing information: technologies that store information in your browser or device and that utilise local devices and local storage, such as flash cookies, HTML 5 cookies and other methods. These technologies can operate across all of your browsers. In some cases, the use of these technologies cannot be controlled by the browser, but requires special tools. We may use these technologies to store information to detect irregularities in website usage or to evaluate the performance of our website. 
+
+We may use the terms "cookies" or "similar technologies" interchangeably in our cookie information to refer to any technology that we may use to store data on your browser or device or to collect information that helps us identify you, as detailed above.
+
+Your choices and our use of cookies and similar technologies
+
+We offer on our website, Vend.com, certain functions and tools that are only available if we use the technologies mentioned above. We obtain consent for cookies when you as a user visit our website for the first time. Once you have given your consent, you can change your preferences under cookie settings at any time. Cookies and similar technologies can often also be blocked in the browser settings or on your mobile platform. If tracking is disabled in the browser, this may mean that some features of our website cannot be used. 
+
+You find more detailed information below in the Data Subject Rights section on how to make use of your rights, including controlling use of cookies.
+
+The use of the technologies listed above fall into the following general categories
+
+    Strictly necessary: We may use cookies or other similar technologies that are necessary for the operation of our website.  This includes technologies that allow you to access our website and that are necessary to avoid unauthorised use of it and improve security;
+
+    Analytics and product development: We may use cookies or other similar technologies that are useful to assess the performance of our website, including as part of our analytical work to help us understand how our visitors use our website or to to improve the content;
+
+    Marketing: We may use cookies, pixel cookies or other similar technologies to customise marketing in various channels such as email, Meta Platforms (Facebook) and Google based on your interests and use of our website.
+
+
+Your rights as a user and as a data subject
+
+Users have legally defined rights relating to personal data about them. Vend is fully committed to supporting users in accessing and using those rights. Vend aims to respond to any requests related to these rights as quickly as possible, but always within 30 calendar days. We explain below, on a general level, which rights you have and how you can use them. For more information, visit the country-specific privacy and cookie policies.
+
+The right of access / the right of data portability
+
+We provide access to data mainly via the Vend or other digital account administration interface. In some instances, users may need to contact customer support to request access to their data.
+
+The right to rectification
+
+It is possible to correct profile details in the user’s digital account at any time. 
+
+The right to erasure
+
+Users can request a deletion of their personal data as held by Vend at any time by accessing the Vend or other digital account administration interface. In some instances, users may need to contact customer support to request data deletion.
+
+We respect your right to request the deletion of your personal data. However, we may be required to retain certain information to comply with legal obligations—for example, tax, accounting, regulatory requirements or to exercise or defend legal claims. In such cases, we will keep only the data necessary to fulfil these obligations. After this period or once the relevant requirements no longer apply, we will delete the data in accordance with applicable regulations.
+
+The right to restrict processing and the right to object to processing
+
+Vend provides choices and controls for users to manage how their personal data is processed. This includes the possibility to restrict and object to processing and withdraw consents connected to personal data processing. These settings can typically be found in the footer of websites and mobile application settings. Some of the controls are also presented on your Vend or other digital account administration interface. Read more about the controls offered in each country from the country-specific privacy and cookie policies. 
+
+The right to avoid automated decision-making with legal or similar effects
+
+Vend does not make automated decisions about our users that have any legal or similar effect.
+
+Contact details Vend Marketplaces AS 
+
+Vend Marketplaces AS 
+Organisational number: 981159772
+Postboks 747 Sentrum
+0106 Oslo 
+Norway

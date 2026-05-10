@@ -1,0 +1,164 @@
+{
+  "organization_name": "TikTok Technology Limited, TikTok Information Technologies UK Limited",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps, websites, software and related services (the “Platform”)"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data at all, so no data minimization principles are described for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data, so no limits or justifications for its collection are provided."
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention physiological data at all, so no assessment of minimization for this specific category can be made from the provided text."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings, livestreams, comments, hashtags, feedback, reviews, and the associated metadata (such as when, where, and by whom the content was created).",
+        "purpose": "To provide and administer the Platform, enabling users to create, share, and consume content, and to interact with other users and their content.",
+        "legal_basis": "Contractual necessity for users with legal capacity; legitimate interests for users under the age of majority."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states they collect user content like photographs and videos, which are physical data, but does not provide concrete limits or justifications for why each specific type of physical data is necessary. It describes broad collection for platform provision and personalization."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. For example, when we process your information to provide you with the Platform, we keep this information for as long as you have an account. This information includes your Account Information, User Content, and Messages.",
+        "purpose": "To provide the Platform and for other purposes outlined in the policy, such as safety, security, and legal compliance."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Based on your privacy settings, your information, including your Account Information, User Content, and Usage Information may be visible to other users and the public. For example, if you have a public account and have not restricted the visibility of your posts individually, your Account Information and User Content can be viewed or shared by anyone on or off the Platform, whether or not they have a TikTok account.",
+        "purpose": "To enable user interaction and content sharing on the Platform based on user privacy settings.",
+        "legal_basis": "Legitimate interests for optimizing user experience and allowing content sharing.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data like photos and videos is collected, stored, and widely shared based on privacy settings, potentially exposing users to public visibility. Data is transferred internationally, and while deletion is user-initiated, retention is tied to account life and other broad purposes."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "To operate, provide, develop, and improve the Platform, including personalizing content and ads, enforcing policies, and ensuring safety and security.",
+        "legal_basis": "Contractual necessity, legitimate interests, consent (for personalized ads), and other bases depending on the specific purpose."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states they collect information to operate and improve the Platform but does not provide concrete limits or justifications for each type of behavioral data collected. It describes broad collection categories like engagement, interactions, and search history without specific necessity justifications."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform, comply with obligations, maintain legitimate business interests, and for legal claims."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Technical Information and Usage Information with third party measurement providers who create aggregate reports that help us measure advertising served on the Platform and help our advertisers understand their effectiveness and their audience.",
+        "purpose": "To measure advertising effectiveness and help advertisers understand their audience.",
+        "legal_basis": "Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data is collected broadly, stored indefinitely for business purposes, and shared with third parties including for advertising measurement. Data is transferred internationally, and while deletion is user-initiated, automatic deletion policies are not clearly defined."
+    }
+  }
+}

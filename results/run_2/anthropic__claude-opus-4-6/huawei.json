@@ -1,0 +1,167 @@
+{
+  "organization_name": "Huawei Technologies Co. Ltd",
+  "policy_date": "May 2024",
+  "products_covered": [
+    "Huawei websites",
+    "Huawei products",
+    "Huawei services",
+    "Huawei accounts"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention biometric data at all, so there are no specific minimization measures or limits described for this data category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection, storage, or sharing of biometric data. However, the policy lists data categories using open-ended language such as 'photos, and certificate information, etc., depending on how you interact with Huawei,' which could theoretically encompass biometric data without explicitly stating so. The lack of explicit mention means no specific protections or limitations for biometric data are described."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data collection, so there are no data minimization measures described for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection, storage, or sharing of health data. However, the policy uses broad language such as 'etc., depending on how you interact with Huawei' when listing collected data types, which could theoretically encompass health data in product-specific contexts not covered by this general policy. No specific health data risks can be identified from this policy text alone."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention physiological data collection, so there are no specific minimization measures described for this data category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection, storage, or sharing of physiological data such as heart rate, sleep patterns, or other biological state information. No specific privacy risks for this data category can be identified based solely on the policy text."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "The personal data we collect includes name, gender, enterprise name, job position, postal and email addresses, phone number, login information (account and password), photos, and certificate information, etc., depending on how you interact with Huawei",
+        "purpose": "The policy mentions collecting 'photos' which constitute physical data (visual depictions of a person's external appearance). The collection depends on how the user interacts with Huawei's websites, products, or services. The 'etc.' also leaves open the possibility of additional physical data types being collected.",
+        "legal_basis": "Contract fulfillment, consent, legitimate interests, and legal obligations are listed as legal bases for processing personal data."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy lists specific data types collected but uses 'etc.' which leaves the scope of collection open-ended. There is no concrete explanation of why photos or other physical data are strictly necessary. The policy states data depends on how you interact with Huawei, but does not provide meaningful limits on physical data collection."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law.",
+        "purpose": "The policy indicates personal information (which would include photos and other physical data if collected) is retained for the purposes stated in the policy, including fulfilling business purposes, providing products and services, and maintaining records."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "After you deregister your account, we will stop providing you with products and services through your account and delete your relevant personal data, provided that deletion is not otherwise stipulated by special legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "Huawei shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by Huawei. For example, when you make an online purchase from Huawei, we must share your personal data with the logistics provider to arrange shipment or a partner to provide services. In addition, as a global company, we may share personal data with Huawei affiliates and subsidiaries.",
+        "purpose": "Personal data (which may include physical data such as photos) is shared with authorized partners for service provision, logistics, and with affiliates and subsidiaries. It may also be disclosed to law enforcement or government agencies to comply with applicable laws.",
+        "legal_basis": "Contract fulfillment, legal obligations, and legitimate interests are referenced as bases for sharing.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy mentions collecting 'photos' and uses open-ended language ('etc.') that could encompass additional physical data. Retention periods are vaguely defined as 'no longer than necessary' without specific timeframes for physical data. Data is shared with partners, affiliates, and potentially transferred internationally, with safeguards mentioned but specifics left to supplementary mechanisms. The lack of precise limits on what physical data is collected and how long it is retained poses moderate privacy risks."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We may also obtain data by recording how you interact with our websites, products, or services. For example, we may use technologies like cookies or receive use data from software running on your device.",
+        "purpose": "Huawei collects behavioral data such as interaction patterns with websites, products, and services to improve user experience, understand how users use their offerings, improve services, provide customized user experience and content, and analyze business operations efficiency.",
+        "legal_basis": "Consent (for cookies), legitimate interests (improving products and services, marketing), contract fulfillment, and legal obligations as described in the policy."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy does not provide concrete limits on what behavioral data is collected. It uses broad language such as 'recording how you interact with our websites, products, or services' and 'receive use data from software running on your device' without specifying meaningful boundaries or justifying why each type of behavioral data is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We will retain your personal information for no longer than is necessary for the purposes stated in this Policy, unless otherwise extending the retention period is required or permitted by law.",
+        "purpose": "Behavioral data is retained to fulfill business purposes including providing products and services, maintaining transaction and business records, controlling and improving performance and quality, and ensuring security."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "After you deregister your account, we will stop providing you with products and services through your account and delete your relevant personal data, provided that deletion is not otherwise stipulated by special legal requirements.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Huawei shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by Huawei. For example, when you make an online purchase from Huawei, we must share your personal data with the logistics provider to arrange shipment or a partner to provide services. In addition, as a global company, we may share personal data with Huawei affiliates and subsidiaries.",
+        "purpose": "Personal data, which may include behavioral data, is shared with authorized partners for service provision, with affiliates and subsidiaries, and with law enforcement or government agencies to comply with applicable laws or respond to valid legal processes.",
+        "legal_basis": "Contract fulfillment, legal obligations, and legitimate interests as described in the policy.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Huawei collects behavioral data through cookies, web beacons, pixel tags, and software on user devices, with broad and vaguely defined scope. The data is shared internationally with affiliates, subsidiaries, and partners across jurisdictions with varying data protection laws. Retention periods are described in general terms without specific timeframes for behavioral data, and deletion is primarily tied to account deregistration rather than automatic mechanisms, increasing the risk of prolonged data retention."
+    }
+  }
+}

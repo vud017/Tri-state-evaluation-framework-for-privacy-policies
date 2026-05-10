@@ -1,0 +1,455 @@
+
+Data Protection Policy
+Preamble
+
+YAZIO GmbH (hereinafter, “YAZIO” or the “Provider”), with registered office in Erfurt, operates the website www.yazio.com (hereinafter, the “Website”) as well as the YAZIO app, a digital calorie counter (hereinafter, the “App” or the “Product”) for Android and iOS.
+
+The following Data Protection Policy informs you about the types of personal data of YAZIO users that are processed, the purposes for which they are processed, and the scope of processing. The Data Protection Policy applies to all processing of personal data performed by YAZIO, both in connection with service provision and, in particular, on the Website and in the YAZIO App, which users can install on their mobile end device, as well as within external online presences, such as YAZIO’s social media profiles (hereinafter, collectively referred to as the “Online Offer”).
+1. Controller & Data Protection Officer
+
+The controller within the meaning of the General Data Protection Regulation (GDPR)—i.e., the entity responsible for collecting, processing and using personal user data—is
+
+YAZIO GmbH
+Kartäuserstraße 13a
+99084 Erfurt
+Germany
+
+help@yazio.com
+
+In addition to the controller, the user can also contact YAZIO’s data protection officer in the event of questions about their data or this Data Protection Policy or the assertion of data subject rights:
+
+Prof. Dr Gernot Schmitt-Gaedke
+℅ lexTM GmbH Rechtsanwaltsgesellschaft
+Friedensstraße 11 (Junior-Haus)
+60311 Frankfurt/Main
+Germany
+
+team@lex.tm
+2. Encryption
+
+All incoming and outgoing data—both in the communication with the Apps and in third-party provider communication—are transmitted in encrypted form. The encrypted connection when using the YAZIO Website can be seen, for instance, via the address bar of the browser being used, which begins with “https://”, and via the encryption symbol found there. Because of encryption, the transmitted data cannot be read by third parties.
+3. Collection, Processing, & Use of Personal Data
+3.1. Personal data
+
+“Personal data” for the purposes of the GDPR means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+
+Personal data (e.g., e-mail address, nutritional data in the App) will be processed by the Provider only pursuant to the provisions of applicable data protection law. The following provisions inform you about the nature, scope and purpose of the collection, processing and use of personal data.
+3.2. Collection of data when using the YAZIO Website
+
+When visiting the Website www.yazio.com, the web server, on the basis of YAZIO's legitimate interests under Article 6(1)(f) GDPR, automatically records log files, which cannot be attributed to any specific person, if this is necessary for the App’s functionality and is not outweighed by the interest in protecting the user's personal data. These data include, e.g., the browser type and version, the operating system used, referrer URL (the previously visited site), IP address of the requesting computer, access date and time of server request, and the file requested by the client (file name and URL). These data are collected only for the purpose of statistical analysis and for security reasons (e.g., to investigate acts of misuse or fraud) and are stored for seven days and then erased. If it should be necessary to retain the data for a longer period of time for evidentiary purposes, they are exempt from erasure until final resolution of the respective event.
+3.2.1. Provision of the Website
+
+The IT infrastructure and associated services are provided by the web hosting service dogado GmbH, Antonio-Segni-Straße 11, 44263 Dortmund, Germany. dogado GmbH is a cloud service provider and offers a platform for internet-based business processes. For the hosting tools, only the personal data collected by YAZIO will be stored on the servers of dogado GmbH. These include, in particular, meta and communication data, contact data, such as names and addresses, contract and payment data and content data (completed forms). In this regard, the data are processed only to the extent necessary for fulfilling the hosting contract. The data protection policy and other information of dogado GmbH can be found here: https://www.dogado.de/legal/datenschutz.
+3.2.2. Use of cookies
+
+In order to make the Website more user friendly and more effective overall, YAZIO itself or third parties engaged by YAZIO for this purpose store cookies on the user’s hard drive, provided the user has consented to this in accordance with Article 6(1)(a) GDPR.
+
+A cookie is a small text file that is used, inter alia, to record information with respect to use of a website. These cookies cannot execute programs or transmit viruses to the user’s computer. They do not contain any personal data, cannot be attributed to specific persons, and, unless described otherwise, will be automatically deleted after one year, at the latest. These data are not combined with other data sources.
+
+It is also possible to use websites operated by the Provider without cookies. The storage of cookies can be deactivated or limited to certain websites in the respective browser, or the browser can be configured in such a way that it notifies the user once a cookie is sent. The user can also delete cookies from the hard drive of their PC at any time.
+3.3. Personal data when using the YAZIO App
+3.3.1. Required information when creating a personalized user account
+
+In order to be able to use the App, the user must provide the required information “e-mail address” and “password”. These are used to identify the user and for the purpose of communication between the Provider and the user. The e-mail address and all other user data cannot be viewed by other users. A different situation applies only if the user is using the “Buddies” feature (see 3.3.8). The data are stored on the basis of the consent of each user under Article 6(1)(a) GDPR.
+3.3.2. Use of the YAZIO app with the feature "Sign Up With Apple" / "Continue With Apple"
+
+The user has the option to create a YAZIO account via his or her Apple account. The user can register for or log in to YAZIO with this Apple account if he or she uses the "Sign Up With Apple" button on the website or the "Continue With Apple" button in the app when registering. When logging in using the Apple ID, the personal e-mail address can be hidden or shared with YAZIO. With “Hide e-mail address”, the user can use Apple's e-mail relay service to generate a generic alias address through which messages from YAZIO are forwarded to their private e-mail address. “Continue with Apple'' uses two-factor authentication. An additional password does not have to be assigned. Further information about the method of operation and settings is available at: https://support.apple.com/HT210425.
+
+The watchOS app for the Apple Watch can additionally be downloaded and used through the Apple Watch itself, unless it is automatically coupled with the user's iPhone. In this case, registration must take place using the feature “Continue With Apple”.
+3.3.3. Use of the YAZIO app with the feature "Sign Up With Google" / "Continue With Google"
+
+The user has the option to create a YAZIO account via his or her Google account. The user can register for or log in to YAZIO with this Google account if he or she uses the "Sign Up With Google" button on the website or the "Continue With Google" button in the app when registering. In this regard, YAZIO collects and stores the user's personal data through the Google account, such as the user's e-mail address, optionally also first and last names, and the user's profile picture. The user can individually adjust the data transfer to YAZIO in their Google account under privacy settings. Further information about the method of operation and settings is available at: https://support.google.com/accounts/answer/2541991.
+3.3.4. Use of the YAZIO App without personalized user account
+
+An existing anonymous user account can be converted into a personalized account at any time by adding an e-mail address and password.
+
+It is not possible to attribute an anonymous account to a user, meaning that if the mobile end device is lost, it is not possible for YAZIO to restore the account.
+3.3.5. Data provided by the user
+
+When creating a personalized user account, the user can optionally provide, in addition to the required information (e-mail address and password), first name, last name and place of residence, which are then recorded by YAZIO.
+
+In addition, YAZIO records data that are provided by the user through a personalized or anonymous user account, which can be entered when using the App. This comprises a user profile, which includes, but is not limited to, the below-listed body and health data:
+
+    Age/date of birth
+    Gender
+    Height
+    Diet (e.g., vegan)
+    Goal (e.g., lose weight)
+    Activity level (high/low)
+    Recorded activities
+    Calories consumption and activity calories
+    Steps
+    Starting weight, weight progress and target weight
+    Blood pressure
+    Status of the App user (PRO subscription in place: yes/no)
+    Fasting details (e.g., hours fasted)
+    Water consumption
+    Favorite recipes
+
+The data are collected on the basis of the user’s consent under Article 6(1)(a) GDPR. The provision of body data is necessary in order to be able to use the App's features. In particular, it is necessary to provide starting weight/target weight, gender, date of birth and height so YAZIO can calculate the user's personal calorie goal.
+
+Other data, such as water consumption, enable the user to track the amount of water they drink. These data are used solely for the stated purposes and, as a rule, cannot be seen by third parties. A different situation applies only if the user is using the “Buddies” feature (see 3.3.8.).
+3.3.6. Data automatically recorded by YAZIO
+
+When the App is installed, the following are recorded one time:
+
+    Date of installation
+    Date of registration
+    Operating system of the device used (Android/iOS)
+    Country and language (using locale: the “locale” is a set of settings that contains the region parameters (local parameters) for computer programs. These primarily include the language of the user interface, the country and settings for the character set, keyboard layout, and formats for payments, currencies, dates and times.)
+
+These data are recorded in order to improve and personalize our services, and this takes place on the basis of our legitimate interest pursuant to Article 6(1)(f) GDPR.
+3.3.7. Data recorded while using the App
+
+When the App is being used, YAZIO furthermore records the following:
+
+    Current IP address
+    App version being used
+    Current time zone
+
+These data are recorded in order to improve and personalize the offered services, and this takes place on the basis of YAZIO’s legitimate interest pursuant to Article 6(1)(f) GDPR.
+3.3.8. Sharing data with a friend
+
+Every user has the ability to share their data entered under No. 3.3.5 with other App users (“friends” or “buddies”). To invite friends, a personal link is generated in the Buddies section, which can be forwarded to the selected friend(s). This link is valid only one time, i.e., even if it is sent to a group of friends, it can only be used one time, namely by the friend who clicks on the link first. Messenger services installed on the user’s device are available for sharing the link. Applicable are the data protection policies of the messenger services used to send the link.
+
+The data entered under No. 3.3.5 and shared via a personal link will be displayed to the invited friends in the Buddies section. Only the current day's data are visible to friends in the buddies list, i.e., data from the day before are no longer visible for the friends list and are not open to tracking.
+
+This data exchange can be ended by the users or by invited friend(s) at any time. After the friend is deleted from the Buddies list, no further data will be shared with that friend. The friend removed from the Buddies list does not receive any notification that they have been removed.
+3.3.9. Contractual relationship and payment procedure
+
+Where a contractual relationship between the user and YAZIO is to be established, substantively structured or changed, YAZIO stores personal data of the user on the basis of Article 6(1)(b) GDPR (see the list of personal data under No. 3.3.5 to 3.3.7), provided this is necessary for the performance of the contract. Through an in-app purchase, the user has the ability to acquire a PRO version of the YAZIO App in connection with a subscription, optionally at the start of a seven-day free trial phase (trial subscription). If the user decides to acquire the PRO version and presses the order button, they will be forwarded directly to the Apple App Store, the Google Play Store or the Huawei AppGallery, depending on their operating system, even if they had first opted for the seven-day free trial phase during the temporary subscription. In that case, the corresponding amount for the subscription will be automatically debited after the seventh day of the trial phase.
+
+When the user is forwarded to the appropriate app store, YAZIO transmits the starting and ending date and, if applicable, the subscription termination date, as well as the reason for termination (e.g., after a possible cancellation). The payment processing data are collected directly by the app stores. The data protection policies of the app stores can be viewed here:
+
+    Apple App Store: https://www.apple.com/privacy/
+    Google Play Store: https://policies.google.com/privacy
+    Huawei AppGallery: https://consumer.huawei.com/en/privacy/privacy-policy/
+
+The PRO version of the App can also be purchased through the YAZIO Website. Depending on the selected payment option (Apple Pay, Google Pay, SEPA payment or credit card payment), the user must provide the relevant account data, even if they are first using the seven-day trial subscription.
+
+Applicable to the payment transactions are the business terms and conditions and the data protection policies of the respective payment service providers, which are available on the respective websites or transaction apps:
+
+    Further processing is handled by the payment service provider Stripe. The service is offered by Stripe Payments Europe Ltd, Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland. Information provided by the user (name, e-mail address, credit card data, start and end date, and, if applicable, termination data of subscriptions, invoice amount) is transmitted by YAZIO to Stripe pursuant to Article 6(1)(b) GDPR as part of the order process. User data are shared solely for the purpose of payment processing with the payment service provider Stripe Payments Europe Ltd. and only to the extent they are necessary for this.
+    Further information about data protection by Stripe is available at https://stripe.com/legal.
+    If payment is made via PayPal, further processing is handled by Braintree, an online payment portal and service of PayPal (Europe) S.à.r.l et Cie, S.C.A., with a registered office in Luxembourg, which YAZIO uses for the Website. In this regard, the user's personal data, such as name, address, phone number and e-mail address, are transmitted to Braintree/PayPal.
+    Further information about data protection by Braintree can be found at https://www.braintreepayments.com/legal/braintree-privacy-policy
+    Moreover, YAZIO makes the mobile payment system Apple Pay of Apple Inc., One Infinite Loop, 95014 Cupertino, USA, available to users in the YAZIO App. When Apple Pay is used, Apple does not store any original credit card, debit card or prepaid card numbers used by the user. Apple has no access to them. In addition, no backup of transaction data takes place that permits conclusions to be drawn as to the user.
+    Further data protection notices can be found at https://www.apple.com/privacy/.
+    In addition, the mobile payment system Google Pay of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, is also available to users. Google stores information about the transaction made by the user and the payment method selected (debit or credit card). It collects data such as date, time, merchant location, merchant name and merchandise description. Google may combine these data with the information of other Google services that the user uses with their Google account.
+    Further information is available at https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice.
+
+4. Exchange of Data With Third Parties
+
+YAZIO takes the protection of personal user data very seriously. For this reason, YAZIO treats personal data confidentially and in accordance with statutory provisions concerning data protection as well as this Data Protection Policy. YAZIO therefore collects and stores only data that are provided by third-party providers on the basis of the respective user consent under Article 6(1)(a) GDPR and transmits corresponding data to them. Subject to statutory or contractual permissions, YAZIO processes the data in a third country or has the data processed there only where the special requirements of Articles 44 et seqq. GDPR are met. Processing takes place, e.g., on the basis of special safeguards, such as the observance of officially recognized, special contractual obligations (“standard contract clauses”).
+
+For data transfers to the USA, YAZIO primarily relies on the EU-U.S. Trans-Atlantic Data Privacy Framework (DPF), which has been recognised as a secure legal framework by an adequacy decision of the European Commission. Standard contractual clauses may also exist. Further information on the DPF and a list of certified companies can be found (in English) at https://www.dataprivacyframework.gov/.
+
+If the European Commission does not attribute to a third country the same level of data protection as the EU, then YAZIO ensures the maintenance of the European level of data protection through the use of standard contract clauses (SCC) and binding company rules pursuant to Article 46(1) and (2)(c) GDPR. Nevertheless, it is possible under certain circumstances that authorities in a third country may access user data for control and monitoring purposes and, in this regard, that effective legal remedies and data subject rights may not be enforceable.
+
+The following providers and data are affected:
+4.1. Google Fit
+
+YAZIO offers its users the option to link the App with Google Fit, a health platform of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”). Google Fit logs the physical activities of the respective user using sensors of the mobile device or activity sensors. The following data may be transmitted in the case of a linking with YAZIO:
+
+    Total activity
+    Workouts completed (time, duration, type, calories burned)
+    Steps (distance, number)
+
+YAZIO has the ability to directly access the data pool of Google Fit at any time.
+
+Further data protection notices, particularly about the purpose and scope of data collection and the further processing and use of data by Google Fit as well as the rights in this respect and the settings options concerning data protection, are available at https://policies.google.com/privacy.
+
+The use of information that YAZIO obtains from Google APIs and the sharing of it with other apps takes place pursuant to Google API Services-User Data Policy, including the requirements for limited use.
+4.2) Google Health Connect
+
+YAZIO offers its users the option to link the app with Google Health Connect, an integrated health data platform provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”). Google Health Connect facilitates the consolidation of health and wellness data across multiple applications.
+
+When users link YAZIO with Health Connect, the following categories of data may be accessed or shared:
+
+    Activity Data
+    Body Measurements
+    Heart & Vital Signs Data
+    Nutrition Data
+    General Health Data
+
+This integration allows users to enhance their experience within the YAZIO app by providing more comprehensive health insights and personalized recommendations based on aggregated data.
+
+YAZIO adheres to the Health Connect Permissions Policy, including Limited Use requirements, ensuring that any data obtained is solely utilized for the enhancement of user features within the app. Users maintain full control over their data and can modify their permissions or unlink Health Connect at any time through the YAZIO app settings, being informed of any potential impacts on app functionality.
+
+Further data protection notices, particularly concerning the purpose and scope of data collection and the further processing and use of data by Google Health Connect, as well as the rights in this respect and the available settings options concerning data protection, can be found at https://policies.google.com/privacy.
+4.3. Apple Health
+
+Users also have the option to link their App with Apple Health, a mobile app of the technology group Apple Inc., One Infinite Loop, 95014 Cupertino, USA. The below-listed data may be transmitted to YAZIO in the course of this:
+
+    Total activity
+    Steps (distance, number)
+    Workouts (time, duration, type, calories burned)
+    Weight, waist measurement
+    Systolic blood pressure, diastolic blood pressure, blood glucose level
+    Body mass index
+    Menstruation cycle
+
+In addition, the below-listed data may be transmitted by YAZIO to Apple:
+
+    Total activity
+    Physical values (weight, waist measurement, blood sugar, systolic and diastolic blood pressure, blood glucose level, body mass index)
+    Nutritional energy, macronutrients, micronutrients, vitamins
+
+YAZIO has the ability to directly access the data pool of Apple Health at any time if the user has consented to this. Apple Health collects health-relevant user data and displays them as processed in the App. Further data protection notices can be found at https://www.apple.com/privacy/.
+4.4. Samsung Health
+
+Furthermore, health, diet and fitness data of users of Samsung Health, a platform of Samsung Electronics, Ltd, 129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16677, Republic of Korea, and Samsung Medison, Pangyogeok-ro, 145, Bundang-gu, Republic of Korea, can be transmitted to YAZIO if the user uses the connect option in the YAZIO App:
+
+    Total activity
+    Workouts completed
+    Steps (distance, number)
+    Weight
+
+Samsung Health manages the mentioned user data in order to support its users on the path to greater fitness and well-being. YAZIO has the ability to directly access the data pool of Samsung at any time. Further information is available at https://privacy.samsung.com/privacy/samsung.
+4.5. Huawei Health
+
+Health and fitness data of users can be transmitted by Huawei Health, an official app of Huawei, G1, HUAWEI Industrial Base, Bantian, Longgang District, Shenzhen 518129 P.R. China, to YAZIO if the user uses the connect option in the YAZIO App:
+
+    Total activity
+    Workouts completed
+    Steps (distance, number)
+    Weight
+
+Huawei Health monitors the health and physical activities of users. YAZIO has the ability to directly access the data pool of Huawei at any time. Further data protection notices are available at: https://consumer.huawei.com/minisite/cloudservice/health/privacy-statement.htm?code=HK&language=en_us.
+4.6. Fitbit
+
+YAZIO further offers its users the option to link their App with Fitbit. If the user makes use of this, the below-listed data of Fitbit Inc., 199 Fremont St 14th Fl, 94105 San Francisco, USA, may be transmitted to YAZIO:
+
+    User’s current weight
+    Total water consumed each day
+    Workouts that the user has recorded on Fitbit (time, duration, type, calories burned)
+    Total activity (calories burned), activity duration, number of steps each day
+
+In addition, the following data may be transmitted by YAZIO to Fitbit:
+
+    Total water consumed each day
+    Nutritional values
+
+The fitness tracker of Fitbit Inc. is used to record and track the workout units completed by a user. YAZIO is notified by Fitbit once data are available for retrieval. They are then actively obtained by YAZIO. Further data protection information can be found at https://fitbit.com/legal/privacy-policy.
+4.7. Garmin
+
+If the user uses the option provided by YAZIO to link the YAZIO App with the Garmin tracker, the below-listed data of Garmin Switzerland GmbH, Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland, may be transmitted to YAZIO:
+
+    User’s weight
+    Workouts that the user has recorded on Garmin (time, duration, type, calories burned)
+    Total activity, distance covered, number of steps each day
+
+Garmin's GPS navigation devices can be used, inter alia, to record the user's exercise activities. YAZIO receives the data collected by Garmin directly via push notification, such that the transmitted data are available in the App within a few minutes. Further data protection notices are provided at https://www.garmin.com/privacy/.
+4.8. Polar
+
+The below-listed data may be transmitted by Polar Electro Oy, Professorintie 5, 90440 Kempele, Finland, to YAZIO if the user makes use of the option to connect their App with Polar:
+
+    User’s current weight
+    Time, duration, type, burned calories, distance, number of steps of workouts that the user has recorded on Polar
+    Total activity (calories burned), activity duration, number of steps each day
+
+Polar Flow is a fitness app that analyzes the exercise activities of its users and aids in tracking workout progress. YAZIO is notified by Polar once data are available for retrieval. They are then actively obtained by YAZIO. Further data protection notices can be found at https://www.polar.com/legal/privacy-notice.
+5. Contact & Customer Support
+
+YAZIO uses the customer service platform “Zendesk” of Zendesk Inc., 989 Market Street #300, San Francisco, CA 94192, USA, to process user enquiries made through the Website. The Website provides a contact form in which users manually enter their data (name, e-mail address, iOS or Android version, possible PRO status, description of the problem). Based on this information, the YAZIO Support Team knows the user data that are stored in the user's App.
+
+These personal data that the user provides to YAZIO in connection with this contact request are needed only for responding to the user's enquiry or to make contact and are used for the technical administration associated with this. The data are not shared.
+
+If the user has consented to the storage of their data, they have the right to withdraw the granted consent with prospective effect. In such cases, their personal data will be erased without delay. The user's personal data will be erased even without their withdrawal if YAZIO has processed their request or the user has withdrawn the consent to storage granted here. This also takes place where storage is impermissible for other statutory reasons.
+
+Zendesk is utilized based on the user’s consent under Article 6(1)(a) GDPR and a processing contract pursuant to Article 28(3) GDPR.
+
+The Zendesk data protection provisions can be viewed here: https://www.zendesk.com/company/privacy
+6. Other Communication
+
+On the Website, YAZIO utilizes the business communication platform “Calendly” of Calendly LLC, 1315 Peachtree St NE, Atlanta, GA 30309, USA. With the aid of Calendly, appointments during the recruitment process can be scheduled in a simple, straightforward manner. For this purpose, the applicant must prove data such as name, e-mail address and phone number. These data are transmitted to Calendly and, in some cases, also to servers outside the European Union. The data are processed for the purpose of appointment scheduling in accordance with Article 6(1)(a) GDPR on the basis of consent that is voluntarily provided by the user and YAZIO’s interest in effective appointment scheduling.
+
+Further information about data protection can be found in the Calendly data protection provisions:https://calendly.com/privacy.
+7. Surveys & Feedback
+7.1. SurveyMonkey
+
+For online surveys in the YAZIO App, YAZIO uses the SurveyMonkey service of Momentive Europe UC, 2nd Floor, Shelbourne Buildings, Shelbourne Rd, Dublin, Ireland. The surveys made available by YAZIO are used to analyze the subjective user experience and the opinions and desires of users of the YAZIO App and the YAZIO offer. Participation in an online survey is voluntary. User data will be anonymized and the IP address of the requesting computer will not be stored. When responding to an online survey, YAZIO collects the following personal data: age group, gender, net household income, and number of persons in the household over the age of 18. The user's details will be stored for the purpose of analysis until the survey is deleted through SurveyMonkey. The legal basis for use of the SurveyMonkey service is Article 6(1)(a) GDPR.
+
+Further information can be found at https://www.surveymonkey.com/mp/legal/privacy/.
+7.2. Trustpilot
+
+YAZIO has integrated “Trustpilot”, a tool of Trustpilot A/S, Pilestræde 58, 1112 Copenhagen, Denmark, on its Website. Trustpilot is used to manage customer ratings and assists online companies in developing a trustworthy brand as well as in making contact with customers. With this, users are given the opportunity to rate the services of YAZIO. User data (name, e-mail address and a reference number) are shared with Trustpilot for comparison so that only verified users can submit ratings. However, the data can be transmitted only with the user's prior consent on the basis of Article 6(1)(a) GDPR.
+
+Further information can be found at https://legal.trustpilot.com/for-reviewers/end-user-privacy-terms.
+7.3. Feature Upvote
+
+On its Website, YAZIO additionally uses the Feature Upvote service of Barbary Software SL, Carrer Doctor Trueta 65 in 08005 Barcelona, Spain. This is a tool that makes it possible to obtain feedback from customers. This feedback is provided in a centralized manner on an online board. In this regard, name, e-mail address, meta data and communication data are collected. IP address, user agent and HTTP referrer are used only for technical purposes. All other data are collected solely for ensuring the core features of the application. These data are used on the basis of Articles 28(2) and 6(1)(f) GDPR.
+
+The Feature Upvote data protection provisions can be viewed here: https://featureupvote.com/gdpr/.
+8. Newsletter & Mailings
+
+YAZIO regularly notifies its users by e-mail about current diet trends, recipes and other interesting offers and tips from the field of nutrition, weight loss, etc. Registration is voluntary and takes place using a double opt-in procedure. After registering, the user receives an e-mail requesting that they confirm their registration. This is necessary so that a third party cannot register to receive the newsletter using someone else's e-mail address. In order to document that the registration meets the legal requirements, it is logged on the basis of YAZIO's legitimate interest pursuant to Article 6(1)(f) GDPR.
+
+As part of registration on the Website or in the App, the user consents to the processing of the provided data for the purpose of sending and receiving e-mails (Article 6(1)(a) GDPR). Furthermore, the user consents that YAZIO may collect and process data about their usage behavior (namely, opening the e-mail and clicking on links in it) so that the content of the mailings can be tailored to the respective needs, e.g., if a user repeatedly clicks on links about topic A but not about topic B, they will receive only links about topic A in future mailings.
+
+The consent granted by the user to receive these emails may be withdrawn at any time and without providing reasons with prospective effect by sending an e-mail to help@yazio.com.
+
+In addition, receipt can be stopped by using a link found at the end of each newsletter. YAZIO may store the provided e-mail address and the data stored in connection with logging the registration for up to three years on the basis of its legitimate interest in order to be able to demonstrate that consent had previously been given. The processing of these data is limited to the purpose of possible defense against claims. An individual erasure request is possible at any time, provided that the former existence of consent is confirmed at the same time.
+
+The newsletter, as well as transactional-emails, is sent via “SparkPost”, an e-mail marketing platform of the U.S. provider Message Systems Inc., 9160 Guilford Road, Columbia, Maryland 21046, USA. The data protection provisions of SparkPost can be viewed here: https://www.sparkpost.com/policies/privacy. SparkPost may use the data of recipients in pseudonymous form, i.e., with attribution to a user, for the purpose of optimizing or improving its own services, e.g., for technical optimization of the sending and presentation of the newsletter and the transaction e-mail or for statistical purposes. However, SparkPost does not use the data of YAZIO mailing recipients to contact them directly or to share the data with third parties.
+
+In addition, YAZIO uses Iterable, a cross-channel marketing platform of Iterable Inc., 71 Stevenson St, #300 San Francisco, CA 94105, USA. Iterable helps YAZIO get in touch with its users through e-mails, push notifications and in-app messages. Moreover, with the aid of Iterable, it is possible for YAZIO to collect data about how users interact with their mobile applications. For instance, YAZIO can segment its mailing recipients by category, such as age, gender, personal goal, diet and App use, track openings, clicks and conversions, and create automated, triggered cross-channel campaigns. Further notices about data protection, particularly about assurance of the level of data protection when data are processed in third countries, are available at https://iterable.com/trust/privacy-policy/.
+
+The aforementioned service providers are utilized based on YAZIO’s legitimate interest pursuant to Article 6(1)(f) GDPR and a processing contract pursuant to Article 28(3) GDPR.
+9. Use by Children
+
+YAZIO is aware of the importance of additional measures to protect the privacy of children. Persons under the age of 16 may not open an account unless a parent has consented in accordance with applicable law. Should YAZIO learn that personal data about a child under the minimum age were collected without parental consent, YAZIO will initiate steps to erase these data without delay. Parents who believe that their child has sent us personal data and would like to have these erased should contact YAZIO using the contact data provided in No. 1.
+10. Use of Tools for Web analysis, Remarketing & Retargeting
+
+Based on the user's consent within the meaning of Article 6(1)(a) GDPR, YAZIO utilizes various tools and plug-ins for the purpose of web analysis, remarketing and retargeting. In doing so, cookies are used that forward the IP address and/or record and analyze different types of data. This includes, for example, the number of Website visitors, visit duration, average page-loading time and visitor origin. These cookies are used for the purpose of being able to put together more targeted offers for YAZIO users.
+
+Specifically:
+10.1. Google Tag Manager/Google Analytics/Google Optimize/Google Analytics by Firebase
+
+YAZIO utilizes Google Tag Manager on its Website. The provider is Google Ireland Ltd. (“Google”), Google Building Gordon House, Barrow Street, Dublin 4, Ireland. Google Tag Manager is a tool used to embed tracking or statistics tools and other technologies on the Website. Google Tag Manager does not itself create any user profiles, store any cookies, or perform any independent analyses. It is merely used to manage and run the tools embedded through it. For this purpose, however, Google Tag Manager records certain aggregated data for the purpose of diagnosing how the tracking and statistics tools are running. These data do not contain any IP addresses or IDs that can be linked to a specific person.
+
+YAZIO uses Google Analytics and Google Optimize on the Website and in the App for the purpose of analyzing use of the Website. The provider of both web analysis services is Google Ireland Ltd. (“Google”), Google Building Gordon House, Barrow Street, Dublin 4, Ireland.
+
+Google Optimize is a tool integrated in Google Analytics. It enables the Provider to adjust and improve parts of its Website in a targeted manner to match user behavior.
+
+Firebase provides app developers with a technical infrastructure and a variety of tools, including Google Analytics by Firebase. With it, YAZIO can record and analyze user behavior in order to adjust the App to meet the needs of users and to better control features and events. Google Analytics and Google Optimize use cookies, which facilitate an analysis of the use of the Website by users. The information generated by the cookie about user activities on this Website is normally transferred to a Google server in the U.S. and stored there. On behalf of YAZIO, Google uses this information in order to evaluate user activities on the Website, to compile reports about Website activities for YAZIO, and to provide additional services associated with Website use and internet use. In addition, Google will, if necessary, transmit this information to third parties if this is required by law or if third parties process these data on behalf of Google.
+
+Further information about Google's use of data for marketing purposes can be found at https://www.google.com/policies/technologies/ads. If the user wishes to object to interest-related advertising by Google marketing services, they can use the settings and opt-out options provided by Google at http://www.google.com/ads/preferences.
+
+Google's data protection policy is available at https://www.google.com/policies/privacy.
+10.2. Google Ads Remarketing/conversion tracking
+
+On the Website and in the App, the Provider uses Google Ads Remarketing, an online advertising program of Google Ireland Ltd. (“Google”), Google Building Gordon House, Barrow Street, Dublin 4, Ireland. In connection with Google Ads Remarketing, YAZIO uses what is known as conversion tracking. If the user clicks on an advertisement placed by Google, a cookie is set for the conversion tracking. These cookies lose their validity after 30 days and are not used to personally identify users. If the user visits certain pages on this Website and the cookie has not yet expired, Google and the Provider can recognize that the user clicked on the advertisement and was redirected to this site.
+
+Each Google Ads Remarketing customer receives a different cookie. The cookies cannot be tracked across the websites of Ads Remarketing customers. The information obtained with the aid of conversion cookies is used to compile conversion statistics for Ads Remarketing customers that have elected to use conversion tracking. Customers learn about the total number of users who clicked on their advertisements and were redirected to a site furnished with a conversion tracking tag. However, they do not receive any information that can be used to identify the user. If a user wishes to decline to take part in tracking, they can object to such use by deactivating the Google conversion tracking cookie through their internet browser under user settings. In addition, the user can prevent the capture and processing by Google of the data generated by the cookie relating to their use of the Website (including their IP address) by downloading and installing the browser plug-in available at the following link: tools.google.com/dlpage/gaoptout. The user will then no longer be included in conversion tracking statistics. However, this will likely limit the functionality of this Website.
+
+The information generated by the cookie about the user's use of this Website is transferred to a Google server in the U.S. and stored there. In the event of activation of IP anonymization on this Website, however, the user’s IP address is first truncated by Google within the Member States of the European Union or in other Contracting States of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transferred to a Google server in the U.S. and truncated there. Google uses this information on behalf of the operator of this Website in order to evaluate the user's activity on the Website, to compile reports about Website activities, and to provide other services to the Website operator associated with Website use and internet use.
+
+More information about Google Ads Remarketing and conversion tracking can be found in the data protection provisions at https://safety.google/privacy/ads-and-data/.
+10.3. AppsFlyer
+
+The AppsFlyer tool is used both on the Website and in the App. AppsFlyer is an analysis service of AppsFlyer Inc., 111 New Montgomery Street, San Francisco, CA 94105, USA. The tracking software AppsFlyer is used to measure the success of YAZIO marketing campaigns. With the aid of AppsFlyer, YAZIO collects and stores data about the use of its Website by utilizing a pseudonym. The usage profiles created in this way are used to analyze visitor behavior and to improve our Website and design it to be in line with needs. Cookies may be used for this purpose. Absent express consent to be granted by the user, the pseudonymised usage profiles will not be combined with other personal data about the bearer of the pseudonym.
+
+The user may object to the collection and storage of data by AppsFlyer at any time with prospective effect by following the instructions at https://www.appsflyer.com/legal/opt-out/. Further data protection notices are available at https://www.appsflyer.com/legal/services-privacy-policy/.
+10.4. Apple Search Ads
+
+YAZIO utilizes Apple Search Ads in the App. Apple Search Ads is an online advertising program of the technology group Apple, One Infinite Loop, 95014 Cupertino, USA. Through Apple Search Ads, the Provider's App will be displayed to the user as the top result when the user searches in the App Store.
+
+The user can view and limit their personal data that Apple uses in order to display relevant advertising to them. In addition, the user can prevent location-specific information from being used to find out which advertisements they can see. Further data protection notices are available at https://searchads.apple.com/privacy.
+10.5. Outbrain
+
+On its Website, the Provider moreover uses “Outbrain”, a native advertising platform of Outbrain Inc., 39 West 13th Street, 3rd floor, New York, NY 10011, USA. Outbrain specializes in integrating content recommendations on websites. The recommendations, which are managed and delivered by Outbrain automatically in technical terms and in terms of content, appear in the so-called “discovery feed” and point out content on the Provider's Website or third-party websites that also may be of interest to the user.
+
+Reading recommendations, which usually appear below an article, are determined by the content read previously by the user. To display interest-based content, Outbrain uses cookies that are stored on the user's end device. The information generated by the cookie about the user’s device source, browser type and IP address is normally transferred to an Outbrain server in the U.S. and stored there, whereby the last octet is deleted for anonymization purposes.
+
+The user can at any time prevent tracking for the purpose of displaying content recommendations by Outbrain at https://my.outbrain.com/recommendations-settings/home by clicking on the “refuse” (opt-out) field. Further information about data protection in this respect can be found at https://www.outbrain.com/privacy/.
+10.6. Taboola
+
+In addition, YAZIO uses Taboola on its Website. Taboola is a native advertising platform of Taboola Inc., 16 Madison Square West, 7th Floor, New York, NY 10010, USA. The Provider uses Taboola cookies on its Website. Taboola integrates content recommendation on websites. The recommendations, which are managed and delivered by Taboola automatically in technical terms and in terms of content, appear in the so-called “discovery feed” and point out content on the Provider's Website or third-party websites that may also be of interest to the user. The Taboola cookies enable the Provider to target visitors to its Website with customized advertisements.
+
+For this purpose, Taboola stores a small file with a number sequence in the browser of the visitor to the Website that records the visitor to the Website and anonymized data about use of the Website. In addition, with the aid of the cookies, Taboola evaluates and supports online marketing measures for registering the effectiveness of advertisements for statistical purposes and for market research purposes.
+
+No personal data are stored either for retargeting or conversion tracking. Other data protection notices are available at https://www.taboola.com/policies/privacy-policy.
+10.7. Sentry
+
+Both on the Website and in the App, YAZIO uses the error management tool “Sentry” of Functional Software Inc., 45 Fremont St, San Francisco, CA 94105, USA. Sentry monitors the system stability of YAZIO and is intended to improve the identification of code errors.
+
+The data of users are collected anonymously. Person-based use of the data does not take place. Further information about data protection can be found at https://sentry.io/privacy/.
+10.8. Awin
+
+On the Website, YAZIO uses the affiliate marketing platform “Awin” of Awin AG, Eichhornstraße 3, 10785 Berlin, Germany, in order to advertise its App on the network. As an affiliate network, Awin creates an interface between dealers and sales partners. In this regard, “publishers” can advertise on YAZIO via the platform and then also advertise the YAZIO App on their platforms. The platform thus supports YAZIO in acquiring new publishers and affiliates. All sales-related information of the publisher is tracked with the aid of Google Analytics. The data of a user (end consumer) are not documented. More about the Awin data protection policy can be found at https://www.awin.com/privacy.
+11. Social Media Plug-Ins
+
+Based on the respective user consent within the meaning of Article 6(1)(a) GDPR, YAZIO uses various social media plug-ins for the purpose of web analysis, remarketing and retargeting, for the purpose of optimizing its Website and to be able to put together more targeted offers for users.
+11.1. Facebook
+
+On the Website and in the App, YAZIO uses the social plug-in of the social network facebook.com, which is operated by Meta Platforms Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA (“Facebook”). The plug-ins can be identified by the Facebook logo or are labeled with the add-on “Facebook social plug-in”. The list and appearance of Facebook social plug-ins can be viewed here:
+
+https://developers.facebook.com/docs/plugins.
+
+If a user selects a feature of this Online Offer containing such a plug-in, a direct connection is established with the Facebook servers. The content of the plug-in is transmitted by Facebook directly to the user's device and is embedded by it in the Online Offer. In this regard, the processed data can be used to create usage profiles of users. Therefore, YAZIO has no influence over the scope of the data that Facebook collects with the aid of this plug-in and accordingly informs users in line with our state of knowledge. Through the embedding of the plug-in, Facebook receives information that a user has visited the corresponding page of the Online Offer. If the user is logged in to Facebook, Facebook can allocate the visit to their Facebook account. If users interact with the plug-in, e.g., share the Website using the Facebook “Share” button, the corresponding information will be transmitted from their device directly to Facebook and stored there. If a user is not a member of Facebook, there is still the possibility that Facebook will learn their IP address and store it. According to Facebook, only an anonymized IP address is stored in Germany. If a user is also a Facebook member and does not want Facebook to collect data about them through this Online Offer and to link the data with their member data stored at Facebook, they must log out of Facebook before using our Online Offer and delete their cookies.
+
+Further information can be found in the Facebook data protection notice at
+
+    https://www.facebook.com/about/privacy
+    http://www.aboutads.info/choices (U.S. site)
+    http://www.youronlinechoices.com (EU site)
+
+The settings are platform-independent, i.e., they will be adopted for all devices, like desktop computers and mobile devices.
+11.2. Twitter
+
+Features and content of the service Twitter, offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA, may be embedded on the Provider's Website. This may include, in particular, buttons that the user can use to share the link to the Website. If a user is a member of the Twitter platform, Twitter can allocate the selection of the aforementioned content and features to their profile there.
+
+The Twitter data protection policy can be found at https://twitter.com/privacy.
+11.3. Instagram
+
+Features and content of the service Instagram may be embedded in the YAZIO App and on the Website. The provider is Meta Platforms Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. This may include content such as photos, videos or text as well as buttons for liking content and for following content creators or our posts. If the user is also a member of the Instagram platform, Instagram can allocate the selection of the aforementioned content and features to their user profile there. More about the Instagram data protection policy can be found at http://instagram.com/about/legal/privacy/.
+11.4. Pinterest
+
+In addition, the Provider uses on its Website the social media plug-in Pinterest, which is provided by Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland. This may include content such as photos, videos or text as well as buttons for liking content and for following content creators or the Provider’s posts.
+
+If the user is a member of the Pinterest platform, Pinterest can allocate the selection of the aforementioned content and features to their profile there. The information generated by the plug-in about their use of this Website is transferred to a Pinterest server in the U.S. and stored there. In the event of activation of IP anonymization on this website, however, the user’s IP address is first truncated by Pinterest within the Member States of the European Union or in other Contracting States of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transferred to a Pinterest server in the U.S. and truncated there. Pinterest uses this information on behalf of the operator of this Website in order to evaluate the user's activity on the Website, to compile reports about Website activities, and to provide other services to the Website operator associated with Website use and internet use. The Pinterest data protection policy can be found at https://policy.pinterest.com/privacy-policy.
+11.5. TikTok
+
+Features and content of the service TikTok, offered by TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland, may be embedded on the Website and in the YAZIO App. This may include content such as videos as well as buttons for liking content and for following content creators or the Provider’s posts.
+
+If the user is a member of the TikTok platform, TikTok can allocate the selection of the aforementioned content and features to their profile there. The information generated by the pixel about the user’s use of this Website is transferred to multiple TikTok servers, including to third countries such as the U.S., and stored there. In the event of activation of IP anonymization on this website, however, the user’s IP address is first truncated by TikTok within the Member States of the European Union or in other Contracting States of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transferred to a TikTok server in third countries and truncated there. TikTok uses this information on behalf of the operator of this Website in order to evaluate the user's activities on the Website, to compile reports about Website activities, and to provide other services to the Website operator associated with Website use and internet use.
+
+TikTok offers extensive data protection information at https://www.tiktok.com/legal/privacy-policy.
+11.6. YouTube
+
+Features and content of the service YouTube, offered by YouTube LLC, 901 Cherry Ave. San Bruno, CA 94066, USA, may be embedded on both the YAZIO Website and in the App. This may include content such as videos, which allow users to like content and follow content creators or the Provider’s posts.
+
+If the user is a member of the YouTube platform, YouTube can allocate the selection of the aforementioned content and features to their profile there. The information generated by the plug-in about their use of this Website is transferred to a YouTube server in the U.S. and stored there. In the event of activation of IP anonymization on this website, however, the user’s IP address is first truncated by YouTube within the Member States of the European Union or in other Contracting States of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transferred to a YouTube server in the U.S. and truncated there. YouTube uses this information on behalf of the operator of this Website in order to evaluate the user's activity on the Website, to compile reports about Website activities, and to provide other services to the Website operator associated with Website use and internet use.
+
+The YouTube data protection policy can be found at https://www.youtube.com/howyoutubeworks/our-commitments/protecting-user-data/.
+12. Erasure of User Data
+
+YAZIO stores the user's personal data for the period of use of the App. If the user account is deleted, the e-mail address, first name, last name, profile picture and links to third-party providers will be definitively and irretrievably deleted.
+13. Resetting of User Account
+
+The user has the ability to reset their account. In this regard, a new account will be transparently set up and settings will be copied (e-mail address, password, settings, goals, etc.). The e-mail address, first name, last name and—if applicable—Fitbit ID, Polar ID, Stripe ID and AppsFlyer ID previously associated with the original account will be deleted in it.
+14. User Rights
+
+The user has the following rights, which, with the exception of No. 14.9, can be asserted with the controller or the data protection officer. The contact data can be found in No. 1.
+14.1. Right of access (Article 15 GDPR)
+
+The user has the right at any time to obtain free information about their personal data stored by YAZIO, the origin and recipients of the data, the purpose of data processing and the planned duration of data storage, including a copy of the personal data that are the subject of the processing.
+14.2. Right to rectification (Article 16 GDPR)
+
+In addition, the user has the right at any time to have inaccurate or incomplete personal data rectified or completed without undue delay.
+14.3. Right to withdraw consent (Article 7(3) GDPR)
+
+The user has the right to withdraw their consent to data processing at any time with prospective effect, without there needing to be a ground for withdrawal.
+14.4. Right to erasure (Article 17 GDPR)
+
+Subject to the prerequisites of Article 17 GDPR, the user may request erasure of their personal data. Their entitlement to erasure depends, inter alia, on whether the data concerning them are still needed by YAZIO for fulfilling its statutory duties.
+14.5. Right to restriction of processing (Article 18 GDPR)
+
+Subject to the prerequisites of Article 18 GDPR, the user may request restriction of the processing of the personal data concerning them.
+14.6. Right to data portability (Article 20 GDPR)
+
+The user has the right to receive their provided personal data in a structured, commonly used and machine-readable format or to transmit those data to another controller, where the processing is based on consent and the processing is carried out by automated means.
+14.7. Right to object (Article 21 GDPR)
+
+The user may at any time make use of their right to object to the creation of user profiles and to the processing of personal data concerning them, where the processing takes place on the basis of Article 6(1)(e) or (f) GDPR. The personal data will no longer be processed unless compelling, legitimate grounds outweigh the user's interests, rights and freedoms. Where a user’s personal data are used for direct marketing purposes, they of course have the right to object at any time to such processing.
+14.8. Right not to be subject to automated decision-making (Article 22 GDPR)
+
+The user has the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them.
+14.9. Right to lodge a complaint (Article 77 GDPR)
+
+In addition, the user has the right to lodge a complaint with the supervisory authority responsible for the Provider:
+
+Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI)
+Häßlerstraße 8
+99096 Erfurt
+Germany
+
+Email: poststelle@datenschutz.thueringen.de
+
+Web: https://www.tlfdi.de/
+15. Version & Updating of This Data Protection Policy
+
+This Data Protection Policy is currently valid in the version of June 2025.
+
+If our Website or our Product is enhanced, or if legal requirements should change, it may become necessary to amend this Data Protection Policy. The current version of this Data Protection Policy can be viewed and printed out at any time by visiting https://www.yazio.com/en/privacy.

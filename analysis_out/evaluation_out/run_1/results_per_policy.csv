@@ -1,0 +1,9 @@
+model,policy,n_pairs,agreement_rate,macro_f1,f1_true,f1_false,f1_ambiguous
+anthropic__claude-sonnet-4-6,snapchat,35,0.7429,0.6503,0.75,0.8372,0.3636
+deepseek__deepseek-r1,snapchat,35,0.6857,0.5109,0.75,0.7826,0.0
+google__gemini-3-1-flash-lite-preview,snapchat,35,0.6,0.5508,0.7,0.6857,0.2667
+google__gemini-3-1-pro-preview,snapchat,35,0.7143,0.5907,0.75,0.8,0.2222
+openai__gpt-5-4,snapchat,35,0.7143,0.6518,0.8571,0.7907,0.3077
+openai__gpt-5-4-mini,snapchat,35,0.6571,0.4798,0.6667,0.7727,0.0
+qwen__qwen3-5-397b-a17b,snapchat,35,0.7714,0.7336,0.8,0.8293,0.5714
+qwen__qwen3-8b,snapchat,35,0.5429,0.3472,0.3333,0.7083,0.0

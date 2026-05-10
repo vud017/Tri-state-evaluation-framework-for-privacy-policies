@@ -1,0 +1,457 @@
+
+(A) This Policy
+Summary – This Policy explains how we Process Personal Data. This Policy covers not only our customers but also our suppliers and business partners. In the case that any employee violates this Policy, disciplinary action is taken. This Policy may be amended or updated from time to time, so please check it regularly for updates.
+
+This Policy is issued by each of the Controller entities listed in Section (S) below (together, “ TSMC ”, “ we ”, “ us ” and “ our ”) and is addressed to individuals outside our organisation with whom we interact, including customers, visitors to our Sites, other users of our products or services, personnel of corporate customers and vendors, suppliers, applicants for employment, and visitors to our premises (together, “ you ”). TSMC is committed to protecting the privacy and personal information of individuals and strives to maintain the security of the data. Violation of this Policy by our employees may result in disciplinary action up to and including termination of employment. Violation of this Policy by suppliers may result in termination of business relationship.
+
+This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Policy.
+
+
+(B) Collection of Personal Data
+Summary – We collect or obtain Personal Data: when those data are provided to us (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make Personal Data public (e.g., if you make a public post about us on social media); when you visit our Sites; when you register to use any of our Sites, products, or services; or when you interact with any third party content or advertising on a Site. We may also receive Personal Data about you from third parties (e.g., law enforcement authorities).
+
+Collection of Personal Data : We collect or obtain Personal Data about you from the following sources:
+
+ 
+
+    Data provided to us : We obtain Personal Data when those data are provided to us (e.g., where you contact us via email or telephone, or by any other means, or when you provide us with your business card, or when you submit a job application).
+    Data we obtain in person : We obtain Personal Data during meetings, at trade shows, during visit from sales or marketing representatives, or at events we attend.
+    Collaborations : We obtain Personal Data when you collaborate with us in research or in an advisory/consultancy capacity.
+    Relationship data : We collect or obtain Personal Data in the ordinary course of our relationship with you (e.g., we provide a service to you, or to your employer).
+    Data you make public : We collect or obtain Personal Data that you manifestly choose to make public, including via social media (e.g., we may collect information from your social media profile(s), if you make a public post about us).
+    Site data : We collect or obtain Personal Data when you visit any of our Sites or use any features or resources available on or through a Site.
+    Registration details : We collect or obtain Personal Data when you use, or register to use, any of our Sites, products, or services.
+    Content and advertising information : If you interact with any third party content or advertising on a Site (including third party plugins and cookies) we receive Personal Data from the relevant third party provider of that content or advertising.
+    Third party information : We collect or obtain Personal Data from third parties who provide it to us (e.g., credit reference agencies; law enforcement authorities; etc.).
+
+
+(C) Creation of Personal Data
+Summary – We create Personal Data about you (e.g., records of your interactions with us).
+
+We also create Personal Data about you in certain circumstances, such as records of your interactions with us, and details of your past interactions with us. We may also combine Personal Data from any of our Sites, products, or services, including where those data are collected from different devices.
+
+
+(D) Categories of Personal Data we Process
+Summary – We Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; payment details (e.g., your billing address); information about our Sites (e.g., the type of device you are using); details of your employer (where relevant); information about your interactions with our content or advertising; any views or opinions you provide to us; correspondence with us; cookie data; security information; and visitor logs.
+
+We Process the following categories of Personal Data about you:
+
+ 
+
+    Personal details : given name(s); preferred name; and photograph.
+    Demographic information: gender; date of birth / age; nationality; salutation; title; and language preferences.
+    Contact details: correspondence address; shipping address; telephone number; email address; details of Personal Assistants, where applicable; messenger app details; online messaging details; and social media details.
+    Expertise: records of your expertise, professional history, practising details and qualification details, information about your experience, participation in meetings, seminars, advisory boards and conferences, information about your professional relationship with other individuals or institutions, language abilities and other professional skills;
+    Consent records: records of any consents you have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
+    Data relating to our Sites: device type; operating system; browser type; browser settings; IP address; language settings; dates and times of connecting to a Site; username; password; security login details; usage data; aggregate statistical information.
+    Employer details: where you interact with us in your capacity as an employee of a third party, the name, address, telephone number and email address of your employer, to the extent relevant.
+    Content and advertising data: records of your interactions with our online advertising and content, records of advertising and content displayed on pages displayed to you, and any interaction you may have had with such content or advertising (e.g., mouse hover, mouse clicks, any forms you complete in whole or in part) and any touchscreen interactions.
+    Views and opinions: responses to surveys, responses to testing, any views and opinions that you choose to send to us, or publicly post about us on social media platforms.
+    Correspondence: records and copies of your correspondence if you contact us.
+    Cookie data: we collect information via cookies and similar technologies. Please see our Cookie Policy for more details.
+    Security information: your password(s); login attempt details; security settings; and other security-related information.
+    Visitor logs: records of visits to our premises .
+
+
+(E) Sensitive Personal Data
+Summary – We do not seek to collect or otherwise Process Sensitive Personal Data. Where we need to Process Sensitive Personal Data for a legitimate purpose, we do so in accordance with applicable law.
+
+We do not seek to collect or otherwise Process Sensitive Personal Data in the ordinary course of our business. Where it becomes necessary to Process your Sensitive Personal Data for any reason, we rely on one of the following legal bases:
+
+    Compliance with applicable law: We may Process your Sensitive Personal Data where the Processing is required or permitted by applicable law (e.g., to comply with our diversity reporting obligations);
+    Detection and prevention of crime: We may Process your Sensitive Personal Data where the Processing is necessary for the detection or prevention of crime (e.g., the prevention of fraud);
+    Establishment, exercise or defence of legal claims: We may Process your Sensitive Personal Data where the Processing is necessary for the establishment, exercise or defence of legal claims; or
+    Consent: We may Process your Sensitive Personal Data where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Data (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+If you provide Sensitive Personal Data to us, you must ensure that it is lawful for you to disclose such data to us.
+
+
+(F) Purposes of Processing and Legal Bases for Processing
+Summary – We Process Personal Data for the following purposes: providing our Sites, products, and services to you; compliance checks; operating our business; communicating with you; managing our IT systems; vendor management; health and safety; financial management; conducting surveys; ensuring the security of our premises and systems; conducting investigations where necessary; compliance with applicable law; improving our Sites, products, and services; fraud prevention; establishment, exercise and defense of legal claims; and recruitment and job applications.
+
+The purposes for which we Process the categories of Personal Data identified in Section (D) above, subject to applicable law, and the legal bases on which we perform such Processing, are as follows:
+Purpose of Processing 	Categories of Personal Data 	Legal Basis for Processing
+Provision of Sites, products, and services: providing our Sites, products, or services; providing promotional information upon request; and communicating with you in relation to those Sites, products, or services. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Demographic information
+    Consent records
+    Data relating to our Sites
+    Employer details
+    Content and advertising data
+    Cookie data
+    Security information
+    Views and opinions
+
+	
+
+    The Processing is necessary in connection with any contract that you have entered into with us, or to take steps prior to entering into a contract with us; or
+    We have a legitimate interest in carrying out the Processing for the purpose of providing our Sites, products, or services (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Operating our business: operating and managing our Sites, our products, and our services; providing content to you; displaying advertising and other information to you; communicating and interacting with you via our Sites, our products, or our services; and notifying you of changes to any of our Sites, our products, or our services. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Consent records
+    Data relating to our Sites
+    Content and advertising data
+    Cookie data
+    Security information
+    Views and opinions
+
+	
+
+    The Processing is necessary in connection with any contract that you have entered into with us, or to take steps prior to entering into a contract with us; or
+    We have a legitimate interest in carrying out the Processing for the purpose of operating our business (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Planning: organizational planning; succession planning; making changes to the nature and scope of our operations or our business; mergers, acquisitions, dissolutions demergers, liquidations, asset sales, divestitures, reorganizations and similar corporate structuring arrangements. 	
+
+    Personal details
+    Contact details
+    Expertise
+    Demographic information
+    Data relating to our Sites
+    Employer details
+    Content and advertising data
+    Views and opinions
+
+	
+
+    We have a legitimate interest in carrying out the Processing for the purpose of planning the future operation of our operations or our business (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Communications and marketing: communicating with you via any means (including via email, telephone, text message, social media, post or in person) to provide news items and other information in which you may be interested, subject always to obtaining your prior opt-in consent to the extent required under applicable law; personalizing our Sites, products and services for you; maintaining and updating your contact information where appropriate; obtaining your prior, opt-in consent where required; and enabling and recording your choice to opt-out or unsubscribe, where applicable. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Demographic information
+    Consent records
+    Data relating to our Sites
+    Content and advertising data
+    Cookie data
+    Views and opinions
+
+	
+
+    The Processing is necessary in connection with any contract that you have entered into with us, or to take steps prior to entering into a contract with us; or
+    We have a legitimate interest in carrying out the Processing for the purpose of contacting you, subject always to compliance with applicable law (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Product safety and quality communications: communications in relation to product safety and quality, including RMA (Return Material Authorization) and product safety advisory notices. 	
+
+    Personal details
+    Contact details
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ; or
+    We have a legitimate interest in carrying out the Processing for the purpose of ensuring the safety and quality, and proper use, of our products (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Management of IT systems: management and operation of our communications, IT and security systems; and audits (including security audits) and monitoring of such systems. 	
+
+    Personal details
+    Contact details
+    Expertise
+    Demographic information
+    Consent records
+    Data relating to our Sites
+    Employer details
+    Content and advertising data
+    Cookie data
+    Security information
+    Views and opinions
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ; or
+    We have a legitimate interest in carrying out the Processing for the purpose of managing and maintaining our communications and IT systems (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Health and safety: health and safety assessments and record keeping; providing a safe and secure environment at our premises; and compliance with related legal obligations. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Visitor logs
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ; or
+    We have a legitimate interest in carrying out the Processing for the purpose of ensuring a safe environment at our premises (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    The Processing is necessary to protect the vital interests of any individual .
+
+Vendor management 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Visitor logs
+
+	
+
+    We have a legitimate interest in carrying out the Processing for the purpose of managing our vendors (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Financial management: sales; finance; corporate audit; and vendor management. 	
+
+    Personal details
+    Contact details
+
+	
+
+    We have a legitimate interest in carrying out the Processing for the purpose of managing and operating the financial affairs of our business (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Surveys: engaging with you for the purposes of obtaining your views on our Sites, our products, or our services. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Consent records
+    Views and opinions
+
+	
+
+    We have a legitimate interest in carrying out the Processing for the purpose of conducting surveys, satisfaction reports and market research (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Security: physical security of our premises (including records of visits to our premises); CCTV recordings; and electronic security (including login records and access details). 	
+
+    Personal details
+    Contact details
+    Visitor logs
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ; or
+    We have a legitimate interest in carrying out the Processing for the purpose of ensuring the physical and electronic security of our business and our premises (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Investigations: detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law. 	
+
+    Each category of Personal Data identified in Section (D) above, to the extent necessary in the context of the relevant legal obligation or regulatory requirements or guidance.
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ; or
+    We have a legitimate interest in carrying out the Processing for the purpose of detecting, and protecting against, breaches of our policies and applicable laws (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Legal compliance: compliance with our legal and regulatory obligations under applicable law. 	
+
+    Each category of Personal Data identified in Section (D) above, to the extent necessary in the context of the relevant legal obligation or regulatory requirements or guidance.
+
+	
+
+    The Processing is necessary for compliance with a legal obligation, where applicable; or
+    We have a legitimate interest in carrying out the Processing for the purpose of compliance with regulatory requirements or guidance (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Improving our Sites, products, and services: identifying issues with our Sites, our products, or our services; planning improvements to our Sites, our products, or our services; and creating new Sites, products, or services. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Demographic information
+    Consent records
+    Data relating to our Sites
+    Content and advertising data
+    Views and opinions
+
+	
+
+    We have a legitimate interest in carrying out the Processing for the purpose of improving our Sites, our products, or our services (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).
+
+Fraud prevention: Detecting, preventing and investigating fraud. 	
+
+    Each category of Personal Data identified in Section (D) above, to the extent necessary in the context of the relevant fraud detection, prevention or investigation activities.
+
+	
+
+    The Processing is necessary for compliance with a legal obligation (especially in respect of applicable employment law); or
+    We have a legitimate interest in carrying out the Processing for the purpose of detecting, and protecting against, fraud (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms).
+
+Establishment, exercise and defence of legal claims: management of legal claims; establishment of facts and claims, including collection, review and production of documents, facts, evidence and witness statements; exercise and defence of legal rights and claims, including formal legal proceedings. 	
+
+    Each category of Personal Data identified in Section (D) above, to the extent necessary in the context of the relevant legal obligation or regulatory requirements or guidance.
+
+	
+
+    The Processing is necessary for compliance with a legal obligation ;
+    We have a legitimate interest in carrying out the Processing for the purpose of establishing, exercising or defending our legal rights (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    The Processing is necessary for the establishment, exercise or defence of legal claims .
+
+Recruitment and job applications: recruitment activities; advertising of positions; interview activities; analysis of suitability for the relevant position; records of hiring decisions; offer details; and acceptance details. 	
+
+    Personal details
+    Contact details
+    Correspondence
+    Expertise
+    Demographic information
+    Visitor logs
+    Consent records
+    Data relating to our Sites
+    Employer details
+    Content and advertising data
+    Views and opinions
+
+	
+
+    The Processing is necessary for compliance with a legal obligation (especially in respect of applicable employment law); or
+    We have a legitimate interest in carrying out the Processing for the purpose of recruitment activities and handling job applications (to the extent that such legitimate interest is not overridden by your interests, fundamental rights, or freedoms); or
+    We have obtained your prior consent to the Processing e.g., where this is necessary for the purposes of criminal records checks, in accordace with applicable law.
+
+
+(G) Disclosure of Personal Data to Third Parties
+Summary – We disclose Personal Data to: legal and regulatory authorities; our external advisors; our Processors; any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on our Sites.
+
+We disclose Personal Data to other entities within the TSMC group, for legitimate business purposes and the operation of our Sites, products, or services to you, in accordance with applicable law. In addition, we disclose Personal Data to:
+
+    you and, where appropriate, your appointed representatives;
+    legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+    accountants, auditors, consultants, lawyers and other outside professional advisors to TSMC, subject to binding contractual obligations of confidentiality;
+    third party Processors (such as payment services providers; shipping companies; etc.), located anywhere in the world, subject to the requirements noted below in this Section (G);
+    any relevant party, regulatory body, governmental authority, law enforcement agency or court, to the extent necessary for the establishment, exercise or defence of legal claims;
+    any relevant party, regulatory body, governmental authority, law enforcement agency or court, for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties;
+    any relevant third party acquirer(s) or successor(s) in title, in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation); and
+    any relevant third party provider, where our Sites use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, your Personal Data may be shared with the relevant third party provider. We recommend that you review that third party’s privacy policy before interacting with its advertising, plugins or content.
+
+If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
+
+
+(H) Profiling
+Summary – Personal Data are subject to automated decision-making and Profiling.
+
+We Process Personal Data for the purposes of automated decision-making and Profiling, which is carried out for the following purposes:
+Processing Activity 	Logic of the Profiling Activity 	Consequences for You
+Data loss prevention 	We may process the content of any communications that you send to, or receive from, any TSMC personnel, for the purposes of data loss prevention and protection of our intellectual property. This may include building profiles of threat patterns or suspected breaches of our security. 	This Profiling activity may affect the privacy of your communications with TSMC personnel. We encourage you not to use TSMC contact details for Sensitive Personal Data or communications of a highly confidential or deeply personal nature.
+
+
+(I) International transfer of Personal Data
+Summary – We transfer Personal Data to recipients in other countries. Where we transfer Personal Data from the EEA to a recipient outside the EEA that is not in an Adequate Jurisdiction, we do so on the basis of Standard Contractual Clauses.
+
+Because of the international nature of our business, we transfer Personal Data within the TSMC group, and to third parties as noted in Section (G) above, in connection with the purposes set out in this Policy. For this reason, we transfer Personal Data to Taiwan and US, and other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
+
+If an exemption or derogation applies (e.g., where a transfer is necessary to establish, exercise or defend a legal claim) we may rely on that exemption or derogation, as appropriate. Where no exemption or derogation applies, and we transfer your Personal Data from the EEA to recipients located outside the EEA who are not in Adequate Jurisdictions, we do so on the basis of Standard Contractual Clauses. You are entitled to request a copy of our Standard Contractual Clauses using the contact details provided in Section (S) below.
+
+Please note that when you transfer any Personal Data directly to a TSMC entity established outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive those data, in accordance with the provisions of this Policy.
+
+
+(J) Data Security
+Summary – We implement appropriate technical and organisational security measures to protect your Personal Data. Please ensure that any Personal Data that you send to us are sent securely.
+
+We have implemented appropriate technical and organisational security measures designed to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of Processing, in accordance with applicable law.
+
+Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement all reasonable measures to protect your Personal Data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely.
+
+
+(K) Data Accuracy
+Summary – We take every reasonable step to ensure that your Personal Data are kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.
+
+We take every reasonable step to ensure that:
+
+    your Personal Data that we Process are accurate and, where necessary, kept up to date; and
+    any of your Personal Data that we Process that are inaccurate (having regard to the purposes for which they are Processed) are erased or rectified without delay.
+
+From time to time we may ask you to confirm the accuracy of your Personal Data.
+
+
+(L) Data Minimisation
+Summary – We take every reasonable step to limit the volume of your Personal Data that we Process to what is necessary.
+
+We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Policy.
+
+
+(M) Data Retention
+Summary – We take every reasonable step to ensure that your Personal Data are only retained for as long as they are needed in connection with a lawful purpose.
+
+We take every reasonable step to ensure that your Personal Data are only Processed for the minimum period necessary for the purposes set out in this Policy. The criteria for determining the duration for which we will retain your Personal Data are as follows:
+
+    we will retain Personal Data in a form that permits identification only for as long as:
+        we maintain an ongoing relationship with you (e.g., where you are lawfully included in our mailing list and have not unsubscribed); or
+        your Personal Data are necessary in connection with the lawful purposes set out in this Policy, for which we have a valid legal basis (e.g., where your personal data are included in a contract between us and your employer, and we have a legitimate interest in processing those data for the purposes of operating our business and fulfilling our obligations under that contract; or where we have a legal obligation to retain your Personal Data),
+
+plus:
+
+    the duration of:
+        any applicable limitation period under applicable law (i.e., any period during which any person could bring a legal claim against us in connection with your Personal Data, or to which your Personal Data are relevant); and
+        an additional two (2) month period following the end of such applicable limitation period (so that, if a person brings a claim at the end of the limitation period, we are still afforded a reasonable amount of time in which to identify any Personal Data that are relevant to that claim),
+
+and:
+
+    in addition, if any relevant legal claims are brought, we continue to Process Personal Data for such additional periods as are necessary in connection with that claim.
+
+During the periods noted in paragraphs (2)(a) and (2)(b) above, we will restrict our Processing of your Personal Data to storage of, and maintaining the security of, those data, except to the extent that those data need to be reviewed in connection with any legal claim, or any obligation under applicable law.
+
+Once the periods in paragraphs (1), (2) and (3) above, each to the extent applicable, have concluded, we will either:
+
+    permanently delete or destroy the relevant Personal Data according to the applicable internal data retention policies; or
+    anonymize the relevant Personal Data.
+
+
+(N) Your Legal Rights
+
+Summary – Subject to applicable law, you may have a number of rights, including: the right not to provide your Personal Data to us; the right of access to your Personal Data; the right to request rectification of inaccuracies; the right to request the erasure, or restriction of Processing, of your Personal Data; the right to object to the Processing of your Personal Data; the right to have your Personal Data transferred to another Controller; the right to withdraw consent; and the right to lodge complaints with Data Protection Authorities. In some cases it will be necessary to provide evidence of your identity before we can give effect to these rights.
+
+Subject to applicable law, you may also have the following additional rights regarding the Processing of your Relevant Personal Data:
+
+    the right to object, on grounds relating to your particular situation, to the Processing of your Relevant Personal Data by us or on our behalf; and
+    the right to object to the Processing of your Relevant Personal Data by us or on our behalf for direct marketing purposes.
+
+Subject to applicable law, you may have the following rights regarding the Processing of your Relevant Personal Data:
+
+    the right not to provide your Personal Data to us (however, please note that we will be unable to provide you with the full benefit of our Sites, products, or services, if you do not provide us with your Personal Data – e.g., we might not be able to process your requests without the necessary details);
+    the right to request access to, or copies of, your Relevant Personal Data, together with information regarding the nature, Processing and disclosure of those Relevant Personal Data;
+    the right to request rectification of any inaccuracies in your Relevant Personal Data;
+    the right to request, on legitimate grounds:
+        erasure of your Relevant Personal Data; or
+        restriction of Processing of your Relevant Personal Data;
+    the right to have certain Relevant Personal Data transferred to another Controller, in a structured, commonly used and machine-readable format, to the extent applicable;
+    where we Process your Relevant Personal Data on the basis of your consent, the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Data in reliance upon any other available legal bases); and
+    the right to lodge complaints regarding the Processing of your Relevant Personal Data with a Data Protection Authority (in particular, the Data Protection Authority of the EU Member State in which you live, or in which you work, or in which the alleged infringement occurred, each if applicable).
+
+This does not affect your statutory rights.
+
+To exercise one or more of these rights, or to ask a question about these rights or any other provision of this Policy, or about our Processing of your Personal Data, please use the contact details provided in Section (S) below. Please note that:
+
+    in some cases it will be necessary to provide evidence of your identity before we can give effect to these rights; and
+    where your request requires the establishment of additional facts (e.g., a determination of whether any Processing is non-compliant with applicable law) we will investigate your request reasonably promptly, before deciding what action to take.
+
+
+(O) Cookies and Similar Technologies
+Summary – We Process Personal Data by using Cookies and similar technologies. For more information, please see our Cookie Policy .
+
+When you visit a Site we will typically place Cookies onto your device, or read Cookies already on your device, subject always to obtaining your consent, where required, in accordance with applicable law. We use Cookies to record information about your device, your browser and, in some cases, your preferences and browsing habits. We Process Personal Data through Cookies and similar technologies, in accordance with our Cookie Policy
+
+Summary – Our Legal Notice govern all use of our Sites, and our services.
+
+All use of our Sites, products, or services is subject to our Legal Notice . We recommend that you review our Terms of Use regularly, in order to review any changes we might make from time to time.
+
+
+(Q) Direct Marketing
+Summary – We Process Personal Data to contact you with information regarding Sites, products, or services that may be of interest to you. You may unsubscribe for free at any time.
+
+We Process Personal Data to contact you via email, telephone, direct mail or other communication formats to provide you with information regarding Sites, products, or services that may be of interest to you. We also Process Personal Data for the purposes of displaying content tailored to your use of our Sites, products, or services. If we provide Sites, products, or services to you, we may send or display information to you regarding our Sites, products, or services, upcoming promotions and other information that may be of interest to you, including by using the contact details that you have provided to us, or any other appropriate means, subject always to obtaining your prior opt-in consent to the extent required under applicable law.
+
+You may unsubscribe from our promotional email list at any time by simply clicking on the unsubscribe link included in every promotional electronic communication we send or contact us using our online Contact Us form or by sending an email to webmaster@tsmc.com. Please note that it may take up to 2 weeks to process your unsubscribe request during which time you may continue to receive communications from us. After you unsubscribe, we will not send you further promotional emails, but in some circumstances, we will continue to contact you to the extent necessary for the purposes of any Sites, products, or services you have requested.
+
+
+(R) Usage of customer data for secondary purposes
+Summary – We do not use customer data for any secondary purpose.
+
+We commit to protect the privacy of our customer. We do not use customer data for any secondary purpose other than the purposes defined in this Policy.
+
+
+(S) Contact Information
+Summary – TSMC Ltd. is the Controller for the purposes of this Privacy Policy.
+
+If you have any questions about this policy, please contact us via the following information:
+
+Taiwan Semiconductor Manufacturing Company, Ltd.
+No.8 Li-Hsin Road 6, Hsinchu Science Park
+HSINCHU 300 Taiwan
++886 35636688
+
+Alternatively, you may contact us using our online Contact Us form, or by sending an email to webmaster@tsmc.com .

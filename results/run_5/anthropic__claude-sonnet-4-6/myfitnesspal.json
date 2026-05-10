@@ -1,0 +1,165 @@
+{
+  "organization_name": "MyFitnessPal, Inc.",
+  "policy_date": "March 18, 2025",
+  "products_covered": [
+    "Site",
+    "Mobile App"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collection of biometric data, so no data minimization assessment can be made for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Food and Activity Diary Data may include sensitive personal information when the information indicates or allows someone to infer a health condition.",
+        "purpose": "Health data is collected as part of Food and Activity Diary Data to support the provision of the Services, including tracking dietary habits, fitness goals, body measurements, physiological conditions, and lifestyle information.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes a broad range of health-related data collected, including dietary habits, medications, calorie counts, dietary restrictions, body measurements, physiological conditions, sleeping data, and progress photos. No concrete limits are specified on what health data is strictly necessary, and the scope of collection is wide without clear justification for each data type."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "Health data, as part of personal information, is retained to fulfill the purposes described in the policy, including service provision and legal obligations, but no specific retention period for health data is defined."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to our research partners, including those that perform surveys or research projects in partnership with us or on our behalf.",
+        "purpose": "Health data, which forms part of personal information including Food and Activity Diary Data, may be shared with service providers, business partners, research partners, marketing and advertising partners, analytics providers, and law enforcement as described in the policy.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects a broad range of health-related data including medications, physiological conditions, body measurements, and dietary habits, which may constitute sensitive personal information. This data is shared with multiple third parties including research partners, marketing partners, and analytics providers, and may be transferred internationally to countries with different data protection standards. Retention is vague, with no specific deletion timelines for health data, posing a risk of prolonged storage of sensitive information."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Information related to any physiological conditions; ... Lifestyle information (e.g., sleeping data); Body measurements (e.g., height, weight, and BMI); ... Certain connected devices, such as heart rate monitors, Continuous Glucose Monitoring devices, activity trackers, exercise equipment, scales, and/or wearables, that integrate with the Services, may allow us to collect Food and Activity Diary Data with your permission.",
+        "purpose": "Physiological data is collected as part of Food and Activity Diary Data to support the provision of the Services, including tracking fitness goals, dietary habits, and health-related metrics.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes a broad range of physiological data collected, including physiological conditions, sleeping data, body measurements, heart rate, glucose monitoring, and data from wearables. No concrete limits are specified on what physiological data is strictly necessary, and the scope of collection appears wide without clear justification for each data type."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "Physiological data, as part of personal information, is retained as long as necessary to fulfill the purposes described in the policy, including legal and reporting requirements."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Our Service Providers. We may disclose your personal information to third parties that provide business, professional, or technical support services to us and/or perform functions on our behalf to provide the Services. ... Our Research Partners. We may disclose your personal information to our research partners, including those that perform surveys or research projects in partnership with us or on our behalf.",
+        "purpose": "Physiological data, as part of personal information, is shared with service providers, research partners, and other third parties to provide and improve the Services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy collects a wide range of physiological data including conditions, sleep, body measurements, heart rate, and glucose levels, with broad sharing to service providers, research partners, and marketing partners. Retention is vague ('as long as necessary') with no specific deletion timelines, and data may be transferred internationally to countries with differing privacy protections, posing significant privacy risks for sensitive physiological information."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Body measurements (e.g., height, weight, and BMI); ... Progress photos you may choose to provide; ... general location information (country/zip code), profile image or photo (if you choose to provide one)",
+        "purpose": "Physical data such as body measurements, progress photos, profile images, and location information are collected as part of account/profile setup and Food and Activity Diary Data to support the provision of the Services and help users track their fitness goals.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy lists several types of physical data collected (height, weight, BMI, progress photos, profile images, location) and links them broadly to providing the Services, but does not provide specific justifications for why each individual type is strictly necessary, nor does it articulate concrete limits on the scope of collection."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "Physical data is retained as long as necessary to fulfill the purposes described in the policy, including legal and reporting requirements, but no specific retention period or deletion timeline is defined for physical data specifically."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information to third parties that provide business, professional, or technical support services to us and/or perform functions on our behalf to provide the Services. The services provided by these parties may include IT and website hosting, payment processing, market research, customer support, data storage, data analytics, auditing, and consulting and legal services.",
+        "purpose": "Physical data (as part of personal information) is shared with service providers, business partners, marketing and advertising partners, analytics providers, and research partners to provide and improve the Services and for advertising purposes.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects sensitive physical data including body measurements, progress photos, and location information, and shares this broadly with service providers, marketing partners, and analytics providers. Data is transferred internationally to countries with potentially lower data protection standards. Retention is vague, with no specific deletion timelines for physical data, creating risk of prolonged storage beyond what users might expect."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "MyFitnessPal may collect Usage and Device Data. This may include details about your browser, operating system, or device (such as your cookie identifiers, internet protocol (IP) address, ​​mobile advertising identifier, and other unique identifiers), internet service provider, mobile carrier, general location information (including inferred location based off of your IP address), actions that you take while using the Services, information about how you interact with the Services, including the frequency and duration of your activities, information about the links you click, and other information about how you use the Services.",
+        "purpose": "Behavioral data such as actions taken, frequency and duration of activities, and links clicked are collected to enhance user experience, provide personalized content and advertisements, analyze usage, and improve the Services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data including actions taken, links clicked, frequency and duration of activities, cross-device tracking, and targeted advertising without providing concrete limits on what is collected or clear justifications for why each specific type of behavioral data is necessary. The scope of collection appears extensive and is not meaningfully constrained."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "purpose": "Behavioral data is retained as long as necessary to fulfill the purposes described in the policy, including providing services, legal obligations, and reporting requirements, without specifying a defined retention period."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We will retain your personal information as long as necessary to fulfill the purposes outlined in this Policy (including to satisfy our legal or reporting requirements), unless a longer retention period is required or allowed under law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may disclose your personal information, including device and browser information and activity and usage information, to our marketing and advertising partners, including social media platforms, third-party advertising networks, and other parties that assist us in serving, measuring the performance of, and optimizing our advertising campaigns.",
+        "purpose": "Behavioral data (device and browser information, activity and usage information) is shared with marketing and advertising partners, analytics providers, and research partners to serve targeted ads, measure ad performance, and conduct research.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "MyFitnessPal collects extensive behavioral data including browsing actions, click patterns, frequency and duration of activities, and cross-device tracking, which is shared broadly with marketing, advertising, and analytics partners. The retention period is vague ('as long as necessary'), and data is explicitly transferred internationally to countries with potentially weaker privacy protections. The combination of broad behavioral data collection, wide third-party sharing for targeted advertising, and cross-device tracking poses significant privacy risks to users."
+    }
+  }
+}

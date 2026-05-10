@@ -1,0 +1,655 @@
+Privacy Policy
+
+Effective Date: December 27th, 2024
+
+At ZocDoc, Inc. (“Zocdoc,” “we,” or “us”), we are committed to protecting your privacy. We take great care with your personal information that we gather when you access or use zocdoc.com and related websites, applications, and services owned and operated by Zocdoc and that link to this Privacy Policy (collectively, the “Services”). 
+
+This Privacy Policy is meant to help the users of our Services (“Users”, “you,” or “your”) understand how we treat your Personal Data. In addition to Users who create a Zocdoc account to use the Services, for purposes of this Privacy Policy, “Users” also includes users of our Services who do not have a Zocdoc account (for example, if you visit our websites or download our mobile application without creating a Zocdoc account) (“Visitors”). Please note that some of our Services, including the ability to book an appointment through our Services are limited to Users with a Zocdoc account. For doctors, dentists, or other healthcare providers that use our marketing services, please click here to review the categories of information we collect. 
+
+BY USING OR ACCESSING THE SERVICES IN ANY MANNER, YOU ACKNOWLEDGE THAT YOU ACCEPT THE PRACTICES AND POLICIES OUTLINED IN THIS PRIVACY POLICY, AND YOU HEREBY CONSENT THAT WE WILL COLLECT, USE, AND SHARE YOUR INFORMATION IN THE WAYS DESCRIBED HEREIN. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, YOU MAY NOT USE THE SERVICES. IF YOU USE THE SERVICES ON BEHALF OF SOMEONE ELSE (SUCH AS YOUR CHILD), YOU REPRESENT THAT YOU ARE AUTHORIZED BY SUCH INDIVIDUAL TO ACCEPT THIS PRIVACY POLICY ON THE INDIVIDUAL’S BEHALF. 
+
+Any use of the Services is subject to the Agreement (as the term “Agreement” is defined in our Terms of Use, which incorporates this Privacy Policy). You may print a copy of this Privacy Policy by clicking here.
+Privacy Policy Table of Contents
+
+    HIPAA and PHI
+    Categories of Personal Data We Collect
+        Visitors
+        Users
+    Categories of Sources of Personal Data
+    Commercial or Business Purposes for Collecting Personal Data
+        Other Permitted Purposes for Processing Personal Data
+        Data that is Not Personal Data or PHI
+    How We Disclose Your Personal Data
+    Tracking Tools, Advertising, and Opt-Out
+        Cookies
+        Information about Interest-Based Advertisements
+    Data Security
+    Data Retention
+    Children’s Privacy
+    Controlling Your Personal Data and Notifications
+    California Rights and Disclosures
+    Other U.S. State Rights and Disclosures
+    Exercising Your Rights
+    Changes to This Privacy Policy
+    Contact Information
+
+HIPAA and PHI
+
+Certain demographic, health and/or health-related information that Zocdoc collects about Users on behalf of our Healthcare Providers as part of providing the Services may be “protected health information” (“PHI”) governed by the Health Insurance Portability and Accountability Act (“HIPAA”). Specifically, this may be true when (i) Zocdoc is providing administrative, operational, or other services to a Healthcare Provider that is a “Covered Entity” (as defined by HIPAA); and (ii) in order to provide those services, Zocdoc receives identifiable information about a User on behalf of the Healthcare Provider, where Zocdoc is acting as a “Business Associate” (as defined by HIPAA); and (iii) this identifiable information is regulated as PHI.
+
+This Privacy Policy does not apply to PHI, which is instead regulated by HIPAA. HIPAA provides specific protections for the privacy and security of PHI and restricts how PHI is used and disclosed. Please read the Notice of Privacy Practices of your Healthcare Provider to understand how your PHI can be used and disclosed.
+
+Personal data that a User provides to Zocdoc when Zocdoc is not acting as a Business Associate is not PHI and Zocdoc’s use of this information is therefore covered by this Privacy Policy. To provide just a few examples, we are collecting personally identifiable information (“PII”) when you (i) create an account, (ii) search for Healthcare Providers or available appointments with Healthcare Providers; (iii) post reviews; (iv) provide device/IP Information or Web Analytics information by browsing our websites (see below); or (v) direct your Covered Entity healthcare provider to disclose PHI to Zocdoc outside of its Business Associate capacity (e.g. pursuant to a HIPAA Authorization or access request).
+Categories of Personal Data We Collect
+
+Each table below details the categories of Personal Data that we may collect and may have collected about you over the past twelve (12) months, depending on your relationship with Zocdoc. Please note that multiple tables may apply to you depending on how you interact with us or our Services. “Personal Data” means any information that identifies or relates to a particular individual, and includes information referred to as “personally identifiable information” or “personal information” under applicable data privacy laws, rules, or regulations. For each category of Personal Data, these subsections also set out the source of that Personal Data, our commercial or business purpose for collecting that Personal Data, and the categories of third parties with whom we share that Personal Data. More information regarding those sources and categories are set forth below.
+
+THE FOLLOWING SUBSECTIONS APPLY ONLY TO USERS. IF YOU ARE A HEALTHCARE PROVIDER, PLEASE SEE THE HEALTHCARE PROVIDER PERSONAL DATA PAGE
+Visitors and Users
+
+Category and Examples of Personal Data
+	
+
+Source of Data
+	
+
+Business or Commercial Purpose(s) for Collection
+	
+
+Third Parties with Whom We Disclose Data
+
+Online Identifiers such as IP Address, IP-address- based location data, device ID, domain server, type of device/operating system/browser used to access the Services
+	
+
+    You
+    Third Parties
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Marketing the Services
+
+	
+
+    Service Providers
+    Analytics Partners
+    Ad Networks
+    Parties you authorize, access, or authenticate
+
+Web Analytics such as webpage interactions, Web analytics, referring webpage/source through which you access the Services, non-identifiable request IDs, statistics associated with the interaction between your device or browser and the Services
+	
+
+    You
+    Third Parties
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Marketing the Services
+
+	
+
+    Service Providers
+    Analytics Partners
+    Ad Networks
+    Parties you authorize, access, or authenticate
+
+User Demographic Data such as your gender and date of birth, that you specifically provide us
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Healthcare Providers
+    Health Information Exchanges Ad Networks
+    Parties you authorize, access, or authenticate
+
+Geolocation Data, including IP address-based location information and zip code, city or address as provided by you
+	
+
+    You
+    Third Parties
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Marketing the Services
+
+	
+
+    Service Providers
+    Analytics Partners
+    Ad Networks
+    Parties you authorize, access, or authenticate
+
+Other Identifying Information That You Voluntarily Choose to Provide such as in emails, letters, or other communications you send us
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Parties you authorize, access, or authenticate
+
+
+
+Users Only
+
+Category of Personal Data
+	
+
+Source of Data
+	
+
+Business or Commercial Purpose(s) for Collection
+	
+
+Third Parties with Whom We Disclose Data
+
+Personal Identifiers such as first and last name, email address, phone number, mailing address, zip code
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Healthcare Providers
+    Insurance Providers
+    Health Information Exchanges
+    Parties you authorize, access, or authenticate
+
+Commercial Information such as your payment card type, last four digits of your payment card, billing contact information
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers (specifically, our current payment processing partner, Stripe).
+
+Other Identifying Information That You Voluntarily Choose to Provide such as social media credentials or in emails, letters, or other communications you send us
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Parties you authorize, access, or authenticate
+
+Sensitive Personal Data
+The following categories of Personal Data may be deemed “sensitive” depending on your state of residence. Please note we do not collect any of the following categories of Personal Data for the purpose of inferring characteristics about you
+
+Booking Appointment Data appointment date/time, provider information, appointment procedure, whether you are a new patient of a particular provider
+	
+
+    You
+    Third Parties
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Analytics Partners
+    Healthcare Providers
+    Health Information Exchanges
+
+Heath information such as health conditions, Healthcare Providers visited, reasons for visit, dates of visit, medical history, and other health information you provide us
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Healthcare Providers
+    Insurance Providers
+    Health Information Exchanges
+    Parties you authorize, access, or authenticate
+
+Health Insurance information, such as: insurance plan, member ID, group ID, payer ID
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Healthcare Providers
+    Insurance Providers
+    Health Information Exchanges
+    Parties you authorize, access, or authenticate
+
+Sensitive Demographic Data, such as gender identity (specifically status as transgender or non-binary), race, sexual orientation
+	
+
+    You
+
+	
+
+    Providing, Customizing, and Improving the Services
+    Corresponding with You
+
+	
+
+    Service Providers
+    Healthcare Providers
+    Health Information Exchanges
+    Parties you authorize, access, or authenticate
+
+
+Categories of Sources of Personal Data
+
+Categories of Sources of Personal Data
+
+From You
+
+When You Provide Information Directly to Us
+	
+
+    When you create an account or use our interactive tools and services, such as searching for Healthcare Providers or available appointments with Healthcare Providers.
+    When you provide information about yourself through booking an appointment with a Healthcare Provider.
+    When you provide information in free-form text boxes through the Services, through responses to surveys and questionnaires, or post reviews.
+    When you send us an email or otherwise contact us.
+
+When Personal Data is Automatically Collected When You Use the Services
+	
+
+    Through Cookies (defined below).
+    If you download and install certain applications and software we make available, we may receive and collect information transmitted from your device for the purpose of providing you the relevant Services. This includes information such as when you are logged on and available to receive updates or alert notices.
+    If you download our mobile application or use a location-enabled browser, we may receive information about your location and mobile device, as applicable.
+
+From Third Parties
+
+Service Providers
+	
+
+    We may use service providers to analyze how you interact and engage with the Services, or to help us provide you with customer support.
+    We may use service providers to obtain information to generate leads and to create user profiles.
+
+Analytics Partners
+	
+
+    We may work with analytics partners to provide us analytics on website traffic or the usage of the Services.
+    We use this data to optimize and market our Services.
+
+Healthcare Providers
+	
+
+    We may receive certain data from your Healthcare Provider(s) to facilitate booking appointments, provide you with information at your request, and billing for services such as virtual care.
+
+Social Networks
+	
+
+    If you provide your social network account credentials to us or otherwise sign in to the Services through a third-party site or service, you understand some content and/or information in those accounts may be transmitted into your account with us.
+
+Advertising Partners
+	
+
+    We receive information about you from some of our service providers who assist us with marketing or promotional services related to how you interact with our Services, advertisements or communications.
+
+
+Commercial or Business Purposes for Collecting Personal Data
+
+    Providing, Customizing, and Improving the Services
+        Creating and managing your account or other user profiles.
+        Billing our healthcare provider clients.
+        Providing you with the products, services, and information you request.
+        Meeting or fulfilling the reason you provided the information to us.
+        Providing support and assistance for the Services.
+        Improving the Services, including testing, research, internal analytics, and product development.
+        Personalizing the Services, website content, and communications based on your preferences.
+        Fraud protection, security, and debugging.
+    Marketing the Services
+        Marketing and selling the Services.
+        Showing you advertisements, including interest-based or online behavioral advertising.
+    Corresponding with You
+        Responding to correspondence that we receive from you, contacting you when necessary or requested, including to remind you of an upcoming appointment, and sending you information about Zocdoc or the Services.
+        Sending emails and other communications that display content that we think will interest you and according to your preferences including notifying you about certain resources, Healthcare Providers or Services.
+
+
+Other Permitted Purposes for Processing Personal Data
+
+In addition, each of the above referenced categories of Personal Data may be collected, used, and disclosed with the government, including law enforcement, or other parties to meet certain legal requirements and enforcing legal terms including: fulfilling our legal obligations under applicable law, regulation, court order or other legal process, such as preventing, detecting and investigating security incidents and potentially illegal or prohibited activities; protecting the rights, property or safety of you, Zocdoc or another party; enforcing any agreements with you; responding to claims that any posting or other content violates third-party rights; and resolving disputes.
+
+Data that is Not Personal Data or PHI
+
+We may create aggregated and/or de-identified data from the Personal Data we collect, including by removing information that makes the data personally identifiable to a particular user. We may use such aggregated, de-identified, or anonymized data and share it with third parties for our lawful business purposes, including to analyze, build, and improve the Services and promote our business, provided that we will not share such data in a manner that could identify you.
+
+We may also use screen recording tools to understand and analyze how individuals navigate and use our website. This technology will record mouse movements, clicks and similar actions, but we do not disclose any personal data with the screen recording tools and we do not link such information to your Personal Data.
+
+In addition, we may use artificial intelligence (“AI”) tools to enhance or operate certain functions of the site, such as chat and customer service features.
+How We Disclose Your Personal Data
+
+In certain circumstances, we may disclose your Personal Data with the following categories of service providers and other third parties for the indicated business purposes:
+
+Categories of Third Parties With Whom We Share Personal Data
+	
+
+Business Purpose for Sharing Data
+
+Service Providers
+
+Payment Processors
+	
+
+    Our payment processing partner (currently Stripe) collects your voluntarily provided payment card information necessary to process your payment.
+    Please see Stripe’s terms of service and privacy policy for information on its use and storage of Personal Data.
+
+Security and Fraud Prevention Consultants
+	
+
+    Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+
+Hosting, Technology and Communications Providers;
+
+Fulfillment Providers;
+
+Data Storage Providers;
+
+Analytics Providers;
+
+Insurance Verification Providers;
+
+Staff Augmentation Personnel;
+
+Virtual Care Providers
+	
+
+    To perform operational services (such as hosting, billing, fulfillment, data storage, security, insurance verification, web service analytics) and/or make certain services, features or functionality available to our Users.
+    Debugging to identify and repair errors that impair intended functionality.
+    Short-term, transient use of Personal Data that is not used by another party to build a User profile or otherwise alter your user experience outside the current interaction.
+    Maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, or providing similar services on behalf of the business or service provider.
+    Undertaking internal research for technological development and demonstration.
+    Undertaking activities to verify or maintain the quality or safety of our Services.
+
+Selected Third Party Recipients
+
+Analytics Partners
+	
+
+    To track how users found or were referred to the Services and otherwise interact with the Services.
+
+Ad Networks
+	
+
+    Ad customizing and serving.
+    Auditing related to a current interaction and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+
+Healthcare Providers
+	
+
+    Healthcare Providers with whom Users choose to schedule through the Services.
+    If you choose to use the applicable Services, Healthcare Providers in order to enable such Healthcare Providers to refer you to, and make appointments with, other Healthcare Providers on your behalf or to perform analyses on potential health issues or treatments.
+    In the event of an emergency.
+
+Insurance Providers
+	
+
+    To determine eligibility and cost-sharing obligations and to otherwise obtain benefit plan information on your behalf.
+
+Health Information Exchanges
+	
+
+    Health Information Exchanges and related organizations that collect and organize User information (such as Regional Health Information Organizations) to make your information more securely and easily accessible to your Healthcare Providers. The goal of such organizations is to facilitate access to health information to improve the safety, quality, and efficiency of patient-centered care. More information on Health Information Exchanges can be found here.
+
+Other Uses that You Authorize
+	
+
+    Any information that you may reveal in a review posting or online discussion, or forum is intentionally open to the public and is not in any way private. We recommend that you carefully consider whether to disclose any Personal Data in any public posting or forum. What you have written may be seen and/or collected by third parties and may be used by others in ways we are unable to control or predict. You can learn more about our reviews process here.
+
+Third-Party Business Partners You Access Through the Services
+	
+
+    We will disclose certain Personal Data if you choose to use any service to log in to the Services. This includes logging in via social media platforms such as a Google or Facebook account.
+    To meet or fulfill the reason you provided the information to us.
+
+
+Legal Obligations
+
+We may disclose any Personal Data that we collect with third parties in conjunction with any of the activities set forth under “How We Disclose Your Personal Data” sections above.
+
+Business Transfers
+
+All Personal Data may be transferred to a third party if we undergo a merger, acquisition, bankruptcy, or other transaction in which that third party assumes control of our business (in whole or in part). Should one of these events occur, we will make reasonable efforts to notify you before your information becomes subject to different privacy and security policies and practices.
+
+Tracking Tools, Advertising, and Opt-Out
+
+The following sections provide additional information about how we collect your Personal Data.
+Cookies
+
+The Services use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, mobile identifiers, and JavaScript (collectively, “Cookies”) to enable our servers to recognize your device and web browser and tell us how and when you visit and use our Services. We do this to analyze trends, learn about and advertise to our user base, and operate and improve our Services. For example, we use Cookies to tailor the Services or customize advertisements on and off of our Service by tracking navigation habits, measuring performance, storing authentication status so re-entering credentials is not required, customizing user experiences with the Services, and for analytics and fraud prevention. Cookies are small pieces of data – usually text files – placed on your computer, tablet, phone, or similar device when you use that device to visit our Services. We may also supplement the information we collect from you with information received from third parties, including third parties that have placed their own Cookies on your device(s).
+
+We use the following types of Cookies:
+
+    Essential Cookies. Essential Cookies are required to provide you with features or services you have requested. For example, certain Cookies enable you to log into the secure areas of our Services. Disabling these Cookies may make certain features and services unavailable.
+    Functional Cookies. Functional Cookies are used to record your choices and settings regarding our Services, maintain your preferences over time and recognize you when you return to our Services. These Cookies help us to personalize our content for you, greet you by name, and remember your preferences (for example, your choice of language or region).
+    Performance/Analytical Cookies. Performance/Analytical Cookies allow us to understand how visitors use our Services such as by collecting information about the number of visitors to the Services, what pages visitors view on our Services, how long visitors are viewing pages on the Services, mouse clicks, mouse movements, scrolling activity, and text typed into the Services. Performance/Analytical Cookies also help us measure the performance of our advertising campaigns to help us improve our campaigns and the content for those who engage with our advertising. For example, Google LLC (“Google”) uses cookies in connection with its Google Analytics services. Google’s ability to use and share information collected by Google Analytics about your visits to the Services is subject to the Google Analytics Terms of Use and the Google Privacy Policy. You have the option to opt-out of Google’s use of cookies by visiting the Google advertising opt-out page or the Google Analytics Opt-out Browser Add-on page.
+    Retargeting/Advertising Cookies. Retargeting/Advertising Cookies collect data about your online activity and identify your interests to provide advertising on and off of our Service that we believe is relevant to you. For more information about this, please see the section below titled “Information about Interest-Based Advertisements.”
+    Web Beacons. Web Beacons (e.g., clear GIFs or pixel tags) are tiny graphic image files embedded in a webpage or email that may be used to collect information about the use of our Services, the web services of selected advertisers, and the emails, special promotions, or newsletters that we send. The information collected by Web Beacons allows us to analyze how many people are using the Services, using selected publishers’ web services or opening emails, and for what purpose. Also, it allows us to enhance our interest-based advertising (discussed further below).
+    Mobile Device Identifiers. Mobile device identifiers help Zocdoc learn more about our Users’ demographics and internet behaviors. Mobile device identifiers are data stored on mobile devices that may track mobile devices and data, activities occurring on and through it, and the applications installed on it. Mobile device identifiers enable the collection of Personal Data, such as media access control, address, location, and tracking data, including without limitation IP address, domain server, type of device(s) used to access the Services, web browser(s) used to access the Services, referring webpage or other source through which you accessed the Services, other statistics, and information associated with the interaction between your browser or device and the Services.
+    Cross Device Matching. To determine if users have interacted with content across multiple devices and to match such devices, we may work with partners who analyze device activity data and/or rely on your information (including demographic, geographic, and interest-based data). We may also provide de-identified data to these partners to supplement this analysis. Based on this data, we may display targeted advertisements across devices that we believe are associated or use this data to further analyze usage of Services across devices.
+
+
+You can opt-out of all unessential Cookies at any time here. You can also decide whether to accept Cookies through your internet browser’s settings. Most browsers have an option for turning off the Cookie feature, which will prevent your browser from accepting new Cookies, as well as (depending on your browser software) allowing you to decide on acceptance of each new Cookie in a variety of ways. You may also be able to reject mobile device identifiers by activating the appropriate setting on your mobile device. You can also delete all Cookies that are already on your device. Although you are not required to accept Zocdoc’s Cookies, if you block, reject, or delete them, you may have to manually adjust some preferences every time you access the Services, as some functionalities may not work.
+
+To explore what Cookie settings are available to you, look in the “preferences” or “options” section of your browser’s menu. To find more information about Cookies, including how to manage and delete Cookies, please visit here.
+
+Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications, and services that you do not wish such operators to track certain of your online activities over time and across different websites. We generally do not support “Do Not Track” requests sent from a browser at this time. To find out more about “Do Not Track,” you can visit here. However, if you are a resident of state with an applicable privacy law, we treat opt-out preference signals as a means of opting out of the sale or sharing of personal data, or of opting out of the processing of personal data for targeted advertising, as applicable, to the extent such signals are present and readable.
+Information about Interest-Based Advertisements
+
+We may serve advertisements and allow third-party ad networks, including third-party ad servers, ad agencies, ad technology vendors and research firms, to collect data on the Services and serve advertisements on and off of the Services. These advertisements may be targeted to users who fit certain general profile categories or display certain preferences or behaviors (“Interest-Based Ads”). Information for Interest-Based Ads (including Personal Data) may be provided to us by you or derived or inferred from the online activity or usage patterns of particular users on the Services and/or services of third parties. Such information may include IP address, mobile device ID, operating system, browser, webpage interactions, geographic location, and demographic information, such as gender and age range. Such information may be gathered through tracking users’ activities across time and unaffiliated properties, including when you leave the Services. To accomplish this, we or our service providers may deliver Cookies, including Web Beacons, from an ad network to you through the Services. Web Beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. This information helps Zocdoc learn more about our Users’ demographics and internet behaviors. Web Beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Web Beacons allow ad networks to view, edit or set their own Cookies on your browser, just as if you had requested a webpage from their site.
+
+Please note that even after opting out of Interest-Based Ads, you may still see Zocdoc advertisements that are not interest-based (i.e., not targeted toward you).
+
+Data Security
+
+The security of your Personal Data is important to us. We seek to protect your Personal Data from unauthorized access, use, and disclosure using appropriate physical, technical, organizational, and administrative security measures based on the type of Personal Data and how we process that data. We endeavor to follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and in storage.
+
+For example, the Services use industry-standard Secure Sockets Layer (SSL) technology to allow for the encryption of Personal Data. We store and process your information on our servers in the United States and abroad. We maintain what we consider industry-standard backup and archival systems. You should also help protect your data by appropriately selecting and protecting your password and/or other sign-on mechanisms; limiting access to your computer or device and browser; and signing off after you have finished accessing your account.
+
+Although we work to protect the security of your account and other data that we hold in our records, for example, by making good faith efforts to store Personal Data in a secure operating environment that is not open to the public, please be aware that no method of transmitting data over the Internet or storing data is completely secure. We cannot and do not guarantee the complete security of any data you share with us, and except as expressly required by law, we are not responsible for the theft, destruction, loss, or inadvertent disclosure of your information or content.
+
+Data Retention
+
+We retain Personal Data about you as necessary to provide our Services or to perform our business or commercial purposes for collecting your Personal Data. When establishing a retention period for specific categories of data, we consider who we collected the data from, our need for the Personal Data, why we collected the Personal Data, and the sensitivity of the Personal Data. In some cases, we retain Personal Data for longer, if doing so is necessary to comply with our legal obligations, resolve disputes or collect fees owed, provide our Services, or is otherwise permitted or required by applicable law, rule or regulation. We may further retain information in a de-identified and/or aggregated form where that information would not identify you personally.
+
+For example:
+
+    We retain your account information and credentials for as long as you have an account with us.
+    We retain your device/IP data for as long as we need it to ensure that our systems are working appropriately, effectively, and efficiently.
+    We retain any PHI consistent with our obligations under our Business Associate Agreements with Covered Entities and HIPAA.
+
+
+Children’s Privacy
+
+The Services are not directed to or intended for use by anyone under 18 years of age.If you are a child under the age of 18, please do not attempt to register for or otherwise use the Services or send us any Personal Data. By accessing, using, and/or submitting information to or through the Services, you represent that you are at least the age of 18. As noted in the Terms of Use, we do not knowingly collect or solicit Personal Data from children under the age of 18. If we learn that we have received any Personal Data directly from a child under age 13 without first receiving their parent’s verified consent, we will use that Personal Data only to respond directly to that child (or their parent or legal guardian) to inform the child that they cannot use the Services. We will then subsequently delete that child’s Personal Data. If you believe that a child under 18 may have provided us with Personal Data, please contact us at Privacy@zocdoc.com.
+
+If you are between the age 13 and 18, you may use the Services only with the consent of or under the supervision of your parent or legal guardian. If you are a parent or legal guardian of a minor child, you may, in compliance with the Agreement, use the Services on behalf of such minor child. Any information that you provide us while using the Services on behalf of your minor child will be treated as Personal Data as otherwise provided herein.
+
+If you use the Services on behalf of another person, regardless of age, you agree that Zocdoc may contact you for any communication made in connection with providing the Services or any legally required communications. You further agree to forward or share any such communication with any person for whom you are using the Services on behalf of.
+
+Controlling Your Personal Data and Notifications
+
+If you are a registered User of the Services, you can modify certain Personal Data or account information by logging in and accessing your account. If you wish to close your account, please e-mail us at Privacy@zocdoc.com. Zocdoc will use reasonable efforts to delete your account as soon as reasonably possible. Please note, however, that Zocdoc reserves the right to retain information from closed accounts consistent with our internal data retention policies and procedures.
+
+You must promptly notify us if any of your account data is lost, stolen, or used without permission.
+
+California Rights and Disclosures
+
+The California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act (“CCPA”), provides California residents with specific rights regarding their Personal Data. Please see the “Exercising Your Rights” section below for instructions regarding how California residents can exercise these rights. This section describes your CCPA rights and explains how to exercise those rights. If you have any questions about this section or whether any of the following applies to you, please contact us at Consumer-Privacy@zocdoc.com and indicate “California Rights” in the subject line of your communication.Because of the minimal Personal Data we collect and retain about Visitors, certain rights may not be afforded to you (as further described below). Additionally, please note that these rights are subject to certain conditions and exceptions under applicable law, which may permit or require us to deny your request. Lastly, we may process Personal Data of our customers’ end users or employees in connection with our provision of certain services to our customers. If we are processing your Personal Data as a “service provider” under the CCPA, you may need to contact the entity that collected your Personal Data in the first instance to address your rights with respect to such data.
+
+Access
+
+If you have a Zocdoc account, you have the right to request certain information about our collection and use of your Personal Data, including the following:
+
+    The categories of Personal Data that we have collected about you.
+    The categories of sources from which that Personal Data was collected.
+    The business or commercial purpose for collecting or selling your Personal Data.
+    The categories of third parties with whom we have shared your Personal Data.
+    The specific pieces of Personal Data that we have collected about you.
+
+If we have disclosed your Personal Data for a business purpose, we will identify the categories of Personal Data shared with each third-party recipient. If we have sold your Personal Data over the past 12 months, we will identify the categories of Personal Data purchased by third-party recipients.
+
+Deletion
+
+If you have a Zocdoc account, you have the right to request that we delete the Personal Data that we have collected from you. Under the CCPA, this right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.
+
+Correction
+
+If you have a Zocdoc account, you have the right to request that we correct any inaccurate Personal Data we have collected about you. Under the CCPA, this right is subject to certain exceptions: for example, if we decide, based on the totality of circumstances related to your Personal Data, that such data is correct. If your correction request is subject to one of these exceptions, we may deny your request.
+
+Processing of Sensitive Personal Data Opt-Out
+
+If you have a Zocdoc account, we may collect Personal Data that is considered “sensitive” under the CCPA. Because we may use or disclose Sensitive Personal Information for purposes other than those set forth in section 7027(m) of the CCPA regulations, California residents have the right to request that we limit the use or sharing of their Sensitive Personal Information (“Right to Limit”). The Right to Limit allows California residents to direct a business that collects Sensitive Personal Information to limit its use of this information to that use which is necessary to perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services, to perform the services set forth in paragraphs (2), (4), (5), and (8) of subdivision (e) of Section 1798.140, and as authorized in the CCPA regulations.
+
+Personal Data Sharing or Selling
+
+Under the CCPA, California residents have certain rights when a business “shares” or “sells” Personal Data with third parties for purposes of cross-contextual behavioral advertising. While Zocdoc does not sell Users’ information to unaffiliated parties for money, we do share Cookies and other web data to advertising and marketing partners in a manner which might be considered “selling” or “sharing” your Personal Data as those terms are defined under the CCPA. Accordingly, we have shared and sold the foregoing categories of Personal Data for the purposes of cross-contextual behavioral advertising:
+
+    User Demographic data (not Sensitive Demographic Data) such as gender or zipcode;
+    Online Identifiers
+    Web analytics
+
+As described in the “Tracking Tools, Advertising, and Opt-Out” section above, we have incorporated Cookies from certain third parties into our Services. These Cookies allow those third parties to receive information about your activity on our Services that is associated with your browser or device. Those third parties may use that data to serve you relevant ads on our Services or on other websites you visit. Under the laws of the CCPA, “sharing” of a User’s web analytics is also considered “selling.” You can opt out of such data selling and/or sharing by following the instructions in this section.
+
+We share Personal Data with the following categories of third parties:
+
+    Advertising partners
+
+Over the past 12 months, we have shared Personal Data with the categories of third parties listed above for the following purposes:
+
+    Marketing and advertising the Services.
+    Showing you advertisements, including interest-based or online behavioral advertising.
+
+Once you have submitted an opt-out request, we will not ask you to reauthorize the sharing of your Personal Data for at least 12 months. To our knowledge, we do not share the Personal Data of minors under 16 years of age.
+
+We Will Not Discriminate Against You for Exercising Your Rights Under the CCPA.
+
+We will not discriminate against you for exercising your rights under the CCPA. We will not deny you our goods or services, charge you different prices or rates, or provide you with a lower quality of goods and services if you exercise your rights under the CCPA.
+
+Financial Incentives
+
+At Zocdoc, we value your data because it allows us to better understand your goals and preferences and improve our products and services to better serve you. From time to time, we may offer a financial incentive for your participation in our user research. The financial incentive we offer is based on our good faith determination of the estimated value of your data. If you participate in the research, you may be asked to submit Personal Data in surveys, forms, or through your account. The Personal Data you submit in connection with this research will only be used internally to improve our product; we will never share or sell this data to third parties.
+
+Through your participation in the research, we may collect the following categories of Personal Data about you:
+
+    Identifiers, such as your name, address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers.
+    Characteristics of protected classifications under California or federal law.
+    Commercial information, such as products or services you’ve purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+    Internet or other electronic network activity information, such as your browsing history, search history, and information regarding your interaction with an internet website, application, or advertisement.
+    Geolocation data.
+    Audio, electronic, visual, thermal, olfactory, or similar information. For example, we may collect your voice recordings.
+    Professional or employment-related information.
+    Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99).
+    Any other Personal Data you may enter into a free-form field of our surveys or forms.
+    Inferences drawn from any of the foregoing categories of Personal Data.
+
+Participation in the financial incentive is entirely optional. If you participate in a financial incentive, you agree that we are not required to comply with your right to know or delete Personal Data collected in exchange for the financial incentive. If you are a participant in a financial incentive we offer, you may withdraw from the financial incentive at any time by emailing us at the email address provided to you with your individual notice of the financial incentive.
+
+Other California Resident Rights
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes. To submit such a request, please contact us at Consumer-Privacy@zocdoc.com.
+
+Other U.S. State Rights and Disclosures
+
+If you are a resident of Virginia, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, Washington State (solely with respect to consumer health information) or another state with a similar comprehensive consumer privacy law, you may have certain rights regarding your information. Please see the “Exercising Your Rights” section below for instructions regarding how to exercise these rights. Please note that in some cases, we may process Personal Data of our customers’ end users or employees in connection with our provision of certain services to our customers. If we are processing your Personal Data as a “processor” (or similar term) under the applicable privacy law, you may need to contact the entity that collected your Personal Data in the first instance to address your rights with respect to such data. Also, because of the minimal Personal Data we collect and retain about Visitors, certain rights may not be afforded to you (as further described below). Lastly, please note that these rights are subject to certain conditions and exceptions under applicable law, which may permit or require us to deny your request.
+
+If you have any questions about this section or whether any of the following rights apply to you, please contact us at Consumer-Privacy@zocdoc.com and indicate “State Rights” in the subject line of your communication.
+
+Access
+
+If you are a User, you may have the right to request confirmation of whether we are processing your Personal Data and to access your Personal Data. Additionally, if you are an Oregon resident, you may also request access to specific third parties to which we have disclosed the Personal Data of Users (subject to exceptions in accordance with the Oregon Consumer Privacy Act.) To exercise this right, please email privacy@zocdoc.com with the subject “Oregon Access Request.”
+
+Correction
+
+If you have a Zocdoc account, you may have the right to correct inaccuracies in your Personal Data, to the extent such correction is appropriate in consideration of the nature of such data and our purposes of processing your Personal Data.
+
+Portability
+
+If you have a Zocdoc account, you may have the right to request a copy of your Personal Data in a machine-readable format to the extent technically feasible.
+
+Deletion
+
+If you have a Zocdoc account, you may have the right to delete your Personal Data.
+
+Opt-Out of Certain Processing Activities
+
+    You may have the right to opt-out to the processing of your Personal Data for targeted advertising purposes. As discussed in the “Personal Data Sharing or Selling” section of the “California Rights” section of this Privacy Policy , we process your Personal Data for targeted advertising purposes. To opt-out of our processing of Personal Data for targeted advertising purposes, please see the “Exercising Your Rights” section.
+    You may have the right to opt-out to the sale of your Personal Data. We do not currently sell your Personal Data to others for monetary consideration.
+    You may have the right to opt-out from processing your Personal Data for the purposes of profiling in furtherance of decisions that produce legal or similarly significant effects to you. However, we do not conduct such activities.
+
+Appealing a Denial
+
+If we refuse to take action on a request within a reasonable period of time after receiving your request in accordance with this section, you may have the right to appeal such decision. In such appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under the applicable state law that applies to you. We will respond to such appeal within 45 days of receiving your request. If we deny your appeal, you may have the right to contact the applicable regulators in your state.
+
+You may appeal a decision by us using the following methods:
+
+    Email us at: Consumer-Privacy@zocdoc.com (title must include “Consumer Appeal”)
+    Call us at: (855) 962-3621
+
+
+Exercising Your Rights
+
+To exercise the rights under the CCPA or other state laws as described above, you must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, and (2) describes your request in sufficient detail to allow us to understand, evaluate, and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We will only use Personal Data provided in a Valid Request to verify you and complete your request. If you are a Healthcare Provider with a profile on our Services, you do not need an account to submit a Valid Request.
+
+We will respond to your Valid Request within the applicable time period required by law. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive, or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
+
+To the extent rights are afforded to you, you may submit a Valid Request using the following methods:
+
+    If you have a Zocdoc account, you can submit requests to access (by portable copy or otherwise), delete, correct through the “Privacy” tab in your account settings.
+    If you have a Zocdoc account, you can opt-out from or limit the processing of sensitive information through the “Data Privacy” tab in your account settings.
+    All Users (including Visitors) can opt out from targeted advertising (which may constitute “selling” or “sharing” under certain privacy laws) by visiting the “Your Privacy Choices” at the bottom of our website.
+
+
+If you have questions or difficulty submitting a Valid Request, you can call us at (855) 962-3621 or email us at Consumer-Privacy@zocdoc.com.
+
+Changes to this Privacy Policy
+
+We reserve the right to amend our Privacy Policy at our discretion and at any time. If we make material changes to the Privacy Policy, we will notify you by email or through a notice on our website homepage. Use of the information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+Contact Information
+
+If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your Personal Data, your choices, and rights regarding such use, please do not hesitate to contact us at: 

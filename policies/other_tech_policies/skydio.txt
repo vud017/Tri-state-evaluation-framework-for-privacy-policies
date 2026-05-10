@@ -1,0 +1,183 @@
+Skydio Privacy Policy
+
+Previous versions:
+
+    August 27, 2022 - September 19, 2023
+    June 28, 2022 - August 26, 2022
+    December 19, 2017 - June 27, 2022
+
+LAST UPDATED: September 20, 2023
+
+1.              Introduction
+
+Skydio, Inc. (“Skydio” or “We”) sells autonomous drones and the software, cloud services, and training services to unlock their full potential (our “Services”). We understand the value of your personal information. This policy describes the ways we collect, use, and disclose that information from individuals who are or have been employed by Skydio (“Employees") or have applied for employment with Skydio (“Applicants”), customers who use our Services (“Customers”), and from visitors to our booths at trade shows and demonstrations or skydio.com (our “Website”), and any other places where we interact with prospective customers (collectively, “Visitors”). This Privacy Policy does not apply to our Customers’ usage of any drones, software, or other services that are sold as offline versions, including our X2D platform.
+
+2.              How We Define Personal Information
+
+We use the California Consumer Privacy Act’s (“CCPA”) definition of “personal information,” which includes any information that identifies, relates to, describes, reference, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular person, household, or device. “Personal information” does not include deidentified or aggregated consumer information.
+
+3.              Personal Information We Collect
+
+Skydio collects the following categories of personal information, which are referenced throughout this Privacy Policy:
+
+●      Identifiers. Name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name.
+
+●      California Consumer Records. Name, signature, address, telephone number, education, employment, employment history, bank account number, credit card number, other financial information, and any other categories enumerated in Cal. Civ. Code § 1798.80(e).
+
+●      Commercial Information. Records of personal property, products or services purchased, products or services obtained, products or services considered, other purchasing or consuming histories or tendencies.
+
+●      Characteristics of Protected Classifications. Race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, marital status, sex, age, or sexual orientation.
+
+●      Internet Activity. Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.
+
+●      Geolocation Data. Physical location and movements. We collect derived geolocation data from Visitors and direct geolocation data from Customers.
+
+●      Professional or Employment-related Information. Current or past job history or performance evaluations. We collect this information from Applicants who are interested in working for Skydio. Additionally, employment history, professional licensing information, salary and benefits-related information, family information including beneficiary and dependent details, emergency contact information, information held for employment-law and health and safety purposes, employee performance assessments, travel and other business expense reimbursement information, and information about use of Company resources, systems, networks, and devices may be collected about Employees.
+
+●      Inferences Drawn from Other Personal Information. Profiles reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+●      Audio, Electronic, Visual, Thermal, Olfactory, or Similar Information. We may collect this category of information as part of our efforts to ensure the physical security of our facilities and personnel.
+
+●      Vehicle Information. Diagnostic information that relates to a specific vehicle or controller, such as logs that contain device orientation, speed, location, system faults, obstacle detection, control feature usage information, or phone IMU measurements.
+
+●      Sensitive Personal Information. Social Security and Passport numbers of Applicants and Employees are collected to facilitate the hiring process and administer benefits to Employees and their dependents.
+
+●      Biometric Information. Fingerprints authorizing access and timekeeping in some Skydio facilities are collected directly from certain employees. We collect this information from you (both directly and through your devices) and from our service providers.
+
+4.              How Skydio Uses Personal Information
+
+We use personal information to perform our contractual obligations in relation to the products and services we offer, to fulfill legal obligations, to fulfill any specific purpose described to you at the point of collection, or to pursue our legitimate business interests. We may also process personal information with your express consent where we specifically ask for and receive it for the purposes disclosed at that time. If we obtain your consent, you may revoke it at any time.
+
+Specifically, we use personal information to:
+
+●      Provide our Services. We use our Customers’ identifiers, financial information, and internet activity to provide, support, and maintain our Services. We do not collect geolocation by default, but we do use geolocation data to provide, support, and maintain our Services with Customers who either subscribe to a Service that requires geolocation data, or submit flight logs for customer support services. In jurisdictions requiring a declared lawful basis, we consider the basis to be meeting our contractual obligations to our customers.
+
+●      Improve and operate our website. We collect personal information from Visitors to fulfill requests and orders, determine the popularity of different Website content, and conduct marketing campaigns (if allowed by a Visitor’s cookie preferences). We also provide region-appropriate content from a Visitor’s derived geolocation data. We use personal information to estimate our audience size and usage patterns; store information about our Visitors’ preferences; customize our Website according to their individual interests; speed up searches; and recognize returning Visitors. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in operating and improving our website.
+
+●      Answer your employment inquiries. When Applicants provide us with personal, professional, and employment-related information in connection with an employment inquiry, we use that information solely to facilitate the evaluation and hiring process at Skydio. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in managing our human resources.
+
+●      Enable sales and marketing operations. We collect some personal information, either directly or from third parties such as Bloomberg Government, ZoomInfo, GovWin, and LinkedIn (“Third-Party Sources”), to enable sales and marketing operations. This information includes commercial information, California consumer records, and inferences those Third-Party Sources have drawn from other personal information. We may also tag you on social media sites with your permission. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in understanding and responding to our market.
+
+●      Keep you safe. We use Customers’ personal information to send technical notices, updates, security alerts, and support and administrative messages. In the event of a security incident, we will contact you via the email address associated with your account. In jurisdictions requiring a declared lawful basis for use of personal information, we consider the basis to be meeting our contractual obligations to our customers.
+
+●      Keep you informed. We may use personal information to communicate with you about products, services, offers, promotions, rewards, and events offered by Skydio and others, and provide news and information we think will be of interest to you, in accordance with the limitations in this Privacy Policy and your preferences. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in understanding and responding to our market.
+
+●      Optimize and personalize user experiences. Your personal information allows us to personalize and improve the Services and provide advertisements, content, or features that match user profiles or interests. We may link or combine your personal information with information we get from others to help understand your needs and provide you with better service. On a larger scale, we use aggregated personal information to monitor and analyze trends, usage, and activities in connection with our Services. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in understanding and responding to our market.
+
+●      Protect our people and our organization. We may use personal information to ensure the physical security of our facilities and personnel, to prevent, detect, and investigate fraudulent transactions and other illegal activities, and to protect the rights and property of Skydio and others. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in preventing fraud and other illegal activities.
+
+●      Manage our human resources. We collect and use personal information relating to our Employees for a variety of typical employment-related purposes. Examples include administering compensation and Employee benefits, complying with health and safety obligations, and addressing employee relations issues. We only use characteristics of protected classifications to comply with applicable law or accommodate a disability or religious or moral belief. In jurisdictions requiring a declared lawful basis, we consider the basis to be our legitimate interest in managing our human resources. When we collect and process sensitive or special category personal information, the basis is compliance with a legal obligation.
+
+Note that Skydio does not use or disclose sensitive personal information for purposes other than those specified in California Consumer Privacy Act Regulations, Section 7027, subsection (m).
+
+5.              When Skydio Discloses Personal Information
+
+Skydio may disclose your personal information for business purposes with:
+
+●      Service Providers and Contractors. We disclose some personal information to our Service Providers and Contractors to enable standard business operations such as human resources, sales, and marketing. This information might include any of the categories of personal information listed above.
+
+●      Our Affiliates. We may disclose any personal information that we collect or you provide between and among our current and future parents, subsidiaries, affiliates, and all other companies under common control and ownership for our or their own commercial purposes.
+
+●      Others. We may disclose any of your personal information: (1) to comply with any court order, law, or legal process, including to respond to any government or regulatory request to which Skydio legally may or must respond; (2) to enforce or apply terms and conditions applicable to your use of the Website or Services, including for billing and collection purposes; (3) to protect the rights, property, or safety of Skydio, our customers, or others, if we believe such disclosure is reasonably necessary in order to do so, or if we believe your actions are inconsistent with our user agreements or policies; (4) in connection with, or during negotiations of, any merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Skydio about our Website users is among the assets transferred; or (5) with your consent or at your direction.
+
+Skydio does not sell your personal information for monetary consideration. However, our use of cookies and other tracking technologies, as well as the collection of personal information on our sites and applications by third parties, may be considered a “sale” or “sharing” under California law. In the prior 12 months, we have “sold” or “shared” name, contact information, and other identifiers; commercial information, including products or services purchased, obtained, or considered; and internet and other electronic network activity to advertisers and marketing partners, providers of data analytics, and social media networks to make the online advertisements you see more relevant to your interests, including advertisements for Skydio products and services, and to improve our understanding of the market.
+
+You can opt-out of this selling and sharing by clicking here (Do Not Sell or Share My Personal Information). We also recognize and honor opt-out preference signals from browsers equipped with Global Privacy Control.
+
+6.              Geolocation and Drones
+
+Depending on the Services you have selected, we may collect and process from you and your devices the precise geolocation of your drone and/or control station. This is considered sensitive personal information under California law and possibly in other jurisdictions. Precise geolocation is specifically identified in your contract when included as part of a Service. We consider that the contract confirms your expectation of and consent to this collection and processing.
+
+We also want to be sure you are aware that geolocation may be broadcast where legally required. Skydio drones with Remote ID built in broadcast information required under the FAA’s Remote ID Rule when operated within the United States or Japan. This includes the drone’s serial number, geolocation, emergency status, and speed, the controller’s position, and a timestamp. You can find more information about Skydio and Remote ID here.
+
+7.              Personal Information of Children
+
+We do not knowingly collect personal information from children under 16 years of age outside of information gathered to provide benefits for the dependents of Employees. Although this information is disclosed to the providers of those benefits, we do not knowingly sell or share for cross-context behavioral advertising any personal information of children under the age of 16, and we have no knowledge that we have done so. Our Website and Services are not intended for children under 16 years of age, and we ask that any children under 16 do not use our Website or Services. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we promptly delete that information. If you believe we might have any information from or about a child under 16, please contact us as provided below.
+
+8.              Your Choices About Your Personal Information
+
+You control the personal information you provide to us.
+
+●      Device Information. When you first launch any of our mobile applications that collect information from your mobile device (e.g. location), you will be asked to consent to the application’s collection of this information. You can change these preferences at any time within your mobile device or application settings. You may also stop our collection of all such information by following the standard uninstall process to remove all of our mobile applications from your device. Your Skydio product uses GPS to collect location information during its normal operation. Because this information is required for safe flight, you cannot disable location collection on your Skydio product, but this information is never uploaded to Skydio unless you decide to do so.
+
+●      Tracking Technologies and Advertising. You can set your browser or use our cookie manager to determine the way that you interact with cookies on our Website.
+
+●      Promotional Offers from Skydio. If you do not wish to have your email address or other contact information used by Skydio to promote our own or third parties’ products or services or wish to revoke your prior consent for Skydio to do so, you can opt-out at any time using the Email Marketing Preference Settings link at the bottom of any promotional email you have received from us. Please note that this opt-out does not affect information provided to Skydio as a result of a product purchase, warranty registration, product service experience or other transactions.
+
+●      Targeted Advertising. If you do not want us to use automatically collected information to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by adjusting your preferences in the cookie manager available on our Website. You can also opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+
+9.              Your Privacy Rights
+
+Skydio Customers can review and change their account information by logging into their account within the Services. You may also use our Access Request Portal at https://www.skydio.com/dataprivacy or call us at our toll-free number (1-855-463-5902) to submit an “Access Request” and:
+
+●      Request confirmation that we have collected and are processing your personal information.
+
+●      Request access to, correction of, or deletion of any personal information that you have provided to us. We will provide this in a structured, commonly used and machine- readable format.
+
+●      Request the categories and specific pieces of personal information we collected about you.
+
+●      Request the categories of sources for the personal information we collected about you.
+
+●      Request our business or commercial purpose for collecting that personal information.
+
+●      Request the categories of third parties with whom we disclose that personal information.
+
+●      Request the business or commercial purpose for disclosing that personal information.
+
+●      Request a list of our disclosures, for business purposes, of your personal information, which identifies the personal information categories that each category of recipient obtained.
+
+●      Request that we restrict processing concerning your personal information, where applicable.
+
+●      Object to our processing for direct marketing or other purposes, including the construction of a profile about your preferences, where applicable depending on your particular situation.
+
+●      Opt out of the sharing of your personal information.
+
+Your Access Request must:
+
+●      Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
+
+●      Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+
+We may, under applicable law, require additional proof of your identity. You may designate an authorized agent to make a request for you. If you use an authorized agent, we may require the agent to submit proof that they are authorized to act on your behalf.If we decline your request, partially or fully, you may appeal the decision to our senior management. Simply follow the same process for submitting a request and include “Appeal” in the request. In some jurisdictions you may have the right to register a complaint with an appropriate data protection authority.
+
+We will not discriminate against you for exercising these rights.
+
+For Employees, all requests related to the use, review, correction, or deletion of personal information should be made directly to the People Operations Department by email.
+
+10.           International Data Transfers
+
+Skydio is based in the United States, and our collection, use, and disclosure of information is governed by United States law. We, and our service providers, will process the personal information we collect about you in the United States and certain other locations around the world in order to fulfill the purposes stated in this Privacy Policy. We will take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Privacy Policy and will adopt appropriate safeguards as required by any applicable laws, including but not limited to execution of a data protection agreement that includes Standard Contractual Clauses.
+
+11.           Data Retention
+
+We will only retain your personal information for as long as necessary to fulfill the purposes of collection or to process it for or for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information; the potential risk of harm from unauthorized use or disclosure of your personal information; the purposes for which we process your personal information and whether we can achieve those purposes through other means; and the applicable legal requirements.
+
+We generally retain your data as follows:
+
+●      Employees – 7 years after the end of the employment period.
+
+●      Applicants – 90 days after a hire decision is made.
+
+●      Customers – 7 years after the last purchase.
+
+●      Visitors – 13 months after visiting our website or physical facility.
+
+In some circumstances we may anonymize your personal information so that it can no longer be associated with you and is impossible to be restored, in which case such information will no longer be considered personal information under this Privacy Policy. We may use such information without further notice to you. We will retain and securely destroy former employee and contractor personal information in accordance with our data retention policy and applicable laws and regulations.
+
+12.           Changes to Our Privacy Policy
+
+This privacy policy was last revised on the date listed above. We will post a notice that the privacy policy has been updated on the Website home page and within the Services one week before any changes are implemented. If we make material changes to how we treat our Visitors’ or Customers’ personal information, we will also notify any Visitors or Customers for whom we have a current email address. If you would like to receive notice of these changes, you must maintain an up-to-date, active, and deliverable email address within your account or periodically visit our Website and this privacy policy to check for any changes.
+
+13.           Contact Information
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+Skydio, Inc.
+
+3000 Clearview Way
+
+Building E
+
+San Mateo, CA 94402
+
+privacy+policyquestions@skydio.com, or via our toll-free number: 1-855-463-5902.

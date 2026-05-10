@@ -1,0 +1,166 @@
+{
+  "organization_name": "Huawei Technologies Co. Ltd",
+  "policy_date": "May 2024",
+  "products_covered": [
+    "Huawei websites",
+    "Huawei products",
+    "Huawei services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specifically limit collection of biometric data or explain why any biometric data would be necessary. It mentions broad collection of personal data, photos, and certificate information, but nothing about biometric data or concrete necessity limits for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention biometric data, so there is no direct biometric-specific processing risk described. However, it does allow broad personal data collection and sharing in general, which could create risk if biometric data were included under other categories."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specifically mention health data collection limits or explain why any health-related data would be necessary. It describes broad collection of personal data generally, but there are no concrete health-data-specific minimization constraints."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not specifically identify health data as a collected or shared category. The main risk from the text is that broad general personal-data processing is described, but no health-data-specific handling, safeguards, or limits are stated."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not identify any physiological data category or describe concrete limits on collecting such data. It describes broad personal data collection and use, but nothing specific enough to show that physiological data collection is limited to what is necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "The personal data we collect includes name, gender, enterprise name, job position, postal and email addresses, phone number, login information (account and password), photos, and certificate information, etc., depending on how you interact with Huawei, for example, the website you visit or the products and services that you use.",
+        "purpose": "The policy says this data is collected as part of personal data gathered through interactions with Huawei and used for the listed service and account purposes elsewhere in the policy.",
+        "legal_basis": "consent; contract; legitimate interests; legal obligations"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy lists multiple types of personal data and says the exact collection depends on how you interact with Huawei. It does not give concrete limits showing that only necessary physical data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Huawei shares your personal data with other partners, as described in this Policy, when services are provided by partners authorized by Huawei.",
+        "purpose": "The policy says sharing occurs to provide services through authorized partners and for other disclosures described in the policy.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy states that personal data, including photos, may be collected and shared with partners, affiliates, subsidiaries, logistics providers, and government agencies. It also says personal data may be processed or accessed in other countries or regions, creating cross-border transfer risk."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We may also obtain data by recording how you interact with our websites, products, or services.",
+        "purpose": "Huawei says it records user interactions with its websites, products, or services. This supports collection of behavioral data because interaction patterns are behavioral information.",
+        "legal_basis": "as permitted by law"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of interaction data and use of it for many purposes, but it does not set concrete limits specific to behavioral data or justify why each behavioral data type is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "Synchronizing, sharing, and storing the data you upload or download and the data needed for the uploading and downloading.",
+        "purpose": "Huawei says it stores data related to uploading and downloading, which can include interaction-related behavior in use of its services."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Synchronizing, sharing, and storing the data you upload or download and the data needed for the uploading and downloading.",
+        "purpose": "Huawei states that it shares data involved in synchronizing and uploading/downloading activities.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy indicates that Huawei records how users interact with its websites, products, or services and may share related upload/download data. It also allows broad use of this information for improving services, marketing, security, and other purposes, creating a broad behavioral profiling risk."
+    }
+  }
+}

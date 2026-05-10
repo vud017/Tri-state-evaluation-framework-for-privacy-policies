@@ -1,0 +1,169 @@
+{
+  "organization_name": "Apple",
+  "policy_date": "March 31, 2024",
+  "products_covered": [
+    "Health app",
+    "HealthKit",
+    "iPhone",
+    "iPad",
+    "Apple Watch",
+    "iCloud"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits or justification for biometric data collection, as it focuses on health data and physiological measurements without explicitly addressing biometric data categories."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Apple may process personal data in order to provide you with the products and features you have requested. A limited amount of this data could constitute consumer health personal data under U.S. state consumer health privacy laws...",
+        "purpose": "To provide requested products and features, including health-related functionalities.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy mentions general principles like 'data minimization' and 'limited categories' but lacks specific, concrete limits on data collection or justification for each type of health data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "if you choose to sync your data across your devices or store data in iCloud...",
+        "purpose": "To enable cross-device functionality and iCloud services."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary...",
+        "purpose": "To provide products/features, comply with law, or at user direction.",
+        "legal_basis": "As reasonably necessary, at user direction, or required by law.",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Health data is collected in limited cases and stored with encryption, but sharing with third parties and potential cross-border transfers are not explicitly restricted, posing risks of unauthorized access or misuse."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Measurements of bodily functions, vital signs, and other related information. For instance, if you choose to participate in an Apple-sponsored health study, you may be asked to provide information about your symptoms or vital signs (for example, heart rate) as part of your consent to participate in the study.",
+        "purpose": "To provide requested products/features, such as health studies or features requiring vital sign data.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy mentions data minimization principles and limited collection scenarios but lacks explicit, concrete limits on physiological data collection beyond general statements."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "you may choose to sync your data across your devices or store data in iCloud",
+        "purpose": "To provide requested products/features and enable cross-device functionality."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Apple does not retain any of this information in a form that personally identifies you",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary in order to provide you with the products or features you have requested",
+        "purpose": "To provide requested products/features and comply with legal obligations.",
+        "legal_basis": "Reasonably necessary",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy limits physiological data collection to specific scenarios and uses encryption, reducing risks, but data sharing with third parties could introduce privacy concerns."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not provide specific limitations or justifications for collecting physical data, instead focusing on health data and general data minimization principles."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention specific limitations or justifications for collecting behavioral data, nor does it address behavioral data minimization practices."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    }
+  }
+}

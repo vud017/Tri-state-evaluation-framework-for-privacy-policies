@@ -1,0 +1,164 @@
+{
+  "organization_name": "Amazon.com",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon Services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.",
+        "purpose": "To respond to user requests and improve services.",
+        "legal_basis": "Consent, legitimate interest."
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states \"we collect your personal information in order to provide and continually improve our products and services\" but lacks specific limits or examples for biometric data collection."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.",
+        "purpose": "To process and improve services."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can review and delete Alexa voice recordings, text transcripts, and typed requests to Alexa...",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The collection and storage of voice data (biometric) pose risks of unauthorized access or misuse, though users can delete their data."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data collection, so no data minimization analysis applies."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention specific limits on physiological data collection or provide justification for why such data would be necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use 'cookies' and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites.",
+        "purpose": "to provide and improve Amazon Services",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not specify concrete limits on the collection of physical data, such as images and videos, nor does it provide clear justification for why each type of data is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "to provide and improve Amazon Services"
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We share customers' personal information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.",
+        "purpose": "to operate, provide, develop, and improve Amazon Services",
+        "legal_basis": "contract, legitimate interest",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The collection and storage of physical data (e.g., images, videos) pose risks of unauthorized access, misuse, or exposure during third-party sharing or cross-border transfers, particularly if safeguards are not explicitly detailed in the policy."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "content interaction information, such as content downloads, streams, and playback details, including duration and number of simultaneous streams and downloads, and network details for streaming and download quality, including information about your internet service provider; device metrics such as when a device is in use, application usage, connectivity data, and any errors or event failures;",
+        "purpose": "to provide and improve Amazon Services, analyze performance, and personalize the user experience",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy lacks concrete limits on data collection, referencing broad categories like 'personal information' without specifying which behavioral data types are collected or retained."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "we automatically collect and store certain types of information about your use of Amazon Services",
+        "purpose": "to operate, provide, and improve Amazon Services"
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We make available to you services, products, applications, or skills provided by third parties... We share customers' personal information related to those transactions with that third party.",
+        "purpose": "to enable third-party services, fulfill orders, and provide joint offerings",
+        "legal_basis": "as needed for the purpose of providing services",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data is collected and stored for service improvement, but risks include prolonged retention, sharing with third parties for advertising and analytics, and potential cross-border transfers under the EU-US Data Privacy Framework."
+    }
+  }
+}

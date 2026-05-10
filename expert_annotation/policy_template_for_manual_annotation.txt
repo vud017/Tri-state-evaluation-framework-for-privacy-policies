@@ -1,0 +1,200 @@
+{
+  "organization_name": "ENTER ORGANIZATION NAME",
+  "policy_date": "YYYY-MM-DD OR DATE AS STATED IN POLICY",
+  "products_covered": [
+    "LIST PRODUCTS / SERVICES COVERED BY THIS POLICY"
+  ],
+
+  "data_categories": {
+
+    "biometric_data": {
+
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING COLLECTION — leave empty if detected=false",
+        "purpose": "BRIEFLY EXPLAIN WHY biometric data is collected, BASED ONLY ON THE QUOTE",
+        "legal_basis": "STATE LEGAL BASIS IF EXPLICITLY MENTIONED (EXAMPLE: consent), otherwise leave empty"
+      },
+
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "BRIEFLY EXPLAIN WHETHER THE POLICY LIMITS BIOMETRIC DATA COLLECTION AND JUSTIFIES NECESSITY AT AN ADEQUATE LEVEL"
+      },
+
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING STORAGE OR RETENTION",
+        "purpose": "BRIEFLY EXPLAIN WHY biometric data is storedt"
+      },
+
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "QUOTE DESCRIBING WHEN OR HOW BIOMETRIC DATA IS DELETED",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "QUOTE DESCRIBING AUTOMATIC DELETION AFTER INACTIVITY"
+      },
+
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "QUOTE SHOWING SHARING OF BIOMETRIC DATA WITH THIRD PARTIES",
+        "purpose": "BRIEFLY EXPLAIN WHY biometric data is shared",
+        "legal_basis": "STATE LEGAL BASIS FOR SHARING IF EXPLICIT",
+        "third_country_sharing": "false"
+      },
+
+      "overall_privacy_risk_description": "SUMMARIZE MAIN PRIVACY RISKS (1–3 SENTENCES) OR LEAVE EMPTY"
+    },
+
+    "health_data": {
+
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING COLLECTION OF HEALTH DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY health data is collected",
+        "legal_basis": "STATE LEGAL BASIS IF EXPLICITLY MENTIONED, otherwise leave empty"
+      },
+
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "BRIEFLY EXPLAIN WHETHER THE POLICY LIMITS HEALTH DATA COLLECTION AND JUSTIFIES NECESSITY AT AN ADEQUATE LEVEL"
+      },
+
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING STORAGE OR RETENTION OF HEALTH DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY health data is stored"
+      },
+
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "QUOTE DESCRIBING WHEN OR HOW HEALTH DATA IS DELETED",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "QUOTE DESCRIBING AUTOMATIC DELETION AFTER INACTIVITY"
+      },
+
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "QUOTE SHOWING SHARING OF HEALTH DATA WITH THIRD PARTIES",
+        "purpose": "BRIEFLY EXPLAIN WHY health data is shared",
+        "legal_basis": "STATE LEGAL BASIS FOR SHARING IF EXPLICIT",
+        "third_country_sharing": "false"
+      },
+
+      "overall_privacy_risk_description": "SUMMARIZE MAIN PRIVACY RISKS (1–3 SENTENCES) OR LEAVE EMPTY"
+    },
+
+    "physiological_data": {
+
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING COLLECTION OF PHYSIOLOGICAL DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY physiological data is collected",
+        "legal_basis": "STATE LEGAL BASIS IF EXPLICITLY MENTIONED, otherwise leave empty"
+      },
+
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "BRIEFLY EXPLAIN WHETHER THE POLICY LIMITS PHYSIOLOGICAL DATA COLLECTION AND JUSTIFIES NECESSITY AT AN ADEQUATE LEVEL"
+      },
+
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING STORAGE OR RETENTION OF PHYSIOLOGICAL DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY physiological data is stored"
+      },
+
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "QUOTE DESCRIBING WHEN OR HOW PHYSIOLOGICAL DATA IS DELETED",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "QUOTE DESCRIBING AUTOMATIC DELETION AFTER INACTIVITY"
+      },
+
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "QUOTE SHOWING SHARING OF PHYSIOLOGICAL DATA WITH THIRD PARTIES",
+        "purpose": "BRIEFLY EXPLAIN WHY physiological data is shared",
+        "legal_basis": "STATE LEGAL BASIS FOR SHARING IF EXPLICIT",
+        "third_country_sharing": "false"
+      },
+
+      "overall_privacy_risk_description": "SUMMARIZE MAIN PRIVACY RISKS (1–3 SENTENCES) OR LEAVE EMPTY"
+    },
+
+    "physical_data": {
+
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING COLLECTION OF PHYSICAL DATA (e.g., images, video, location, voice recordings)",
+        "purpose": "BRIEFLY EXPLAIN WHY physical data is collected",
+        "legal_basis": "STATE LEGAL BASIS IF EXPLICITLY MENTIONED, otherwise leave empty"
+      },
+
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "BRIEFLY EXPLAIN WHETHER THE POLICY LIMITS PHYSICAL DATA COLLECTION AND JUSTIFIES NECESSITY AT AN ADEQUATE LEVEL"
+      },
+
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING STORAGE OR RETENTION OF PHYSICAL DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY physical data is stored"
+      },
+
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "QUOTE DESCRIBING WHEN OR HOW PHYSICAL DATA IS DELETED",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "QUOTE DESCRIBING AUTOMATIC DELETION AFTER INACTIVITY"
+      },
+
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "QUOTE SHOWING SHARING OF PHYSICAL DATA WITH THIRD PARTIES",
+        "purpose": "BRIEFLY EXPLAIN WHY physical data is shared",
+        "legal_basis": "STATE LEGAL BASIS FOR SHARING IF EXPLICIT",
+        "third_country_sharing": "false"
+      },
+
+      "overall_privacy_risk_description": "SUMMARIZE MAIN PRIVACY RISKS (1–3 SENTENCES) OR LEAVE EMPTY"
+    },
+
+    "behavioral_data": {
+
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING COLLECTION OF BEHAVIORAL DATA (e.g., usage, clicks, interactions)",
+        "purpose": "BRIEFLY EXPLAIN WHY behavioral data is collected",
+        "legal_basis": "STATE LEGAL BASIS IF EXPLICITLY MENTIONED, otherwise leave empty"
+      },
+
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "BRIEFLY EXPLAIN WHETHER THE POLICY LIMITS BEHAVIORAL DATA COLLECTION AND JUSTIFIES NECESSITY AT AN ADEQUATE LEVEL"
+      },
+
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "PASTE EXACT QUOTE SHOWING STORAGE OR RETENTION OF BEHAVIORAL DATA",
+        "purpose": "BRIEFLY EXPLAIN WHY behavioral data is stored"
+      },
+
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "QUOTE DESCRIBING WHEN OR HOW BEHAVIORAL DATA IS DELETED",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "QUOTE DESCRIBING AUTOMATIC DELETION AFTER INACTIVITY"
+      },
+
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "QUOTE SHOWING SHARING OF BEHAVIORAL DATA WITH THIRD PARTIES",
+        "purpose": "BRIEFLY EXPLAIN WHY behavioral data is shared",
+        "legal_basis": "STATE LEGAL BASIS FOR SHARING IF EXPLICIT",
+        "third_country_sharing": "false"
+      },
+
+      "overall_privacy_risk_description": "SUMMARIZE MAIN PRIVACY RISKS (1–3 SENTENCES) OR LEAVE EMPTY"
+    }
+  }
+}

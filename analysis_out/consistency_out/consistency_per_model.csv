@@ -1,0 +1,11 @@
+model,n_runs,n_policies,strict_agreement_rate,pairwise_agreement_rate
+anthropic__claude-opus-4-6,5,6,0.9571,0.9771
+anthropic__claude-sonnet-4-6,5,6,0.9286,0.9686
+deepseek__deepseek-r1,5,6,0.8286,0.9095
+deepseek__deepseek-v3-2,5,6,0.8048,0.8957
+google__gemini-3-1-flash-lite-preview,5,6,1.0,1.0
+google__gemini-3-1-pro-preview,5,6,0.9524,0.9743
+openai__gpt-5-4,5,6,0.8571,0.9286
+openai__gpt-5-4-mini,5,6,0.7286,0.8619
+qwen__qwen3-5-397b-a17b,5,4,0.7214,0.8536
+qwen__qwen3-8b,5,6,0.6714,0.8262

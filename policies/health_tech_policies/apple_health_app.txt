@@ -1,0 +1,58 @@
+Consumer Health Personal Data Privacy Policy
+
+    Updated March 31, 2024
+
+    Your privacy is important to Apple. This Consumer Health Personal Data Privacy Policy describes our existing privacy principles and protections for Apple health features. It also describes our privacy practices for “consumer health personal data” as defined under applicable U.S. state laws.
+
+    Health Privacy Overview
+
+    At Apple, we believe privacy is a fundamental human right. There are four privacy principles that inform everything we do at Apple — data minimization, on-device processing, transparency and control, and security. We build each of these four pillars into our products and features from the beginning, including our health features, such as the Health app and HealthKit. As a result of these protections, Apple works to minimize the amount of health data that it collects and these principles have enabled us to provide you, where possible, with health features without the need to collect your health data:
+
+        Data minimization. We use innovative technologies and techniques to minimize the personal data and health data generally that we, or anyone else, can access. For example, for users using a recent version of watchOS and iOS with the default two-factor authentication and a passcode enabled, Health app data is end-to-end encrypted. As a result, data in the Health app is not readable by anyone — even Apple.
+
+        On-device processing. We minimize data collection by processing as much of your health data on your device as we can, rather than sending it to a server. For example, data shown in the Health app like Trends & Highlights and Cycle Tracking predictions are calculated on-device.
+
+        Transparency and control. We help you to better understand the data being collected so that you can make your own choices over who you share that data with and how it's used. For example, within the Health app you're in control of what data is shared and who it is shared with. You can view and control data sharing with friends and family, and health care providers in the Sharing tab of the Health app.
+
+        Security. Security protections, such as end-to-end encryption, are the foundations of privacy. Health and fitness data gathered from iPhone, iPad, and Apple Watch is encrypted on your device with a passcode, and is securely synced across devices. As a result, data in the Health app is not readable by someone with physical access to your device unless they have your passcode.
+
+    To learn more about how the Health app and HealthKit protect your privacy, view the Health App Privacy white paper at apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf. To learn more about our health features and the privacy protections, visit apple.com/privacy/features.
+    Consumer Health Personal Data
+
+    In some circumstances, Apple may process personal data in order to provide you with the products and features you have requested. A limited amount of this data could constitute consumer health personal data under U.S. state consumer health privacy laws, such as Washington and Nevada. Consumer health personal data is broadly defined under these laws, respectively, as personal data that is linked or reasonably linkable to a consumer and that may identify the consumer's past, present, or future physical or mental health status or that is used to identify health status.
+
+    Even in the limited cases where we process data that could be considered consumer health personal data, we in a small number of cases only actually use the data to identify health status, as described below. Since consumer health personal data is broadly defined, this policy describes where personal data that Apple processes could include health status information, even if we do not use such data to identify health status or use the data for any other purpose other than to provide you with a requested product or feature.
+    Consumer Health Personal Data Apple May Collect from You
+
+    The limited categories of personal data that we may collect when you use our products or services or contact us, which may constitute consumer health personal data, include those below. These are only collected in very limited cases, with example scenarios as noted:
+
+        Physical or mental health or condition, including information about your health conditions, symptoms, status, diagnoses, testing, or treatments. For instance, if you contact AppleCare for support on one of our regulated health features, you may choose to provide health-related information. You may also choose to add a pass to your Wallet that could include health-related information, such as your vaccination card, which allows you to quickly access your vaccination card from the Wallet app. Apple does not use this data to infer or detect your health status.
+
+        Measurements of bodily functions, vital signs, and other related information. For instance, if you choose to participate in an Apple-sponsored health study, you may be asked to provide information about your symptoms or vital signs (for example, heart rate) as part of your consent to participate in the study. Apple uses this data only for the purposes outlined in the applicable consent. If you participate in a study using an Apple Health Research Study app, you can review our Apple Health Study Apps Privacy Policy at apple.com/legal/privacy/apple-health-studies and the informed consent you sign for more information about how we protect your privacy.
+
+        Information that could identify your attempt to seek healthcare services or information. For instance, we may collect information about the apps you download in the App Store in order to provide you the App Store and content you requested, and to personalize your experience. Certain apps you choose to download could be health-related. However, Apple does not use this data to infer or detect your health status.
+
+        Other information that could be used to make inferences about or detect the health status of an individual. For instance, if you choose to sync your data across your devices or store data in iCloud, depending on how you use our features and the information saved to your account, this could include health-related information. However, many of our features and services use end-to-end encryption by default when syncing data, such that your data can be decrypted only on your trusted device. No one else can access your end-to-end encrypted data, not even Apple. You may also enable Advanced Data Protection to protect the majority of your iCloud data. If you choose to enable Advanced Data Protection, the majority of your iCloud data — including iCloud Backup, Photos, Notes, and more — is protected using end-to-end encryption. Even if you store data in iCloud using the Standard Data Protection, your iCloud data is encrypted and the encryption keys are secured in Apple data centers so that we can help you with data recovery. Apple does not use iCloud data to infer or detect your health status. You can learn more about iCloud Data Security at support.apple.com/en-us/102651. 
+
+    There are limited circumstances in which Apple transmits but does not store data, some of which may be considered to constitute consumer health personal data. For example, in order to securely transmit your payment information within apps, websites, and Business Chat, it is sent to Apple in encrypted form, where it is briefly decrypted and reencrypted with a merchant-specific key, so that only the merchant, the developer, or their payment processor can decrypt your payment information. Apple does not retain any of this information in a form that personally identifies you, and does not use that data to infer or detect your health status.
+    Sources of Consumer Health Personal Data
+
+    Apple may collect consumer health personal data directly from you, from your interactions with our products and services, and from third parties acting at your direction. More information about how Apple receives personal information is available in our Privacy Policy in the section "Personal Data Apple Receives from Other Sources.”
+    How Apple May Use Consumer Health Personal Data
+
+    Apple may use consumer health personal data as reasonably necessary in order to provide you with the products and features you have requested. This may include using consumer health personal data to power our services, to communicate with you, and to comply with law. We may also use consumer health personal data for other purposes at your direction or with your consent. In all instances in which Apple processes personal data, we include more details about the data we process and the purposes in our privacy notices for the product or feature. You can view a complete listing of our privacy notices at any time at apple.com/legal/privacy/data.
+
+    Apple does not sell your consumer health personal data.
+    How Apple May Disclose Consumer Health Personal Data
+
+    Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary in order to provide you with the products or features you have requested or others at your direction or when required by applicable law.
+    Your Consumer Health Personal Data Privacy Rights at Apple
+
+    At Apple, we respect your ability to know, access, correct, transfer, restrict the processing of, and delete your personal data. This includes the limited instances where we process or collect consumer health personal data under applicable privacy law. Where consumers are requested to consent to the processing of their personal data, they also have the right to withdraw consent at any time.
+
+    To exercise your privacy rights and choices visit the Apple Data and Privacy page at privacy.apple.com. To help protect the security of your personal data, you must sign in to your account and your identity will be verified. If you want to obtain a copy of personal data that you believe may be available and is not currently available from privacy.apple.com, you can make a request at apple.com/legal/privacy/contact. Additional information about how you can exercise your privacy rights can be found in our Privacy Policy in the section "Your Privacy Rights at Apple”.
+    Privacy Questions
+
+    If you have questions about Apple's Privacy Policy or privacy practices, including where a third-party service provider is acting on our behalf, or you would like to contact our Data Protection Officer, you can contact us at apple.com/legal/privacy/contact or call the Apple Support number for your country or region.
+
+    When there is a material change to this Consumer Health Personal Data Privacy Policy, we'll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.

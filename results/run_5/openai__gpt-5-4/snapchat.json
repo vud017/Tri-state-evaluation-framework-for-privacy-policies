@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat app",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy section does not explicitly mention collecting physiological data or provide concrete limits or necessity justifications for that category. Because meaningful limits for physiological data are not described in the provided text, adequacy for this category is not established."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”).",
+        "purpose": "This explicitly states collection of images, video, audio, and precise location, which fall within physical data. The policy says this information is used to generate content and responses in AI Features.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy says, \"we are always focused on privacy — and we don’t want to use more of your personal information than necessary to develop our features and models.\" This is a general minimization claim, but it does not set concrete limits on physical data collection or explain specific necessity boundaries for each type of physical data."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "For example, if you store something in Memories, we will keep it as long as you need it",
+        "purpose": "This explicitly says stored content is kept in Memories. Because images, videos, and other user content can be saved in Memories, it supports storage of physical data."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Public. Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web.",
+        "purpose": "This explicitly states that Snaps can be shared publicly and become discoverable outside Snapchat. Since Snaps can contain images, video, audio, and location, this supports sharing of physical data.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The policy states that physical data such as images, video, audio, and precise location are collected and can be shared with friends, the public, partners, and service providers in some contexts. It also says data may be transferred to and stored in the United States or other countries outside where the user lives, and retention varies by feature and settings, which can increase exposure depending on how the service is used."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata",
+        "purpose": "This snippet explicitly says Snap collects usage information about how users interact with the Services and content information about engagement and interactions. These are behavioral data because they describe actions, habits, and patterns of interaction with the service.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data across service usage, content engagement, interactions with My AI, ad interactions, analytics, and research. Although it says it does not want to use more personal information than necessary, it does not provide concrete limits or specific necessity justifications for each behavioral data type."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings",
+        "purpose": "This explicitly states that a behavior-related dataset connected to social interaction patterns is kept until the user requests removal, showing storage of behavioral data."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Anti-Fraud Partners. We share your information, such as device and usage information, with industry partners working to prevent fraud.",
+        "purpose": "This explicitly states that usage information is shared with anti-fraud partners to prevent fraud. Usage information is behavioral data because it reflects how a person uses the service.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The policy says Snap collects extensive behavioral data about how users interact with the service, uses it for personalization, advertising, analytics, research, and model improvement, and shares usage information with partners for fraud prevention. The policy also says personal information may be transferred, stored, and processed in countries outside where the user lives, which creates uncertainty about international sharing scope for behavioral data."
+    }
+  }
+}

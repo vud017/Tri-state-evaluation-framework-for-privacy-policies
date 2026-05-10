@@ -1,0 +1,173 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "2025-11-30",
+  "products_covered": [
+    "TikTok apps",
+    "TikTok websites",
+    "TikTok software",
+    "TikTok related services",
+    "TikTok Shop",
+    "TikTok shopping features",
+    "TikTok advertising services",
+    "TikTok Ad Network",
+    "TikTok Developer Tools",
+    "TikTok Advertiser Tools"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your User Content, for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your User Content.",
+        "purpose": "The policy describes detecting the existence or location of a face or other body parts within images, which could involve biometric-adjacent processing (e.g., face detection). However, the policy does not explicitly state that biometric templates or unique identification data are generated from this processing, making it ambiguous whether true biometric data (as defined by GDPR) is collected.",
+        "legal_basis": "Legitimate interests (content moderation, special effects such as video filters and avatars, and captions)"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of facial and body part detection data from user content without specifying concrete limits on what biometric-adjacent data is extracted, how long facial feature data is retained, or why each specific type of facial/body detection is strictly necessary. The description is expansive ('characteristics and features about the videos, images, and audio recordings') without meaningful constraints."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Platform, and enhancing its safety, security and stability), and for the exercise or defence of legal claims.",
+        "purpose": "The policy states information is retained as long as necessary for platform purposes and other stated purposes, but does not specifically address storage of biometric or face-detection data, making it ambiguous whether such data is stored separately or for how long."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Delete your information. You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We engage service providers that help us provide, support, and develop the Platform and understand how it is used. They provide services such as: cloud hosting, and content delivery, customer and technical support, content moderation, marketing, analytics, and payment services. We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "Automatically Collected Information, which includes content characteristics and features (face/body detection data), is shared with service providers for content moderation, content delivery, and other platform services. The policy does not explicitly single out biometric data sharing but the broad sharing of Automatically Collected Information with service providers and corporate group entities could encompass such data.",
+        "legal_basis": "Contractual necessity and legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "TikTok collects facial and body part detection data from user content, which may constitute biometric data processing under GDPR. The policy is vague about the exact nature and scope of this processing, whether biometric templates are created, how long such data is retained, and with whom it is specifically shared. Data is stored in the United States, Malaysia, and Singapore, and shared with corporate group entities and service providers globally, creating significant cross-border transfer risks for potentially sensitive biometric information."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data collection, so there are no specific minimization measures described for health data. However, the broad collection practices described (e.g., content characteristics, inferred information, user content) could potentially encompass health-related information without explicit limits."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection, storage, or sharing of health data. However, TikTok collects broad categories of user content, inferred information, and content characteristics (including detecting objects and features in videos and audio), which could incidentally capture health-related information without specific safeguards or limitations being described for such sensitive data."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your User Content, for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts",
+        "purpose": "The policy describes detecting body parts and characteristics from user content, which could encompass physiological data. However, the policy does not explicitly mention collecting heart rate, sleep patterns, or other classic physiological metrics. The detection of face and body features in content could implicitly involve physiological characteristics, but this is not clearly stated as physiological data collection.",
+        "legal_basis": "Legitimate interests (to ensure safety and well-being of community, content moderation, provide special effects); Contractual necessity"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states broad collection of content characteristics and features including detecting faces and body parts from user content, but does not clearly articulate specific limits on what physiological-adjacent data is collected or why each element is strictly necessary. The purposes given (content moderation, special effects, captions) are stated but the scope of detection is described broadly."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so",
+        "purpose": "The policy states general retention of information for platform provision and other purposes, which would encompass automatically collected content characteristics. However, no specific mention of storing physiological data is made."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "Content characteristics and features are part of Automatically Collected Information, which is shared with service providers for cloud hosting, content delivery, content moderation, analytics, and other services. The policy does not specifically call out physiological data sharing but the broad categories shared would encompass it if collected.",
+        "legal_basis": "Contractual necessity, legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy describes broad detection and collection of characteristics and features from user content, including face and body part identification, which could encompass physiological data. This data is retained under vague conditions ('as long as necessary'), shared with service providers and corporate group entities globally including servers in the US, Malaysia, and Singapore, and the scope of what is detected from content is described broadly without clear limits, posing risks of over-collection and unclear retention of sensitive physiological-adjacent information."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings, livestreams, comments, hashtags, feedback, reviews, and the associated metadata (such as when, where, and by whom the content was created).",
+        "purpose": "TikTok collects photographs, videos, and audio recordings as User Content. They also collect location information (approximate or precise) and detect characteristics of images including the existence or location of a face or other body parts. This constitutes physical data including photographs, video recordings, voice recordings, and location/geolocation data.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent depending on the specific processing purpose."
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes very broad collection of physical data including photographs, videos, audio recordings, precise location, and detection of faces and body parts within content. The policy also states it collects User Content 'through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content.' This pre-loading of content the user has not chosen to upload suggests collection beyond what is strictly necessary. No meaningful limits are described on the scope of physical data collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We store the information described in the \"What Information We Collect\" section in servers located in the United States, Malaysia and Singapore.",
+        "purpose": "TikTok stores all collected information, including physical data such as photographs, videos, audio recordings, and location data, on servers to provide and maintain the Platform."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Delete your information. You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.",
+        "purpose": "Physical data is shared with service providers (cloud hosting, content delivery, content moderation, analytics), partners, third party platforms, sellers and their service providers, corporate group entities, independent researchers, and potentially law enforcement. User Content including videos and photographs may also be visible to other users and the public based on privacy settings.",
+        "legal_basis": "Contractual necessity, legitimate interests, consent, compliance with legal obligations, and public interest depending on the specific sharing scenario.",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "TikTok collects extensive physical data including photographs, videos, audio recordings, precise location, and facial/body part detection within content. The pre-loading of content regardless of whether the user chooses to upload it raises significant data minimization concerns. Data is stored on servers in the United States, Malaysia, and Singapore, and shared with a wide range of third parties globally including corporate group entities with remote access. The retention policy lacks specificity on automatic deletion timelines, stating only that data is kept 'as long as necessary,' which creates risk of indefinite retention."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history. We also collect information about your interactions with websites when you use our in-app browser.",
+        "purpose": "TikTok collects behavioral data including app usage patterns, interaction with content and ads, duration and frequency of use, engagement with other users, search history, and in-app browser interactions to operate, personalize, and improve the Platform, serve ads, and provide analytics.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent (for personalised advertising)"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes extremely broad behavioral data collection including all interactions with content and ads, duration and frequency of use, engagement with other users, search history, in-app browser interactions, clipboard content, and inferred attributes. The scope of collection is expansive with no meaningful limits described. Additionally, the policy states content is collected through pre-loading at the time of creation regardless of whether the user saves or uploads it, and inferred information such as age-range, gender, and interests is derived from collected data. There are no concrete restrictions or justifications for why each specific type of behavioral data is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so (such as improving and developing the Platform, and enhancing its safety, security and stability), and for the exercise or defence of legal claims.",
+        "purpose": "Behavioral data is retained to provide the Platform, comply with contractual and legal obligations, pursue legitimate business interests such as improving and developing the Platform and enhancing safety, security and stability, and for the exercise or defence of legal claims."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Delete your information. You can delete or ask us to delete your information. In-app controls enable you to: delete the content posted on your account, such as your User Content and your Account Information. delete your full account.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners whose platform or services are integrated with the Platform, or with whom we have a commercial relationship.",
+        "purpose": "Behavioral/usage data is shared with third party platforms and partners for seamless user experience, content sharing, order management, user authentication, advertising measurement, and analytics. It is also shared with service providers, measurement and data partners, advertisers (in aggregate), and corporate group entities.",
+        "legal_basis": "Legitimate interests, contractual necessity, and consent (for personalised advertising)",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "TikTok collects extensive behavioral data including all interactions with content and ads, usage duration and frequency, search history, in-app browser activity, and inferred attributes like interests and demographics. This data is stored on servers in the United States, Malaysia, and Singapore, and shared with numerous third parties globally including corporate group entities, advertisers, measurement partners, and service providers. Retention periods are vaguely defined as 'as long as necessary,' and there is no automatic inactivity-based deletion policy, creating significant risks of prolonged data retention and broad cross-border data exposure."
+    }
+  }
+}

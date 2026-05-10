@@ -1,0 +1,11 @@
+model,n_policies,n_pairs,agreement_rate,macro_f1,f1_true,f1_not_true
+anthropic__claude-opus-4-6,4,140,0.7143,0.6599,0.5238,0.7959
+anthropic__claude-sonnet-4-6,4,140,0.6786,0.6032,0.4304,0.7761
+deepseek__deepseek-r1,4,140,0.7071,0.6439,0.4938,0.794
+deepseek__deepseek-v3-2,4,140,0.6786,0.5754,0.3662,0.7847
+google__gemini-3-1-flash-lite-preview,4,140,0.7429,0.7147,0.625,0.8043
+google__gemini-3-1-pro-preview,4,140,0.7143,0.6725,0.5556,0.7895
+openai__gpt-5-4,4,139,0.705,0.6257,0.4533,0.798
+openai__gpt-5-4-mini,4,140,0.7214,0.6661,0.5301,0.802
+qwen__qwen3-5-397b-a17b,4,140,0.7,0.6476,0.5116,0.7835
+qwen__qwen3-8b,4,140,0.6786,0.5754,0.3662,0.7847

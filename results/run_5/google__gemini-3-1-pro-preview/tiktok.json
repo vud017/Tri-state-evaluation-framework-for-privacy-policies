@@ -1,0 +1,167 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This information includes your device model, operating system, keystroke patterns or rhythms, IP address, system language and device settings.",
+        "purpose": "Collected as part of Technical Information to provide and administer the platform, ensure security, and identify activity across devices.",
+        "legal_basis": "Contractual necessity, legitimate interests, consent, compliance with a legal obligation, public interest, and protection of vital interests"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy broadly collects keystroke patterns and rhythms whenever a user accesses the platform, without defining clear limits or specific necessity for this sensitive biometric data beyond general platform provision and security."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We store the information described in the “What Information We Collect” section in servers located in the United States, Malaysia and Singapore.",
+        "purpose": "To support global operations and provide functions such as storage, content delivery, security, research and development, and analytics."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share limited information which may include Information You Provide, Technical Information, and Usage Information with third party platforms and partners whose platform or services are integrated with the Platform, or with whom we have a commercial relationship.",
+        "purpose": "To provide a seamless experience, allow content sharing, enable third-party authentication, and ensure transaction security.",
+        "legal_basis": "Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The continuous collection of keystroke patterns and rhythms poses a high privacy risk, as this biometric data can be used to uniquely identify users and track their behavior. Furthermore, this sensitive data is stored internationally and may be shared with third-party platforms and partners without clear deletion timeframes."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings",
+        "purpose": "To provide the platform, recommend music, provide special effects like video filters and avatars, and for content moderation.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy collects extensive physical data (photos, videos, precise location, facial features) but only provides generic retention claims like 'as long as necessary' without concrete limits or specific retention timeframes."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We store the information described in the “What Information We Collect” section in servers located in the United States, Malaysia and Singapore.",
+        "purpose": "To support global operations and retain information for as long as necessary to provide the Platform and for other purposes set out in the policy."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Based on your privacy settings, your information, including your Account Information, User Content, and Usage Information may be visible to other users and the public.",
+        "purpose": "To allow users to share content on the platform and make it visible to others, as well as to enable service providers to support the platform.",
+        "legal_basis": "Contractual necessity and legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The platform collects highly sensitive physical data, including precise location, facial/body features, and audio/video recordings, which can be shared publicly and transferred internationally. The absence of strict retention limits and automatic deletion for inactivity increases the risk of long-term exposure and misuse of users' physical characteristics."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.",
+        "purpose": "To understand user engagement, personalize content and features, provide analytics, and serve targeted advertising.",
+        "legal_basis": "Contractual necessity, legitimate interests, and consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad and extensive collection of user behavior both on and off the platform, including interactions, search history, and activities on other websites, without defining concrete limits on the scope or volume of data gathered."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "To provide the Platform, comply with legal obligations, improve and develop services, and exercise or defend legal claims."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share Information You Provide, Technical Information and Usage Information with third party measurement providers who create aggregate reports that help us measure advertising served on the Platform",
+        "purpose": "To help measure advertising effectiveness and help advertisers understand their audience.",
+        "legal_basis": "Legitimate interests",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The extensive collection of detailed behavioral data both on and off the platform allows for deep profiling of users' habits and interests. This data is shared with third-party advertisers and transferred globally, creating significant risks of pervasive tracking and unauthorized profiling."
+    }
+  }
+}

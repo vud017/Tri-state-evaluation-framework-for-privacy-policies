@@ -1,0 +1,174 @@
+{
+  "organization_name": "Apple",
+  "policy_date": "Updated March 31, 2024",
+  "products_covered": [
+    "Health app",
+    "HealthKit",
+    "Apple Watch",
+    "iPhone",
+    "iPad",
+    "iCloud",
+    "AppleCare",
+    "Wallet",
+    "App Store",
+    "Business Chat",
+    "Apple Health Research Study app"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"Physical or mental health or condition, including information about your health conditions, symptoms, status, diagnoses, testing, or treatments.\"",
+        "purpose": "Apple says these data are collected only in very limited cases, such as when you contact AppleCare for support on regulated health features, choose to add a health-related pass to Wallet, or participate in an Apple-sponsored health study.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy says Apple works to minimize the amount of health data it collects and that the limited categories are only collected in very limited cases. However, it also describes several different ways health data may be collected and does not give concrete limits for each category beyond broad statements."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy says Apple may collect health-related information in limited cases, including health conditions, symptoms, diagnoses, testing, and treatments. The main privacy risk is that these categories are broad and can arise from support interactions, Wallet content, studies, app downloads, and iCloud syncing, even though the policy emphasizes minimization and encryption."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Measurements of bodily functions, vital signs, and other related information. For instance, if you choose to participate in an Apple-sponsored health study, you may be asked to provide information about your symptoms or vital signs (for example, heart rate) as part of your consent to participate in the study.",
+        "purpose": "The data is collected in connection with an Apple-sponsored health study and as part of the consent to participate in the study.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "The policy states that physiological data is collected only in \"very limited cases\" and gives a concrete example tied to participation in a health study. It also says the data is used only for the purposes outlined in the applicable consent."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy limits collection of this data to very limited cases, but it still includes sensitive bodily functions and vital signs such as heart rate. The main risk is that this highly sensitive health-related data may be provided in the context of a study and used according to the scope of consent."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "The limited categories of personal data that we may collect when you use our products or services or contact us, which may constitute consumer health personal data, include those below. These are only collected in very limited cases, with example scenarios as noted:",
+        "purpose": "The policy says these categories are collected only in very limited cases when users use products or services or contact Apple.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy says the data is collected in very limited cases and that Apple works to minimize the amount of health data it collects. However, it does not provide concrete limits specific to physical data or a clear necessity explanation for each physical-data type."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "For instance, if you choose to sync your data across your devices or store data in iCloud, depending on how you use our features and the information saved to your account, this could include health-related information.",
+        "purpose": "The policy indicates that this data can be stored in iCloud or synced across devices."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The main risk is that physical data may be collected in limited cases and can be stored in iCloud or synced across devices, which may expand accessibility across the user's account ecosystem. The policy also does not provide a clear retention or deletion rule for this category."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not clearly describe concrete limits on behavioral data collection or explain why specific behavioral data types are necessary. It mentions broad collection of data such as app downloads for personalization, but not a bounded behavioral-data minimization rule."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    }
+  }
+}

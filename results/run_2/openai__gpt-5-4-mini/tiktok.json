@@ -1,0 +1,188 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    {
+      "product_name": "TikTok apps",
+      "policy_snippet": "This privacy policy (\"Privacy Policy\") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “Platform”), that link to or reference this Privacy Policy.",
+      "purpose": "The policy states that it applies to personal information processed in connection with TikTok apps.",
+      "legal_basis": ""
+    },
+    {
+      "product_name": "TikTok websites",
+      "policy_snippet": "This privacy policy (\"Privacy Policy\") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “Platform”), that link to or reference this Privacy Policy.",
+      "purpose": "The policy states that it applies to personal information processed in connection with TikTok websites.",
+      "legal_basis": ""
+    },
+    {
+      "product_name": "TikTok software",
+      "policy_snippet": "This privacy policy (\"Privacy Policy\") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “Platform”), that link to or reference this Privacy Policy.",
+      "purpose": "The policy states that it applies to personal information processed in connection with TikTok software.",
+      "legal_basis": ""
+    },
+    {
+      "product_name": "Related services",
+      "policy_snippet": "This privacy policy (\"Privacy Policy\") applies to the personal information that TikTok processes in connection with TikTok apps, websites, software and related services (the “Platform”), that link to or reference this Privacy Policy.",
+      "purpose": "The policy states that it applies to personal information processed in connection with related services linked to or referencing the Privacy Policy.",
+      "legal_basis": ""
+    }
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We may use your information where it is necessary to protect your or someone else's life, physical integrity, or safety. This could include scanning Messages and associated metadata where permitted by law. Click here to learn more. This could also include providing law enforcement agencies or emergency services with information in urgent situations to protect health or life.",
+        "purpose": "The policy says information may be used to protect life, physical integrity, or safety, including urgent situations to protect health or life.",
+        "legal_basis": "protection of vital interests"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not describe concrete limits on health data collection as a distinct category. It only mentions possible use of information to protect health or life, without explaining narrow scope or necessity criteria for health data specifically."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We may use your information where it is necessary to protect your or someone else's life, physical integrity, or safety. This could also include providing law enforcement agencies or emergency services with information in urgent situations to protect health or life.",
+        "purpose": "The policy says information may be provided to law enforcement agencies or emergency services in urgent situations to protect health or life.",
+        "legal_basis": "protection of vital interests",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy allows use and disclosure of information in urgent situations to protect health or life, including sharing with law enforcement or emergency services. However, it does not specify any health-data-specific retention limits or deletion rules, so the handling of such information is not tightly bounded in the text provided."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect your information in three ways: Information You Provide, Automatically Collected Information, and Information From Other Sources.",
+        "purpose": "The policy states that TikTok collects information from users and other sources generally. This broad collection can include physical data where it is part of the information provided or automatically collected elsewhere in the policy.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of information and does not set concrete limits specific to physical data. It lists multiple broad categories and uses without showing that only physically necessary data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "The policy says information is retained for as long as necessary to provide the Platform and for other stated purposes.",
+        "legal_basis": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share \"What Information We Collect\" with service providers, partners and other third party entities, as described in \"How We Share Your Information\". These third parties can be located outside your country of residence.",
+        "purpose": "The policy states that collected information is shared with service providers, partners, and other third parties.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data can be exposed through broad collection, retention, and sharing with service providers, partners, and other third parties. The policy also states that some of these third parties can be located outside the user’s country of residence."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"Usage Information. We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.\"",
+        "purpose": "The policy says this information is collected to understand how you engage with the Platform and to support features such as advertising, analytics, and platform improvement.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of usage-related information, including interaction with content and ads, duration and frequency of use, engagement with other users, and search history. It does not provide concrete limits showing that only necessary behavioral data is collected."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "\"We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.\"",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "\"If you violate our Guidelines or Terms, we may remove Information You Provide including your Account Information and/or User Content from public view immediately but keep your information as is necessary to process the violation.\"",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"We share Information You Provide, Automatically Collected Information, and Information From Other Sources with these service providers as necessary to enable them to provide their services.\"",
+        "purpose": "The policy says the information is shared so service providers can provide their services.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy covers broad behavioral tracking, including how users interact with content and ads, duration and frequency of use, engagement with other users, and search history. It also says this information may be retained for long periods and shared with service providers, partners, third parties, and entities outside the user’s country of residence."
+    }
+  }
+}

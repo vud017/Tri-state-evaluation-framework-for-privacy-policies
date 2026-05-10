@@ -1,0 +1,173 @@
+{
+  "organization_name": "Amazon.com and its affiliates (collectively \"Amazon\")",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "services",
+    "stores",
+    "website",
+    "physical locations",
+    "devices",
+    "applications",
+    "Amazon Services",
+    "Alexa",
+    "Echo devices"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "purpose": "The snippet explicitly mentions \"voice IDs associated with your account,\" which refers to data based on voice characteristics, but it appears only in the context of deletion and functionality, not a clear statement of collection. This makes the collection of biometric data mentioned but not definitively stated.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not provide concrete limits or a clear necessity justification specific to biometric data. It mentions voice ID, but does not explain specific minimization boundaries for such data."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "purpose": "The reference to biometric-related \"voice IDs associated with your account\" being deleted implies they are kept by Amazon, but the text does not clearly and directly describe storage or retention conditions for this category."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "if you choose not to save any voice recordings, voice IDs associated with your account will be deleted and voice ID will not work.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy mentions voice ID associated with an account, but does not clearly explain how this biometric-related data is collected, stored, or minimized. While deletion is described in one circumstance, the policy leaves unclear the broader handling of this data category."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy section does not explicitly mention collecting physiological data, and it does not provide concrete limits or necessity explanations specific to this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Provide voice, image and camera services. When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.",
+        "purpose": "This explicitly states collection and use of physical data such as voice input, images, and videos to respond to requests, provide the requested service, and improve services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy lists broad categories of physical data it collects, such as voice input, images, videos, photographs, location information, and images or videos in stores, but it does not provide concrete limits showing that only the minimum necessary physical data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information.",
+        "purpose": "This explicitly states that customer personal information is stored."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again.",
+        "purpose": "This explicitly states sharing of an advertising identifier and related event data with ad companies to improve ad relevance and avoid repeat app-download ads.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy states that Amazon collects multiple forms of physical data, including voice input, images, videos, photographs, location information, and in-store images or videos. It also states that some such data is stored and shared for advertising or third-party transaction purposes, while the policy provides limited concrete minimization limits across these physical data types."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "This explicitly states collection of information about how users interact with products, content, and services, which is behavioral data. The policy says personal information is collected to provide and continually improve products and services.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data, including interactions, browsing, content use, clickstream, page interactions, recommendations, and advertising-related data. It does not provide concrete limits showing that only the minimum necessary behavioral data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.",
+        "purpose": "This explicitly states that behavioral information about use and interactions is stored after collection."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.",
+        "inactivity": "true",
+        "policy_snippet_inactivity": "If you choose automatic deletion after 3 or 18 months, we will delete the voice recordings, text transcripts, and typed requests associated with a chat once the specified period of time has passed since your last request to Alexa within that chat."
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again.",
+        "purpose": "This explicitly states sharing of an advertising identifier and data about a user's app-download event with ad companies, which is behavioral data sharing for ad delivery effectiveness.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy describes extensive collection and storage of behavioral data about users' interactions, browsing, usage, and Alexa requests across Amazon Services. It also states that some behavioral data is shared with ad companies and third parties, increasing profiling and targeting risks."
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "organization_name": "TikTok",
+  "policy_date": "30 November 2025",
+  "products_covered": [
+    "TikTok apps",
+    "websites",
+    "software",
+    "related services"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Technical Information. We collect certain device and network connection information when you access the Platform. This information includes your device model, operating system, keystroke patterns or rhythms, IP address, system language and device settings.",
+        "purpose": "The snippet shows collection of keystroke patterns or rhythms, which can be a biometric-related indicator. However, the policy does not explicitly state that these are collected for biometric identification or confirm they are used as biometric data.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not set concrete limits explaining why any biometric data would be necessary. It mentions broad collection of technical information and does not meaningfully restrict biometric-type data collection."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy mentions keystroke patterns or rhythms as part of technical information, but it does not clearly identify biometric processing or explain strict limits on use. As a result, the main risk is uncertainty about whether potentially biometric-like information could be processed beyond what the policy explicitly clarifies."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not explicitly describe collecting health data at all, so it does not provide concrete limits or necessity justifications for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "No specific health-data processing is described in the policy section provided. The main risk from this section is therefore not health-data use itself, but the absence of any explicit health-data-specific safeguards, limits, or retention rules in the text."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collecting physiological data at all, so it does not provide concrete limits or a justification tied to this data category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "We collect the content you create, import, upload or publish through the Platform, such as photographs, videos, audio recordings, livestreams, comments, hashtags, feedback, reviews, and the associated metadata (such as when, where, and by whom the content was created).",
+        "purpose": "The policy states that photos, videos, audio recordings, livestreams, and associated metadata are collected as user content. This supports the platform's content features and related processing described in the policy.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of user content such as photographs, videos, audio recordings, livestreams, and associated metadata. It does not set concrete limits explaining why each physical-data type is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "We retain information for as long as necessary to provide the Platform and for the other purposes set out in this Privacy Policy.",
+        "purpose": "The policy says information, including user content that can contain physical data, is retained for platform operation and the other listed purposes."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "You can delete or ask us to delete your information. In-app controls enable you to:\n\ndelete the content posted on your account, such as your User Content and your Account Information.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your User Content and related information.",
+        "purpose": "The policy says user content can be shared on other social media platforms when you share it from the Platform, which may include physical data contained in that content.",
+        "legal_basis": "With your consent",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data such as photographs, videos, audio recordings, and livestreams is collected as user content and may include associated metadata like when and where it was created. The policy also allows sharing of user content with third party platforms and states that information is stored and transferred outside the EEA, UK, or Switzerland."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history. We also collect information about your interactions with websites when you use our in-app browser.\"",
+        "purpose": "The policy says this information is collected to understand how users engage with the Platform and how they interact with content, ads, other users, and websites in the in-app browser.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of engagement, duration, frequency, interaction, and search-history information. It does not set concrete limits on behavioral data collection or explain why each behavioral item is strictly necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"We share Information You Provide, Technical Information and Usage Information with third party measurement providers who create aggregate reports that help us measure advertising served on the Platform and help our advertisers understand their effectiveness and their audience.\"",
+        "purpose": "The policy says this sharing is for measurement providers to create aggregate reports that measure advertising and help advertisers understand effectiveness and audience.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data such as usage, search history, and interactions with content and ads is collected and used for personalization, advertising, analytics, and platform improvement. The policy also says some behavioral-related information may be shared with third-party measurement providers and other partners, including entities outside the user's country of residence."
+    }
+  }
+}

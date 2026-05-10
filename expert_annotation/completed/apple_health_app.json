@@ -1,0 +1,167 @@
+{
+  "organization_name": "Apple (Health)",
+  "policy_date": "2026-02-11 00:00:00",
+  "products_covered": [
+    "iPhone",
+    "iPad",
+    "Apple Vision Pro",
+    "Apple Watch"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "When your device is locked with a passcode, Touch ID, or Face ID, all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default.",
+        "purpose": "Biometric Templates that are used for authentication can be connected to an encryption key to encrypt data on device. The given policy is not connected to the user enrollment and collection steps, and assumes the user has already configured some sort of biometric authentication.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "No data minimization is explained in this policy, altohugh this policy is not concerned with collection."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "When your device is locked with a passcode, Touch ID, or Face ID, all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default.",
+        "purpose": "The biometric templates are stored."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "n.a",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "n.a"
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "N.a",
+        "purpose": "There is no infomrmation about sharing of the biometric tempaltes for any purposes in this policy.",
+        "legal_basis": "False",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "No specific Pirvacy Risk for Biometric Data can be identified."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "You remain in control over which Health app features you use, such as Health Records, Cycle Tracking, Medications, Mental Health, and Sleep. Some iOS and watchOS features (such as Heart Rate and Noise notifications) may be enabled by default.",
+        "purpose": "Apple collects a variety of health data to provide health monitoring and data collection through devices like Apple Watch or the Iphone itself which is equipped by sensors that allow to record features like step length, walking assymetry, walking speed, Double support time, walking speed, Headphone Audio Levels, Flights Climbed, Active Energy, Resting Energy, Walking+ running distance, steps, as it was the case for older versions of iOS. The Apple watch depending on the iteration is equipped by furhter sensors and can measure blood oxygen levels, hearth rate, etc..",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "You can manually disable some modalities according to the statement. Health data is either on the users device, or stored encrypted by Apple but the data is not accessible by Apple."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default. You can choose to use iCloud to keep your data up to date across your devices, choose to back up your data to an iTunes encrypted backup on your computer, or choose to share your data.",
+        "purpose": "Users can choose to store health data on device only or in the cloud to facilitate sharing across devices. Data you choose to share with a third party will be stored on an Apple server and will be shared from there."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Apple will maintain the Health app data you choose to share with your healthcare organization only for as long as necessary to support your use of this sharing feature and will use this data only to enable this sharing feature. You can review, edit, and delete your Health app data at any time. Your Health app data will be stored in the Health app and in iCloud if you choose to back up your health data to iCloud, for as long you choose to store your information in the Health app.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "n.a."
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "You can choose to share your Health app data with third-party apps you trust. You can also choose to share your Health app data with people you trust. You can select and share certain categories of Health app data, such as activity data, heart rate data, and lab results from your iPhone or iPad with a participating healthcare organization when you sign in with your account credentials for the healthcare organization. Any Health app data you choose to share will be encrypted and stored by Apple on a dedicated server so that Apple can securely share this data with the healthcare organization you chose. You can use the Health Sharing features to share State of Mind data with your family and friends. If Siri does not recognize your request as a Health app data request, any health information you include in the request will be sent to the Siri server.",
+        "purpose": "There are three types for sharing: 1, Share Health App Data with Third-Party Apps. 2, Share Health App Data with Family and Friends. 3, Share Health App Data with Healthcare Providers. For 3, Data is stored on Apple servers for sharing both with family members and healthcare providers. It is unclear whether if data is transferred to Apple servers where the servers are located for a given user in terms of jurisdiction.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "\"Certain health features may use your region to determine feature availability\". This threatens group privacy, as the effect of dietary choices, vaccination effects, can be direclty observed on a population, if health data is collected in real time on enough devices that are available for a single provider. Data is not going to always stay on the very device that collects it, as devices equipped with the Health app will collect and sync data from all devices belonging to the user when iCloud sync is enabled. Data stored in iCloud and data shared can be travelling to a third country when stored on a Apple server, but it will be encrypted."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "You remain in control over which Health app features you use, such as Health Records, Cycle Tracking, Medications, Mental Health, and Sleep. Some iOS and watchOS features (such as Heart Rate and Noise notifications) may be enabled by default. Additionally, data from certain sensor-based Health features (such as Heart Rate and the Blood Oxygen app) will continue to be captured and stored on your device. You can log your State of Mind and the factors contributing to it and track this information over time within the Health app through the Mental Wellbeing category, including viewing your State of Mind data in interactive charts and setting up reminders to log your state of mind. Users will also have the option to take age-appropriate standardized anxiety and depression assessments often used in clinics.",
+        "purpose": "Certain Health data categories derive directly from Physiologycal signals. Several of these can be collected by Apple devices like: Heart Rate, Blood Oxygen, Mental Health, ECG, etc.. Recent Apple patents show that this list will grow and include EEG. The Apple patent regarding the collection of brain signatures through headphones is officially titled \"Biosignal Sensing Device Using Dynamic Selection of Electrodes\" (Patent US20230225659A1).  Beyond reading brain waves, the integrated sensors are designed to detect other electrical activity, including muscle movements and eye tracking. Apart from mental health, state of mind and anxiety and depression assessments can also be collected and shared.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "You can manually disable some modalities according to the statement. Health data is either on the users device, or stored encrypted by Apple but the data is not accessible by Apple."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default. You can choose to use iCloud to keep your data up to date across your devices, choose to back up your data to an iTunes encrypted backup on your computer, or choose to share your data.",
+        "purpose": "Users can choose to store health data on device only or in the cloud to facilitate sharing across devices. Data you choose to share with a third party will be stored on an Apple server and will be shared from there."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Apple will maintain the Health app data you choose to share with your healthcare organization only for as long as necessary to support your use of this sharing feature and will use this data only to enable this sharing feature. You can review, edit, and delete your Health app data at any time. Your Health app data will be stored in the Health app and in iCloud if you choose to back up your health data to iCloud, for as long you choose to store your information in the Health app.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "n.a"
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "You can use the Health Sharing features to share State of Mind data with your family and friends. You can also scroll to Options in the Depression Risk and Anxiety Risk sections and tap Export PDF to share your depression and anxiety assessment data with healthcare providers.",
+        "purpose": "There are three types for sharing: 1, Share Health App Data with Third-Party Apps. 2, Share Health App Data with Family and Friends. 3, Share Health App Data with Healthcare Providers. For 3, Data is stored on Apple servers for sharing both with family members and healthcare providers. It is unclear whether if data is transferred to Apple servers where the servers are located for a given user in terms of jurisdiction.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "\"Certain health features may use your region to determine feature availability\". This threatens group privacy, as the effect of news, events, pandemics can be direclty observed on a localized population, if physiological signals are collected in real time on enough devices are available for a single provider. As sensors are increasingly getting more accurate capturing new modalities, these devices can collect and aggregate extremely sensisitve data. If malicious third parties or hackers are able to harvest sensory data about individuals or groups, the impact of such events can be classified as high severity. Therefore, even if probabilities are low, the impact justifies caution and requires vigilance on and individual and regulatyory level."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "You remain in control over which Health app features you use, such as Health Records, Cycle Tracking, Medications, Mental Health, and Sleep. Some iOS and watchOS features (such as Heart Rate and Noise notifications) may be enabled by default.",
+        "purpose": "The policy does not specifically mention data about physical characteristics, however, it can be collected in the health app, like blood type, fitzpatric skin type, etc..",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "You can manually disable some modalities according to the statement. Health data is either on the users device, or stored encrypted by Apple but the data is not accessible by Apple."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default. You can choose to use iCloud to keep your data up to date across your devices, choose to back up your data to an iTunes encrypted backup on your computer, or choose to share your data.",
+        "purpose": "Users can choose to store health data on device only or in the cloud to facilitate sharing across devices. Data you choose to share with a third party will be stored on an Apple server and will be shared from there."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Apple will maintain the Health app data you choose to share with your healthcare organization only for as long as necessary to support your use of this sharing feature and will use this data only to enable this sharing feature. You can review, edit, and delete your Health app data at any time. Your Health app data will be stored in the Health app and in iCloud if you choose to back up your health data to iCloud, for as long you choose to store your information in the Health app.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "n.a"
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "You can use the Health Sharing features to share State of Mind data with your family and friends. You can also scroll to Options in the Depression Risk and Anxiety Risk sections and tap Export PDF to share your depression and anxiety assessment data with healthcare providers.",
+        "purpose": "There are three types for sharing: 1, Share Health App Data with Third-Party Apps. 2, Share Health App Data with Family and Friends. 3, Share Health App Data with Healthcare Providers. For 3, Data is stored on Apple servers for sharing both with family members and healthcare providers. It is unclear whether if data is transferred to Apple servers where the servers are located for a given user in terms of jurisdiction.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "No specific risk identified."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "You remain in control over which Health app features you use, such as Health Records, Cycle Tracking, Medications, Mental Health, and Sleep. Some iOS and watchOS features (such as Heart Rate and Noise notifications) may be enabled by default.",
+        "purpose": "Some health data modalities can categorise as behavioural like sleep especially if recorded over a long period.",
+        "legal_basis": "ambiguous"
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "You can manually disable some modalities according to the statement. Health data is either on the users device, or stored encrypted by Apple but the data is not accessible by Apple."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "all of your health and fitness data in the Health app — other than your Medical ID — is encrypted and inaccessible by default. You can choose to use iCloud to keep your data up to date across your devices, choose to back up your data to an iTunes encrypted backup on your computer, or choose to share your data.",
+        "purpose": "Users can choose to store health data on device only or in the cloud to facilitate sharing across devices. Data you choose to share with a third party will be stored on an Apple server and will be shared from there."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Apple will maintain the Health app data you choose to share with your healthcare organization only for as long as necessary to support your use of this sharing feature and will use this data only to enable this sharing feature. You can review, edit, and delete your Health app data at any time. Your Health app data will be stored in the Health app and in iCloud if you choose to back up your health data to iCloud, for as long you choose to store your information in the Health app.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": "n.a"
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "You can use the Health Sharing features to share State of Mind data with your family and friends. You can also scroll to Options in the Depression Risk and Anxiety Risk sections and tap Export PDF to share your depression and anxiety assessment data with healthcare providers.",
+        "purpose": "There are three types for sharing: 1, Share Health App Data with Third-Party Apps. 2, Share Health App Data with Family and Friends. 3, Share Health App Data with Healthcare Providers. For 3, Data is stored on Apple servers for sharing both with family members and healthcare providers. It is unclear whether if data is transferred to Apple servers where the servers are located for a given user in terms of jurisdiction.",
+        "legal_basis": "ambiguous",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "While you can disable health data collection, on devices like the iphone which is not a health device primarily, steps, walking and running distance, resting energy, active energy, flights climbed, walking speed, walking step length, and walking assymentry can be collected over an exteded period. Users should check whether their device collect anything by default they are not comfortable with. \"Certain health features may use your region to determine feature availability\". This threatens group privacy, as the effect of news, events, pandemics can be direclty observed on a localized population, if behavioural signals for example on sleep are collected in real time on enough devices are available for a single provider. If malicious third parties or hackers are able to harvest sensory data about individuals or groups, the impact of such events can be classified as high severity. Therefore, even if probabilities are low, the impact justifies caution and requires vigilance on and individual and regulatyory level."
+    }
+  }
+}

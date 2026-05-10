@@ -1,0 +1,448 @@
+Privacy Notice – Volvo Cars App
+Effective from: 2025-09-02
+Published at: 2025-09-22
+
+Welcome!
+
+We take your privacy seriously and want to be transparent and provide you with information about how we use your personal data. We will only use your personal data for clearly described purposes and in accordance with your data protection rights.
+
+To be able to provide you with the freedom to move in a personal, sustainable and safe way, we continuously develop new products and services. As these become available, they will also be subject to this notice, unless we clearly inform you otherwise.
+
+This notice describes how Volvo Cars (as defined below), processes your personal data when you use a mobile application provided by Volvo Cars (hereinafter collectively the “Volvo Cars App”).
+
+To the extent that you get redirected to another mobile application or website from the Volvo Cars App, please note that it is the provider of such mobile application or website that will be responsible for the personal data processing in such mobile application or website.
+
+The Volvo Cars App has several functionalities which entail different types of personal data processing, as explained below. The functionalities available will depend on your market and the type of subscription you have. Hence, some of the functions described below might not be applicable to you.
+
+In this privacy notice, you can find information regarding the following:
+
+    Who we are
+    Personal data processed, why and for how long
+        2.1 When you use the Volvo Cars App
+        2.2 Your subscriptions and remote vehicle services
+        2.3 Trips (formerly Driving Journal)
+        2.4 Charging
+        2.4.1 Public Charging
+        2.4.2 Home Charging
+        2.5 Research and development
+    Sharing of your personal data
+    Your rights and controls
+    Contact information
+    Updates to this notice
+
+1. Who we are
+
+The entity responsible for the processing of personal data referred to below is Volvo Car Corporation, having its registered office at Assar Gabrielssons Väg, SE-405 31, Gothenburg, Sweden, company registration number 556074-3089, hereinafter referred to as “Volvo Cars”, “we”, “our”. If other entities are processing personal data together with us, so called joint controllers, this will be specified.
+2. Personal data processed, why and for how long
+
+In this Section 2, we describe the reasons for our personal data processing, what personal data we process, the legal basis for such processing and how long we keep such data.
+2.1 When you use the Volvo Cars App
+
+For processing based on consent, as specified below, you may withdraw your consent at any time by changing your preferences in your profile in the Volvo Cars App, under “Privacy Settings”.
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+Monitoring the functioning of the Volvo Cars App and troubleshooting when necessary.
+	
+
+    Device information (e.g., device manufacturer, app installation ID),
+    vehicle information (e.g., vehicle model and type, year, user country) and
+    usage data (e.g., clicks, views and potential issues or errors).
+
+	
+
+Our legitimate interest to provide you with a secure and functioning Volvo Cars App.
+	
+
+We will retain your personal data for 30 days from collection.
+
+To measure how the Volvo Cars App and related services are used in order to gain a better understanding of user behaviour, to improve the usability and reliability of the Volvo Cars App and the services provided therein, reduce malfunctions of the Volvo Cars App, as well as to gain insights into how our services are used for continuous improvement.
+	
+
+    User identifiers (such as cookie identifier, internet protocol (IP) -address, device information, Volvo ID, country from which you access the Volvo Cars App, operating system, app instance identifier),
+    Vehicle Identification Number (VIN),
+    vehicle connection status, and
+    usage data (such as clicks in app, features used, pages viewed and potential issues or errors).
+
+	
+
+Your consent.
+	
+
+We will retain your personal data for 14 months from collection.
+
+In some cases, app instance identifiers will be stored for the duration of the lifespan of the Volvo Cars App on your device.
+
+To improve the services (such as Digital Booking) and troubleshoot where necessary
+	
+
+    booking details (time and location of requested appointment),
+    used contact channel,
+    booking status,
+    booking content.
+
+	
+
+Volvo Cars’ legitimate interest to ensure that issues and errors are resolved and to analyse and improve the services provided by Volvo Cars.
+	
+
+We will retain your personal data in pseudonymised form for five (5) years from collection.
+2.2 Your subscriptions and remote vehicle services
+
+If you have a subscription for the Volvo Cars remote vehicle services or other Volvo connected services, you may get the opportunity to renew this service in the Volvo Cars App.
+
+Service
+	
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+Subscriptions such as remote vehicle services or other Volvo Cars connected services
+	
+
+    To administer and monitor your purchase (from purchase to delivery),
+    Any necessary contacts with authorities for official reporting,
+    Administration of your request for related services,
+    Follow up on the delivery, and
+    To communicate updates related to the services that you have purchased.
+
+	
+
+    Identifiers (such as first and last name, phone number, e-mail address),
+    Vehicle Identification Number (VIN), and
+    your purchase status and history.
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+We will retain your personal data for 90 days after your last subscription has expired in order to enable continuation of the service if you choose to resubscribe, or for you to access invoices or receipts.
+
+In addition, we will archive the data relating to your purchase for ten (10) years due to our legal obligation to comply with accounting and financial reporting legislation.
+
+Remote vehicle services
+	
+
+To provide the Volvo Cars remote vehicle services, such as the ability to control your vehicle remotely
+
+(e.g., pre-climatisation, unlock/lock doors, remote start/stop of engine, current outside temperature, receive theft alarm notifications), the ability to view the status of your vehicle (e.g., fuel level, windshield washer fluid levels, brake fluid levels, door lock status, tire pressure or maintenance warnings, battery status, or other vehicle status indicators).
+	
+
+    identifiers (such as your first and last name, phone number, Volvo ID, e-mail address, Vehicle Identification Number (VIN), unique device identifier and push notification token)
+    purchase history (ownership period, any subscription services for which you are enrolled, the model and year of your vehicle and corresponding vehicle specifications).
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+When your Volvo Cars remote vehicle services subscription comes to an end, the details linked with this service, including your personal information, will be deleted after 90 days.
+
+Note that the Volvo Cars subscription follows the vehicle. Therefore, if there is a change of ownership, you as a seller are responsible to disconnect your vehicle from the Volvo Cars App and to erase your data. This also applies for the registered primary driver in case of vehicle lease. Follow this link for instructions.
+
+To provide an easy way for you to view the location of your vehicle from your phone to the vehicle based on your contact list, calendars events or search results
+	
+
+    your location data, calendars and contacts, if you enable this via your mobile settings
+
+	
+
+Your consent/approval via your device settings.
+	
+
+We will retain your personal data for 90 days after your last subscription has expired in order to enable continuation of the service if you choose to resubscribe, or for you to access invoices or receipts.
+
+In addition, we will archive the data relating to your purchase for ten (10) years due to our legal obligation to comply with accounting and financial reporting legislation.
+
+Maintenance and service reminders for your vehicle
+	
+
+To send push notifications within the Volvo Cars App related to upcoming maintenance and service reminders for your vehicle
+	
+
+    vehicle location; and
+    location of your mobile device, in order for you to use the map functionalities in the Volvo Cars App (subject to your approval via your device) to show you your position relative to your Volvo vehicle on the map.
+
+For hybrid and fully electric vehicles we store:
+
+    charging location in order to be able to offer a convenient way to schedule the charging.
+
+	
+
+This processing is necessary for the performance of your contract with us, save for situations where you are specifically asked whether you agree to the processing, in which case the processing is based on your consent.
+	
+
+We will retain your personal data for 90 days after your last subscription has expired in order to enable continuation of the service if you choose to resubscribe, or for you to access invoices or receipts.
+
+In addition, we will archive the data relating to your purchase for ten (10) years due to our legal obligation to comply with accounting and financial reporting legislation.
+2.3 Trips (formerly Driving Journal)
+
+Our Trips service (formerly known as the Driving Journal) automatically logs all your trips. This may be useful if, for example, you want to manage your mileage expenses. In order for Trips to function, you must activate it, otherwise the data is not collected. You can disable Trips at any time in the Volvo Cars App, and by doing so the data will stop being collected for this purpose.
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+To provide you with the Trips service that automatically logs all your trips and provide insights.
+	
+
+    Identifiers such as first and last name, phone number and E-mail address,
+    Vehicle Identification Number (VIN) and its location,
+    Vehicle and trip-related information such as your routes, time, temperatures outside the vehicle, distance, fuel and/or electric consumption, battery level, mileage and use of or activation of driver support features
+    Vehicle’s specific location for the start/end of a trip as well as route.
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+As a main rule, Trips data is stored for up to 400 days depending on your car model whereupon it may be deleted or anonymised.
+2.4 Charging
+
+Volvo Cars provides multiple charging products and services integrated with the Volvo Cars App to make it easy for you to charge your electric vehicle. This section describes how Volvo Cars processes your personal data when you are using these products and services.
+2.4.1 Public Charging
+
+Service
+	
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+Digital Charging Solutions
+	
+
+To provide public charging services in collaboration with Digital Charging Solutions (DCS) GmbH, a company registered in Germany, Rosenstraße 18-19, 10178 Berlin, Germany with company registration number 211155 B, who are independently responsible for their personal data processing.
+	
+
+    Contact details
+    Volvo ID
+    Vehicle details
+    DCS charging card ID
+    Vehicle position data - to help you find a charging station near you
+    Financial information
+
+In order to present session information and invoicing of the public charging service we process the additional information received from DCS:
+
+    Charging session ID
+    Charging session start time
+    Charging session duration
+    Charging session price
+    Energy added during charging session
+    Charging station connector type
+    Charge point operator name
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+We will retain the data related to public charging for as long as you have a Volvo ID. If you remove your account, your personal data will be anonymised or deleted after one (1) year.
+
+Plug & Charge
+
+Plug & Charge allows you to charge at a public charger without using an app, RFID or card.
+
+Compatible charging stations can identify your vehicle and verify your charging contract without any manual input, which means that you can start charging by just plugging in the cable.
+	
+
+To provide Plug & Charge services to you.
+	
+
+    Vehicle Identification Number (VIN),
+    PCID (Provisioning Certificate ID); and
+    Contract certificate.
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+We will retain the data related to Plug & Charge until the contract certificate is removed from the vehicle.
+2.4.2 Home Charging
+
+Service
+	
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+Smart charging
+	
+
+To enable you to have a smart schedule for the charging of your electric vehicle at home.
+	
+
+    Contact details;
+    Vehicle details;
+    Battery details, such as energy levels in the battery, target battery level, current limitation, and end time for charging;
+    Location, in order to determine when the vehicle is nearby the home charger. Vehicle location data will be processed when the vehicle enters a defined geographic area, based on the home address provided by you. Once the vehicle exits the area, location data will no longer be shared.
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+We will retain the data related to smart charging for as long as you have a Volvo ID. If you remove your account, your personal data will be anonymised or deleted after 90 days.
+
+Charging station provided or selected by Volvo (“Wallbox”)
+	
+
+To enable you to control the charging of your electric vehicle through the Volvo Cars App and the Wallbox.
+	
+
+    Volvo ID;
+    Data related to the Wallbox: unique identifiers such as Wallbox ID, Wallbox model, and Wallbox status;
+    Charging details: charging status, amount charged or discharged, and connectivity status; and
+    Home energy consumption (if you have a real-time energy meter installed).
+
+	
+
+This processing is necessary for the performance of your contract with us.
+	
+
+We will retain the personal data for as long asyou use the Wallbox. If you unpair your Wallbox, your personal data will be anonymised or deleted 30 days after unpairing.
+2.5 Research and development
+
+Why we use your personal data (‘purpose’)
+	
+
+The personal data we use
+	
+
+Legal basis
+	
+
+Retention (how long we keep the data)
+
+To gain statistical information and understanding of how our products and services are used.
+	
+
+    Information related to the vehicle, such as model, production year, market, Vehicle Identification Number (VIN), hardware and software information, software updates (maps and apps), odometer, service indicators, alarms, warnings, temperature, energy and fuel consumption, timestamps, state of health, vehicle status, use of remote services, service history, and remote battery management (charging information).
+    Information related to you as a customer, such as Volvo ID, selling or servicing retailer.
+    Information related to how the Volvo Cars App is used, such as app pairing and account linking.
+
+	
+
+Our legitimate interest to develop and improve our products and services based of how they are used.
+	
+
+We will retain the personal data for 10 years.
+3. Sharing of your personal data
+
+We share data with various organisations in order to run our business, maintain our relationship with you, and provide you with products and services. We describe these situations below and refer to these organisations as ‘suppliers’, ‘processors’ or ‘sub-processors’.
+
+In each case of sharing data with these organisations, we have entered into necessary data protection contracts in order to ensure that your personal data is used lawfully and in accordance with the purposes set out in this privacy notice. Additionally, in each case, we only share the personal data we deem necessary to achieve the respective purpose. As a primary rule, these suppliers act as processors on our behalf unless specified otherwise below.
+
+In certain situations, sharing personal data involves limited transfers of personal data outside of the European Union/European Economic Area. We have taken precautions that such transfers are limited to the minimum necessary, and only involve data that cannot directly identify you, thus posing a very low risk in case of unauthorised disclosure.
+
+Who (‘Recipient’)
+	
+
+Why (‘Purpose’)
+
+IT suppliers
+	
+
+Personal data is transferred to IT-suppliers who provide general business support systems such as data storage providers and cloud connectivity service providers.
+
+Communication and advertising suppliers, including chat functionality and customer care suppliers
+	
+
+Personal data is shared with suppliers that support us to communicate with you through the Volvo Cars App and other communication channels such as e-mail and phone.
+
+Analytics and statistics providers
+	
+
+Personal data is shared with service providers which give us insights into how the Volvo Cars App is being used, which helps us improve the Volvo Cars App and our offering.
+
+Payment service, billing, invoicing and subscription administration providers
+	
+
+We use third-party payment providers to process your payments, such as Stripe Inc. (https://stripe.com/en-se/privacy). Such payment providers are responsible for their separate processing of your personal data.
+
+Map services (Google Maps)
+	
+
+The Volvo Cars App uses Google Maps (https://policies.google.com/privacy) to show your and your vehicle’s location.
+
+Public Charging (Digital Charging Solutions)
+	
+
+The Public Charging service provided in partnership with Digital Charging Solutions (https://volvocar-public-charging.com/web/sv/volvo-se/privacy-policy) involves sharing of some of your personal data. You can find details regarding this processing in Section 2.4.1 above.
+
+Other members of the Volvo Car Group
+	
+
+Personal data is shared with our National Sales Companies in the relevant country where the personal data originates from. This is done for purposes such as assessing retailer performance, customer care and assessing subscription extensions and reactivations.
+
+Any party approved by you
+	
+
+For example, you may give us your approval to share personal data with another party such as a third-party service provider, insurance providers and similar.
+4. Your rights and controls
+
+You have specific legal rights relating to the personal data we process about you. The rights may differ depending on which jurisdiction you are in and the nature of the processing. Generally, your rights concern the possibility to:
+
+    withdraw your consent
+    object to our processing of your data
+    ask for a copy of the data we hold about you (so-called subject access right)
+    ask for the data to be transferred to another entity (so-called data portability)
+    ask for the data to be corrected or restricted
+    ask for the data to be deleted (so-called right to be forgotten)
+
+As mentioned, these rights are not absolute and in some cases data protection law limits their application. Should this be the case for a request you make to us, we will always explain why we cannot fulfil your request.
+
+If you would like to submit a rights request, you can get in touch with us by completing this form. We kindly ask that you use the form as it sets out the information that we need to verify your identity and effectively process your request. However, should you prefer not to use the form, you are always welcome to contact us and submit your request using the contact information in the next section.
+
+You also have a right to submit a complaint to your local data protection authority should you have concerns about how we use your personal data. However, we would appreciate it if you reached out and raised your concerns directly with us first to allow us to try to resolve them together. You can find our contact information below.
+5. Contact information
+
+If you have any questions about how we use your personal data, you can contact us at dataprotection@volvocars.com, or Volvo Car Corporation Data Protection Officer as follows:
+
+Postal Address: Volvo Car Corporation, Attention: The Data Protection Officer, dep 50099, VAK, 405 31 Gothenburg, Sweden.
+
+Email: globdpo@volvocars.com
+6. Updates to this notice
+
+We continuously develop our products and services and will review and update this privacy notice as a result. As such, we encourage you to revisit this privacy notice regularly. The date at the top of this privacy notice lets you know when it was last updated. We will handle your personal data in a manner consistent with the privacy notice under which it was collected unless we have your consent to handle it differently.

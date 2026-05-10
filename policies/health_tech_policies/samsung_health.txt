@@ -1,0 +1,109 @@
+Samsung Health Privacy Notice
+
+Effective Date: 9 June 2025
+
+At Samsung Electronics Co., Ltd., we know how important privacy is to our customers. Samsung is the data controller for Samsung Health. We created this Privacy Notice to make sure you understand how we collect and use your personal information.
+
+Our Privacy Policy at https://account.samsung.com/membership/terms/privacypolicy also applies to your use of Samsung Health. Our Privacy Policy contains more information about your rights and how we use your data. It also includes information about how to contact us. Please read our Privacy Policy in addition to this Privacy Notice. However, this Privacy Notice shall always prevail over the Privacy Policy in relation to how we use your information for Samsung Health.
+
+WHAT INFORMATION DO WE COLLECT?
+
+
+Through Samsung Health, Samsung obtains and maintains information about you in various ways
+
+Information You Provide Directly
+
+• Samsung account, contact and Samsung Health profile information, such as Samsung account ID, username, date of birth, gender, profile photo, postings, email address, telephone number, postcode and country;
+• Health and wellness-related data, such as height, weight, heart rate, body fat, skeletal muscle, muscle mass, basal metabolic rate, heart rate varability, advanced glycation end-products, blood glucose level, blood pressure level, oxygen saturation level, haemoglobin (HbA1c) level, body temperature, antioxidant index, vascular load, mood, breathing, information related to your menstrual cycle, stress level and sleep-related information;
+• Fitness and nutrition-related information, such as activity levels, types of exercise, exercise programmes, number of steps, speed, distance, food and water intake;
+• Information about and from Samsung or third-party devices and apps you choose to connect to Samsung Health, such as third-party device manufacturer, model and identifiers; and third-party app identifiers, including social media identifiers. We may also collect data, such as health and wellness-related data and fitness and nutrition-related information, when you link Samsung Health with Samsung or third-party devices and apps, including when such data is saved to your Samsung Health app;
+• Samsung Health on TV data: if you link your Samsung Health app on your mobile device with the Samsung Health on TV app we will collect activity data such as the length of the content viewed (including timestamps) and calories burned; and
+• Content you send or receive through Samsung Health, including messages you send and receive while using the Together feature.
+
+Information About Your Use of Samsung Health
+
+In addition to the information you provide, we will collect information about your use of our Samsung Health through software on your devices and by other means. We will collect:
+
+• Information about your use of Samsung Health, such as Samsung Health settings, and in-app usage information, including menus and settings clicked, features used, frequency and duration of use of the app and crash report data (including crash logs and error messages displayed).We also collect any information stored in cookies we have set on your device;
+• Device information, such as firmware version, operating system and device identifiers, including MAC address, serial number and mobile advertising identifiers
+• Location data: Bluetooth and WiFi signals and other information related to your location and, with your permission, your device’s precise geolocation when you use location-based features. Please note that if you decline to allow Samsung Health to collect your precise geolocation, you may not be able to use all of the Samsung Health services or features.
+
+We also may collect other information about you, your devices and apps and your use of Samsung Health in ways that we describe to you at the time of collection or otherwise with your consent.
+
+We may collect personal information about your online activities on connected devices over time and across third-party websites, devices, apps and other online features and services. We may use third-party analytics services, such as Google Analytics. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of Samsung Health and to help administer Samsung Health. To learn more about Google Analytics, please visit https://www.google.com/policies/privacy/partners/.
+
+Together Feature
+
+Together Feature
+
+When you use the Together feature, you can choose to participate in available challenges against other Samsung Health users, including your friends.
+
+Your profile information (such as your nickname, photo, activity levels and friends list) is open to other users of Together. If you choose to sync contacts, your contact list is collected, and, if any of your contacts is a Samsung Health user, that contact will automatically be added to your friends list. If any of your contacts is not a Samsung Health user, their numbers will be deleted immediately from our server.
+
+You can go into the Samsung Health settings > Together to disable syncing of your contacts, however, this will not affect the contacts already synced prior to your disabling.
+
+HOW DO WE USE YOUR INFORMATION?
+
+
+We use the information collected for the following purposes:
+
+• To identify and authenticate you so you may use Samsung Health;
+• To provide you with Samsung Health, including allowing you to interact with and connect to other Samsung and third-party content;
+• To respond to your requests, enquiries and instructions made through and about Samsung Health. We reserve the right to refuse to act on your request where we are unable to identify you;
+• To deliver customised content, such as importing your exercise routine from another app into Samsung Health, and recommendations tailored to your interests and the manner in which you interact with Samsung Health;
+• To provide promotions and offers by way of direct marketing communications, only where you have given us your separate consent;
+• To operate, evaluate and improve our business (including developing new products; enhancing and improving our products and Samsung Health; managing our communications; analysing our products, consumer base and Samsung Health; performing data analytics; and performing accounting, auditing and other internal functions);
+• To protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
+• To comply with and enforce applicable legal requirements, relevant industry standards and our policies, including this Privacy Notice, the Privacy Policy and the Samsung Health Terms and Conditions.
+
+We use and combine the information we collect about you from Samsung Health with data from other Samsung or third-party services or features you use, your devices and other sources, such as when you link Samsung Health with a third-party use and combine the data received with data collected through Samsung Health, as well as information about your online activities on websites and connected devices over time and across third-party websites, devices, apps and other online features and services for the purposes above. In addition, when you have separately consented to receive marketing communications from us, we may combine information we collect about you from Samsung Health with data from other services or features, in particular your Samsung account, to provide you with more relevant marketing.
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information is outlined below:
+Keeping our promise to you
+Keeping our promise to you GDPR Article 6(1)(b) 	• Identifying and authenticating you
+• Providing you with Samsung Health, such as allowing you to sync your Samsung Health data to the cloud
+To promote our business interests
+GDPR Article 6(1)(f) 	• Operating, evaluating and improving Samsung Health and our business
+• Responding to your requests, instructions and enquiries
+• Maintaining adequate security measures
+• Protecting against liability, including complying with industry standards and enforcing our policies
+To comply with the law and legal processes
+GDPR Article 6(1)(c) 	• Complying with applicable statutes and regulatory and court orders
+With your consent
+GDPR Article 6(1)(a) 	• Provide marketing notifications (such as via push notifications)
+• Providing you with customised content, such as insight messages
+• Allowing you to interact with and connect to other Samsung and third-party content
+• Processing of health data
+
+
+WHO DO WE SHARE YOUR INFORMATION WITH?
+
+
+We will disclose your information internally within our business and to the following entities, but only for the purposes described above.
+
+• Affiliates: other Samsung Electronics Group companies which we control or own;
+• Business partners: partners who we work together with to provide you with Samsung Health, such as third-party apps you may choose to connect with Samsung Health. These business partners control and manage your personal information;
+• Service providers: carefully selected companies that provide services for or on behalf of us, such as cloud service platforms that maintain data on our behalf. These providers are also committed to protecting your information;
+• Other parties when required by law or as necessary to protect Samsung Health: for example, it may be necessary by law, legal process or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism or other issues that are related to public security;
+• Other parties in connection with corporate transactions: we may disclose your information to a third party as part of a merger or transfer, acquisition or sale or in the event of bankruptcy; and
+• Other parties with your consent or at your direction: in addition to the disclosures described in this Privacy Notice, we may share information about you with third parties when you separately consent to or request such sharing.
+
+HOW LONG DO WE RETAIN YOUR INFORMATION AND WHERE DOES IT GO?
+
+
+How long your data will be retained depends on the legal basis relied upon to process your data. For example, data we process to perform our contract with you requires us to keep the data throughout the time you use Samsung Health. As long as you are an active user of Samsung Health, we will retain and process this data. Data such as your account information and device information and identifiers fall into this category.
+
+Data we process to promote our business interests, such as your usage of Samsung Health, is only kept for as long as needed for the purposes for which it was collected. For example, this data may be collected to perform analytics so we can develop improvements to Samsung Health, or we may process data to keep a record of enquiries you made through or about Samsung Health to improve your customer service experience.
+
+In addition, we may also process your data based on your consent. If you withdraw your consent, we will continue to process data collected prior to your withdrawal until the purposes for which such data was collected have been achieved.
+
+Please note, although we aim to retain your data for the time period described above, your data may be processed longer pursuant to applicable law. For example, if a specific statute mandates we require a certain piece of data, we comply and retain that data until the required retention period expires.
+
+As long as your data is retained by us your data will always be subject to appropriate safeguards.
+
+Your use of Samsung Health will involve the transfer, storage and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area and the Republic of Korea. All international data transfers are subject to legal requirements to ensure that your personal information is processed safely and as you would expect.
+
+UPDATES TO THIS PRIVACY NOTICE
+
+
+This Privacy Notice may be updated to let you know about changes in how we collect and process your information in Samsung Health or changes in related laws. The date when the document was last updated is shown at the top of this Privacy Notice. 

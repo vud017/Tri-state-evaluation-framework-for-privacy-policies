@@ -1,0 +1,180 @@
+{
+  "organization_name": "Amazon.com",
+  "policy_date": "June 30, 2025",
+  "products_covered": [
+    "Amazon products",
+    "Amazon services",
+    "Amazon stores",
+    "Amazon website",
+    "physical locations",
+    "devices",
+    "applications",
+    "Alexa",
+    "Echo devices",
+    "Alexa app",
+    "Amazon Music",
+    "Prime Video",
+    "Prime Photos",
+    "Amazon Drive",
+    "Seller Central",
+    "Kindle Direct Publishing",
+    "Developer Services Portal"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "The device detects the wake word by identifying acoustic patterns that match the wake word.",
+        "purpose": "This describes processing of acoustic patterns to detect a wake word for Alexa interactions.",
+        "legal_basis": "consenting to the practices described in this Privacy Notice"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not set concrete limits on biometric data collection because it does not explicitly identify biometric data as a category being collected. It describes broad voice and audio processing tied to Alexa use, but not a narrowly scoped biometric collection practice."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "No audio is stored or sent to the cloud unless the device detects the wake word (or Alexa is activated by pressing a button).",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Yes, you can choose to automatically delete your voice recordings, text transcripts, and typed requests to Alexa after a specified period of time (3 or 18 months), or you can choose to not save any voice recordings.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy describes voice-related processing for Alexa, including wake-word detection and voice recordings, but it does not clearly identify biometric data as such. The main risk from the text is that voice interactions can be stored, deleted later under user-selected settings, and used to improve services, which could affect privacy if voice data is linked to the user."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy section does not specifically describe collection of health data or set concrete limits explaining why any health-related data would be necessary. It instead describes broad collection of personal information and Alexa interactions, without a health-data-specific minimization framework."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "This section does not explicitly describe collection, storage, or sharing of health data. The main risk is that broad categories of personal information and Alexa interactions are collected and retained, but there is no health-data-specific processing described here."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.\"",
+        "purpose": "The policy says this information is gathered to understand customer activity in physical stores and support Amazon Services.",
+        "legal_basis": "consenting to the practices described in this Privacy Notice"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of information about activity in physical stores using cameras, computer vision, sensors, and other technology, but it does not provide concrete limits on what physical data is collected or why each type is necessary."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "\"Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products and services you interact with.\"",
+        "purpose": "The policy indicates this information is gathered and used in connection with Amazon Services, which implies it is kept for operational use."
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy states that physical-store activity may be gathered using cameras, computer vision, sensors, and other technology. This creates a risk of extensive observation of customer behavior in stores, and the section does not provide specific limits on collection, retention, or sharing for this category."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "\"We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.\"",
+        "purpose": "The policy says Amazon collects information about how you use Amazon Services and interact with products, content, and services. This is used to provide, improve, recommend, personalize, communicate, advertise, and prevent fraud, as described elsewhere in the notice.",
+        "legal_basis": "consenting to the practices described in this Privacy Notice"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of information about use, interactions, browsing, purchases, clicks, and more, without meaningful limits on what behavioral data may be collected. It does not provide concrete, category-specific necessity limits for this data type."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "\"We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services.\"",
+        "purpose": "The policy says behavioral information is stored to support Amazon Services and related use cases described in the notice, including improvement, personalization, and service functionality."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "\"When you request deletion, we begin the process of securely deleting your data from Amazon's cloud storage systems.\"",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "\"We also may use your interactions with Alexa to improve other Amazon products and services.\"",
+        "purpose": "The policy says interactions are used to improve other Amazon products and services. It also says Amazon shares customers' personal information with third-party service providers and in transactions involving third parties, which can include behavior-related information.",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Behavioral data is collected broadly across Amazon Services and Alexa interactions, including browsing, clicks, usage, and purchase/content history. The notice also describes extensive retention and use for personalization, improvement, advertising, and fraud prevention, and it allows some sharing with third parties and service providers."
+    }
+  }
+}

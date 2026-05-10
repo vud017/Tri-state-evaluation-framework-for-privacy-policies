@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-03-27T10:40:10.039146+00:00",
+  "model": "deepseek/deepseek-v3.2",
+  "temperature": 0,
+  "policy_sha256": "e0b0a4929a4e8776a707b275d0acd5d98516de6e4e2faa58d382f3b54f798dd2",
+  "system_prompt_sha256": "eeb4bc1bbb9690a7aaf0ce250be5d3cbdd55b2b85e9ce08d92331410581718dd",
+  "section_prompt_template_sha256": "451fa10b0eb611b5b47fe8ba078cba43206fcbf6cd82de78f76ec8ce242ac8e9",
+  "openrouter_url": "https://openrouter.ai/api/v1/chat/completions",
+  "policy_path": "policies_main_experiment\\myfitnesspal.txt"
+}

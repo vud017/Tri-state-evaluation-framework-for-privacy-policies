@@ -1,0 +1,167 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat app",
+    "Bitmoji",
+    "Spectacles",
+    "advertising and commerce initiatives"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "On iOS we use Apple’s TrueDepth camera to improve the quality of Lenses. Note, however, that this information is used in real time — we don’t store this information on our servers or share it with third parties.",
+        "purpose": "The policy explicitly states use of Apple’s TrueDepth camera data. It says this is used to improve the quality of Lenses.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states a specific limitation for this data: it is \"used in real time\" and \"we don’t store this information on our servers or share it with third parties.\" However, it does not clearly explain the exact scope of biometric data involved or provide broader concrete necessity limits beyond improving Lenses."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy indicates TrueDepth camera information is used in real time to improve Lenses, which involves potentially sensitive facial-depth data. Risk is reduced by the explicit statement that this information is not stored on Snap’s servers and not shared with third parties."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”).",
+        "purpose": "This explicitly states collection of images, video, audio, and precise location, which are physical data. The stated purpose is to generate content and responses through AI Features.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy says, \"we are always focused on privacy — and we don’t want to use more of your personal information than necessary to develop our features and models.\" This is a general minimization claim, but it does not provide concrete limits or category-specific necessity for physical data."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "The information itself. For example, we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we’ll retain that location as long as we store the Snap.",
+        "purpose": "This explicitly says location information is stored and retained, with retention linked to the associated Snap and service use."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Conversely, Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they’ve been opened by all recipients or have expired, unless you’ve changed your default settings or decide to save something, in which case we will honor your choices.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Public. Most of the features on Snapchat are private and for Friends only, but we also offer public features that allow you to opt in to showcase your best Snaps to the world, such as Spotlight, Snap Map, or your Public Profile. When you do this, those Snaps may also be discoverable outside of Snapchat, for example on the web. Some information, like your username and Bitmoji, are visible to the public.",
+        "purpose": "This explicitly describes sharing physical data in Snaps and on Snap Map or Public Profile with the public, including discoverability outside Snapchat, for public showcasing and related service functionality.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The policy states that physical data such as images, video, audio, and precise location are collected, and that some such content may be made public or discoverable outside Snapchat if the user opts into public features. It also states that location information may be stored for varying periods tied to the associated Snap, while international transfer is described in general terms that may apply to this data."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "This includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters)",
+        "purpose": "This explicitly describes collection of behavioral data about user interactions with the service. The policy says this helps Snap understand how the community uses the services and supports improvements.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy lists broad categories of behavioral data collection, including usage information, content engagement, interactions with My AI, ad interactions, analytics, research, personalization, and advertising purposes. It does not provide concrete limits showing that only the minimum necessary behavioral data is collected for each purpose."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings",
+        "purpose": "This explicitly states that behavioral/relationship-related information is kept until the user asks for deletion because it supports core service functionality."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "For example, we maintain your list of friends until you ask us to delete them since friends are key to expressing yourself. Similarly, we keep your shared list of contacts until you ask us to remove them in our app settings",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Anti-Fraud Partners. We share your information, such as device and usage information, with industry partners working to prevent fraud.",
+        "purpose": "This explicitly states that usage information, which is behavioral data, is shared with anti-fraud partners to prevent fraud.",
+        "legal_basis": "",
+        "third_country_sharing": "ambiguous"
+      },
+      "overall_privacy_risk_description": "The policy states that Snap collects extensive behavioral data about how users interact with features, content, ads, and other users for personalization, advertising, analytics, research, and model improvement. It also states that usage information is shared with anti-fraud partners, and international transfers may occur, which increases uncertainty about where behavioral data is processed."
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat",
+    "Bitmoji",
+    "Spectacles"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "On iOS we use Apple’s TrueDepth camera to improve the quality of Lenses.",
+        "purpose": "To improve the quality of Lenses.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states that biometric data is collected only for improving Lenses using Apple’s TrueDepth camera in real time and is not stored, but it does not specify the exact data collected or provide detailed justification for its necessity beyond this purpose."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Biometric data is collected via Apple’s TrueDepth camera for improving Lenses but is not stored or shared, reducing long-term risks; however, real-time processing could still pose privacy concerns if not properly secured."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "Health data is not mentioned in the policy, so no specific data minimization measures or limits for health data are described."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": ""
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "content, or “Inputs,” including text, images, video, audio, precise location, and engagement",
+        "purpose": "To provide and personalize the Services, including for sharing content and using features such as AI generation.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy contains generic claims like 'we don’t want to use more of your personal information than necessary' but does not specify concrete limits or justifications for each type of physical data collected, such as images, video, or location."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "if you store something in Memories, we will keep it as long as you need it",
+        "purpose": "To provide the Services according to user needs and settings, such as retaining saved content."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "our systems are designed to delete Chats you send within 24 hours after your friend reads it",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "we may share your information with your friends on Snapchat or other Snapchatters.",
+        "purpose": "To provide Services to the community and enable social features, such as sharing content with friends.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Physical data like images, videos, and location is collected, stored, shared with others and internationally, with retention that may not be guaranteed, posing risks of exposure and misuse."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters)",
+        "purpose": "To understand how users interact with the services to make improvements and personalize experiences.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy contains generic statements such as 'we don’t want to use more of your personal information than necessary' but does not provide concrete limits or justifications for the collection of behavioral data."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services",
+        "purpose": "To provide and maintain the services as needed."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "Although our systems are designed to delete some of your information automatically, we cannot promise that deletion will take place by a specific time.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information, such as device and usage information, with industry partners working to prevent fraud.",
+        "purpose": "To prevent fraud and for other purposes like ad measurement.",
+        "legal_basis": "",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "Behavioral data is collected for personalization and advertising, shared with third parties including international transfers, and retained with vague deletion policies, posing risks to user privacy."
+    }
+  }
+}

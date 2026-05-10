@@ -1,0 +1,173 @@
+{
+  "organization_name": "Snap Inc.",
+  "policy_date": "April 7, 2025",
+  "products_covered": [
+    "Snapchat",
+    "Bitmoji",
+    "Spectacles",
+    "My AI",
+    "Spotlight",
+    "Snap Map",
+    "Memories",
+    "Family Center",
+    "Lens",
+    "Camera editing tools"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "On iOS we use Apple's TrueDepth camera to improve the quality of Lenses. Note, however, that this information is used in real time — we don't store this information on our servers or share it with third parties.",
+        "purpose": "The TrueDepth camera data (which can constitute biometric data through facial mapping) is used in real time to improve the quality of Lenses. The policy does not explicitly label this as biometric data, and the scope of what facial data is processed is not clearly defined.",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not describe concrete limits on what biometric-related data (e.g., TrueDepth camera data) is processed, nor does it justify why specific types of facial data are necessary. It only states the data is used in real time for Lens quality improvement without specifying what data points are captured or why each is necessary."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy references use of Apple's TrueDepth camera for Lens quality improvement, which may involve processing of facial/biometric data, but provides minimal detail about what data is captured or how it is processed. While the policy explicitly states this data is not stored on servers or shared with third parties, the lack of clarity about the nature and scope of the facial data processed in real time represents a transparency risk for users."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention health data collection at all, so no data minimization measures specific to health data are described."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy does not mention collection of physiological data, so no data minimization assessment can be made for this category."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": ""
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "images and other information from your device's camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+        "purpose": "Physical data such as photos, videos, voice recordings, and precise location are collected when device-level permissions are granted, to enable camera features, content creation, and location-based services.",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of physical data including photos, videos, audio recordings, and precise GPS location, but does not provide concrete limits on how much is collected or clear justifications for why each specific type is strictly necessary. The policy only states collection occurs 'if you've explicitly granted device-level permissions' without specifying meaningful scope restrictions."
+      },
+      "stored": {
+        "detected": "true",
+        "policy_snippet": "The information itself. For example, we store location information for different lengths of time based on how precise it is and which Services you use. If location information is associated with a Snap — like those saved to Memories or posted to Snap Map or Spotlight — we'll retain that location as long as we store the Snap.",
+        "purpose": "Location information and associated physical data (e.g., Snaps with location) are stored to support features like Memories, Snap Map, and Spotlight, and retained as long as the associated content exists."
+      },
+      "retention_policy": {
+        "deletion": "true",
+        "policy_snippet_deletion": "Snaps and Chats sent in Snapchat will be deleted by default from our servers within 24 hours after we detect they've been opened by all recipients or have expired, unless you've changed your default settings or decide to save something, in which case we will honor your choices.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "Service Providers. We share your information with our service providers, who process that information on our behalf. For example, we rely on such Service Providers to facilitate payments, measure and optimize the performance of ads, or protect the services. We do not share private communications with them.",
+        "purpose": "Physical data (such as photos, videos, and location) may be shared with service providers and business partners to facilitate services, optimize ads, and support platform operations.",
+        "legal_basis": "legitimate interest",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy describes broad collection of physical data including photos, videos, audio recordings, and precise GPS location, with retention periods that vary and are not always clearly defined. Physical data is shared with service providers and may be transferred internationally, increasing exposure risk. While some deletion mechanisms exist (e.g., 24-hour Snap deletion), exceptions and legal holds may prevent timely erasure."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "true",
+        "policy_snippet": "usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters)",
+        "purpose": "Behavioral data such as app usage history, interaction patterns, and content preferences are collected to personalize the user experience, improve services, and serve relevant advertisements.",
+        "legal_basis": "legitimate interest"
+      },
+      "data_minimization": {
+        "adequate": "false",
+        "reasoning": "The policy describes broad collection of behavioral data including usage patterns, content interactions, AI conversations, and inferred interests across multiple services. While it states 'we don't want to use more of your personal information than necessary,' this is a generic claim without concrete limits or justification for each type of behavioral data collected, and the scope of collection appears extensive."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "purpose": "Behavioral data is retained as long as needed to provide services, comply with legal obligations, or for other legitimate purposes such as preventing harm or investigating policy violations."
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "As a general rule, we keep information as long as you tell us to, and otherwise as long as we need it to provide our Services, or as required by law.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "true",
+        "policy_snippet": "We share your information, such as device and usage information, with industry partners working to prevent fraud.",
+        "purpose": "Behavioral data (device and usage information) is shared with anti-fraud partners to prevent fraud, and with service providers and business partners to operate and improve services.",
+        "legal_basis": "legitimate interest",
+        "third_country_sharing": "true"
+      },
+      "overall_privacy_risk_description": "The policy describes extensive collection of behavioral data including usage patterns, content interactions, inferred interests, and AI interactions, which are used for personalization and targeted advertising. This data is shared with multiple third parties including service providers, business partners, and anti-fraud partners, and may be transferred internationally. Retention is vague and conditional, with no clear deletion timeline for most behavioral data, posing significant privacy risks."
+    }
+  }
+}

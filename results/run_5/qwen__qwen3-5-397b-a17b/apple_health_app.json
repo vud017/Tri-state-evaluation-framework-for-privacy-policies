@@ -1,0 +1,176 @@
+{
+  "organization_name": "Apple",
+  "policy_date": "March 31, 2024",
+  "products_covered": [
+    "Health app",
+    "HealthKit",
+    "iPhone",
+    "iPad",
+    "Apple Watch",
+    "watchOS",
+    "iOS",
+    "Wallet",
+    "App Store",
+    "Apple Health Research Study app",
+    "iCloud",
+    "AppleCare",
+    "Business Chat"
+  ],
+  "data_categories": {
+    "biometric_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "true",
+        "reasoning": "The policy states a general principle of data minimization for health data and does not list biometric data among the limited categories of consumer health personal data collected."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection or processing of biometric data, focusing instead on health and physiological data, which suggests a low risk for this specific category."
+    },
+    "health_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "The limited categories of personal data that we may collect when you use our products or services or contact us, which may constitute consumer health personal data, include those below.",
+        "purpose": "to provide you with the products and features you have requested",
+        "legal_basis": "consent, provision of requested products"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy claims to minimize data ('Apple works to minimize the amount of health data that it collects') and lists limited categories, but relies on conditional language ('may collect', 'could constitute') and broad definitions without specific quantitative limits or strict necessity justification for each category."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose to sync your data across your devices or store data in iCloud, depending on how you use our features and the information saved to your account, this could include health-related information.",
+        "purpose": "to sync your data across your devices or store data in iCloud"
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "At Apple, we respect your ability to know, access, correct, transfer, restrict the processing of, and delete your personal data.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary in order to provide you with the products and features you have requested or others at your direction or when required by applicable law.",
+        "purpose": "in order to provide you with the products and features you have requested or others at your direction or when required by applicable law",
+        "legal_basis": "required by applicable law, your direction",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy uses conditional language ('may', 'could') regarding the collection and sharing of health data, creating ambiguity about the exact scope. While encryption is highlighted, data may be shared with affiliates and service providers, and specific retention or deletion timelines are not defined."
+    },
+    "physiological_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "Measurements of bodily functions, vital signs, and other related information. For instance, if you choose to participate in an Apple-sponsored health study, you may be asked to provide information about your symptoms or vital signs (example, heart rate) as part of your consent to participate in the study.",
+        "purpose": "for the purposes outlined in the applicable consent",
+        "legal_basis": "consent"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy claims to minimize data and collect only 'limited categories' in 'very limited cases' but relies on generic terms like 'reasonably necessary' without specific concrete limits on the scope of physiological data collection beyond examples."
+      },
+      "stored": {
+        "detected": "ambiguous",
+        "policy_snippet": "if you choose to sync your data across your devices or store data in iCloud, depending on how you use our features and the information saved to your account, this could include health-related information.",
+        "purpose": "to sync data across devices and store in iCloud"
+      },
+      "retention_policy": {
+        "deletion": "ambiguous",
+        "policy_snippet_deletion": "At Apple, we respect your ability to know, access, correct, transfer, restrict the processing of, and delete your personal data.",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary in order to provide you with the products and features you have requested or others at your direction or when required by applicable law.",
+        "purpose": "to provide requested products and features, at user direction, or when required by law",
+        "legal_basis": "contract, consent, legal obligation",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "Physiological data such as heart rate may be collected conditionally through health studies or iCloud syncing. Sharing with third parties is possible for service provision or legal compliance, but specific retention periods and automatic deletion policies are not explicitly defined."
+    },
+    "physical_data": {
+      "collected": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": ""
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy states a general commitment to data minimization for health data but does not provide specific limits or justifications regarding physical data, as this category is not explicitly listed among collected data types."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": "",
+        "legal_basis": "",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy does not explicitly mention the collection or processing of external physical characteristics or measurements such as height, weight, or location, focusing instead on health conditions and physiological metrics. Therefore, no specific privacy risks for this data category are identified based on this text."
+    },
+    "behavioral_data": {
+      "collected": {
+        "detected": "ambiguous",
+        "policy_snippet": "For instance, we may collect information about the apps you download in the App Store in order to provide you the App Store and content you requested, and to personalize your experience.",
+        "purpose": "To provide App Store content and personalize experience.",
+        "legal_basis": "Performance of requested products and features"
+      },
+      "data_minimization": {
+        "adequate": "ambiguous",
+        "reasoning": "The policy claims data minimization principles and limited collection cases, but describes collection conditions vaguely (\"may collect\", \"limited cases\") without concrete thresholds."
+      },
+      "stored": {
+        "detected": "false",
+        "policy_snippet": "",
+        "purpose": ""
+      },
+      "retention_policy": {
+        "deletion": "false",
+        "policy_snippet_deletion": "",
+        "inactivity": "false",
+        "policy_snippet_inactivity": ""
+      },
+      "shared": {
+        "detected": "ambiguous",
+        "policy_snippet": "Apple may disclose information, including each of the categories of consumer health personal data with Apple-affiliated companies, service providers who act on our behalf, and others as reasonably necessary in order to provide you with the products and features you have requested or others at your direction or when required by applicable law.",
+        "purpose": "To provide requested products/features or as directed by user.",
+        "legal_basis": "Performance of requested products, user direction, or legal obligation",
+        "third_country_sharing": "false"
+      },
+      "overall_privacy_risk_description": "The policy indicates conditional collection of behavioral indicators (app downloads) categorized as health data, with vague triggers for collection. Data may be shared with affiliates and service providers based on necessity, and specific retention or deletion timelines are not defined."
+    }
+  }
+}

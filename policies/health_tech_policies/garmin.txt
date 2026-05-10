@@ -1,0 +1,152 @@
+Last Updated: July 6, 2023
+
+Personal data that is processed when you create a Garmin account:
+
+When you create a Garmin account, we ask you to provide your email address, name, and password. You can choose to provide only your first name or a nickname instead of your full name if you wish. We may also ask you to provide your mobile phone number.
+
+    PURPOSES AND LEGAL GROUNDS:
+
+    (a) We process your email address and password because you use your email address and password to sign in to your account. The legal ground for processing your email address and password for this purpose is our legitimate interest in protecting the security of your account. If you enable two-factor authentication, we process your mobile phone number or email address to send the security code via SMS or email. The legal ground for processing this information for this purpose is our legitimate interest in protecting the security of your account. If you reside in mainland China, we process your mobile phone number for purposes of real name authentication.
+
+    (b) We also process your email address for the purpose of sending you important information about your Garmin products, services, apps, or account, such as important safety information or material changes to this Privacy Policy. The name you provide is associated with your account profile and is displayed when you submit comments or other material on our websites or apps or engage with other users. The legal ground for processing your email address and name for these purposes is our legitimate interest in providing you important safety or other information about your Garmin products, services, apps, or account or material changes to this Privacy Policy and in providing you an opportunity to engage with other users.
+
+    (c) If you provide your opt-in consent to receive direct marketing information from us, we will also process your email address or other account identifiers for the purpose of sending you marketing communications (e.g., emails, push notifications) about our products, services, and apps, as well as newsletters. The legal ground for processing your email address for this purpose is your consent. You may withdraw your consent at any time by changing your preferences in your account or through the unsubscribe link at the bottom of our marketing emails. The marketing emails you receive from us are based on the preferences you provide in your account, the locale indicated by your Internet Protocol (IP) address, the types of Garmin devices you have added to your account, and any subscriptions included in your account. The legal ground for processing this data for this purpose is our legitimate interest in reducing the number of marketing emails sent to each particular customer by selecting which customers receive a particular marketing email rather than sending every marketing email to every customer who has consented to receiving marketing emails. If you reside in mainland China, we may use your mobile phone number to send you marketing communications via SMS.
+
+    (d) We also process your email address to associate it with your account when you interact with our customer support representatives. The legal ground for this processing is our legitimate interest in providing quality customer support.
+
+    (e) We also process your email address to notify customers when they have violated our terms. The legal ground for this processing is our legitimate interest in ensuring a quality experience for all customers and ensuring adherence to our terms.
+
+Personal data that is processed when you sync your Garmin device:
+
+When you sync your device directly or through a compatible Garmin app, we log data about the transmission, such as the IP address used when syncing, the sync time and date, crash/diagnostic logs, geographic location of the device, information about your device, information about the network used to sync (e.g., Wi-Fi or cellular), and device battery level.
+
+    PURPOSES AND LEGAL GROUNDS:
+
+    We process this information to help identify and resolve errors or syncing issues. The legal ground for processing this information for this purpose is our legitimate interest in resolving errors or syncing issues and providing quality product support. We also process this information to analyze usage and trends and develop or improve features and services. The legal ground for this processing is our legitimate interest in providing relevant and quality features and services.
+
+Personal data that is processed when you communicate with Garmin:
+
+When you interact with our customer support representatives by email or telephone, online, or in person, we collect personal data, such as your name, mailing address, phone number, email address, and contact preferences, and information about the products you own, such as their serial numbers and dates of purchase, and subscriptions you've purchased. We also may create event logs that are useful in diagnosing product or app performance-related issues and capture information relating to the support or service issue. To improve customer service, subject to applicable laws, we may also record and review conversations with customer support representatives and analyze any feedback provided to us through voluntary customer surveys. With your consent, our customer support representatives may sign in to your account, if appropriate, to help troubleshoot and resolve your issue.
+
+    PURPOSES AND LEGAL GROUNDS:
+
+    We process this information to provide you with customer and product support, to monitor the quality and types of customer and product support we provide to our customers, and to facilitate repairs, returns, or exchanges. The legal ground for processing this information for these purposes is our legitimate interest in providing quality product support. The legal ground for signing in to your account, if appropriate, to help troubleshoot and resolve your issue is your consent, which you may withdraw.
+
+Personal data that is processed when you purchase a product, service, or subscription:
+
+If you purchase a product, service, or subscription on a Garmin website or app or through customer support, then we will collect your name, address, email address, and telephone number and other information needed for billing in your jurisdiction. We do not view or store your payment card information, which is handled by third-party service providers.
+
+    PURPOSES AND LEGAL GROUNDS:
+
+    We collect your name, mailing address, and telephone number so we can process your order and fulfill your purchase. The legal ground for processing your name, mailing address, and telephone number for these purposes is performance of a contract. We also process your personal data as part of our fraud detection processes, which may include the use of personal data related to the purchase, delivery, or use of products, services, or subscriptions as needed to investigate requests or claims. The legal ground for processing your personal data for that purpose is our legitimate interest in protecting us and our customers from attempts to engage in fraudulent transactions. If you reside in mainland China and provide your opt-in consent to receiving marketing information from us, we will also process your telephone number to send you marketing communications.
+
+Personal data that is processed when you purchase a product in a Garmin store:
+
+When you purchase a product in a Garmin store, we may collect your name, address, telephone number, other contact information, or purchase details, such as invoice number or products purchased.
+
+    PURPOSES AND LEGAL GROUNDS:
+
+    We process this information to generate an invoice in our systems for tax reporting purposes or upon your request. The legal ground for processing your information for generation of an invoice for tax reporting purposes is fulfillment of a legal obligation. The legal ground for processing your information for generation of an invoice at your request is performance of a contract.
+
+Personal data that is processed when you use our live location-based services:
+
+If you choose to use location-based services, such as weather, on your device or app, then the physical location of your device or connected mobile device will be collected in order for us or our providers to provide you with such location-based services.
+
+    PURPOSE AND LEGAL GROUND:
+
+    The purpose of processing the location of your device is to provide you the location-based services you wish to use. The legal ground for processing this data for this purpose is legitimate interest.
+
+Personal data that is processed when you use your Garmin auto navigation device or app:
+
+If you use a Garmin auto navigation device or app and provide your consent, then we will collect and upload from your device data such as location, speed, direction, and time and date of recording. If you provide your consent when asked, then we may also share this aggregated data with third parties to enhance the quality of the traffic, parking, and other features enabled by content providers.
+
+    PURPOSE AND LEGAL GROUND:
+
+    This data is aggregated with data from other consenting users and is used to enhance the quality of our products, services, and apps and the traffic, parking, and other features enabled by us or third parties. The legal ground for processing this data for this purpose is your consent, which you may withdraw at any time within the settings of your Garmin device or app.
+
+Personal data that is processed to address fraud and abuse:
+
+We take steps to identify, detect, and mitigate fraud and abuse on our services, websites, and apps. If we suspect a fraudulent request or claim has been made relating to your account or device, we may process data relating to the device(s) associated with your account, basic account information such as email address, name, phone number(s), and mailing address(es), or our communication history with you in order to adequately investigate the request or claim. We may process content that you have contributed to your account, such as activities, photos, comments, and reviews, to develop and test measures to help identify, detect, and mitigate disruption and damage to our services, websites, and apps potentially caused by or related to such content, to enforce our terms of use, to identify and remove inappropriate, harmful, or abusive content, and for related purposes.
+
+    PURPOSE AND LEGAL GROUND:
+
+    We perform these processing activities to protect the interests of Garmin, its customers, and other stakeholders against fraud, breach of contract, and other harmful or unlawful actions. The legal ground for this processing is our legitimate interest in reducing fraud and abuse perpetuated through the use of, or in connection with, our products and services.
+
+Categories of Recipients of Personal Data
+SERVICE PROVIDERS:
+
+We use cloud services from third parties such as MoEngage and SendGrid, a Twilio service, to assist in sending emails. Those services track the activities associated with these emails, such as whether they were opened, whether links in the emails were clicked on, and whether purchases were made following clicks on those links. We use this data to analyze the level of engagement with our emails.
+
+We use services from third parties such as Vonage and Twilio to send SMS messages to our users or their contacts in support of features described in this Privacy Policy. We may track the delivery of these messages based on the phone number of the recipient and the selected content. We use other SMS vendors in some regions, such as Alibaba Cloud (Chinese mainland only), every8d (Taiwan only), aligo sms (South Korea only), fpt / chunghwa (Vietnam only) and true corp (Thailand only).
+
+We use Adyen as a third-party payment processor. More information about Adyen can be found here. Depending on your region and product or service purchased, Garmin Pay or additional third-party payment processors or payment methods are available for you to select, such as PayPal, Alipay, WeChat Pay powered by tenpay, and UnionPay. We also use Cybersource, a solution provided by Visa, in our fraud detection processes, address verification services provided by third parties such as loqate, Google, or CDYNE, and subscription billing and payment services from Avalara and LogiSense.
+
+We use third-party service providers to ship purchased products to customers. In some regions, we use a third party, Erply, to provide point-of-sale services for in-store purchases. In some regions, we use a third party, Narvar, to allow you to view shipment information and track items purchased from our website or purchased, repaired, or exchanged through customer support. In some regions, we use a third party, Global Blue, to provide tax rebate paperwork for customers upon request. We also use a third-party service provider, Medallia, to provide callback request functionality for customer support purposes. In some regions, we use third-party service providers, such as Vertex, to calculate applicable taxes based on shipping addresses. In some countries, third-party providers may be used to generate the reporting required for the appropriate tax regulatory agency.
+
+We use third-party service providers to help us better understand the usage and performance of our products, services, websites, and apps. See the "Monitoring and Analytics" section for more information.
+OTHER DISCLOSURES:
+
+We may process and disclose personal data about you to others: (a) if we have your valid consent to do so; (b) to comply with legal and regulatory obligations, such as a valid subpoena, court or judicial order, other valid legal process, or record keeping to support applicable reporting and auditing requirements; (c) to investigate potential fraud and enforce any of our terms and conditions or policies; (d) as necessary to pursue available legal remedies or defend legal claims.
+
+We may also transfer your personal data to an affiliate, a subsidiary, or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock, including, without limitation, in connection with any bankruptcy or similar proceeding, provided that any such entity that we transfer personal data will not be permitted to process your personal data other than as described in this Privacy Policy without providing you notice and, if required by applicable laws, obtaining your consent.
+International Transfers of Personal Data
+
+Garmin is a global business. To offer our products, apps, and services, we may need to transfer your personal data to Garmin-owned companies in other countries. View Garmin-owned companies.
+
+When you create a Garmin account, add personal data in your account profile, or upload data to your Garmin account, your personal data will be collected and stored on servers in the U.S., U.K., and/or Australia.
+
+For customers in Chinese mainland, when you create a Garmin account, add personal data in your account profile, or upload data to your Garmin account, your personal data will be collected and stored on Garmin China Shanghai RHQ Co., Ltd.’s servers in Chinese mainland.
+
+Personal data regarding individuals who reside in a country in the European Economic Area ("EEA"), United Kingdom ("U.K."), or Switzerland is controlled by Garmin Würzburg GmbH and processed on its behalf by other Garmin-owned companies to provide support, infrastructure, security, and other key functions. Garmin Würzburg GmbH has entered into approved model contractual clauses where these companies are not located in the EEA or a jurisdiction deemed adequate under applicable data protection law. Garmin's U.S.-based affiliates are certified under the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, including the UK extension. View our Data Privacy Framework Notice.
+
+All Garmin-owned companies are required to follow the privacy practices set forth in this Privacy Policy.
+Cookies and Similar Technologies
+
+Information about Garmin's use of cookies and similar technologies on our websites can be found in our Cookie Policy.
+Monitoring and Analytics
+
+We collect data from users about their usage of our products, services, websites, and apps. The types of analytical information that are collected include the date and time of access to our servers, software or firmware version, the location of the device, language setting, what information and files have been downloaded, user behavior (e.g., features used, frequency of use), device state information, device model, hardware and operating system information, and information relating to how the product, service, website, or app functions. Garmin uses this data to improve the quality, security, and functionality of our products, services, websites, or apps; to develop and market products and features that best serve you and other users; and to help identify and fix stability issues and other usability problems as quickly as possible.
+
+The legal ground for processing this analytical information is our legitimate interest in understanding how our customers interact with our products, services, websites, and apps so we can enhance user experience and functionality.
+Here are examples of third-party providers we currently use:
+
+    Google: Google Analytics is used to track statistics and user demographics, interests, and behavior. Find out more information about how this analytics information may be used, how to control the use of your information, and how to opt out of having your data used by Google Analytics.
+
+    Azure Application Insights: Azure Application Insights, a Microsoft service, is used to help us better understand usage to improve user experience.
+
+    Microsoft App Center; Firebase (Crashlytics): Microsoft App Center, formerly known as HockeyApp, and Firebase (Crashlytics), a Google service, are used to help us better understand usage to improve user experience and to identify and resolve the root causes of crashes or errors. Firebase is also used to facilitate push notifications in our apps, such as to communicate important account- or service-related information and, if you are opted-in, marketing information.
+
+    Flurry; Amplitude: Flurry and Amplitude are used to help us better understand usage to improve user experience.
+
+See the "Cookies and Similar Technologies" section for information on Monitoring and Analytics vendors that rely on cookies.
+SOCIAL NETWORKS:
+
+Third-party social networks that provide social networking features (e.g., to allow you to connect to social media, such as Facebook, Google, QQ, or Sina Weibo, to find friends to add as connections or to "Like" a page) in Garmin products, services, websites, or apps may gather information regarding your use of our products, services, websites, or apps. The use of such information by a third party depends on the privacy policy available on that social network’s website, which we encourage you to carefully review. Such third parties may use these methods and this information for their own purposes by relating information about your use of our products, services, websites, or apps with any of your personal information that they may have. We may also obtain analytics information from social networks that help us measure the effectiveness of our content and advertisements on social networks (e.g., impressions and clicks).
+Children
+
+We request individuals under the age of 13 in the U.S., under the age of 14 in mainland China, and under the age of 16 in the rest of the world not provide personal data to Garmin. If we learn that we have collected personal data from a child under the age of 13 in the U.S., under the age of 14 in mainland China, or under 16 in the rest of the world, we will take steps to delete the information as soon as possible.
+Privacy Policy Updates
+
+We may update this Privacy Policy from time to time as we add new products, services, and apps, as we improve our current offerings, and as technologies and laws change. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes will become effective upon our posting of the revised Privacy Policy.
+
+We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. This notice will be provided by email or by posting notice of the changes on the Garmin websites and apps that link to this Privacy Policy.
+Retention of Personal Data
+
+We will retain your personal data as long as your Garmin account is considered to be active or in accordance with applicable law and regulatory obligations. In addition, see below under “Manage Your Data” for information on how to delete your data or account.
+Automated Decision-Making, Including Profiling
+
+We do not make any decisions based on algorithms or other automated processing that significantly affect you.
+Data Controller and Data Protection Officer
+
+If you reside in a country in the EEA, U.K., or Switzerland, then your personal data collected by Garmin is controlled by Garmin Würzburg GmbH, Leightonstr. 7, 97074 Würzburg, Germany. The company's EU Data Protection Officer can be reached by email at euprivacy@garmin.com.
+
+If you reside in Chinese mainland, then your personal data collected by Garmin is controlled by Garmin China Shanghai RHQ Co., Ltd., 37F, Tower A, New CHJ International Business Center, No 391, Guiping Road, Xuhui District, Shanghai 200233, China. The company's Data Protection Officer for Chinese mainland can be reached at the same address and by email at cnprivacy@garmin.com.
+
+If you reside outside of the EEA, U.K., Switzerland, and Chinese mainland, then your personal data collected by Garmin is controlled by Garmin International, Inc., 1200 E. 151st St., Olathe, Kansas 66062, USA, which you can contact by email at privacy@garmin.com. The company's Brazilian Data Protection Officer is located at the same address and can be reached by email at privacy@garmin.com. The company's Turkish Representative can be reached by email at trprivacy@garmin.com.
+Manage Your Data
+
+We provide a self-service portal, the Account Management Center, to allow you to access, export, correct, or delete your data at any time. The Account Management Center requires you to sign in with your Garmin credentials to ensure that only you can manage your data and exercise your rights.
+
+If you do not have an account or otherwise want to learn more about your rights based on where you reside, please visit Your Data Protection Rights.
+
+All trademarks are the property of their respective owners.

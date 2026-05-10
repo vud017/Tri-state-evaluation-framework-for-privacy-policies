@@ -1,0 +1,243 @@
+Data Protection Notice
+Alphabet International GmbH Data Protection Information
+
+The high standards you expect from the features of our products and services are our guideline for handling your data. It is our aim to establish and preserve the basis for a trusting business relationship with our customers and potential customers. We regard the confidentiality and integrity of your personal data as an important matter. We will therefore process and use your data carefully for specific purposes in line with the consent you have granted and in accordance with legal provisions for data protection.
+Changes to our Data Protection Notice
+
+Alphabet may modify or update this Notice when necessary (latest update May 23 2018), to reflect customer feedback and changes in our Alphabet Products and Service. Please review it regularly. When we update this Notice, we will revise the 'Last Update' date at the top of the Notice. If there are material changes to the Notice or in how Alphabet International GmbH uses your personal data, we will inform you either by posting a notice of such changes, prior to them taking place, or by directly sending you a notification. We encourage you to regularly review this Notice to learn more how Alphabet International GmbH is using and protecting your information.
+
+The Alphabet International GmbH (Alphabet) data protection information describes in the following sections how we collect, process and use personal data of our customers and potential customers.
+Who is responsible for data processing operations?
+
+As defined by the basic EU data protection regulations, Alphabet International GmbH (hereinafter referred to as "Alphabet" and/or "we" and/or "us"), Lilienthalallee 26, 80939 München, Germany, is responsible for the processing of your personal data.
+
+Alphabet is part of the BMW Group, with BMW AG being its parent company.
+
+Unless otherwise specified, Alphabet partners are legally and economically autonomous companies and not part of Alphabet.
+
+Alphabet is responsible for any of your data that are processed via the websites www.alphabet.com, http://view.alphabet.com, www.alphabetcockpit.com or any mobile apps, your contacts with Alphabet. Alphabet also processes your data where they are passed on by Alphabet partners and to the extent that the requirements in compliance with data protection legislation necessary for this are met.
+
+Alphabet partners are responsible for processing the personal data that you make available to them in the context of your business and customer care in the areas of sales and service.
+
+This data protection information also describes some processing of your data by Alphabet partners. However, it might be that Alphabet partners acquire other personal data and have their own data protection information. In this case, you can find out from the data protection information of the respective Alphabet partner how your data are used there.
+When does Alphabet acquire and process personal data?
+
+Alphabet acquires and processes your personal data in the following cases, among others:
+
+- When you contact us directly, for example via our website or our mobile apps, and you are interested for example in our products or services or have any other concerns.
+
+- When you contract products and services from us in the context of Alphabet’s International Customer Framework Agreement.
+
+- When you request information regarding our products and services (for example mailing of brochures or price lists).
+
+- When you respond to our direct marketing activities, for example when you complete a reply card, participate in our customer feedback research surveys or submit your data online on one of our websites (www.alphabet.com or landing page) or mobile apps.
+
+- When your personal data is sent to us by Alphabet partners or third parties where and to the extent that the requirements in compliance with data protection legislation necessary for this are met, for example you have granted consent or in full awareness of your right of objection have not objected to the forwarding of your data to Alphabet for the purpose of customer care and contact in writing or as part of contractual necessity based on our International Customer Framework Agreement’s.
+
+- When other BMW Group and Alphabet companies as well as our business partners provide data about you in a manner that is permitted.
+
+- When third parties (for example certified address vendors) provide personal data about you in a manner that is permitted.
+
+Please help us to keep your details up to date by notifying us regarding changes to your personal data – in particular your contact data.
+Which data about you can be collected?
+
+The following categories of personal data can be collected via the numerous services and contact channels described in this data protection information:
+
+- Contact data: e.g. first name, family name, address, telephone number, fax number, e-mail address, business profession.
+
+- Contract data: e.g. customer ID, customer number, market partner number, contracts: other contract settlement and payment data like bonus/incentive scheme´s; contract data such as contract number, retention period, type of contract other contract data, other data of prospect; services, subscriptions. Additional examples: mobility fleet data detailing all of your relevant contract related data for international customer reporting service e.g. contract number, license plate, VIN, make/model, contracted lead time and mileage, CO2 emissions, customer cost center, IFRS 16 required data, actual mileage incl. deviations, expected contract expiration, fuel consumption (expected vs. actual), fines statistics, service & maintenance statistics).
+
+- Account data: online user account data regarding customer and potential customer portals, social media accounts, social network links, customer profiles.
+
+- Lifestyle & Preference Data: information you have provided regarding areas that interest you, for example vehicles you find interesting, hobbies and other personal preferences.
+
+- Customer Transaction Data: information on contracted mobility products and services.
+
+- Customer Interaction Data: user behaviour (website visits, clicks), social media activities (posts, likes, comments), response data (to surveys), complaints, feedback, browser activities and usage of mobile applications, communication history, prospect data, cookies – tracking or monitoring More information on cookies can be obtained here in our Alphabet cookie policy.
+
+- Third-party services: if you use the possibility to have online services of other providers (third parties), these services are the responsibility of the respective provider and are subject to their data protection conditions and terms of use. Alphabet has no influence on the content exchanged here. You should therefore obtain information from the respective provider regarding nature, scope and purpose of the collection and use of personal data within the framework of third-party services.
+What is the purpose of processing your data?
+
+The data acquired in the context of contract conclusion or the provision of services are processed for the purposes stated below. An explanation of the area of application of the available legal basis can be found here.
+
+A. Compliance with contractual duties within the contractual agreement for the provisioning of mobility products and services (Article 6, Paragraph 1, b) of basic EU data protection regulations)
+Alphabet, Alphabet affiliates and Alphabet partners acquire, process, and use personal data within the framework of the international delivery of contracted mobility products and services.
+
+Within the international framework agreement for providing mobility products & services, personal data are used at Alphabet contracted business partners to manage the framework agreement and to transfer information related to your contracted mobility products and services.
+
+Within the framework of these activities, the data categories stated below are processed:
+- Contact data (last name, first name, address, e-mail address, business role, etc.)
+- Contract data (customer ID, customer number, market partner number, contracts number, contract settlement, etc.)
+- Account data (information regarding customer and potential customer portals, social media accounts, social network links, customer profiles, etc.)
+
+Alphabet and Alphabet partners use your personal data for contract administration (for example vehicle ordering, fleet management information) or to handle any request you have submitted (for example offer, mobility consulting). Regarding all aspects of contract administration or dealing with a concern, we will contact you without separate consent, for example in writing, by telephone, per messenger service, per e-mail, depending on which contact data you have specified. The list of Alphabet affiliates can be found here, and the list of Alphabet international cooperation’s here.
+
+B. Ensuring product quality, research and development of new products (Article 6, Paragraph 1 f) of basic EU data protection regulations)
+Alphabet International GmbH uses the data acquired as a result of the provision of services by Alphabet or Alphabet partners in a depersonalized form to ensure the quality of products and services as well as for the purposes of research and development. "Depersonalized" means that the data can no longer be traced directly to you or your vehicle.
+
+This processing is based on the legitimate interest of Alphabet in meeting the high expectations of our customers with regard to high-quality products and services and taking account of the customer wish to have newly developed, innovative solutions. To protect your interests – alongside de-personalization – additional security precautions and controls are implemented as required, for example strict data access restrictions, restrictions in data use, security measures, retention periods, as well as data economy principles such as exclusively gathering relevant data.
+
+C. Compliance of sales, service, and administration processes of Alphabet (Article 6, Paragraph 1 f) of basic EU data protection regulations)
+In order to continuously optimize the customer experience and cooperation with Alphabet partners and customer care, we create evaluations and reports on the basis of contract information and share these with the Alphabet partners responsible. The main purpose of these evaluations is to initiate corresponding measures (for example training courses for Sales and Service personnel) to improve sales and consultancy processes. We will create the reports described above in an aggregated and anonymized form, i.e. the recipients of the reports are unable to draw any conclusions regarding you as a person from the data they contain.
+
+Alphabet International GmbH is a company of the BMW Group. In some cases, we process your data to ensure that the different companies within the BMW Group are managed as efficiently and successfully as possible. This concerns, for example, joint consolidated accounting in line with International Financial Reporting Standards (IFRS) for companies.
+
+D. Customer care
+(Article 6 Paragraph 1 b, f) of basic EU data protection regulations)
+Alphabet uses your personal data for contract administration or to handle any request you have submitted. Regarding all aspects of contract administration or dealing with a concern, we will contact you without separate consent, for example in writing, by telephone, per messenger service, per e-mail, depending on which contact data you have specified.
+
+We will also contact you in carefully considered cases with promotional communication if and to the extent that the requirements in compliance with data protection legislation necessary for this are met and in full awareness of your right of objection you have not objected to the use of your data for the purpose of written communication.
+
+Alphabet also processes your personal data on this basis to optimize your experience with Alphabet Customer Care, e.g. to identify you correctly if you make contact with us.
+
+E. Promotional communication as well as market research based on consent (Article 6, Paragraph 1 a) of basic EU data protection regulations)
+Insofar as you have separately given your consent to further use of your personal data, your personal data may be used in accordance with the scope described in the consent declarations, for example for promotional purposes (selected offers of products and services), market and customer feedback research, and with your separate consent subsidiaries of Alphabet International GmbH and selected Alphabet partners. Details are included in the respective declaration of consent, which you can revoke at any time.
+
+Contact information for example Name, address, e-mail, telephone number
+
+Supplementary personal details / preferences, e.g.
+- Company name, your relationship with this company if you are our contact person for this company
+- Interests and hobbies
+- Status of your data protection declaration of consent and selected and/or preferred communication channel
+
+Identification data, for example
+Customer number, contract number
+
+Customer history, for example
+- Contracted mobility products & services
+- Data acquired at Alphabet partners (such as point in time of contact and contact type)
+- Campaign history and resonance (customer and potential customer care program and direct marketing measures
+- Participation in events
+- Inquiry and complaint history at Alphabet Customer Care
+
+App / website / social media data
+If you have registered or logged in, your account data, for example at Alphabet View.
+
+Alphabet uses the sales and customer care data acquired in this way
+- to determine which information and offers are most likely to be of interest to you
+- to make contact with you in the context of this information and these offers
+- To send promotional communication (e.g. product launches or invitations to events) in line with your data protection declaration of consent.
+
+In the data protection declaration of consent, you also lay down the communication channels (e.g. post, telephone, e-mail) we are permitted to use to contact you.
+
+As a rule, data processing for promotional purposes takes place in Germany; under no circumstance are personal data transferred to a country outside the EU for promotional communication or market research purposes.
+
+F. Compliance with legal obligations to which Alphabet is subject (Article 6, Paragraph 1 c, f) of basic EU data protection regulations)
+Alphabet will also process personal data if there is a legal obligation to do so. This can be the case, for example, for anti-money laundering.
+
+Gathered data are also processed within the framework of ensuring the operation of IT systems. Ensuring operation involves the following activities:
+- Backup and restore of data processed in IT systems;
+- Logging and monitoring of transactions to check the correct function of IT systems;
+- Detection and defense against unauthorized access to personal data;
+- Incident and problem management to remedy malfunctions in IT systems.
+
+Gathered data are also processed within the framework of internal compliance management in which we, for example, check whether you have been advised to an adequate extent within the framework of concluding a contract and that the Alphabet partner has complied with all legal obligations.
+
+Alphabet is subject to a large number of other legal obligations. In order to fulfill these obligations, we process your data to the required extent and, if necessary, pass them on to the authorities responsible within the framework of legal obligations of notification.
+
+We also process your data in the event of legal conflicts if the legal conflict makes processing the data necessary.
+
+G. Data transfer within the BMW Group
+
+Alphabet is a company of the BMW Group. In some cases, after a careful check, we send your data to other companies of the BMW Group, who are then responsible for further processing. Such a data transfer can occur under the following circumstance and for the following purposes:
+
+Please bear in mind that this is not a complete or conclusive list of the data transfer operations within the BMW Group, rather only examples intended to make the data transfers more transparent.
+
+- For compliance with the sales, service, and administration processes of Alphabet International GmbH, cf. point F.
+
+- In the course of group reporting, we might transfer data, for example we transfer vehicle identification numbers in the case of leased vehicles for assessment of the residual values.
+
+H. Data transfer to selected third parties
+Data are forwarded to the following companies, among others, if and to the extent that the requirements in compliance with data protection legislation necessary for this are met:
+
+- To carefully selected and checked service providers and business partners with whom we cooperate to be able to offer you products and services. We do this for Alphabet only within the framework of the strict conditions of data processing on your behalf or on the basis of your express consent.
+
+- In the event of the sale of a business unit or several business units of Alphabet to a company to which we assign our rights in compliance with all agreements that exist between us.
+
+- To third party Fleet Management companies that are commissioned to manage your fleet on your behalf, for example we provide basic fleet management reports detailing only strictly contract related data.
+
+- To other third parties (for example public authorities) to the extent that we are legally obliged to do so.
+How do we protect your personal data?
+
+We deploy various security measures such as encryption and authentication tools in line with the current state of the art to protect and maintain the security, integrity, and availability of your data.
+
+100% protection against unauthorized access in the case of data transfers across the internet or a website cannot be guaranteed, but we and our service providers and business partners do our utmost to protect your personal data in line with the prevailing data protection regulations by means of physical, electronic, and process-oriented security precautions in line with the current state of the art. Among other things, we use the following measures:
+
+- Strict criteria for authorization to access your data according to the "need-to-know principle" (restriction to as few people as possible) and exclusively for the specified purpose
+- Transfer of acquired data exclusively in encrypted form - Storage of confidential data, for example credit card data, exclusively in encrypted form
+- Firewall safeguarding of IT systems to provide protection against unauthorized access, for example by hackers
+- Permanent monitoring of accesses to IT systems to detect and prevent the misuse of personal data
+
+If you have received a password from us or have assigned one yourself to gain access to certain areas of our website or other portals, apps, or services that we operate, you are responsible for keeping this password confidential and for compliance with all other security procedures of which we make you aware. We ask you in particular not to tell anyone your password.
+How long do we keep your data?
+
+In line with article 17 of the basic EU data protection regulations, we will keep your data only as long as necessary for the respective purposes for which we process your data. If we process data for a number of purposes, they are automatically deleted or stored in a format that does not permit conclusions to be drawn directly as regards your person as soon as the last specific task has been performed. To ensure that all of your data are deleted in line with the principle of data minimization and article 17 of the basic EU data protection regulations, Alphabet has created an internal deletion concept. The fundamental principles by which this deletion concept envisages the deletion of your personal data are described below.
+
+Use for compliance with a contract
+To comply with contractual obligations, data acquired from you can be kept for as long as the contract is in force and - depending on the nature and scope of the contract - for 6 or 10 years beyond this point in order to comply with legal requirements for preservation and to ensure clarification of any queries or claims after the end of the contract.
+
+Over and above this, there are contracts for the delivery of products and services that necessitate longer retention periods, see also "Use for the assessment of claims" below.
+
+Use for the assessment of claims
+Data that in our opinion will be necessary to assess and avert claims against us or to initiate criminal proceedings or assert claims against you, us or third parties can be kept by us for as long as corresponding proceedings could be initiated.
+
+Use for customer care and marketing purposes
+For customer care and marketing purposes, the data acquired from you can be kept for 3 to 10 years, unless you wish to have these data deleted and there are no contractual or legal requirements for preservation that prevent this request for deletion.
+Whom do we grant international access to your data and how do we ensure protection?
+
+Alphabet is a company that operates globally. Personal data are processed by Alphabet employees, Alphabet partners and by service providers we have commissioned, preferably within the EU.
+
+If data are processed in countries outside of the EU, Alphabet uses EU standard contracts, including suitable technical and organizational measures, to ensure that your personal data are processed at the same level as European data protection.
+
+In some countries outside the EU, for example Canada and Switzerland, the EU has already determined a level of data protection comparable with that in Europe. The comparable level of data protection means that data transfer into these countries does not require any special permission or agreement.
+
+To support the provision of the services and intended purposes listed above, Alphabet uses a number of service providers that are commissioned by BMW AG within the framework of the strict conditions of data processing in compliance with data protection legislation.
+Contact with us, your data privacy protection rights, and your right to file complaints with data privacy protection authorities
+
+If you have any questions regarding the use of your personal data by us, it is best to contact Alphabet Customer Care first – either per e-mail at getintouch@alphabet.com or by telephone at the number +49 89 382-79002 (Mo.-Fr. 08:00 – 18:00 hrs).
+
+Over and above this, you can contact the data protection officer responsible that can be found here.
+
+As the person affected by the processing of your data, the basic EU data protection regulations and other relevant data privacy protection regulations enable you to assert certain rights in relation to us. The following section contains explanations of your rights as defined by the basic EU data protection regulations. Depending on the type and scope of your inquiry, we ask you to put the inquiry in writing.
+
+Rights of persons affected
+In line with the basic EU data protection regulations, as the person affected you have the following rights in particular vis-à-vis Alphabet:
+
+Right to information (Article 15 of basic EU data protection regulations):
+You can ask us for information regarding any data of yours that we keep at any time. This information concerns, among other things, the data categories we process, for what purposes we process them, the origin of the data if we did not acquire them directly from you and, if applicable, the recipients to whom we have sent your data. You can obtain a copy of your data from us free of charge. If you are interested in other copies, we reserve the right to charge for the additional copies.
+
+Right to correction (Article 16 of basic EU data protection regulations):
+You can request that we correct your data. We will initiate appropriate measures to keep the data of yours that we continuously process correct, complete, and up to date, based the latest information available to us.
+
+Right to deletion (Article 17 of basic EU data protection regulations):
+You can request that we delete your data provided the legal requirements have been met. In accordance with Article 17 of basic EU data protection regulations, this can be the case if
+
+- The data are no longer required for the purposes they were acquired or otherwise processed
+- You revoke your consent, which is the basis of the data processing, and there is no other legal basis for the processing
+- You object to the processing of your data and there are no legitimate reasons for the processing or you object to data processing for the purposes of direct advertising
+- The data have been processed illegally
+
+Where the processing is not necessary
+- To ensure adherence to a legal obligation that requires us to process your data
+- In particular with regard to legal retention periods
+- To assert, exercise or defend against legal claims
+
+Right to restriction of processing (Article 18 of basic EU data protection regulations):
+You can request that we restrict the processing of your data if
+- You dispute the correctness of the data - for the period of time we need to check the correctness of the data
+- The processing is illegal but you do not wish to have your data deleted and request a restriction of use instead
+- We no longer need your data, but you need them to assert, exercise or defend against legal claims
+- You have filed an objection to the processing, though it has not yet been decided whether our legitimate grounds outweigh yours.
+
+Right to data transferability (Article 20 of basic EU data protection regulations):
+At your request, we will transfer your data – where technically possible – to another responsible entity. However, this right only applies if the data processing is based on your consent or is required to fulfill a contract. Instead of receiving a copy of your data, you can ask us to send the data directly to another responsible entity that you specify.
+
+Right to objection (Article 21 of basic EU data protection regulations):
+You can object to the processing of your data at any time for reasons that arise from your special situation provided the data processing is based on your consent or our legitimate interest or that of a third party. In this case, we will no longer process your data. The latter does not apply if we are able to prove there are compelling, defensible reasons for the processing that outweigh your interests or we require your data to assert, exercise or defend against legal claims.
+
+Time limits for compliance with the rights the persons affected
+As a general principle, we make every effort to comply with all requests within 30 days. This time limit, however, can be extended for reasons related to the specific rights of persons affected or complexity of your request. Restriction in the provision of information regarding the rights of persons affected
+In certain situations, legal specifications might require us not to provide information regarding all of your data. If we have to refuse your request for information in such a case, we will inform you of the reasons for refusal at the same time.
+
+Complaints to supervisory authorities
+Alphabet takes your reservations and rights very seriously. However, if you are of the opinion that we have not dealt with your complaints or reservations adequately, you have the right to submit a complaint to the data privacy protection authorities responsible.

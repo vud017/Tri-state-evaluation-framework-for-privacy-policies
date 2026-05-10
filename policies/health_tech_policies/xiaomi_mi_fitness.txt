@@ -1,0 +1,365 @@
+Mi Fitness Privacy Policy
+
+Our Privacy Policy was updated on June 25, 2025.
+
+1. Introduction
+
+Mi Fitness and its related services are provided by Xiaomi Technology Netherlands B.V., Xiaomi Technologies Singapore Pte. Ltd., and/or other affiliated companies (hereinafter referred to as "Xiaomi", "we", "our", or "us") for recording and displaying workout and health information and providing device control, voice assistant, workout guidance, and health features through your wearable device.
+
+We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, process, and store any information that we collect from you or a third party when you use Mi Fitness products and services. You can consult the privacy policies of relevant services to learn about the terms and conditions regarding the processing of personal information when you use other services and other data protection issues. Terms and conditions regarding the protection of minors and security measures can be found at https://privacy.mi.com/all/languages/.
+
+Ultimately, what we want is the best for all our users. Should you have any questions about our data handling practices regarding personal information as summarized in this Privacy Policy, please contact us via https://privacy.mi.com/support to address your specific concerns. We will be happy to hear from you.
+2. Definition of personal information
+
+For the purpose of this Privacy Policy, "personal information" means information that can be used to directly or indirectly identify an individual, either from that information alone or from that information combined with other information about that individual available to Xiaomi, unless otherwise expressly provided for by applicable law in your region. Personal information includes your name, contact information, ID number, location data, and online identifiers (e.g. Xiaomi Account ID). We will use your personal information strictly following this Privacy Policy.
+3. What information we collect and how we use it
+3.1 Collection of personal information
+
+The purpose of collecting personal information is to provide you with products and/or services. Thus, we will process the following types of personal information:
+
+3.1.1 Personal information we collect and use with your authorization
+
+3.1.1.1 Pairing wearable devices
+
+In order to support the pairing of wearable devices with the app, we may collect your Xiaomi Account ID, device identifiers of smart wearable devices, device identifiers of mobile devices (IMSI, MAC address, MEID, Android ID, device hardware serial number, SIM), mobile phone model, system version number, Bluetooth information of wearable devices, and wearable device model.
+
+When you sign in to the app via Xiaomi Account, your email address and mobile phone number will be collected when you create an account. Read and agree to the Xiaomi Account Privacy Policy before signing in with Xiaomi Account. In order to associate your Xiaomi Account with your use of the app, we will collect your Xiaomi Account ID and profile photo.
+
+3.1.1.2 Recording and display of workout and health information
+
+When you use our wearable device (hereinafter referred to as the "device"), we may collect and record workout-related information collected by device sensors, including steps, standing activity and duration, workouts, cadence, stride, workout distance and duration, altitude, heart rate and related information, stroke number and frequency, diving depth and time, blood pressure, menstrual cycle information, blood sugar, and blood oxygen saturation. Of these, you can input and modify blood pressure, blood sugar, menstrual cycle, and heart rate information. Additionally, we will collect your personal information, including your nickname, sex, birthday, height, weight, and body composition (body fat percentage). This information will be used to calculate and display your heart rate, blood sugar, number of steps, calories burned through exercise, and sleep time on both your wearable device and the app, allowing you to better understand your workouts. Your personal information will also be used to generate personalized workout advice. It will be displayed on your wearable device and in the app and can be viewed any time.
+
+If you choose to cast your trainings and running courses to your TV, this information will appear on the course video and on your TV. If you turn on audio feedback, your treadmill will broadcast changes in your heart rate and the updated distance every kilometer.
+
+If you turn on heart rate broadcast features (available on some models), your heart rate information will be transferred via Bluetooth to paired devices that support this feature (e.g. bike computers) for display.
+
+If you don't provide personal information (including your sex, height, age, and weight), we will use default values to calculate and display the information about heart rate, steps, calories consumed by exercise, sleep time, etc., and to provide exercise suggestions.
+
+Menstrual period recording and prediction: When you use period recording and prediction features, we need to collect dates and symptoms of your periods. Since period predictions are based on data from your past records, these records are required for this feature to work properly. Once you turn this feature on, you can record and view your records on the wearable device. This information will only be displayed on your device and will not be used for any other purpose.
+
+Stress recording: When you use the Stress feature, we will collect your heart rate, number of times awakened during sleep, and the length of time awake during sleep time to calculate your stress level and to show any changes that occur. When you use the stress feature for the first time, we need to perform a stress value calibration test. To be able to use this feature, you'll need to actively provide recent stress data. Rest assured that this data will be stored only on your device and won't be uploaded to the cloud. In addition, we also provide an all-day stress monitoring feature, which you can turn on or off at any time.
+
+Sleep monitoring: When you use sleep monitoring services, we will collect your sleep duration, the time you fell asleep and woke up, deep sleep, light sleep, REM sleep, wake-up durations, and sleep stage distribution, as well as heart rate, breathing rate, and blood oxygen while sleeping in order to provide Advanced monitoring services. You can turn Advanced sleep monitoring on or off at any time.
+
+Breathing exercises: When you perform breathing exercises, we will collect your heart rate via your wearable device in order to display your starting and ending heart rates.
+
+3.1.1.3 Feedback
+
+If you encounter issues when using this device, you can send us feedback along with your contact information (the phone number or email address you enter). This information will be used to allow us to better understand the issue you encountered and to contact you. If you choose to upload the issue logs, we will collect this information. The log information you upload includes workout data (e.g. workout distance and duration) and health data (e.g. heart rate, sleep time, and stress data). This information will only be used to resolve the issue you encountered and won't be used for any other purpose.
+
+3.1.1.4 Notifications
+
+When the Notifications feature is on, the notifications on your mobile phone will be synced to your wearable device. Please note that we will not read or save your notifications, and the related information will only be used to display notifications on your wearable device. You can manage notifications sync settings in the app.
+
+3.1.1.5 Incoming call notifications and answering phone calls
+
+You can use your wearable device to control incoming calls from your phone. When your wearable device is connected to your phone, and the Incoming calls feature is turned on in the app, your device can vibrate and display the phone number of the incoming call. You can choose to reject or silence the call. Please note that the incoming call number will only be displayed on your wearable device. The device will not store the number, nor will it be uploaded to the cloud.
+
+You can use your wearable device to make or receive calls if it supports this feature. To turn on this feature, we need access to your call history. Your phone's call history will be saved to the wearable device and will not be uploaded to the cloud. If you have granted permissions allowing the app to access your contacts, you can wake up Mi AI through your wearable device to make a call to the contact you specify. When providing this feature, the app will sync incoming call numbers and contact names to the display of your wearable device. If your wearable device supports the emergency contact feature, when turned on in the app, you can call your emergency contact by pressing the button on the bottom right of your device three times. To provide this feature, we need to sync and save your emergency contact information (including name and phone number) to the firmware.
+
+3.1.1.6 Payment
+
+In some countries or regions, you can enable payments through MasterCard or VISA on wearable devices that support this feature. Once you have successfully verified your MasterCard or VISA card, you can pay with the card from your wearable device. For verification purposes, MasterCard or VISA may require you to provide the following information: your card number, name on the card, expiration date, CVC2 (CVC2 refers to the last three digits of the number embossed on the back of the card), and phone number or e-mail address linked to your bank account. When you top up your card or conduct a transaction using NFC, MasterCard or VISA may collect your transaction information, including the amount paid and the order number, and the product description, which will be used to verify your card. Please note that verification is performed by MasterCard or VISA, and the above information is directly collected by them. We therefore strongly recommend that you carefully read the privacy policy of MasterCard or VISA during the card activation and verification processes, and pay attention to your relevant privacy rights as they relate to MasterCard or VISA.
+
+When your MasterCard or VISA card is authenticated, we will store your card name and the last four digits of the card on your device to enable the payment feature. Please note that this information will only be stored on the wearable device and will not be uploaded to the cloud.
+
+3.1.1.7 Alarm, stopwatch, and timer
+
+Your wearable device supports alarm, stopwatch, and timer features. To provide these features, we need to collect your settings information. Please note that this information will only be saved to your wearable device and will not be uploaded to the cloud. If you are a Xiaomi system user (including MIUI and Xiaomi HyperOS), you can choose to sync alarms on your mobile device to your wearable device. After syncing, you'll receive alarm reminders on your wearable device, from which you can turn off or snooze these alarms.
+
+3.1.1.8 Sleep mode
+
+If your wearable device supports Sleep mode and you are a Xiaomi phone user, you can sync Sleep mode between your phone and wearable device. When you turn on sync for this feature, your wearable device will automatically enter Sleep mode at the bedtime you set. To provide this feature, we will collect your wearable device's sleep and bedtime settings.
+
+3.1.1.9 Using a wearable device to control music playback on your mobile phone
+
+When your wearable device is connected to the app, you can control music playback on your phone through the device, including pause/play, previous or next track, and volume control. Please note that records of your controls will not be saved or uploaded to the cloud.
+
+3.1.1.10 Remote camera shutter feature
+
+If your wearable device supports the Camera feature, when it is connected to the app, you can use the device to control the camera app on your phone to take photos and time-lapses. After taking a photo, you can view it on your phone. Please note that records of your controls will not be collected by your device or uploaded to the cloud.
+
+3.1.1.11 Find phone
+
+You can use your wearable device to find your phone. When you trigger the Find phone feature from your wearable device, it will send a command via Bluetooth, causing the phone to ring so that you may locate it. To provide this feature, we will collect your device's MAC address.
+
+3.1.1.12 Wearable device settings
+
+You can manage the settings of your wearable device. You can adjust your wearable device's display, brightness, Always-on display, DND, workout reminders, and other features.
+
+3.1.1.13 Band display/Watch face
+
+To ensure that your device display data is not lost when you switch phones or reinstall the app, we will collect the downloaded device display ID, the display layout, and the content and style of the last saved background image.
+
+To ensure a stable connection and data sync experience between your wearable device and the app, connect your device, restart your phone, and allow the app to autostart. If the app's autostart is turned off, after you restart your phone, you will not be able to access notifications, incoming calls, and other related features unless you open the app again. Additionally, when using a wearable device to exercise outdoors, the device and the app need to be connected in order to obtain the phone's location and to ensure that data can be synced. When the wearable device is connected to the app, to turn app autostart on and off go to Device > Background permissions and select your phone's system.
+
+3.1.1.14 EasyCard virtual card features (only available in Taiwan, China)
+
+You can add EasyCard virtual card features in Mi Fitness and sync them to your wearable device to easily pay via EasyCard. In order to provide this feature, we need to collect your Xiaomi Account information, device ID, device model, the model used when activating the card, the wearable device's secure element identifier, wearable device identifier, and timestamp. This information will only be used to activate EasyCard and pay via EasyCard on your wearable device. Please note that EasyCard is provided by a third party. Carefully read the terms and conditions of the third party before using this feature.
+
+3.1.1.15 Xiaomi TV remote (only supported on some device models)
+
+If your wearable device supports Xiaomi TV remote features, when the device and Xiaomi TV are connected to the same LAN, you can control your TV's basic functions (e.g. confirming, going back, adjusting volume) with your wearable device. To provide this feature, we'll collect your TV's device ID. Please note that records of your controls will not be collected by your device or uploaded to the cloud.
+
+3.1.2 Personal information you may choose whether to authorize us to collect and use
+
+3.1.2.1 Additional features based on product experience
+
+In order to improve your experience when using Mi Fitness, we may collect your personal information and use it for the following additional features. If you don't provide this personal information, you may still use Mi Fitness, but may not be able to use some additional features. These additional features include:
+
+3.1.2.1.1 Data transfer from Zepp Life
+
+In order to provide you with more comprehensive workout and fitness assessment suggestions, if you are a user of the Zepp Life app, you can choose to export the data recorded in Zepp Life to Mi Fitness. Exported data includes your steps, sleep, heart rate, workout records, stress, blood oxygen, PAI, weight, body fat, and body composition analysis.
+
+3.1.2.1.2 Share workout data
+
+In order to access more features, you can choose to share your workout data with third-party platforms. To provide this feature, we will collect shared account information from third-party platforms, including account ID, nickname, and profile photo. If you no longer wish to share your workout data, disconnect the third-party apps in Profile > Third-party data. Please note that once you choose to share your workout data with a third-party platform, it will be processed by this platform in order for you to be able to use and manage the data.
+
+3.1.2.1.3 Workout competitions
+
+To provide you with a richer experience, you can initiate workout competitions with your friends in "Competition". For this purpose, we will collect your competition history records (including the number of competitions, winning percentage, and competition points). Please note that after initiating the competition, your opponent can see your workout-related data (including stats, workout type, and workout distance and duration) and your basic information (including profile photo and nickname). We will also collect your opponent's basic information (including profile photo and nickname).
+
+3.1.2.1.4 Vitality score
+
+Vitality score measures the effect on your health of movement and exercise. To provide this feature, we will collect your heart rate (measured every minute) and step count. This data will be displayed for daily and weekly Vitality scores. Vitality score is based on heart rate and activity data. You can choose how often your device will monitor these values. More frequent monitoring will produce more accurate calculations. If you choose smart measurement, your device will monitor your heart rate all day. You'll get activity reminders based on your Vitality score.
+
+3.1.2.1.5 Pebble mode
+
+You can use Pebble mode to get real-time information on your form during outdoor running, outdoor walking, indoor running, and outdoor cycling. In order to provide this information, we will collect your cadence or RPM, stride, cadence-speed ratio, ground contact time, flight time, GCT-flight ratio, pronation and supination, strike pattern, and impact force. Using the aforementioned data, we will create a workout report for you regarding your form, so that you can make any necessary adjustments. You can switch to other modes and your form will no longer be evaluated.
+
+3.1.2.1.6 Medical card and fall detection
+
+When an emergency occurs, in order to provide your vital information to medical staff in a timely manner, you can opt to fill in the information on your Emergency medical ID or import the relevant data from your Xiaomi Account. We will collect your name, gender, date of birth, blood type, organ donation volunteer status, emergency contact and contact details, drug allergies, chronic diseases, medications, and any treatments you are undergoing. We also provide fall detection services. When you use this service, we will collect accelerometer and other sensor data to determine whether you have fallen. When you fall, we will collect your location information to make emergency calls and send text messages to your emergency contacts to inform them of the fact that you fell and the location of your fall. We will also use your medical card to display its data in emergency situations and facilitate first aid measures.
+
+3.1.2.1.7 Participation in surveys
+
+If you choose to participate in our user surveys, we may ask for specific types of personal information (e.g. age, gender, county of residence, occupation, income range, etc.). You can view this information at any time within the survey. If you wish not to provide this information, you can exit the survey at any time, or select "Prefer not to say" for specific questions requiring personal information.
+
+3.1.2.1.8 Checkup (only supported on some device models)
+
+You can use Checkup to quickly check your sleep, heart rate, blood oxygen, and stress data. In order to provide this service and display related information, Mi Fitness needs to access device sensors and collect your sleep, heart rate, blood oxygen, and stress data.
+
+3.1.2.1.9 Xiaomi Smart Hub
+
+If you use a Xiaomi phone running Xiaomi HyperOS 2 and turn on Interconnectivity, you can use Xiaomi Smart Hub on your watch to control your devices. You can use Xiaomi Smart Hub to view nearby devices (including phones and earphones) and control them. When you use Xiaomi Smart Hub, we will collect the following information about other devices displayed in Xiaomi Smart Hub on your phone: device identifier (OAID, DID, MAC address), name and status of the device. You can turn this feature off on your watch at any time in Settings > Home screen > Control center.
+
+3.1.2.2 Additional features based on device permissions:
+
+In order to provide you with relevant products and/or services that may be of interest to you, we may collect your personal information and use it for the following additional services. If you don't provide this information, it won't affect your use of basic services such as the recording and display of workout and fitness information on our platform, but you may not experience the benefits of these additional services. These additional features include:
+
+3.1.2.3 Additional features based on location permissions:
+
+To be able to track and record outdoor movement, turn on location permissions for the app. We will collect your location information to track your movement and route.
+
+Turn on "Weather updates" to view the weather information synced from the app on your device. In order to provide this feature, we will collect your location information or your manually entered city information on the app. This information will only be used to provide you with weather information, and your location and weather information will not be uploaded to the cloud.
+
+We provide Emergency SOS features, including Fall detection, to allow you to access timely assistance in the event of an emergency. If you turn this feature on, we will collect the emergency contact information you fill in; request phone permissions in order to call your emergency contact or ambulance, fire, police, or other public emergency services; and request SMS permissions to send a message to your emergency contact. If you turn on "Share location", we will also request location permissions to collect your location and send it to your emergency contact via SMS.
+
+3.1.2.4 Additional services based on Calendar permissions:
+
+When setting habits, after you turn on Calendar permissions in the app, you can synchronize the habits you've added to the system calendar.
+
+If your device supports Calendar and Reminder features, you can add events, tasks, and reminders. Additionally, if you are a Xiaomi system user, you can sync your events and tasks from your phone to your wearable device. After syncing, you can view this information on your device. Please note that your information will only be displayed on your wearable device and will not be uploaded to the cloud.
+
+3.1.2.5 Additional services based on permissions to access and save items to external storage (Pre-Android 10):
+
+Permissions to access and save items to external storage will be used for setting background images on your wearable device and saving images from the wearable device to your phone.
+
+3.1.2.6 Additional services based on permissions to access all accounts stored on your mobile device (Android 6.0–8.0 and Xiaomi operating system):
+
+To use the quick sign-in feature when using a Xiaomi operating system, after granting permissions to access all accounts stored on your mobile device, we will obtain a list of these accounts to enable quick sign-in.
+
+3.1.2.7 Additional services based on permissions to access contacts and call history:
+
+We need permission to access contacts and call history to be able to display caller numbers and contact names on your wearable device.
+
+3.1.2.8 Additional services based on permissions to make and answer calls:
+
+You can grant these permissions to be able to make and answer phone calls using your wearable device.
+
+3.1.2.9 Additional services based on sending SMS:
+
+If you want to use quick responses after rejecting a call, grant permission to send SMS first. You will be able to send a custom reply SMS to the caller.
+
+3.1.2.10 Additional services based on permissions to access workout information:
+
+After you grant permission to access workout information, we will record your workout duration, workout distance, and steps.
+
+3.1.2.11 Additional services based on Photos permissions (iOS):
+
+In order to be able to use your photos as backgrounds on your wearable device, allow Mi Fitness to access your photos. The app will use this permission only to process the images you select.
+
+3.1.2.12 Additional services based on Wi-Fi permissions:
+
+Wi-Fi permissions are used for internet-related features, including uploading workout data to the cloud.
+
+3.1.2.13 Additional services based on floating windows permissions (Android):
+
+Floating window permissions allow you to use this app as a floating window.
+
+3.1.2.14 Additional services based on notification permissions:
+
+This app needs your permission to be able to send you notifications.
+
+3.1.2.15 Additional services based on DND permissions:
+
+DND permissions are used to silence incoming calls.
+
+You can turn off these permissions at any time to stop using the relevant services. After turning off a permission, you may not be able to continue to use the relevant services. However, other features and services won't be affected.
+
+3.1.2.16 Additional services based on permissions to access the microphone:
+
+You can record and play audio via the Recorder app on your wearable device. Grant permission to access the microphone and device audio to be able to use this feature. Rest assured that your recordings will not be uploaded to the cloud.
+3.2 Personal information collected from third parties
+
+To use Xiaomi products and services, you may first need to create a Xiaomi Account and enter necessary personal information. In order to fill this information in more quickly and conveniently, you can also authorize a third-party account (e.g. Google, Facebook, or Apple account) to pair with your Xiaomi Account. You can authorize the third-party account to import your profile picture, nickname, email, and other information into your Xiaomi Account.
+
+If you're a Zepp Life user, you can export data from Zepp Life to Mi Fitness. For more information, refer to section 3.1.2.1.1. Please note that we will take measures (including encryption) to ensure the security of your information, but the processing of your personal information by third parties is subject to the privacy policies of the relevant third party. For this reason, we recommend that you read third-party privacy policies just like you read ours. You can cancel the authorization for third parties at any time on https://account.xiaomi.com/.
+3.3 Non-personally identifiable information
+
+We may also collect other types of information which are not directly or indirectly linked to an individual and which may not be defined as personal information according to applicable local laws. This information is called non-personally identifiable information. We may collect, use, transfer, disclose, and otherwise process this non-personally identifiable information. This information may include statistical data generated when you use a specific service, such as daily usage, page views, page view times, and session events (when not considered personal information) and other types of records (e.g. error records) when you use our services. The purpose of such collection is to improve the services we provide to you, for example, by correcting errors. The type and amount of information collected depends on how you use our products and/or services. This data may be aggregated. In its aggregated form, this is not personal information and can't be used to identify you. However, if non-personally identifiable information is combined with personal information, such non-personally identifiable information will be treated as personal information and handled in accordance with the rules of this Privacy Policy as long as it remains combined.
+4. How we share your information with third parties
+
+To ensure that we provide you with the services described in this Privacy Policy, we may share necessary personal information with our affiliates, service providers, partners, and other third parties, including:
+4.1 Sharing information with our group
+
+In order to successfully conduct business operations and to provide you with all the features of our services, we may share your personal information from time to time to other Xiaomi affiliates.
+
+    Mi Store (only supported in some regions):
+
+You can browse the Mi Store of certain regions and purchase products via Mi Fitness. Products are subject to Mi Store availability. Relevant services are supported by Xiaomi affiliates. We will share your Xiaomi Account information with relevant Xiaomi affiliates via SDK to facilitate signing in to Mi Store. For more information, view the following region-specific Privacy Policies below: Privacy Policy (Germany): https://www.mi.com/de/about/privacy/ Privacy Policy (Spain): https://www.mi.com/es/about/privacy/ Privacy Policy (Italy): https://www.mi.com/it/about/privacy/ Privacy Policy (Indonesia): https://www.mi.co.id/id/about/privacy/ Privacy Policy (Mexico): https://www.mi.com/mx/about/privacy/
+4.2 Sharing your personal information with third-party service providers
+
+    Location based services:
+
+Some features are based on location-related services. Your wearable device allows you to view your outdoor workout routes in real time. Outdoor workout route generation is provided by a third party. We will share your location information with third parties via SDK to generate routes so you can view real-time and past routes. Mapbox Privacy Policy: https://www.mapbox.com/legal/privacy
+
+    Amazon Alexa voice assistant:
+
+Amazon Alexa voice assistant functionality is provided by a third party. We will share your unique device identifier with the third party via SDK for device recognition purposes. Amazon Privacy Policy: <https：//na.account.amazon.com/ap/lwa/agreement?agreementName=privacyNotice>
+
+    EasyCard:
+
+EasyCard virtual card features (available only in Taiwan, China) are provided by a third party. We will share your Xiaomi Account ID, unique device identifier (device serial number), and device model with the third party for the purpose of providing EasyCard functionality and binding EasyCard with your smart wearable device to use it for payments. EasyCard Privacy Policy: https://www.easycard.com.tw/privacy
+
+    Interactive sensory courses:
+
+You can find new ways to play using your wearable device with interactive sensory courses. To provide this service, we will collect your device's accelerometer and angular velocity data. This service is provided by a third party and can be used to start workout courses and check the results. When you participate in interactive sensory courses, we will collect, according to your choice and with your consent, your Xiaomi Account information (including profile photo, nickname, and gender), heart rate, and calorie information and share this information with the third party. You can pause or exit this service at any time.
+
+Aidong Privacy Policy: https://coach.aidong.me/kinect_agreement/privacy.html
+
+    AI Zone (only supported for some regions and models):
+
+Some wearable device models support AI Zone features (including AI Q&A and AI band display/watch faces). You can generate images for band displays/watch faces and get answers to questions via voice. In order to provide these services, Mi Fitness needs to access the microphone to respond to voice input. This voice data will be stored temporarily and deleted as soon as it is transferred to the relevant third party via SDK. We will also transfer your MAC address to the third party via SDK for device authentication and payment confirmation. Because this feature is provided by a third party, your voice input will be transferred to this third party for processing on their servers.
+
+AI Zone Privacy Policy: https://www.aitechworldcenter.com/privacy.html
+4.3 Sharing that you actively choose or request
+
+With your explicit consent or at your request, we will share your personal information with specific third parties designated by you within the scope of your consent or request.
+
+With your consent or at your request, we will share your workout (e.g. heart rate and calories), sleep, and step count information (e.g. distance and elevation) with the following third parties via API or SDK, and display your aforementioned information on the following fitness platforms to provide a cross-platform experience. The services of relevant fitness platforms are provided by third parties. These third parties may change their services at any time or according to your choices, so you should carefully read their privacy policies, particularly regarding the processing of your personal information. You can find the privacy policies of some third-party service providers below:
+
+    Strava Privacy Policy: <https：//www.strava.com/legal/privacy>
+    Google Fit Privacy Policy: https://developers.google.com/fit/policy
+    Suunto Privacy Policy: https://www.suunto.com/en-gb/Privacy-Policy/
+    Health Connect Privacy Policy: https://developers.google.com/fit/policy
+
+4.4 Other third parties
+
+    Public administrative departments with specific requests under applicable regulations.
+
+    Courts with specific requests under applicable regulations.
+
+    Law enforcement agencies with specific requests under applicable regulations.
+
+5. Legal basis for processing of your personal information
+
+According to relevant laws, we must have a legal basis upon which to process your personal information. Depending on the laws in your jurisdiction, the legal basis for processing your personal information under this Privacy Policy is as follows:
+
+    Compliance with contractual obligations. When you create a profile or account and access Xiaomi products and services, the purpose of processing your personal information is mainly determined by the corresponding service. We process your personal information so that we can provide you with the service. For example, when you pair your wearable device with Mi Fitness, we will collect your Xiaomi Account ID and the device identifiers of your wearable device and phone. For more details, refer to section 3.1.1.1. We collect and record workout-related information via device sensors to calculate and display your heart rate, step count, calories burned during exercise, and sleep time. Refer to section 3.1.1.2 for information regarding recording and display of workout and health information. Please note that the provision of some of your personal information is mandatory (for example, when marked with an asterisk). If you do not provide this personal information, we may not be able to provide you with our products or services.
+
+    Where we have obtained your explicit consent. You can also voluntarily provide us with personal information to allow us to provide you with Mi Fitness products and services. For example, we will process your average heart rate and step count to display your daily and weekly Vitality score. For more information, see section 3.1.2.1.4. Please note that when you use Mi Fitness, data related to your health may be processed as described below. We will only process this information where we have your explicit consent. For more information on information processing, refer to section 3.
+
+    Compliance with Xiaomi's legal obligations. As a data controller, Xiaomi has certain legal obligations. In some cases (e.g. storing your personal information due to a dispute or request from a data protection regulator), we may process your personal information for the purpose of complying with those legal obligations.
+
+    In the context of legitimate interests. Sometimes processing your personal information is necessary for the following legitimate interests. We will always process your personal information with minimal impact upon your privacy. These interests include:
+        The security of Xiaomi’s internal information system, network, and network environment.
+        Enhancing system security, preventing phishing fraud, and protecting account security.
+        Company operations, due diligence, and internal audits (particularly those related to information security and/or privacy).
+        Product development and improvements (including analyzing and optimizing Xiaomi Account settings or features).
+
+6. Retention period
+
+As a general rule, we will retain personal information for as long as necessary for the purposes described in this Privacy Policy, or as required by applicable law. Once the purpose of collection is met, or after we confirm your deletion request, or after we terminate the operation of the corresponding service, we will stop retaining and delete or anonymize your personal information, unless required or permitted by applicable law, in which case your personal information will be isolated and will not be further processed except for the fulfillment of legal obligations and other purposes permitted by applicable law. In such cases, your personal information will be provided exclusively to those parties as permitted by applicable law. Once the corresponding retention period has expired, this personal information will be deleted or anonymized.
+7. Managing your privacy preferences
+
+We recognize that privacy concerns vary from person to person. Therefore, we provide examples of ways for you to restrict the collection, use, disclosure, or processing of your personal information and to control your privacy settings:
+
+    You can manage your devices and view and update your account information, personal information, and permissions in Settings > Xiaomi Account or by signing in on https://account.xiaomi.com.
+
+    If you have previously agreed to us using your personal information for the aforementioned purposes, you may change your mind at any time by contacting us on https://privacy.mi.com/support.
+
+    You can cancel a service or account. If you wish to cancel your Xiaomi Account, you can do so in Settings > Xiaomi Account > Help > Delete account or by visiting https://account.xiaomi.com.
+
+    You can withdraw your consent to this Privacy Policy. If you wish to delete the personal information generated during the use of Mi Fitness, you can withdraw your consent to this Privacy Policy in the app.
+
+Please note that canceling your Xiaomi Account or deleting your profile will prevent you from using the full range of Xiaomi products and related services. To protect your or others' legitimate rights and interests, we will judge whether or not to support your request for cancellation based on your use of various Xiaomi products and services.
+8. Your rights
+
+You have certain rights in relation to the personal information we hold about you (hereinafter referred to as the "request"). Please note that depending on where you are located, these rights are subject to specific exclusions and exceptions provided for under applicable local law:
+
+    The right to access or obtain a report detailing the personal information we hold about you. Upon your request, we will provide you with a copy of your personal information that we hold and process, free of charge. For any additional related requests, we may charge reasonable fees based on actual costs and in accordance with applicable laws. You can also sign in to your Xiaomi Account to view your personal information that we hold.
+
+    The right to correct your personal information. If any information we are holding on you is incorrect or incomplete, you are entitled to have your personal information corrected or completed based on the purpose of use. You can also correct your personal information by signing in to your Xiaomi Account.
+
+    The right to delete your personal information. Based on the requirements of applicable laws, you have the right to request the deletion or removal of your personal information where there is no compelling reason for us to keep using it. We will consider the grounds associated with your request for erasure and take reasonable steps, including technical measures, to erase your personal information. Please note that we may not be able to immediately delete information from our backup systems due to applicable laws and/or security technology limitations. For example, we may need to retain your personal information as necessary to defend against potential claims that may arise from the processing of such personal information. If this is the case, we will securely store your personal information and isolate it from any further processing until the backup can be deleted or be made anonymous.
+
+    The right to refuse the processing of your personal information. You have the right to object to the processing of your personal information based on Xiaomi’s legitimate interests (e.g. direct marketing). If you object to such processing, we will no longer process your data for these purposes, unless we can demonstrate compelling legitimate grounds for such processing, or if we must use this information for the establishment, exercise, or defense of legal claims.
+
+    The right to restrict the processing of your personal information. You have the right to restrict our processing of your personal information, for example, if you find that the processing is unlawful but you object to the erasure of your personal information. In this case, your personal information will only be processed with your consent or for the exercise or defense of legal claims. Please note that Xiaomi Account settings allow you to freeze and un-freeze your account, among other measures.
+
+    The right to data portability. In certain cases provided for by law, you have the right to receive personal information concerning you in a structured, commonly used, and machine-readable format and/or to transmit that personal information to another data controller.
+
+    The right to withdraw your consent. In those cases where your consent is required for the processing of your personal information, you may withdraw your consent at any time. However, if you withdraw your consent, you may not be able to continue to use Mi Fitness products and their related services, or access certain information, features, and services. The withdrawal of your consent or authorization will not affect the validity of our collection and processing carried out on the basis of the consent up until the point of withdrawal.
+
+You can also access, update, and delete details related to your personal information in your Xiaomi Account by going to https://account.xiaomi.com or by signing in to your account on your device. For more information, write to us at the address below or contact us on https://privacy.mi.com/support.
+9. How you can exercise your data protection rights and contact us
+
+If you have any comments or questions about this Privacy Policy or any questions relating to Xiaomi's collection, use, or disclosure of your personal information, or you wish to exercise your data protection rights in accordance with the above section, feel free to contact us by visiting https://privacy.mi.com/support. Please include "Privacy Policy" in your contact message. When we receive questions about personal information or requests to download or access items, we have a dedicated team to address such issues, including the Data Protection Officer (DPO), who can be contacted via https://privacy.mi.com/support, or at the mailing address below. If your question itself involves a significant issue, we may ask you for more information. If you consult us, we will provide information on the relevant complaint channels that may be applicable based on your actual situation.
+
+    For users in the European Economic Area (EEA), the United Kingdom, and Switzerland:
+
+    Xiaomi Technology Netherlands B.V. Prinses Beatrixlaan 582, The Hague 2595BM Netherlands
+
+    For users in India: Xiaomi Technology India Private Limited, Building Orchid, Block E, Embassy Tech Village, Outer Ring Road, Devarabisanahalli, Bengaluru, Karnataka - 560103, India Any discrepancies and grievances with respect to processing of sensitive personal data or information shall be informed to the designated Grievance Officer as mentioned below: Name: Vishwanath C Telephone: 080 6885 6286, Mon-Sat 9 AM to 6 PM Email: grievance.officer@xiaomi.com
+
+    For users in other regions: Xiaomi Technologies Singapore Pte. Ltd. 1 Fusionopolis Link, #04-02/03, Nexus@one-north, Singapore 138542
+
+You must provide sufficient information so that Xiaomi can verify your identity and ensure that you are the data subject or are legally authorized to act on the data subject's behalf. Once we obtain sufficient information to process your request, we will respond to your request within any time frame specified by applicable data protection laws.
+
+We have the right to refuse to process requests that are not meaningful, manifestly unfounded or excessive, requests that damage others' right to privacy, extremely unrealistic requests, and requests that require disproportionate technical work, as well as requests not required under local law, regarding information that has been made public, and regarding information given under confidential conditions. If we believe that certain aspects of the request to delete or access the information may result in our inability to legally use the information for the aforementioned anti-fraud and security purposes, it may also be rejected. If required by applicable law, we will notify you of any decision not to process your request and the reasons for that decision within the timeframe prescribed by applicable law.
+
+If you are not satisfied with the response you received from us in relation to your personal information, you can hand over the complaint to the relevant data protection regulatory authorities in your jurisdiction. If you are a user in the EEA, the UK, or Switzerland, you can find the list of relevant authorities here: EEA/UK/Switzerland
+10. How your personal information is transferred globally
+
+Xiaomi processes and backs up personal information through global operations and control facilities. Currently, Xiaomi has data centers in India, the Netherlands, Russia, and Singapore. For the purposes described in this Privacy Policy, your information may be transferred to these data centers in accordance with applicable law.
+
+We may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions. The jurisdictions in which these global facilities, third-party service providers, and business partners are located may or may not provide data protection laws similar to those in your jurisdiction. There may be risks under different data protection laws, and we may transfer or store your data in regions other than the one in which you are located. However, this does not change our commitment to comply with this Privacy Policy and protect your personal information.
+
+In particular:
+
+    Except for cross-border transfers permitted by Russian law, personal information collected and generated during our operations in Russia will be stored in data centers operated in Russia.
+
+    Personal information collected and generated during our operations in India will be stored in data centers operated in India. If we need to transfer personal information outside of your jurisdiction, whether to one of our affiliates or to a third party service provider or business partner, we will comply with relevant applicable laws. We will ensure that all transfers will be conducted in accordance with your applicable local data protection laws by implementing consistent and appropriate safeguards. You can contact us to understand our safeguards via https://privacy.mi.com/support.
+
+    If you use our products and services in the European Economic Area (EEA), the UK, or Switzerland, Xiaomi Technology Netherlands B.V. will act as the data controller and Xiaomi Technologies Singapore Pte. Ltd. will be responsible for data processing. If Xiaomi shares your personal information generated in the EEA, the UK, or Switzerland with Xiaomi group entities, third-party service providers, or business partners outside the EEA, the UK, or Switzerland (see Section 4 above for more information), local laws may not protect personal information to the same standards as in your country or region. Xiaomi will use the European Commission's Standard Contractual Clauses or any other safeguards set out in EU data protection law or applicable UK or Swiss law to protect your information to the highest European standards.
+
+11. Sharing your personal information with third-party service providers
+
+As mentioned above, if you do not provide certain necessary personal information, you may not be able to use this product or its related services, or we may not be able to respond to your inquiries. For more information, refer to section 3, "What information we collect and how we use it".
+12. Using your personal information as the basis for automated decision-making (including profiling)
+
+In principle, we do not use the personal information you provide for fully automated decision-making processes, including profiling. If we should use such a process, we will clearly inform you in advance and of your rights in this regard, including information about consent.
+13. How this Privacy Policy is updated
+
+We review this Privacy Policy periodically based on changes in business, technology, applicable law, and best practices, and we may update this Privacy Policy. If we make significant material changes to this Privacy Policy, we will notify you via pop-up dialog or email (sent to the email address specified in your account) or publish the changes on all Xiaomi websites or on Xiaomi apps, so that you can understand what information we collect and how we use it. Such changes to our Privacy Policy will apply from the date that they take effect, as specified on the notice or website. We encourage you to check this page regularly for the latest information on our privacy practices. As required by law, we will ask for your explicit consent when we collect additional personal information from you or when we use or disclose your personal information for new purposes.
