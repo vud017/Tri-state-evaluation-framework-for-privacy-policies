@@ -1,7 +1,7 @@
 # Privacy Policy Analysis Framework
 
 This repository contains the code and annotation data for a master's thesis investigating whether general purpose large language models (LLMs) can perform structured privacy policy assessment, with a focus on high-risk and sensitive data practices. 
-The framework combines a predefined JSON annotation schema, a strict complementary system prompt, and a tri-state classification outcome (`true`, `false`, or `ambiguous`) rather than a binary one to assess how sensitive data categories are disclosed and governed within privacy policies.
+The framework combines a predefined JSON assessment schema, a strict complementary system prompt, and a tri-state classification outcome (`true`, `false`, or `ambiguous`) rather than a binary one to assess how sensitive data categories are disclosed and governed within privacy policies.
 
 ---
 
@@ -41,7 +41,7 @@ The pipeline splits each policy into six sequential model calls, one for metadat
 Each call receives the full policy text and the specific JSON subsection to fill. Output passes through a two-stage validation process: first a sanitization step attempts to parse the response, then if that fails, a dedicated repair prompt is sent to the model. If both stages fail, the subsection is logged as an error and the pipeline moves on.
 
 The five data categories assessed are:
-
+F
 *Defined in alignment with GDPR definitions:*
 - Biometric data
 - Health data
